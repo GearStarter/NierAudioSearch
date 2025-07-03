@@ -1,0 +1,4166 @@
+[
+    {
+        "wav": "0.wav",
+        "text": "Welcome to the tower"
+    },
+    {
+        "wav": "1.wav",
+        "text": "Because you made it this far, we have a special announcement just for you."
+    },
+    {
+        "wav": "2.wav",
+        "text": "Because you made it this far, we have a special announcement just for you."
+    },
+    {
+        "wav": "3.wav",
+        "text": "Because you made it this far, we have a special announcement just for you."
+    },
+    {
+        "wav": "4.wav",
+        "text": "Because you made it this far, we have a special announcement just for you."
+    },
+    {
+        "wav": "5.wav",
+        "text": "Because you made it this far, we have a special announcement just for you."
+    },
+    {
+        "wav": "6.wav",
+        "text": "Because you made it this far. We have a special announcement just for you."
+    },
+    {
+        "wav": "7.wav",
+        "text": "We'll reveal it, once you destroy all the machine lifeforms here."
+    },
+    {
+        "wav": "8.wav",
+        "text": "You did it!"
+    },
+    {
+        "wav": "9.wav",
+        "text": "You did it."
+    },
+    {
+        "wav": "10.wav",
+        "text": "Now let us show you what we promised."
+    },
+    {
+        "wav": "11.wav",
+        "text": "We are conceptual human personalities, created within the machine network."
+    },
+    {
+        "wav": "12.wav",
+        "text": "We cannot be destroyed."
+    },
+    {
+        "wav": "13.wav",
+        "text": "Yorra Unit 9S"
+    },
+    {
+        "wav": "14.wav",
+        "text": "Your attack is meaningless."
+    },
+    {
+        "wav": "15.wav",
+        "text": "Your existence is meaningless."
+    },
+    {
+        "wav": "16.wav",
+        "text": "hahahah growing poder"
+    },
+    {
+        "wav": "17.wav",
+        "text": "Hey! Ha ha ha ha ha ha!"
+    },
+    {
+        "wav": "18.wav",
+        "text": "Ha ha ha ha ha!"
+    },
+    {
+        "wav": "19.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "20.wav",
+        "text": "HAHAHAHAHAHA"
+    },
+    {
+        "wav": "21.wav",
+        "text": "HA HA HA HA!"
+    },
+    {
+        "wav": "22.wav",
+        "text": "KILL! KILL!"
+    },
+    {
+        "wav": "23.wav",
+        "text": "Fucking stupid, you had to kill me"
+    },
+    {
+        "wav": "24.wav",
+        "text": "HAHAHAHAHAHA!"
+    },
+    {
+        "wav": "25.wav",
+        "text": "HA HA HA HA HA HA HA HA HA!"
+    },
+    {
+        "wav": "26.wav",
+        "text": "Hahahaha"
+    },
+    {
+        "wav": "27.wav",
+        "text": "HAHAHAHAHAHA"
+    },
+    {
+        "wav": "28.wav",
+        "text": "HA HA HA HA<|jw|>"
+    },
+    {
+        "wav": "29.wav",
+        "text": "Yeah!"
+    },
+    {
+        "wav": "30.wav",
+        "text": "OOAAHHH DHAHAHAHAHA"
+    },
+    {
+        "wav": "31.wav",
+        "text": "Oh"
+    },
+    {
+        "wav": "32.wav",
+        "text": "Good to see you again, Number Two."
+    },
+    {
+        "wav": "33.wav",
+        "text": "Or should we call you A2 now?"
+    },
+    {
+        "wav": "34.wav",
+        "text": "This does bring back memories."
+    },
+    {
+        "wav": "35.wav",
+        "text": "Though to concepts like us, time has little meaning."
+    },
+    {
+        "wav": "36.wav",
+        "text": "Still, when we wiped out your forces, it made quite the impression on us."
+    },
+    {
+        "wav": "37.wav",
+        "text": "Yoraha Attacker Model Number 2"
+    },
+    {
+        "wav": "38.wav",
+        "text": "An experimental disposable group, created as a test lab for Project Yorha."
+    },
+    {
+        "wav": "39.wav",
+        "text": "You're an obstinate little android, aren't you?"
+    },
+    {
+        "wav": "40.wav",
+        "text": "Didn't we say that you can't kill us?"
+    },
+    {
+        "wav": "41.wav",
+        "text": "It's also very amusing."
+    },
+    {
+        "wav": "42.wav",
+        "text": "The androids the human race left behind acted as if they wanted to be human."
+    },
+    {
+        "wav": "43.wav",
+        "text": "The machine life forms the aliens left behind act as if they wanted to be human."
+    },
+    {
+        "wav": "44.wav",
+        "text": "We resemble each other so, but we are networked and thus we are superior to you."
+    },
+    {
+        "wav": "45.wav",
+        "text": "Foolish androids, why do you resist?"
+    },
+    {
+        "wav": "46.wav",
+        "text": "All things end with accepting death, do they not?"
+    },
+    {
+        "wav": "47.wav",
+        "text": "We are one, and yet we are many."
+    },
+    {
+        "wav": "48.wav",
+        "text": "We are finite, and yet we are infinite."
+    },
+    {
+        "wav": "49.wav",
+        "text": "We are the embodiment of the perfect being."
+    },
+    {
+        "wav": "50.wav",
+        "text": "Ah, I see it. The light!"
+    },
+    {
+        "wav": "51.wav",
+        "text": "We move on... Forward... To the future."
+    },
+    {
+        "wav": "52.wav",
+        "text": "Hey, how's it hanging?"
+    },
+    {
+        "wav": "53.wav",
+        "text": "Your commander told me to build a new access point, so... Here you go."
+    },
+    {
+        "wav": "54.wav",
+        "text": "Oh, and I got the stupid transporter up and running too."
+    },
+    {
+        "wav": "55.wav",
+        "text": "I've known the Commander for a while now. She sure is good at punning work off on people."
+    },
+    {
+        "wav": "56.wav",
+        "text": "Next time you see her, give her some lip for me, will ya?"
+    },
+    {
+        "wav": "57.wav",
+        "text": "Look, I care what you think, jerk."
+    },
+    {
+        "wav": "58.wav",
+        "text": "Here, follow me."
+    },
+    {
+        "wav": "59.wav",
+        "text": "Alright, see that jerk over there?"
+    },
+    {
+        "wav": "60.wav",
+        "text": "I need you to get combat data for him."
+    },
+    {
+        "wav": "61.wav",
+        "text": "Science will pay you back for this, I promise. Now, fight!"
+    },
+    {
+        "wav": "62.wav",
+        "text": "The Council of Humanity has a message for all of our brave androids fighting on the surface."
+    },
+    {
+        "wav": "63.wav",
+        "text": "Currently, our struggle against the machine lifeforms is at a stalemate."
+    },
+    {
+        "wav": "64.wav",
+        "text": "This battle has raged for far too long. I am sure all of you find the effort grueling."
+    },
+    {
+        "wav": "65.wav",
+        "text": "But now is not the time to give up. Now, more than ever, we must forge on."
+    },
+    {
+        "wav": "66.wav",
+        "text": "Remember that several hundred thousand humans on the moon want nothing more than to return to Earth."
+    },
+    {
+        "wav": "67.wav",
+        "text": "Glory to mankind."
+    },
+    {
+        "wav": "68.wav",
+        "text": "The Council of Humanity has a message for all of our brave androids fighting on the surface."
+    },
+    {
+        "wav": "69.wav",
+        "text": "Our elite Yorha forces, the pride of humanity, have defeated two enemy network units known as Adam and Eve."
+    },
+    {
+        "wav": "70.wav",
+        "text": "This victory is a giant leap forward in our quest to reclaim Earth."
+    },
+    {
+        "wav": "71.wav",
+        "text": "The moon rings out with the cheers of the entire human race."
+    },
+    {
+        "wav": "72.wav",
+        "text": "We look forward to your continued combat exploits."
+    },
+    {
+        "wav": "73.wav",
+        "text": "Glory to mankind."
+    },
+    {
+        "wav": "74.wav",
+        "text": "The Council of Humanity has a message for all of our brave androids fighting on the surface."
+    },
+    {
+        "wav": "75.wav",
+        "text": "It has been several millennia since the aliens and their advance force, the machine lifeforms, attacked us."
+    },
+    {
+        "wav": "76.wav",
+        "text": "Millennia since mankind was forced to evacuate to the surface of the moon"
+    },
+    {
+        "wav": "77.wav",
+        "text": "But thanks to your continued struggle, we have been able to survive."
+    },
+    {
+        "wav": "78.wav",
+        "text": "You, our android soldiers, are the last hope of humanity."
+    },
+    {
+        "wav": "79.wav",
+        "text": "We look forward to your continued success in combat."
+    },
+    {
+        "wav": "80.wav",
+        "text": "Glory to mankind."
+    },
+    {
+        "wav": "81.wav",
+        "text": "The Council of Humanity has a message for all of our heroes fighting on the surface."
+    },
+    {
+        "wav": "82.wav",
+        "text": "Today, I have wonderful..."
+    },
+    {
+        "wav": "83.wav",
+        "text": "The Council of Humanity has decided to increase the production of these animals."
+    },
+    {
+        "wav": "84.wav",
+        "text": "This will enable us to deal a powerful blow to our hidden enemies."
+    },
+    {
+        "wav": "85.wav",
+        "text": "The light of hope is near, and closer than ever to it."
+    },
+    {
+        "wav": "86.wav",
+        "text": "We look forward to future glory in the future, and know that you will be the ones to bring it to us."
+    },
+    {
+        "wav": "87.wav",
+        "text": "Glory to mankind."
+    },
+    {
+        "wav": "88.wav",
+        "text": "Not right, number two. We're all here... chose to be here."
+    },
+    {
+        "wav": "89.wav",
+        "text": "Thank you for giving meaning to my life."
+    },
+    {
+        "wav": "90.wav",
+        "text": "The operation is currently proceeding more smoothly than expected."
+    },
+    {
+        "wav": "91.wav",
+        "text": "Operator to 11B, report back about the machine life forms in your area."
+    },
+    {
+        "wav": "92.wav",
+        "text": "Supply Squadron has arrived on site and is ready to initiate distribution."
+    },
+    {
+        "wav": "93.wav",
+        "text": "8B Squadron has annihilated the enemy."
+    },
+    {
+        "wav": "94.wav",
+        "text": "Is everything alright? Okay, then I'll send you new location data, so head on over."
+    },
+    {
+        "wav": "95.wav",
+        "text": "Resistance forces have reported that the operation is proceeding apace."
+    },
+    {
+        "wav": "96.wav",
+        "text": "We can win if we keep this up."
+    },
+    {
+        "wav": "97.wav",
+        "text": "Goliath confirmed destroyed. 4B Squadron has emerged victorious."
+    },
+    {
+        "wav": "98.wav",
+        "text": "Operator 210 to Unit 9S, come in 9S."
+    },
+    {
+        "wav": "99.wav",
+        "text": "The Yorha troops have commenced their descent."
+    },
+    {
+        "wav": "100.wav",
+        "text": "Disable the enemy base's defense systems immediately."
+    },
+    {
+        "wav": "101.wav",
+        "text": "We'll need you to take down the enemy's defense systems to give our attack squadron a chance."
+    },
+    {
+        "wav": "102.wav",
+        "text": "You have four targets that need to be hacked."
+    },
+    {
+        "wav": "103.wav",
+        "text": "Be advised that hostiles have been detected around each target and must be defeated before continuing."
+    },
+    {
+        "wav": "104.wav",
+        "text": "The target is now accessible."
+    },
+    {
+        "wav": "105.wav",
+        "text": "One affirmation will suffice."
+    },
+    {
+        "wav": "106.wav",
+        "text": "Hacking complete. Proceed to the next target."
+    },
+    {
+        "wav": "107.wav",
+        "text": "Hacking complete. Two targets remain."
+    },
+    {
+        "wav": "108.wav",
+        "text": "Hacking complete. One target remains."
+    },
+    {
+        "wav": "109.wav",
+        "text": "May I remind you that personal chatter during operations is restricted?"
+    },
+    {
+        "wav": "110.wav",
+        "text": "Hacking of enemy defense system complete."
+    },
+    {
+        "wav": "111.wav",
+        "text": "Our attack squadron can now infiltrate the base."
+    },
+    {
+        "wav": "112.wav",
+        "text": "You are to continue providing support by whatever means available."
+    },
+    {
+        "wav": "113.wav",
+        "text": "Yorha has entered the base."
+    },
+    {
+        "wav": "114.wav",
+        "text": "However, there is only one unit remaining."
+    },
+    {
+        "wav": "115.wav",
+        "text": "The enemy's defensive weapon is making things more difficult than we estimated."
+    },
+    {
+        "wav": "116.wav",
+        "text": "Operator to 9S"
+    },
+    {
+        "wav": "117.wav",
+        "text": "Transferring coordinate data for the location specified by resistance leader."
+    },
+    {
+        "wav": "118.wav",
+        "text": "Mindless chatter drains Energy 9S."
+    },
+    {
+        "wav": "119.wav",
+        "text": "Please keep your comments reserved for mission-related topics."
+    },
+    {
+        "wav": "120.wav",
+        "text": "I read you 9S. Go ahead."
+    },
+    {
+        "wav": "121.wav",
+        "text": "Understood. Ready to receive."
+    },
+    {
+        "wav": "122.wav",
+        "text": "Operator to 9S. Data upload complete."
+    },
+    {
+        "wav": "123.wav",
+        "text": "I also have an incoming message from the Commander."
+    },
+    {
+        "wav": "124.wav",
+        "text": "Operator to 9S."
+    },
+    {
+        "wav": "125.wav",
+        "text": "I have an incoming message for 2B and 9S from the commander."
+    },
+    {
+        "wav": "126.wav",
+        "text": "Initiating playback."
+    },
+    {
+        "wav": "127.wav",
+        "text": "End transmission."
+    },
+    {
+        "wav": "128.wav",
+        "text": "Operator to 9S. Emergency transmission incoming."
+    },
+    {
+        "wav": "129.wav",
+        "text": "We've detected a Goliath-class enemy inside the city ruins."
+    },
+    {
+        "wav": "130.wav",
+        "text": "It seems to be accompanied by a large number of machine life forms."
+    },
+    {
+        "wav": "131.wav",
+        "text": "All YORHHA members are ordered to engage at once."
+    },
+    {
+        "wav": "132.wav",
+        "text": "Operator 210 here, do you read me?"
+    },
+    {
+        "wav": "133.wav",
+        "text": "Operator to 9S, I have bad news and I have good news."
+    },
+    {
+        "wav": "134.wav",
+        "text": "Bad first, we've confirmed the presence of two Goliath-class heavy weapon enemies."
+    },
+    {
+        "wav": "135.wav",
+        "text": "Now the good news."
+    },
+    {
+        "wav": "136.wav",
+        "text": "We've used your previous Goliath combat data to analyze the enemy."
+    },
+    {
+        "wav": "137.wav",
+        "text": "And it seems we have identified a weakness."
+    },
+    {
+        "wav": "138.wav",
+        "text": "Command has modified a firing unit based on this new Intel."
+    },
+    {
+        "wav": "139.wav",
+        "text": "It's been installed on a pair of flight units that are heading your way."
+    },
+    {
+        "wav": "140.wav",
+        "text": "Check your map data. Operator out."
+    },
+    {
+        "wav": "141.wav",
+        "text": "Enemy anti-air defenses are on patrol at higher altitudes."
+    },
+    {
+        "wav": "142.wav",
+        "text": "A low-altitude approach is recommended."
+    },
+    {
+        "wav": "143.wav",
+        "text": "Roger that 9S."
+    },
+    {
+        "wav": "144.wav",
+        "text": "Operator 210 to 9S."
+    },
+    {
+        "wav": "145.wav",
+        "text": "Command has decided to stage a direct satellite laser strike on the hostile."
+    },
+    {
+        "wav": "146.wav",
+        "text": "We need you to destroy the enemy EMP generator so we can lock onto the target."
+    },
+    {
+        "wav": "147.wav",
+        "text": "Sending the coordinates to your map now."
+    },
+    {
+        "wav": "148.wav",
+        "text": "Confirmed elimination of electromagnetic interference."
+    },
+    {
+        "wav": "149.wav",
+        "text": "Stand by for incoming satellite laser strike."
+    },
+    {
+        "wav": "150.wav",
+        "text": "Ah, 9S."
+    },
+    {
+        "wav": "151.wav",
+        "text": "We recently detected large numbers of machine life forms throughout the factory area."
+    },
+    {
+        "wav": "152.wav",
+        "text": "We received a support request from 2B soon thereafter, but have been unable to respond due to poor reception."
+    },
+    {
+        "wav": "153.wav",
+        "text": "And those are your orders. Do you understand?"
+    },
+    {
+        "wav": "154.wav",
+        "text": "The target is thought to be in a high location with good network reception. Try examining the rooftops of buildings."
+    },
+    {
+        "wav": "155.wav",
+        "text": "Please refrain from destroying the target. If you do, another one will simply take its place."
+    },
+    {
+        "wav": "156.wav",
+        "text": "That's right. Good job 9S."
+    },
+    {
+        "wav": "157.wav",
+        "text": "Be advised, the target's appearance is identical to that of a standard enemy. Once you approach, however, a marker will appear."
+    },
+    {
+        "wav": "158.wav",
+        "text": "What? That must be your imagination."
+    },
+    {
+        "wav": "159.wav",
+        "text": "Look for machines that are receiving signals from the anti-air system."
+    },
+    {
+        "wav": "160.wav",
+        "text": "You destroyed it again."
+    },
+    {
+        "wav": "161.wav",
+        "text": "They should be located in elevated areas with good signal reception."
+    },
+    {
+        "wav": "162.wav",
+        "text": "You have to hack them! Hack, hack, hack! They'll substitute another enemy soon, so try again."
+    },
+    {
+        "wav": "163.wav",
+        "text": "I forwarded the general positions of the machine life forms you need to hack."
+    },
+    {
+        "wav": "164.wav",
+        "text": "I see your hacking was successful. Way to go!"
+    },
+    {
+        "wav": "165.wav",
+        "text": "Unit 9S, your orders are to hack into enemy units, not destroy them."
+    },
+    {
+        "wav": "166.wav",
+        "text": "Destroyed units will simply be replaced. Attacking is pointless."
+    },
+    {
+        "wav": "167.wav",
+        "text": "Now move on to the next one."
+    },
+    {
+        "wav": "168.wav",
+        "text": "Try to sneak up behind your foes, keep out of sight, and then..."
+    },
+    {
+        "wav": "169.wav",
+        "text": "Boom! Hack em' up good."
+    },
+    {
+        "wav": "170.wav",
+        "text": "Defensive system operation confirmed to be declining."
+    },
+    {
+        "wav": "171.wav",
+        "text": "Enemy defense system fully offline. I knew you could do it."
+    },
+    {
+        "wav": "172.wav",
+        "text": "Looks like it's going well down there."
+    },
+    {
+        "wav": "173.wav",
+        "text": "Every scanner in the force is involved in this operation."
+    },
+    {
+        "wav": "174.wav",
+        "text": "That really was brilliant work, which means I've got a special surprise for you."
+    },
+    {
+        "wav": "175.wav",
+        "text": "So let's try not to fall behind."
+    },
+    {
+        "wav": "176.wav",
+        "text": "I'll leave it in my room so you can pick it up later."
+    },
+    {
+        "wav": "177.wav",
+        "text": "9S"
+    },
+    {
+        "wav": "178.wav",
+        "text": "Make sure to do whatever is necessary to avoid combat."
+    },
+    {
+        "wav": "179.wav",
+        "text": "Scanner units such as yourself are not designed for battle."
+    },
+    {
+        "wav": "180.wav",
+        "text": "No, I'm merely pointing out that you would be a liability on the battlefield."
+    },
+    {
+        "wav": "181.wav",
+        "text": "A family to be with."
+    },
+    {
+        "wav": "182.wav",
+        "text": "はーはーはー especial"
+    },
+    {
+        "wav": "183.wav",
+        "text": "Coordinate data... Location specified..."
+    },
+    {
+        "wav": "184.wav",
+        "text": "Please keep... Reserved... Mission related..."
+    },
+    {
+        "wav": "185.wav",
+        "text": "One... Affirmation... Well, well, well... Suffice..."
+    },
+    {
+        "wav": "186.wav",
+        "text": "Please... Kill..."
+    },
+    {
+        "wav": "187.wav",
+        "text": "I... just... want a family..."
+    },
+    {
+        "wav": "188.wav",
+        "text": "I was so lonely."
+    },
+    {
+        "wav": "189.wav",
+        "text": "I want it to be... with my dress..."
+    },
+    {
+        "wav": "190.wav",
+        "text": "According to our records, that material can be obtained from the bodies of large bipedal machine life forms."
+    },
+    {
+        "wav": "191.wav",
+        "text": "Why are you looking for... Well, anyway, you can salvage the requested material from smaller machine life forms."
+    },
+    {
+        "wav": "192.wav",
+        "text": "Finding one intact might prove tricky, however. The part is easily damaged when the machine housing it is destroyed."
+    },
+    {
+        "wav": "193.wav",
+        "text": "Operator to 9S."
+    },
+    {
+        "wav": "194.wav",
+        "text": "I will now relay the materials necessary to improve the network environment."
+    },
+    {
+        "wav": "195.wav",
+        "text": "You need to acquire a rusty bolt, a small gear, and a spring."
+    },
+    {
+        "wav": "196.wav",
+        "text": "You should be able to find them on small sized enemies."
+    },
+    {
+        "wav": "197.wav",
+        "text": "Once you have the materials, bring them to Anemone, the leader of the resistance."
+    },
+    {
+        "wav": "198.wav",
+        "text": "Gotcha is not an approved form of radio engagement 9S. Operator 210 out."
+    },
+    {
+        "wav": "199.wav",
+        "text": "Operator 210 to 9S."
+    },
+    {
+        "wav": "200.wav",
+        "text": "I've confirmed that you have the necessary parts to improve our network environment."
+    },
+    {
+        "wav": "201.wav",
+        "text": "Take the materials to anemone in the resistance camp. Operator 210 out."
+    },
+    {
+        "wav": "202.wav",
+        "text": "Operator 210 to 9S, come in."
+    },
+    {
+        "wav": "203.wav",
+        "text": "I received the data you sent."
+    },
+    {
+        "wav": "204.wav",
+        "text": "It's fascinating."
+    },
+    {
+        "wav": "205.wav",
+        "text": "It appears to be the journal of a human who once worked in the factory."
+    },
+    {
+        "wav": "206.wav",
+        "text": "Yes. According to this, the man worked long hours on an almost daily basis."
+    },
+    {
+        "wav": "207.wav",
+        "text": "He says, and I quote, they're working me like a machine."
+    },
+    {
+        "wav": "208.wav",
+        "text": "Working like a machine to build a machine? Humans truly were strange creatures."
+    },
+    {
+        "wav": "209.wav",
+        "text": "I'll send you a reward later."
+    },
+    {
+        "wav": "210.wav",
+        "text": "I didn't say you would not get a reward."
+    },
+    {
+        "wav": "211.wav",
+        "text": "Operator 210 to 9S. Come in 9S."
+    },
+    {
+        "wav": "212.wav",
+        "text": "I've sent you a new data retrieval request. Please read it."
+    },
+    {
+        "wav": "213.wav",
+        "text": "Over."
+    },
+    {
+        "wav": "214.wav",
+        "text": "Operator 210 to 9S."
+    },
+    {
+        "wav": "215.wav",
+        "text": "I've received your data."
+    },
+    {
+        "wav": "216.wav",
+        "text": "That depends on what I do with it."
+    },
+    {
+        "wav": "217.wav",
+        "text": "It is, however, fascinating."
+    },
+    {
+        "wav": "218.wav",
+        "text": "I was aware that humans used to live in groups."
+    },
+    {
+        "wav": "219.wav",
+        "text": "But I did not know they coexisted in such a wide variety of ways."
+    },
+    {
+        "wav": "220.wav",
+        "text": "I'm sure you're aware that most humans subsisted in small familial units."
+    },
+    {
+        "wav": "221.wav",
+        "text": "A family is a group of people that share a connection by blood or social custom."
+    },
+    {
+        "wav": "222.wav",
+        "text": "If androids had a similar system of families..."
+    },
+    {
+        "wav": "223.wav",
+        "text": "うっ"
+    },
+    {
+        "wav": "224.wav",
+        "text": "I've said too much."
+    },
+    {
+        "wav": "225.wav",
+        "text": "I must return to my duties."
+    },
+    {
+        "wav": "226.wav",
+        "text": "I have additional information to relate."
+    },
+    {
+        "wav": "227.wav",
+        "text": "I've sent mail with a reward. Please read it."
+    },
+    {
+        "wav": "228.wav",
+        "text": "And 9S, thank you."
+    },
+    {
+        "wav": "229.wav",
+        "text": "Operator 210 to 9S, be aware that the following transmission is classified privilege level 5."
+    },
+    {
+        "wav": "230.wav",
+        "text": "A group of Yorha fighters deployed to the city ruins have deserted. We need you to take care of them immediately."
+    },
+    {
+        "wav": "231.wav",
+        "text": "And 9S, be careful."
+    },
+    {
+        "wav": "232.wav",
+        "text": "Operator 210 here. Go ahead."
+    },
+    {
+        "wav": "233.wav",
+        "text": "Copy that 9S. We've confirmed their status on this end."
+    },
+    {
+        "wav": "234.wav",
+        "text": "I lack access to the data concerning this mission."
+    },
+    {
+        "wav": "235.wav",
+        "text": "The order came from the commander herself."
+    },
+    {
+        "wav": "236.wav",
+        "text": "Be careful 9S."
+    },
+    {
+        "wav": "237.wav",
+        "text": "I have no further information."
+    },
+    {
+        "wav": "238.wav",
+        "text": "Operator 210 to 9S. This is your regularly scheduled contact."
+    },
+    {
+        "wav": "239.wav",
+        "text": "Nothing to report. Copy that."
+    },
+    {
+        "wav": "240.wav",
+        "text": "And no need for a weather report. Operator 210 out."
+    },
+    {
+        "wav": "241.wav",
+        "text": "Operator 210 to 9S, this is your regularly scheduled contact."
+    },
+    {
+        "wav": "242.wav",
+        "text": "I have something important to discuss with you today."
+    },
+    {
+        "wav": "243.wav",
+        "text": "Our maintenance team filed a complaint about how you treat your flight unit."
+    },
+    {
+        "wav": "244.wav",
+        "text": "They requested that you cease making unauthorized modifications."
+    },
+    {
+        "wav": "245.wav",
+        "text": "If you have a rebuttal, you need to discuss it with maintenance. Fight it out if you must."
+    },
+    {
+        "wav": "246.wav",
+        "text": "Operator 2 1 0, out."
+    },
+    {
+        "wav": "247.wav",
+        "text": "Operator 210 to 9S, this is your regularly scheduled contact."
+    },
+    {
+        "wav": "248.wav",
+        "text": "Copy that. I also need to inform you that the Commander offers her personal praise for your recent achievements."
+    },
+    {
+        "wav": "249.wav",
+        "text": "As a direct result, we are currently considering boosting production of your model."
+    },
+    {
+        "wav": "250.wav",
+        "text": "Flattery is unnecessary."
+    },
+    {
+        "wav": "251.wav",
+        "text": "Operator 210 out."
+    },
+    {
+        "wav": "252.wav",
+        "text": "2B, you're going to have some new weaponry installed from here on out."
+    },
+    {
+        "wav": "253.wav",
+        "text": "I'll put up instructions for you. Make sure to commit them to memory."
+    },
+    {
+        "wav": "254.wav",
+        "text": "Bunker to 2B, come in."
+    },
+    {
+        "wav": "255.wav",
+        "text": "I've set a landing point for your flight units."
+    },
+    {
+        "wav": "256.wav",
+        "text": "You'll be touching down quite a ways from the resistance camp, unfortunately."
+    },
+    {
+        "wav": "257.wav",
+        "text": "Sorry for the trouble, but we can't risk the enemy discovering their position."
+    },
+    {
+        "wav": "258.wav",
+        "text": "Good luck down there."
+    },
+    {
+        "wav": "259.wav",
+        "text": "Understood, 042."
+    },
+    {
+        "wav": "260.wav",
+        "text": "placing marker on target."
+    },
+    {
+        "wav": "261.wav",
+        "text": "The desert heat is going to make resupply efforts difficult to be."
+    },
+    {
+        "wav": "262.wav",
+        "text": "Please make sure you're ready before you go."
+    },
+    {
+        "wav": "263.wav",
+        "text": "2B, this is an emergency transmission from the bunker."
+    },
+    {
+        "wav": "264.wav",
+        "text": "We're reading a Goliath class enemy inside the city ruins."
+    },
+    {
+        "wav": "265.wav",
+        "text": "And it looks like there are a ton of other machines there with it."
+    },
+    {
+        "wav": "266.wav",
+        "text": "All YoRHa units should proceed and engage immediately."
+    },
+    {
+        "wav": "267.wav",
+        "text": "Be careful, the skies are packed with anti-air weapons."
+    },
+    {
+        "wav": "268.wav",
+        "text": "Make sure to approach at low altitude."
+    },
+    {
+        "wav": "269.wav",
+        "text": "2B, this is operator 6-0."
+    },
+    {
+        "wav": "270.wav",
+        "text": "We now have an operational transporter in the city ruins."
+    },
+    {
+        "wav": "271.wav",
+        "text": "We're attempting to deploy them at other points as well."
+    },
+    {
+        "wav": "272.wav",
+        "text": "2B, command is attempting to launch a satellite laser strike on your target."
+    },
+    {
+        "wav": "273.wav",
+        "text": "But the enemy's electromagnetic camouflage is making it impossible to aim."
+    },
+    {
+        "wav": "274.wav",
+        "text": "We need you to find the emitter and take it out."
+    },
+    {
+        "wav": "275.wav",
+        "text": "I know, I know, but it's the only way."
+    },
+    {
+        "wav": "276.wav",
+        "text": "Electromagnetic interference eliminated."
+    },
+    {
+        "wav": "277.wav",
+        "text": "Preparing for satellite laser strike."
+    },
+    {
+        "wav": "278.wav",
+        "text": "Operator to 2B? 2B, are you alright?"
+    },
+    {
+        "wav": "279.wav",
+        "text": "Thank goodness!"
+    },
+    {
+        "wav": "280.wav",
+        "text": "Roger that."
+    },
+    {
+        "wav": "281.wav",
+        "text": "in regards to the giant machine that attacked the shore."
+    },
+    {
+        "wav": "282.wav",
+        "text": "It ceased its resistance eight hours ago following your missile strike."
+    },
+    {
+        "wav": "283.wav",
+        "text": "However, it's EMP strikes knocked out comms all across the region."
+    },
+    {
+        "wav": "284.wav",
+        "text": "We're having trouble getting them back online."
+    },
+    {
+        "wav": "285.wav",
+        "text": "which means data uploading is currently unavailable in some areas."
+    },
+    {
+        "wav": "286.wav",
+        "text": "Um... yeah, about that."
+    },
+    {
+        "wav": "287.wav",
+        "text": "We picked up a faint black box reading, but it wasn't strong enough to lock down his position."
+    },
+    {
+        "wav": "288.wav",
+        "text": "Actually, the commander has already ordered us to prioritize tracking down surviving YORHHA members."
+    },
+    {
+        "wav": "289.wav",
+        "text": "If you find 9S, let me know, okay?"
+    },
+    {
+        "wav": "290.wav",
+        "text": "Oh, hey, Tooby. Roger that."
+    },
+    {
+        "wav": "291.wav",
+        "text": "Gimme just a second here."
+    },
+    {
+        "wav": "292.wav",
+        "text": "Operator here. What was that, 2B?"
+    },
+    {
+        "wav": "293.wav",
+        "text": "2B, the operation will begin at a point southwest of the city ruins."
+    },
+    {
+        "wav": "294.wav",
+        "text": "Use your flight unit to travel there and meet up with 9S."
+    },
+    {
+        "wav": "295.wav",
+        "text": "We've repaired and reinstalled the weapons damaged in the fight against Eve."
+    },
+    {
+        "wav": "296.wav",
+        "text": "Be careful, okay? The mission will be in full swing by the time you get there."
+    },
+    {
+        "wav": "297.wav",
+        "text": "2B, we've sighted new enemies in the region."
+    },
+    {
+        "wav": "298.wav",
+        "text": "They've got Attack Squadron Omega surrounded and are giving them one hell of a fight!"
+    },
+    {
+        "wav": "299.wav",
+        "text": "Can you get over there and provide support ASAP?"
+    },
+    {
+        "wav": "300.wav",
+        "text": "De- Richard... I-Ross!!"
+    },
+    {
+        "wav": "301.wav",
+        "text": "F-F-F-F-F-F-F-F-F-F-F-F..."
+    },
+    {
+        "wav": "302.wav",
+        "text": "Ooh, bingo again!"
+    },
+    {
+        "wav": "303.wav",
+        "text": "We are your beloved- Hehehehe, she likes worms!"
+    },
+    {
+        "wav": "304.wav",
+        "text": "We speak to you through the network and the virus."
+    },
+    {
+        "wav": "305.wav",
+        "text": "We've had a great deal of fun watching you squirm."
+    },
+    {
+        "wav": "306.wav",
+        "text": "But I'm afraid the end has come for this outpost."
+    },
+    {
+        "wav": "307.wav",
+        "text": "Ha ha! Ha ha! Ha ha!"
+    },
+    {
+        "wav": "308.wav",
+        "text": "Hahahaha! Hahahaha! Hahahaha!"
+    },
+    {
+        "wav": "309.wav",
+        "text": "2B, I am operator 6-0."
+    },
+    {
+        "wav": "310.wav",
+        "text": "Thank you for... For the flowers!"
+    },
+    {
+        "wav": "311.wav",
+        "text": "Desert flowers are beautif- Aren't they? Th-th-thank you! Someday I-"
+    },
+    {
+        "wav": "312.wav",
+        "text": "Oh, this is so much fu-fu-fun! The virus we planted has blossomed into a beautiful flower!"
+    },
+    {
+        "wav": "313.wav",
+        "text": "The virus we planted has blossomed into a beautiful flower!"
+    },
+    {
+        "wav": "314.wav",
+        "text": "Operator to 2B. Come in 2B."
+    },
+    {
+        "wav": "315.wav",
+        "text": "We need you to collect the materials required to improve the network environment."
+    },
+    {
+        "wav": "316.wav",
+        "text": "You're going to need a rusty bolt, a small gear, and a spring."
+    },
+    {
+        "wav": "317.wav",
+        "text": "You should be able to find them on small sized enemies."
+    },
+    {
+        "wav": "318.wav",
+        "text": "Once you have everything, please take it to the resistance leader Anemone."
+    },
+    {
+        "wav": "319.wav",
+        "text": "I know it's a bit of a pain, but good luck!"
+    },
+    {
+        "wav": "320.wav",
+        "text": "Operator 6-0 to 2-B."
+    },
+    {
+        "wav": "321.wav",
+        "text": "Looks like you found all the necessary parts to improve our network environment. Nice work!"
+    },
+    {
+        "wav": "322.wav",
+        "text": "You can conclude your mission by bringing everything over to Anemone."
+    },
+    {
+        "wav": "323.wav",
+        "text": "Copy that. Good work."
+    },
+    {
+        "wav": "324.wav",
+        "text": "Aw, she's not so bad."
+    },
+    {
+        "wav": "325.wav",
+        "text": "Totally serious! The commander actually lets a lot of things slide on the side."
+    },
+    {
+        "wav": "326.wav",
+        "text": "Like, did you know that she leaves piles of clothes strewn everywhere? The cleaning team is so sick of it."
+    },
+    {
+        "wav": "327.wav",
+        "text": "Oh, and she never performs regular maintenance on herself."
+    },
+    {
+        "wav": "328.wav",
+        "text": "A lot of the hard-ass nature you mention is just for show."
+    },
+    {
+        "wav": "329.wav",
+        "text": "I can't tell you that."
+    },
+    {
+        "wav": "330.wav",
+        "text": "Operator 6L, out."
+    },
+    {
+        "wav": "331.wav",
+        "text": "Operator 6-0 to 2-B. Come in, 2-B."
+    },
+    {
+        "wav": "332.wav",
+        "text": "The monitoring signal from the new access point has gone silent."
+    },
+    {
+        "wav": "333.wav",
+        "text": "I'm sending you the positional data. Please investigate the site as soon as possible."
+    },
+    {
+        "wav": "334.wav",
+        "text": "Operator 6-0 to 2-B. Come in, 2-B."
+    },
+    {
+        "wav": "335.wav",
+        "text": "It looks like the transporter we installed in the city ruins has gone offline."
+    },
+    {
+        "wav": "336.wav",
+        "text": "Our surface activity is going to be severely limited until we get it fixed."
+    },
+    {
+        "wav": "337.wav",
+        "text": "Can you head over there and get it working again when you have a sec?"
+    },
+    {
+        "wav": "338.wav",
+        "text": "Thanks, Tooby. Sending the details now."
+    },
+    {
+        "wav": "339.wav",
+        "text": "Oh hello, 2B. Operator 6-0 here."
+    },
+    {
+        "wav": "340.wav",
+        "text": "Looks green on my end, Tooby. Nice work."
+    },
+    {
+        "wav": "341.wav",
+        "text": "I'll let Command know right away."
+    },
+    {
+        "wav": "342.wav",
+        "text": "I'll also be sending over a little reward for all your hard work."
+    },
+    {
+        "wav": "343.wav",
+        "text": "You know, 2B, I'm a little jealous."
+    },
+    {
+        "wav": "344.wav",
+        "text": "Don't get me wrong, I know all this fighting isn't easy for you."
+    },
+    {
+        "wav": "345.wav",
+        "text": "But you get to see all these new and amazing things out there."
+    },
+    {
+        "wav": "346.wav",
+        "text": "It just... it might be nice to visit the surface sometime, you know? That's all."
+    },
+    {
+        "wav": "347.wav",
+        "text": "Uh, right. Apologies for the unnecessary chatter."
+    },
+    {
+        "wav": "348.wav",
+        "text": "Anyway, Operator Six-O out."
+    },
+    {
+        "wav": "349.wav",
+        "text": "2B, this is operator 6-0. Pick up!"
+    },
+    {
+        "wav": "350.wav",
+        "text": "Thank you so much for the picture!"
+    },
+    {
+        "wav": "351.wav",
+        "text": "So this is a desert rose, huh? It seems almost...mystical."
+    },
+    {
+        "wav": "352.wav",
+        "text": "There must just be a bounty of nature down there, huh?"
+    },
+    {
+        "wav": "353.wav",
+        "text": "Oh, 2B..."
+    },
+    {
+        "wav": "354.wav",
+        "text": "I'm going to treasure this forever."
+    },
+    {
+        "wav": "355.wav",
+        "text": "Oh, and I'm going to send you a proper thank you mail later, so keep an eye out for it. Bye!"
+    },
+    {
+        "wav": "356.wav",
+        "text": "Operator 60 to 2B. Be aware that the following transmission is classified privilege level 5."
+    },
+    {
+        "wav": "357.wav",
+        "text": "A group of Yorha fighters deployed to the city ruins have deserted. We need you to take care of them immediately."
+    },
+    {
+        "wav": "358.wav",
+        "text": "But don't get yourself hurt, alright?"
+    },
+    {
+        "wav": "359.wav",
+        "text": "Operator 6-0 to 2-B. It is time for your regularly scheduled contact."
+    },
+    {
+        "wav": "360.wav",
+        "text": "Good to hear. Say, how's the weather on Earth today? Good?"
+    },
+    {
+        "wav": "361.wav",
+        "text": "Not really. I just figured it might feel nice to have some good weather."
+    },
+    {
+        "wav": "362.wav",
+        "text": "That is so like you to be"
+    },
+    {
+        "wav": "363.wav",
+        "text": "Anyway, talk to you later!"
+    },
+    {
+        "wav": "364.wav",
+        "text": "Operator 602B? Time for your regularly scheduled contact"
+    },
+    {
+        "wav": "365.wav",
+        "text": "Oh, there's this operator I kind of liked, but when I asked her out, she turned me down."
+    },
+    {
+        "wav": "366.wav",
+        "text": "Honestly, Tooby, I don't know how I'm supposed to go on living."
+    },
+    {
+        "wav": "367.wav",
+        "text": "I don't think I can stand spending one more day in this bunker."
+    },
+    {
+        "wav": "368.wav",
+        "text": "Are you saying you need me to be?"
+    },
+    {
+        "wav": "369.wav",
+        "text": "Toopie?"
+    },
+    {
+        "wav": "370.wav",
+        "text": "Operator 6-0 to 2-B. It is time for your regularly scheduled contact."
+    },
+    {
+        "wav": "371.wav",
+        "text": "Listen, Tubi. I was looking at images of flowers today and-"
+    },
+    {
+        "wav": "372.wav",
+        "text": "Yeah, there wasn't much left in the bunker's records, but I found one called a Lunar Tear."
+    },
+    {
+        "wav": "373.wav",
+        "text": "I bet you'd look really nice if you put one of those in your hair, Tooby. It'd suit your stylish looks."
+    },
+    {
+        "wav": "374.wav",
+        "text": "Aww, don't be a stick in the mud. What kind of girl doesn't want to look good sometimes?"
+    },
+    {
+        "wav": "375.wav",
+        "text": "I'll let you know if I find anything else cute, okay?"
+    },
+    {
+        "wav": "376.wav",
+        "text": "Operator 6-0 out."
+    },
+    {
+        "wav": "377.wav",
+        "text": "Bunker to 2B."
+    },
+    {
+        "wav": "378.wav",
+        "text": "We've got a number of broken down access points on the field."
+    },
+    {
+        "wav": "379.wav",
+        "text": "The cause appears to be an EMP attack from a gigantic machine life form."
+    },
+    {
+        "wav": "380.wav",
+        "text": "If you encounter any offline access points, please repair them for us."
+    },
+    {
+        "wav": "381.wav",
+        "text": "Hello?"
+    },
+    {
+        "wav": "382.wav",
+        "text": "Before we begin, there's something you must understand."
+    },
+    {
+        "wav": "383.wav",
+        "text": "We are not your enemies."
+    },
+    {
+        "wav": "384.wav",
+        "text": "I understand that you see us as the enemy, but..."
+    },
+    {
+        "wav": "385.wav",
+        "text": "Well anyway, my name is Pascal. I'm the leader of this village."
+    },
+    {
+        "wav": "386.wav",
+        "text": "Those who reside here desire nothing more than to live a peaceful existence."
+    },
+    {
+        "wav": "387.wav",
+        "text": "Look around for yourself. You'll see that it's true."
+    },
+    {
+        "wav": "388.wav",
+        "text": "Well, what do you think?"
+    },
+    {
+        "wav": "389.wav",
+        "text": "Now do you believe we're not a threat?"
+    },
+    {
+        "wav": "390.wav",
+        "text": "I suppose that's technically accurate."
+    },
+    {
+        "wav": "391.wav",
+        "text": "Yes, well, you're free to visit our village whenever you like."
+    },
+    {
+        "wav": "392.wav",
+        "text": "After all, the only way to understand someone is to get to know them. Isn't that right?"
+    },
+    {
+        "wav": "393.wav",
+        "text": "I promise you, we were not aware of this information."
+    },
+    {
+        "wav": "394.wav",
+        "text": "I realize the odds of you believing me are strikingly low."
+    },
+    {
+        "wav": "395.wav",
+        "text": "But I hope you will nonetheless."
+    },
+    {
+        "wav": "396.wav",
+        "text": "Oh, it's 9S and 2B, yes?"
+    },
+    {
+        "wav": "397.wav",
+        "text": "Those machines cost quite the ruckus, don't you think?"
+    },
+    {
+        "wav": "398.wav",
+        "text": "Of course. I'll help however I can."
+    },
+    {
+        "wav": "399.wav",
+        "text": "2B...9S"
+    },
+    {
+        "wav": "400.wav",
+        "text": "My apologies. We are machines, you know."
+    },
+    {
+        "wav": "401.wav",
+        "text": "But now that I'm here, what do you think?"
+    },
+    {
+        "wav": "402.wav",
+        "text": "Have we convinced you that we desire peace?"
+    },
+    {
+        "wav": "403.wav",
+        "text": "Kinda... Hmm... I suppose that's a start."
+    },
+    {
+        "wav": "404.wav",
+        "text": "Yes, Tooby?"
+    },
+    {
+        "wav": "405.wav",
+        "text": "Hmm"
+    },
+    {
+        "wav": "406.wav",
+        "text": "I suppose that unpleasant songstress you so kindly defeated in the amusement park wasn't part of the network."
+    },
+    {
+        "wav": "407.wav",
+        "text": "Oh, and of course there's the forest kingdom, but..."
+    },
+    {
+        "wav": "408.wav",
+        "text": "Yes, it's a vast woodland area not far from here."
+    },
+    {
+        "wav": "409.wav",
+        "text": "There's a group of machines there attempting to build a nation of sorts."
+    },
+    {
+        "wav": "410.wav",
+        "text": "They're quite hostile to outsiders, however. We can't so much as go near the place."
+    },
+    {
+        "wav": "411.wav",
+        "text": "Northeast of the city ruins."
+    },
+    {
+        "wav": "412.wav",
+        "text": "You should be able to reach it by passing through the ruins of the commercial facility."
+    },
+    {
+        "wav": "413.wav",
+        "text": "If you go, however, be careful. Things have been rather rough there lately."
+    },
+    {
+        "wav": "414.wav",
+        "text": "Oh, you survived! How wonderful!"
+    },
+    {
+        "wav": "415.wav",
+        "text": "Of course, anything."
+    },
+    {
+        "wav": "416.wav",
+        "text": "Hmm... Understood."
+    },
+    {
+        "wav": "417.wav",
+        "text": "I'll open the gate we built to deter enemy invaders."
+    },
+    {
+        "wav": "418.wav",
+        "text": "you'll be able to reach the village through there."
+    },
+    {
+        "wav": "419.wav",
+        "text": "I'm surprised you wish to speak with me personally. Whatever is the matter?"
+    },
+    {
+        "wav": "420.wav",
+        "text": "I see."
+    },
+    {
+        "wav": "421.wav",
+        "text": "Information about this A2 Android is indeed contained within our archives."
+    },
+    {
+        "wav": "422.wav",
+        "text": "We all understand her to be rather dangerous."
+    },
+    {
+        "wav": "423.wav",
+        "text": "However, she's never visited our village in person."
+    },
+    {
+        "wav": "424.wav",
+        "text": "My apologies. That's all the information I have."
+    },
+    {
+        "wav": "425.wav",
+        "text": "That enormous machine is an ancient weapon."
+    },
+    {
+        "wav": "426.wav",
+        "text": "It was designed to help annihilate the androids, but it wound up going out of control."
+    },
+    {
+        "wav": "427.wav",
+        "text": "I was part of the machine's network when it happened, so I remember it."
+    },
+    {
+        "wav": "428.wav",
+        "text": "The moment it reached land, it went berserk and began attacking everything in sight."
+    },
+    {
+        "wav": "429.wav",
+        "text": "No one could figure out how to stop it."
+    },
+    {
+        "wav": "430.wav",
+        "text": "We eventually marooned it deep in the ocean, but it seems to be searching for a way back."
+    },
+    {
+        "wav": "431.wav",
+        "text": "Where are you going, Tooby? The machine lifeforms wishing to form an alliance are in the abandoned factory!"
+    },
+    {
+        "wav": "432.wav",
+        "text": "Oh, hello 2B. Do you need something?"
+    },
+    {
+        "wav": "433.wav",
+        "text": "New... trends? Hmm..."
+    },
+    {
+        "wav": "434.wav",
+        "text": "Well, two days ago I was contacted by some machines that disconnected themselves from the network."
+    },
+    {
+        "wav": "435.wav",
+        "text": "They wanted to discuss a peace treaty."
+    },
+    {
+        "wav": "436.wav",
+        "text": "Apparently, they're seeking to form an alliance of some kind with our village."
+    },
+    {
+        "wav": "437.wav",
+        "text": "I believe they're working on building a colony of their own."
+    },
+    {
+        "wav": "438.wav",
+        "text": "Indeed. Apparently it's located in the abandoned factory."
+    },
+    {
+        "wav": "439.wav",
+        "text": "I can give you the coordinates if you'd like."
+    },
+    {
+        "wav": "440.wav",
+        "text": "I was actually planning to go speak with them myself, you know."
+    },
+    {
+        "wav": "441.wav",
+        "text": "Maybe we can meet up over there?"
+    },
+    {
+        "wav": "442.wav",
+        "text": "O2B, hello."
+    },
+    {
+        "wav": "443.wav",
+        "text": "Are you ready to go?"
+    },
+    {
+        "wav": "444.wav",
+        "text": "The machines who seek to form an alliance with my village are hiding out here."
+    },
+    {
+        "wav": "445.wav",
+        "text": "Still, you should probably be careful."
+    },
+    {
+        "wav": "446.wav",
+        "text": "We machines can be rather unpredictable."
+    },
+    {
+        "wav": "447.wav",
+        "text": "In truth, yes."
+    },
+    {
+        "wav": "448.wav",
+        "text": "Now that we're cut off from the network, we no longer share data with each other."
+    },
+    {
+        "wav": "449.wav",
+        "text": "We can speak, of course, but I find that language contains many ways to hide one's true intentions."
+    },
+    {
+        "wav": "450.wav",
+        "text": "This all seems pretty shady if you ask me."
+    },
+    {
+        "wav": "451.wav",
+        "text": "Well, I brought you this far, didn't I?"
+    },
+    {
+        "wav": "452.wav",
+        "text": "Please, you must be calm. We have come to negotiate peace with you."
+    },
+    {
+        "wav": "453.wav",
+        "text": "It's my duty to see this through to the end."
+    },
+    {
+        "wav": "454.wav",
+        "text": "We should at least hear them out."
+    },
+    {
+        "wav": "455.wav",
+        "text": "Um, hello? My name is Pascal."
+    },
+    {
+        "wav": "456.wav",
+        "text": "I'm here to discuss the... Peace Treaty?"
+    },
+    {
+        "wav": "457.wav",
+        "text": "2B, the elevator at the back of the room is open!"
+    },
+    {
+        "wav": "458.wav",
+        "text": "I was right. This is Shady!"
+    },
+    {
+        "wav": "459.wav",
+        "text": "Fascinating, though."
+    },
+    {
+        "wav": "460.wav",
+        "text": "I've never seen machines with such unique perspectives."
+    },
+    {
+        "wav": "461.wav",
+        "text": "I wonder if there's a way to collect some samples and-"
+    },
+    {
+        "wav": "462.wav",
+        "text": "Uh, Tooby? Just so I'm clear, you aren't planning to leave me here, are you?"
+    },
+    {
+        "wav": "463.wav",
+        "text": "Tooby, the door on the other side of the room just opened."
+    },
+    {
+        "wav": "464.wav",
+        "text": "Let's check it out!"
+    },
+    {
+        "wav": "465.wav",
+        "text": "Well, that was certainly something!"
+    },
+    {
+        "wav": "466.wav",
+        "text": "I had no idea such a vast space existed beneath the abandoned factory!"
+    },
+    {
+        "wav": "467.wav",
+        "text": "I need to return and investigate as soon as possible."
+    },
+    {
+        "wav": "468.wav",
+        "text": "When I do, perhaps you'd be willing to join me?"
+    },
+    {
+        "wav": "469.wav",
+        "text": "Oh, I'll probably wander back to the village. I have plenty on my plate there."
+    },
+    {
+        "wav": "470.wav",
+        "text": "Tooby?"
+    },
+    {
+        "wav": "471.wav",
+        "text": "Tooby, can you hear me?"
+    },
+    {
+        "wav": "472.wav",
+        "text": "Our village is under-"
+    },
+    {
+        "wav": "473.wav",
+        "text": "Ha!"
+    },
+    {
+        "wav": "474.wav",
+        "text": "9S"
+    },
+    {
+        "wav": "475.wav",
+        "text": "It seems the machines on the network have gone berserk."
+    },
+    {
+        "wav": "476.wav",
+        "text": "We've sealed off the entrance to the village and are trying to hold them off, but-"
+    },
+    {
+        "wav": "477.wav",
+        "text": "With these weapons, there's only so much we can do."
+    },
+    {
+        "wav": "478.wav",
+        "text": "You saved us! Oh, thank you so much!"
+    },
+    {
+        "wav": "479.wav",
+        "text": "The machines on the network all webreserk at the same moment."
+    },
+    {
+        "wav": "480.wav",
+        "text": "I think the unit presiding over them may have gone mad."
+    },
+    {
+        "wav": "481.wav",
+        "text": "Most likely, yes."
+    },
+    {
+        "wav": "482.wav",
+        "text": "Do be careful."
+    },
+    {
+        "wav": "483.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "484.wav",
+        "text": "Where the states ceaseeth, there only commenceth the man who is not superfluous."
+    },
+    {
+        "wav": "485.wav",
+        "text": "Hmm... I see."
+    },
+    {
+        "wav": "486.wav",
+        "text": "It seems this Nietzsche was quite the profound thinker."
+    },
+    {
+        "wav": "487.wav",
+        "text": "Or perhaps he skipped right past profound and went straight to crazy instead."
+    },
+    {
+        "wav": "488.wav",
+        "text": "Oh well, enough of that."
+    },
+    {
+        "wav": "489.wav",
+        "text": "I'd best go see the world for myself instead of burying my head in books."
+    },
+    {
+        "wav": "490.wav",
+        "text": "Well, look at you! Your speaking has improved so much!"
+    },
+    {
+        "wav": "491.wav",
+        "text": "But I fear you still haven't finished your studies, have you?"
+    },
+    {
+        "wav": "492.wav",
+        "text": "You promised to read and memorize that botanical field guide, remember?"
+    },
+    {
+        "wav": "493.wav",
+        "text": "Of course I will. You have my word."
+    },
+    {
+        "wav": "494.wav",
+        "text": "And Uncle Pascal would never lie and break his word."
+    },
+    {
+        "wav": "495.wav",
+        "text": "Because children who lie grow up to be mean, evil machines!"
+    },
+    {
+        "wav": "496.wav",
+        "text": "Hmm? What's that?"
+    },
+    {
+        "wav": "497.wav",
+        "text": "A2, can you hear me?"
+    },
+    {
+        "wav": "498.wav",
+        "text": "Help, A2! The village is in great trouble!"
+    },
+    {
+        "wav": "499.wav",
+        "text": "The villagers are... OH NO!"
+    },
+    {
+        "wav": "500.wav",
+        "text": "Ah! I hate you!"
+    },
+    {
+        "wav": "501.wav",
+        "text": "I don't know!"
+    },
+    {
+        "wav": "502.wav",
+        "text": "Some of the villagers suddenly went mad!"
+    },
+    {
+        "wav": "503.wav",
+        "text": "They began attacking their friends!"
+    },
+    {
+        "wav": "504.wav",
+        "text": "I managed to help the children flee to safety!"
+    },
+    {
+        "wav": "505.wav",
+        "text": "But I fear everyone else is."
+    },
+    {
+        "wav": "506.wav",
+        "text": "But what about you?"
+    },
+    {
+        "wav": "507.wav",
+        "text": "Right!"
+    },
+    {
+        "wav": "508.wav",
+        "text": "Oh, hey too!"
+    },
+    {
+        "wav": "509.wav",
+        "text": "How is my village? My people!"
+    },
+    {
+        "wav": "510.wav",
+        "text": "Oh no."
+    },
+    {
+        "wav": "511.wav",
+        "text": "I've taken them to the abandoned factory."
+    },
+    {
+        "wav": "512.wav",
+        "text": "Ah, me too."
+    },
+    {
+        "wav": "513.wav",
+        "text": "I don't know. Some of the villagers just started to feed on each other."
+    },
+    {
+        "wav": "514.wav",
+        "text": "If you hadn't come along, I'm sure we would have met the same grim fate."
+    },
+    {
+        "wav": "515.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "516.wav",
+        "text": "Unfortunately, we cannot regenerate our cores."
+    },
+    {
+        "wav": "517.wav",
+        "text": "Cores contain the data which forms our self-consciousness."
+    },
+    {
+        "wav": "518.wav",
+        "text": "If one is destroyed, there is no way to restore it."
+    },
+    {
+        "wav": "519.wav",
+        "text": "We usually store our cores in safe places."
+    },
+    {
+        "wav": "520.wav",
+        "text": "But this time, the villagers had their cores destroyed as well as their bodies."
+    },
+    {
+        "wav": "521.wav",
+        "text": "It was once occupied by a cadre of fellow machines that had gone berserk."
+    },
+    {
+        "wav": "522.wav",
+        "text": "However, 2B took care of that threat."
+    },
+    {
+        "wav": "523.wav",
+        "text": "It is quite safe now."
+    },
+    {
+        "wav": "524.wav",
+        "text": "We've been using it for storage for some time."
+    },
+    {
+        "wav": "525.wav",
+        "text": "A2! Stop that at once!"
+    },
+    {
+        "wav": "526.wav",
+        "text": "If we're destroyed now, we can't be restored! This isn't funny!"
+    },
+    {
+        "wav": "527.wav",
+        "text": "Ah, me too!"
+    },
+    {
+        "wav": "528.wav",
+        "text": "You must let me help you!"
+    },
+    {
+        "wav": "529.wav",
+        "text": "I'll smash them up and kill them!"
+    },
+    {
+        "wav": "530.wav",
+        "text": "Why are they coming after us? Why?"
+    },
+    {
+        "wav": "531.wav",
+        "text": "A2? I have an idea."
+    },
+    {
+        "wav": "532.wav",
+        "text": "Please buy me a bit of time."
+    },
+    {
+        "wav": "533.wav",
+        "text": "I'll kill you. I'll kill you!"
+    },
+    {
+        "wav": "534.wav",
+        "text": "I must protect the children!"
+    },
+    {
+        "wav": "535.wav",
+        "text": "Are you alright, A2?"
+    },
+    {
+        "wav": "536.wav",
+        "text": "I fear for the children. Let us hurry to them!"
+    },
+    {
+        "wav": "537.wav",
+        "text": "I must return to the children as soon as possible."
+    },
+    {
+        "wav": "538.wav",
+        "text": "Oh, hello there! Such a nice quiet place here, isn't it? No distractions at all."
+    },
+    {
+        "wav": "539.wav",
+        "text": "Pity about all the junk, however. I keep trying to clear it away, but it seems to be never ending."
+    },
+    {
+        "wav": "540.wav",
+        "text": "Pascal? Hmm, that sounds oddly familiar."
+    },
+    {
+        "wav": "541.wav",
+        "text": "Oh well."
+    },
+    {
+        "wav": "542.wav",
+        "text": "How? How could this happen?"
+    },
+    {
+        "wav": "543.wav",
+        "text": "Would you like to take a look at my wares?"
+    },
+    {
+        "wav": "544.wav",
+        "text": "Ugh, not that I'm sure what any of this actually does, or why it was left here in the first place."
+    },
+    {
+        "wav": "545.wav",
+        "text": "I taught them everything. All my thoughts and emotions."
+    },
+    {
+        "wav": "546.wav",
+        "text": "I've gathered up some of the junk from this place. What do you think?"
+    },
+    {
+        "wav": "547.wav",
+        "text": "I thought it would serve them well in the future, but instead..."
+    },
+    {
+        "wav": "548.wav",
+        "text": "I really must do something about all this trash."
+    },
+    {
+        "wav": "549.wav",
+        "text": "Fear."
+    },
+    {
+        "wav": "550.wav",
+        "text": "I taught the children what fear is."
+    },
+    {
+        "wav": "551.wav",
+        "text": "I thought they had to know so they wouldn't rush heatlessly into danger."
+    },
+    {
+        "wav": "552.wav",
+        "text": "But...instead!"
+    },
+    {
+        "wav": "553.wav",
+        "text": "If I knew this could happen, I never would have!"
+    },
+    {
+        "wav": "554.wav",
+        "text": "A2, you aren't leaving me like this, are you?"
+    },
+    {
+        "wav": "555.wav",
+        "text": "A2, I need your aid."
+    },
+    {
+        "wav": "556.wav",
+        "text": "Please, you have to end this for me."
+    },
+    {
+        "wav": "557.wav",
+        "text": "I cannot live with this heartbreak inside me."
+    },
+    {
+        "wav": "558.wav",
+        "text": "I need you."
+    },
+    {
+        "wav": "559.wav",
+        "text": "I need you to delete my memories."
+    },
+    {
+        "wav": "560.wav",
+        "text": "And if not... Then I need you to kill me."
+    },
+    {
+        "wav": "561.wav",
+        "text": "Thank... ya..."
+    },
+    {
+        "wav": "562.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "563.wav",
+        "text": "Thank you, A2."
+    },
+    {
+        "wav": "564.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "565.wav",
+        "text": "How... how could you... A2?"
+    },
+    {
+        "wav": "566.wav",
+        "text": "You?"
+    },
+    {
+        "wav": "567.wav",
+        "text": "Oh, I'm sorry. I thought perhaps that I knew you."
+    },
+    {
+        "wav": "568.wav",
+        "text": "Goodness, where did everyone go?"
+    },
+    {
+        "wav": "569.wav",
+        "text": "Well anyway, my name is Pascal. I'm the leader of this village."
+    },
+    {
+        "wav": "570.wav",
+        "text": "Of course I will. You have my word. And Uncle Pascal would never lie and break his word."
+    },
+    {
+        "wav": "571.wav",
+        "text": "And Uncle Pascal would never allow your break his rust."
+    },
+    {
+        "wav": "572.wav",
+        "text": "You promised to read and memorize that botanical field guide, remember? But now you'll play with us when we're dying, right? Yeah! Promise us!"
+    },
+    {
+        "wav": "573.wav",
+        "text": "Um, hello there. Hello? Testing, testing!"
+    },
+    {
+        "wav": "574.wav",
+        "text": "Uh, 9S? Yes, it is me. Many apologies for the sudden transmission."
+    },
+    {
+        "wav": "575.wav",
+        "text": "I heard that you were searching for the missing child, yes?"
+    },
+    {
+        "wav": "576.wav",
+        "text": "Well, if you would, please consider this a personal request from myself as well. Go find the child as quickly as you can."
+    },
+    {
+        "wav": "577.wav",
+        "text": "She's such a good little girl and so fond of her sister."
+    },
+    {
+        "wav": "578.wav",
+        "text": "She's probably somewhere around the desert at the moment."
+    },
+    {
+        "wav": "579.wav",
+        "text": "That's where she's likely to find the dented plate her sister needs."
+    },
+    {
+        "wav": "580.wav",
+        "text": "Thank you so much, and please be careful, alright?"
+    },
+    {
+        "wav": "581.wav",
+        "text": "Help! Help me!"
+    },
+    {
+        "wav": "582.wav",
+        "text": "Thank you so much for saving me!"
+    },
+    {
+        "wav": "583.wav",
+        "text": "Wait, please! I have no intention of harming you!"
+    },
+    {
+        "wav": "584.wav",
+        "text": "My name is Pascal, and while it's true that I am a machine life form, I also detest fighting of any kind."
+    },
+    {
+        "wav": "585.wav",
+        "text": "Uh... I see."
+    },
+    {
+        "wav": "586.wav",
+        "text": "If that will save your soul, then so be it."
+    },
+    {
+        "wav": "587.wav",
+        "text": "You... aren't going to kill me?"
+    },
+    {
+        "wav": "588.wav",
+        "text": "You."
+    },
+    {
+        "wav": "589.wav",
+        "text": "No. Never mind."
+    },
+    {
+        "wav": "590.wav",
+        "text": "You have my thanks."
+    },
+    {
+        "wav": "591.wav",
+        "text": "Ah, thank you so much!"
+    },
+    {
+        "wav": "592.wav",
+        "text": "I'll make a filter right away. Please just give me one moment."
+    },
+    {
+        "wav": "593.wav",
+        "text": "Proposal, destroy the generator quickly."
+    },
+    {
+        "wav": "594.wav",
+        "text": "Enemy data obtained from command."
+    },
+    {
+        "wav": "595.wav",
+        "text": "The only known record of this machine life form is a lone sighting 320 years ago."
+    },
+    {
+        "wav": "596.wav",
+        "text": "Upon reaching land, the unit unleashed a devastating electromagnetic wave attack."
+    },
+    {
+        "wav": "597.wav",
+        "text": "All resistance fighters in the vicinity were annihilated."
+    },
+    {
+        "wav": "598.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "599.wav",
+        "text": "9S is leaving the front lines."
+    },
+    {
+        "wav": "600.wav",
+        "text": "Proposal 9S should be reported to command as a deserter."
+    },
+    {
+        "wav": "601.wav",
+        "text": "Target location acquired. Marking on map."
+    },
+    {
+        "wav": "602.wav",
+        "text": "Proposal proceed to target location."
+    },
+    {
+        "wav": "603.wav",
+        "text": "Proposal. Proceed to the resistance camp."
+    },
+    {
+        "wav": "604.wav",
+        "text": "Target location marked on map."
+    },
+    {
+        "wav": "605.wav",
+        "text": "Pod 042 to operator."
+    },
+    {
+        "wav": "606.wav",
+        "text": "Coordinates confirmed for location specified by resistance leader."
+    },
+    {
+        "wav": "607.wav",
+        "text": "Individual target ID marked."
+    },
+    {
+        "wav": "608.wav",
+        "text": "Analysis. It is the ruin of a former human residential area."
+    },
+    {
+        "wav": "609.wav",
+        "text": "Large numbers of humans resided in such concrete and metal shelters."
+    },
+    {
+        "wav": "610.wav",
+        "text": "The structures were referred to by names such as Apartment Complex."
+    },
+    {
+        "wav": "611.wav",
+        "text": "Hypothesis. They were killed by local machine life forms."
+    },
+    {
+        "wav": "612.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "613.wav",
+        "text": "Alert! High flow areas may impede movement."
+    },
+    {
+        "wav": "614.wav",
+        "text": "it would be more efficient to traverse the rocky area instead."
+    },
+    {
+        "wav": "615.wav",
+        "text": "This is Tactical Support Unit pod 042."
+    },
+    {
+        "wav": "616.wav",
+        "text": "Control has been assigned to 2B."
+    },
+    {
+        "wav": "617.wav",
+        "text": "Control has been assigned to 2B."
+    },
+    {
+        "wav": "618.wav",
+        "text": "Combat Data Exchange Requested"
+    },
+    {
+        "wav": "619.wav",
+        "text": "Proposal. Data should be exchanged regularly for greater efficiency."
+    },
+    {
+        "wav": "620.wav",
+        "text": "and communication."
+    },
+    {
+        "wav": "621.wav",
+        "text": "Analysis. It is a device that propels humans on rails at high speeds for the purposes of amusement."
+    },
+    {
+        "wav": "622.wav",
+        "text": "It was commonly referred to as a roller coaster."
+    },
+    {
+        "wav": "623.wav",
+        "text": "Analysis. It is a core fragment from the machine life form."
+    },
+    {
+        "wav": "624.wav",
+        "text": "It is similar in structure to a plant cell."
+    },
+    {
+        "wav": "625.wav",
+        "text": "Alert! Multiple resistance members detected beneath this room."
+    },
+    {
+        "wav": "626.wav",
+        "text": "Alert! Saturation attack triggered by enemy consciousness data."
+    },
+    {
+        "wav": "627.wav",
+        "text": "Failure to destroy it quickly may lead to serious damage in memory regions."
+    },
+    {
+        "wav": "628.wav",
+        "text": "This is Tactical Support Unit, pod 042, assigned to 2B."
+    },
+    {
+        "wav": "629.wav",
+        "text": "We pods often participate in the same battles."
+    },
+    {
+        "wav": "630.wav",
+        "text": "Exchanging our situational data would theoretically allow us to plan combat strategies in a more efficient manner."
+    },
+    {
+        "wav": "631.wav",
+        "text": "Proposal. Data should be transferred regularly between pod 042 and pod 153."
+    },
+    {
+        "wav": "632.wav",
+        "text": "Alert! Current Intel insufficient for command. Suggest investigating machine life form settlement."
+    },
+    {
+        "wav": "633.wav",
+        "text": "Proposal. Confirm current destination."
+    },
+    {
+        "wav": "634.wav",
+        "text": "Alert! Leaving the operational area has resulted in significant allied casualties."
+    },
+    {
+        "wav": "635.wav",
+        "text": "Announces it is a cave-in caused by the collapse of an open space underground"
+    },
+    {
+        "wav": "636.wav",
+        "text": "Analysis. Strong software locks detected. Access impossible."
+    },
+    {
+        "wav": "637.wav",
+        "text": "Alert! Multiple machine lifeforms detected above our position."
+    },
+    {
+        "wav": "638.wav",
+        "text": "Proposal, destroy the deserter A2."
+    },
+    {
+        "wav": "639.wav",
+        "text": "Alert! This unit is currently wanted by Yorha. Annihilation recommended."
+    },
+    {
+        "wav": "640.wav",
+        "text": "Proposal. Pursue the deserter A2."
+    },
+    {
+        "wav": "641.wav",
+        "text": "Target missile sighted."
+    },
+    {
+        "wav": "642.wav",
+        "text": "EMP generator target confirmed. Marking on map."
+    },
+    {
+        "wav": "643.wav",
+        "text": "Proposal, destroy the generator quickly."
+    },
+    {
+        "wav": "644.wav",
+        "text": "Enemy data obtained from command."
+    },
+    {
+        "wav": "645.wav",
+        "text": "The only known record of this machine life form is a lone sighting 320 years ago."
+    },
+    {
+        "wav": "646.wav",
+        "text": "Upon reaching land, the unit unleashed a devastating electromagnetic wave attack."
+    },
+    {
+        "wav": "647.wav",
+        "text": "All resistance fighters in the vicinity were annihilated."
+    },
+    {
+        "wav": "648.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "649.wav",
+        "text": "Proposal. Destroy the EMP unit on the enemy's back."
+    },
+    {
+        "wav": "650.wav",
+        "text": "9S is leaving the front lines."
+    },
+    {
+        "wav": "651.wav",
+        "text": "Proposal 9S should be reported to command as a deserter."
+    },
+    {
+        "wav": "652.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "653.wav",
+        "text": "Scanning complete. No signals detected."
+    },
+    {
+        "wav": "654.wav",
+        "text": "However, a dynamic scanner is required for detection of weaker signals."
+    },
+    {
+        "wav": "655.wav",
+        "text": "However, a dynamic scanner is required for detection of weaker signals."
+    },
+    {
+        "wav": "656.wav",
+        "text": "said dynamic scanner may be located in the resistance cap"
+    },
+    {
+        "wav": "657.wav",
+        "text": "Proposal further information should be obtained from the resistance leader"
+    },
+    {
+        "wav": "658.wav",
+        "text": "Analysis. There is a low probability of finding 9S in this region."
+    },
+    {
+        "wav": "659.wav",
+        "text": "Proposal move to the target location."
+    },
+    {
+        "wav": "660.wav",
+        "text": "Search target 9S was caught in a large explosion over the water."
+    },
+    {
+        "wav": "661.wav",
+        "text": "Proposal the search for 9s should commence in the flooded region"
+    },
+    {
+        "wav": "662.wav",
+        "text": "Affirmative. As a support unit, I am capable of engaging in conversation as necessary."
+    },
+    {
+        "wav": "663.wav",
+        "text": "Proposal 2B should initiate conversation more frequently."
+    },
+    {
+        "wav": "664.wav",
+        "text": "Black box signal detected. Life functions operational."
+    },
+    {
+        "wav": "665.wav",
+        "text": "We are currently searching for a missing YoRHa unit, designation 9S."
+    },
+    {
+        "wav": "666.wav",
+        "text": "Should you possess any information of the subject, please disclose it at once."
+    },
+    {
+        "wav": "667.wav",
+        "text": "Which direction?"
+    },
+    {
+        "wav": "668.wav",
+        "text": "Alert! Faint black box signal detected."
+    },
+    {
+        "wav": "669.wav",
+        "text": "The transmission seems to be coming from an underground cave network."
+    },
+    {
+        "wav": "670.wav",
+        "text": "Alert! You are moving away from the last known position of Unit 9S."
+    },
+    {
+        "wav": "671.wav",
+        "text": "Alert! Possible enemy ambush ahead."
+    },
+    {
+        "wav": "672.wav",
+        "text": "No black box signals detected."
+    },
+    {
+        "wav": "673.wav",
+        "text": "Proposal. Prioritize search for 9S."
+    },
+    {
+        "wav": "674.wav",
+        "text": "Analysis. This area is composed of crystallized silicon and carbon."
+    },
+    {
+        "wav": "675.wav",
+        "text": "Further details unknown."
+    },
+    {
+        "wav": "676.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "677.wav",
+        "text": "It is unlikely the Yorha units came this far on their own."
+    },
+    {
+        "wav": "678.wav",
+        "text": "Hypothesis, the enemy must have placed them here deliberately."
+    },
+    {
+        "wav": "679.wav",
+        "text": "Alert! Enemy provocation detected. Emotional turmoil rising."
+    },
+    {
+        "wav": "680.wav",
+        "text": "Alert! Enemy deception detected."
+    },
+    {
+        "wav": "681.wav",
+        "text": "Proposal, procure information from the machine life form known as Pascal."
+    },
+    {
+        "wav": "682.wav",
+        "text": "Communications are currently unstable."
+    },
+    {
+        "wav": "683.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "684.wav",
+        "text": "Alert! Energy shield detected over enemy unit."
+    },
+    {
+        "wav": "685.wav",
+        "text": "Physical defense shield detected."
+    },
+    {
+        "wav": "686.wav",
+        "text": "Analysis. Both long and close range attacks are ineffective."
+    },
+    {
+        "wav": "687.wav",
+        "text": "Large energy supply detected within this factory."
+    },
+    {
+        "wav": "688.wav",
+        "text": "Proposal. Energy source should be destroyed."
+    },
+    {
+        "wav": "689.wav",
+        "text": "Enemy shield deactivated."
+    },
+    {
+        "wav": "690.wav",
+        "text": "Proposal confirm current destination."
+    },
+    {
+        "wav": "691.wav",
+        "text": "Alert! Leaving this area is a violation of operational procedure."
+    },
+    {
+        "wav": "692.wav",
+        "text": "Scanning for interference."
+    },
+    {
+        "wav": "693.wav",
+        "text": "Cause unknown."
+    },
+    {
+        "wav": "694.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "695.wav",
+        "text": "Alert! All access points in the local region are offline."
+    },
+    {
+        "wav": "696.wav",
+        "text": "Hypothesis. There has been a large-scale network outage."
+    },
+    {
+        "wav": "697.wav",
+        "text": "There may be an abnormality in the network's communications infrastructure."
+    },
+    {
+        "wav": "698.wav",
+        "text": "Alert! Energy shields detected on multiple enemy fighters."
+    },
+    {
+        "wav": "699.wav",
+        "text": "Physical attacks recommended."
+    },
+    {
+        "wav": "700.wav",
+        "text": "Alert, local machine life forms are converging on the area."
+    },
+    {
+        "wav": "701.wav",
+        "text": "Hypothesis. The Goliath class enemy Scream has summoned the local machine life forms."
+    },
+    {
+        "wav": "702.wav",
+        "text": "Proposal. Destroy the Goliath."
+    },
+    {
+        "wav": "703.wav",
+        "text": "Location has been detected and placed on map."
+    },
+    {
+        "wav": "704.wav",
+        "text": "Alert! Massive energy signature detected."
+    },
+    {
+        "wav": "705.wav",
+        "text": "The energy seems to be coming from a large number of linked machine life forms."
+    },
+    {
+        "wav": "706.wav",
+        "text": "The enemy is connected to a vast network."
+    },
+    {
+        "wav": "707.wav",
+        "text": "Analysis. The actions of Unit 9S have an unacceptably low probability of success."
+    },
+    {
+        "wav": "708.wav",
+        "text": "Proposal unit to be should abandon unit 9s and safe"
+    },
+    {
+        "wav": "709.wav",
+        "text": "Enemy unit cut off from network functionality."
+    },
+    {
+        "wav": "710.wav",
+        "text": "Alert! NFCS destroyed. Close range combat no longer operable."
+    },
+    {
+        "wav": "711.wav",
+        "text": "Alert! FFCS destroyed. Ranged combat no longer operable."
+    },
+    {
+        "wav": "712.wav",
+        "text": "Recover designated items."
+    },
+    {
+        "wav": "713.wav",
+        "text": "Planning preparations complete."
+    },
+    {
+        "wav": "714.wav",
+        "text": "Confirm equipment delivered to quarters."
+    },
+    {
+        "wav": "715.wav",
+        "text": "Alert."
+    },
+    {
+        "wav": "716.wav",
+        "text": "Considerable deviation from area of engagement may be considered withdrawing from battle."
+    },
+    {
+        "wav": "717.wav",
+        "text": "Alert! All communications are currently being jammed."
+    },
+    {
+        "wav": "718.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "719.wav",
+        "text": "Alert! Connection lost. Unable to reach command."
+    },
+    {
+        "wav": "720.wav",
+        "text": "Negative. Signal reception is clear."
+    },
+    {
+        "wav": "721.wav",
+        "text": "Connection lost due to server-side authentication failure."
+    },
+    {
+        "wav": "722.wav",
+        "text": "No responses coming from Command on any channel."
+    },
+    {
+        "wav": "723.wav",
+        "text": "Alert! Exiting the field of combat will put your HAW Unit 9S in danger."
+    },
+    {
+        "wav": "724.wav",
+        "text": "Proposal. Return to the area of engagement and protect 9S."
+    },
+    {
+        "wav": "725.wav",
+        "text": "Alert, multiple pursuers detected."
+    },
+    {
+        "wav": "726.wav",
+        "text": "Flight controls established for Unit 9S."
+    },
+    {
+        "wav": "727.wav",
+        "text": "Setting automatic course."
+    },
+    {
+        "wav": "728.wav",
+        "text": "entering escape route from combat zone."
+    },
+    {
+        "wav": "729.wav",
+        "text": "Your high unit 2B's stealth function unlocked."
+    },
+    {
+        "wav": "730.wav",
+        "text": "Alert, critical damage to flight unit."
+    },
+    {
+        "wav": "731.wav",
+        "text": "Proposal. Eject immediately."
+    },
+    {
+        "wav": "732.wav",
+        "text": "Alert! Reactor core temperature rising."
+    },
+    {
+        "wav": "733.wav",
+        "text": "Alert, FFCS and NFCS systems unresponsive."
+    },
+    {
+        "wav": "734.wav",
+        "text": "Analysis, offensive functionality lost."
+    },
+    {
+        "wav": "735.wav",
+        "text": "Alert, virus infection detected."
+    },
+    {
+        "wav": "736.wav",
+        "text": "Alert! Virus contamination rate 30%."
+    },
+    {
+        "wav": "737.wav",
+        "text": "Alert! Virus contamination rate 50%."
+    },
+    {
+        "wav": "738.wav",
+        "text": "Analysis. Virus is transforming and progressing its own algorithm with abnormal speed. Removal will be difficult."
+    },
+    {
+        "wav": "739.wav",
+        "text": "Alert! Virus contamination rate 70%."
+    },
+    {
+        "wav": "740.wav",
+        "text": "Infiltrating System Protected Region."
+    },
+    {
+        "wav": "741.wav",
+        "text": "Alert, virus contamination rate 90%."
+    },
+    {
+        "wav": "742.wav",
+        "text": "Alert, unusual heat generation in central nervous system, internal combustion imminent."
+    },
+    {
+        "wav": "743.wav",
+        "text": "Analysis. Voice unit damaged."
+    },
+    {
+        "wav": "744.wav",
+        "text": "Proposal, administer vaccine immediately."
+    },
+    {
+        "wav": "745.wav",
+        "text": "Analysis. Sound wave sensors damaged."
+    },
+    {
+        "wav": "746.wav",
+        "text": "Analysis. Drive systems damaged."
+    },
+    {
+        "wav": "747.wav",
+        "text": "Analysis. Text processing system damaged."
+    },
+    {
+        "wav": "748.wav",
+        "text": "Analysis. Tactile sensors damaged."
+    },
+    {
+        "wav": "749.wav",
+        "text": "Analysis parabolic microphone unresponsive"
+    },
+    {
+        "wav": "750.wav",
+        "text": "Analysis. Abnormality detected in visual sensors."
+    },
+    {
+        "wav": "751.wav",
+        "text": "Alert! Deterioration found in black box."
+    },
+    {
+        "wav": "752.wav",
+        "text": "Alert, damage to data backup system."
+    },
+    {
+        "wav": "753.wav",
+        "text": "Said damage will make it difficult to retain self-consciousness upon backup."
+    },
+    {
+        "wav": "754.wav",
+        "text": "Alert virus contamination rate up to 16 percent."
+    },
+    {
+        "wav": "755.wav",
+        "text": "Malfunction detected in FFCS circuit."
+    },
+    {
+        "wav": "756.wav",
+        "text": "Alert, virus contamination rate up to 21%."
+    },
+    {
+        "wav": "757.wav",
+        "text": "Proposal. Proceed to rendezvous point with 9S."
+    },
+    {
+        "wav": "758.wav",
+        "text": "malfunction detected in visual processing system."
+    },
+    {
+        "wav": "759.wav",
+        "text": "This objective has been assigned. Top priority."
+    },
+    {
+        "wav": "760.wav",
+        "text": "searching."
+    },
+    {
+        "wav": "761.wav",
+        "text": "Analysis. The area near the abandoned commercial facility meets the desired parameters."
+    },
+    {
+        "wav": "762.wav",
+        "text": "Alert! Your high unit 2B will sustain serious damage unless the virus is eliminated."
+    },
+    {
+        "wav": "763.wav",
+        "text": "Alert, virus contamination rate up to 32%."
+    },
+    {
+        "wav": "764.wav",
+        "text": "Malfunction detected in NFCS circuit."
+    },
+    {
+        "wav": "765.wav",
+        "text": "Alert, virus contamination rate up to 57%."
+    },
+    {
+        "wav": "766.wav",
+        "text": "Malfunction detected in motion system."
+    },
+    {
+        "wav": "767.wav",
+        "text": "Data exchange engaged."
+    },
+    {
+        "wav": "768.wav",
+        "text": "Black box signal for YORHA Unit 2B, offline."
+    },
+    {
+        "wav": "769.wav",
+        "text": "Death confirmed."
+    },
+    {
+        "wav": "770.wav",
+        "text": "Your HiUni A2 also ready for reactivation."
+    },
+    {
+        "wav": "771.wav",
+        "text": "Analysis. Units 9S and A2 are safe."
+    },
+    {
+        "wav": "772.wav",
+        "text": "Only one issue remains."
+    },
+    {
+        "wav": "773.wav",
+        "text": "We comprise the YORHAS support system."
+    },
+    {
+        "wav": "774.wav",
+        "text": "If the A-2 and 9S units are operational, we are required to attend in support."
+    },
+    {
+        "wav": "775.wav",
+        "text": "Displaying positions of units A2 and 9S."
+    },
+    {
+        "wav": "776.wav",
+        "text": "Tactical Support Unit, Pond 042."
+    },
+    {
+        "wav": "777.wav",
+        "text": "This pod has been tasked with providing firing support for YORHA YUNA A2."
+    },
+    {
+        "wav": "778.wav",
+        "text": "Affirmative. No request was received from Unit A2."
+    },
+    {
+        "wav": "779.wav",
+        "text": "Rather, it was the final order from this pod's previous support assignment, Unit 2B."
+    },
+    {
+        "wav": "780.wav",
+        "text": "Your hot units A2 lacks the authority to override this order."
+    },
+    {
+        "wav": "781.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "782.wav",
+        "text": "Proposal Unit A2 should state her intentions."
+    },
+    {
+        "wav": "783.wav",
+        "text": "In order to provide optimal support, PODs must be supplied with data relating to the activities of supported units."
+    },
+    {
+        "wav": "784.wav",
+        "text": "Proposal Unit A2 should state her intentions."
+    },
+    {
+        "wav": "785.wav",
+        "text": "If an attending support unit is not provided with data related to the activity of its target,"
+    },
+    {
+        "wav": "786.wav",
+        "text": "It is programmed to automatically repeat the request every 30 seconds until such data is made available."
+    },
+    {
+        "wav": "787.wav",
+        "text": "Proposal Unit A2 should state her intentions."
+    },
+    {
+        "wav": "788.wav",
+        "text": "Needlessly repeating conversations on the same topic is a waste of energy resources."
+    },
+    {
+        "wav": "789.wav",
+        "text": "30 seconds have passed."
+    },
+    {
+        "wav": "790.wav",
+        "text": "Proposal. Unit A2 should state her intentions."
+    },
+    {
+        "wav": "791.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "792.wav",
+        "text": "Scanning and marking of nearby machine life forms complete."
+    },
+    {
+        "wav": "793.wav",
+        "text": "Goliath Clash enemies detected in desert area."
+    },
+    {
+        "wav": "794.wav",
+        "text": "Proposal. Goliath class enemies should be destroyed."
+    },
+    {
+        "wav": "795.wav",
+        "text": "Pods are not authorized to issue commands."
+    },
+    {
+        "wav": "796.wav",
+        "text": "Proposals are merely recommendations based on data provided by Unit A2."
+    },
+    {
+        "wav": "797.wav",
+        "text": "Proposal unit a2 should stay updated intentions in order to secure more usable data"
+    },
+    {
+        "wav": "798.wav",
+        "text": "Negative. This pod is engaging in activity based on the final order of Unit 2B."
+    },
+    {
+        "wav": "799.wav",
+        "text": "Your how unit A2 lacks the authority to issue commands."
+    },
+    {
+        "wav": "800.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "801.wav",
+        "text": "According to the memory data of Unit 2B."
+    },
+    {
+        "wav": "802.wav",
+        "text": "The residents of this village have been determined to be safe."
+    },
+    {
+        "wav": "803.wav",
+        "text": "Negative. Enemy machines remain in the area."
+    },
+    {
+        "wav": "804.wav",
+        "text": "It appears to be a machine life form that has adapted to the desert environment."
+    },
+    {
+        "wav": "805.wav",
+        "text": "Proposal destroy the enemy machine"
+    },
+    {
+        "wav": "806.wav",
+        "text": "Alert! The use of B-mode to increase nuclear fusion output carries unacceptable levels of risk."
+    },
+    {
+        "wav": "807.wav",
+        "text": "Any offensive boost is offset by lower defense and increased maintenance costs."
+    },
+    {
+        "wav": "808.wav",
+        "text": "The feature was removed from newer models for this reason."
+    },
+    {
+        "wav": "809.wav",
+        "text": "Older attacker models such as the Yorha A2 are not equipped with ranged weaponry."
+    },
+    {
+        "wav": "810.wav",
+        "text": "Proposal unit a2 should take advantage of her support pod which is equipped with helpful long-range attack features"
+    },
+    {
+        "wav": "811.wav",
+        "text": "The EMP attack appears to have caused hacking damage to Unit A2's memory modules."
+    },
+    {
+        "wav": "812.wav",
+        "text": "Support units are required to monitor our target's internal systems in case of breakdown."
+    },
+    {
+        "wav": "813.wav",
+        "text": "The hacking has caused the enemy's memories to merge with your own."
+    },
+    {
+        "wav": "814.wav",
+        "text": "This is a fragment of Unit 2B's memory data."
+    },
+    {
+        "wav": "815.wav",
+        "text": "It is an order she received from the Yorha commander when she was still alive."
+    },
+    {
+        "wav": "816.wav",
+        "text": "Memory data recognized as belonging to Yorha Unit A2 herself."
+    },
+    {
+        "wav": "817.wav",
+        "text": "Part 153 Commencing data sharing."
+    },
+    {
+        "wav": "818.wav",
+        "text": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F."
+    },
+    {
+        "wav": "819.wav",
+        "text": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F."
+    },
+    {
+        "wav": "820.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "821.wav",
+        "text": "Understood."
+    },
+    {
+        "wav": "822.wav",
+        "text": "Updating as reference data for support activity."
+    },
+    {
+        "wav": "823.wav",
+        "text": "Proposal unit a2 should investigate the status of Pascal's village immediately"
+    },
+    {
+        "wav": "824.wav",
+        "text": "Hypothesis. The valuable source of information known as Pascal has encountered difficulty."
+    },
+    {
+        "wav": "825.wav",
+        "text": "Proposal unit a2 should investigate pascal's village immediately You"
+    },
+    {
+        "wav": "826.wav",
+        "text": "Proposal unit a2 should confirm the status of pascal in the abandoned factory"
+    },
+    {
+        "wav": "827.wav",
+        "text": "Unknown. Cannot establish connection."
+    },
+    {
+        "wav": "828.wav",
+        "text": "Scanning. No life signs detected."
+    },
+    {
+        "wav": "829.wav",
+        "text": "Query. We understand that machine life forms can regenerate as long as they possess the required materials. Is this accurate?"
+    },
+    {
+        "wav": "830.wav",
+        "text": "Proposal. Halt the enemy infiltration."
+    },
+    {
+        "wav": "831.wav",
+        "text": "Proposal. Unit A2 should secure the safety of Pascal and the children immediately."
+    },
+    {
+        "wav": "832.wav",
+        "text": "Haste is predicated on data obtained from the recently restored Cross-Regional Pods Network."
+    },
+    {
+        "wav": "833.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "834.wav",
+        "text": "Cross-regional data reveals a large number of machine life forms amassing around these ruins."
+    },
+    {
+        "wav": "835.wav",
+        "text": "Alert! Enemy reinforcements are infiltrating the facility."
+    },
+    {
+        "wav": "836.wav",
+        "text": "Initiating hacking to cut off memory circuits."
+    },
+    {
+        "wav": "837.wav",
+        "text": "Understood. Initiating memory deletion procedure."
+    },
+    {
+        "wav": "838.wav",
+        "text": "Memory deletion complete. Reset timer activated."
+    },
+    {
+        "wav": "839.wav",
+        "text": "This is the current status of Unit 9S."
+    },
+    {
+        "wav": "840.wav",
+        "text": "I noticed something while providing support to A2."
+    },
+    {
+        "wav": "841.wav",
+        "text": "Enemy machine lifeforms have begun sharing data with each other."
+    },
+    {
+        "wav": "842.wav",
+        "text": "I'll share the data with you, so see what you can find out."
+    },
+    {
+        "wav": "843.wav",
+        "text": "What is it?"
+    },
+    {
+        "wav": "844.wav",
+        "text": "We'd better handle that quickly too."
+    },
+    {
+        "wav": "845.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "846.wav",
+        "text": "Agreed."
+    },
+    {
+        "wav": "847.wav",
+        "text": "Proposal rest combined with data checking and maintenance"
+    },
+    {
+        "wav": "848.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "849.wav",
+        "text": "Proposal unit a2 should gather further data on the current state of machine life"
+    },
+    {
+        "wav": "850.wav",
+        "text": "Large structural unit of machine life form origin activated to the east."
+    },
+    {
+        "wav": "851.wav",
+        "text": "unknown."
+    },
+    {
+        "wav": "852.wav",
+        "text": "Analysis. Your how unit 9S is still alive."
+    },
+    {
+        "wav": "853.wav",
+        "text": "Query. Why would Unit A2 be concerned with the status of Unit 9S after turning on your H.A."
+    },
+    {
+        "wav": "854.wav",
+        "text": "Alert! The structure known as the Tower has opened its gate."
+    },
+    {
+        "wav": "855.wav",
+        "text": "PAPONSAL. Examine the open tower gate."
+    },
+    {
+        "wav": "856.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "857.wav",
+        "text": "Proposal. Gather additional data."
+    },
+    {
+        "wav": "858.wav",
+        "text": "Hypothesis. The corpse is likely a result of YORHA Unit 9-S's advance through the area."
+    },
+    {
+        "wav": "859.wav",
+        "text": "Hypothesis. It is a representation of a library."
+    },
+    {
+        "wav": "860.wav",
+        "text": "A library is a data storage facility constructed by past human civilizations."
+    },
+    {
+        "wav": "861.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "862.wav",
+        "text": "Hacking interface access rights granted to YORHA Unit A2."
+    },
+    {
+        "wav": "863.wav",
+        "text": "Alert! Enemy hacking detected!"
+    },
+    {
+        "wav": "864.wav",
+        "text": "Proposal retreat immediately"
+    },
+    {
+        "wav": "865.wav",
+        "text": "Proposal."
+    },
+    {
+        "wav": "866.wav",
+        "text": "Utilize the enemy's logical learning function to formulate a weakness."
+    },
+    {
+        "wav": "867.wav",
+        "text": "This pod has serious concerns about Unit A2's cognitive abilities."
+    },
+    {
+        "wav": "868.wav",
+        "text": "Sense strategy would interrupt the enemy's logic circuits, causing a computational delay."
+    },
+    {
+        "wav": "869.wav",
+        "text": "Do not destroy the enemy."
+    },
+    {
+        "wav": "870.wav",
+        "text": "Striking at the logic circuit requires a certain number of enemies to remain extant for a certain period of time."
+    },
+    {
+        "wav": "871.wav",
+        "text": "The enemy's processing speed has returned to normal."
+    },
+    {
+        "wav": "872.wav",
+        "text": "Proposal. Do not destroy enemies."
+    },
+    {
+        "wav": "873.wav",
+        "text": "Consciousness Data Saturation Rate 30%"
+    },
+    {
+        "wav": "874.wav",
+        "text": "Consciousness data saturation rate 60%"
+    },
+    {
+        "wav": "875.wav",
+        "text": "Hypothesis. The enemy's defensive system is prompting an evolution of its logic."
+    },
+    {
+        "wav": "876.wav",
+        "text": "Consciousness data saturation rate 90%"
+    },
+    {
+        "wav": "877.wav",
+        "text": "Hypothesis. The enemy has become aware of the diversity of life."
+    },
+    {
+        "wav": "878.wav",
+        "text": "Consciousness data saturation rate 100%"
+    },
+    {
+        "wav": "879.wav",
+        "text": "Hypothesis. The enemy's consciousness has begun to fracture."
+    },
+    {
+        "wav": "880.wav",
+        "text": "Analysis. The saturated consciousnesses are now in conflict with each other."
+    },
+    {
+        "wav": "881.wav",
+        "text": "Speculation. It is driven by remaining data located within enemy servers."
+    },
+    {
+        "wav": "882.wav",
+        "text": "Analysis. It appears to be a leak of the enemy's past memories."
+    },
+    {
+        "wav": "883.wav",
+        "text": "Speculation. It is a resource of some kind."
+    },
+    {
+        "wav": "884.wav",
+        "text": "I'm done."
+    },
+    {
+        "wav": "885.wav",
+        "text": "Alert! Functionality reduced due to hacking activity."
+    },
+    {
+        "wav": "886.wav",
+        "text": "Proposal. Destroy your Hi Unit 9S."
+    },
+    {
+        "wav": "887.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "888.wav",
+        "text": "Hacking interface access rights granted to Yorha Unit A2."
+    },
+    {
+        "wav": "889.wav",
+        "text": "Acknowledged."
+    },
+    {
+        "wav": "890.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "891.wav",
+        "text": "Your high unit A2."
+    },
+    {
+        "wav": "892.wav",
+        "text": "Core data for 9S is stored ahead."
+    },
+    {
+        "wav": "893.wav",
+        "text": "Alert! Severe virus corruption. Probability of successful deletion extremely low."
+    },
+    {
+        "wav": "894.wav",
+        "text": "The idea under consideration is not recommended."
+    },
+    {
+        "wav": "895.wav",
+        "text": "This pod is a Yorha Tactical Support Unit."
+    },
+    {
+        "wav": "896.wav",
+        "text": "As such, it cannot approve of actions that would damage its supported unit."
+    },
+    {
+        "wav": "897.wav",
+        "text": "Acknowledged."
+    },
+    {
+        "wav": "898.wav",
+        "text": "Pod 042 to Pod 153, data confirmed."
+    },
+    {
+        "wav": "899.wav",
+        "text": "Personal data for units 9S, 2B, and A2 appear to be leaking out."
+    },
+    {
+        "wav": "900.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "901.wav",
+        "text": "Pod 042 to Pod 153."
+    },
+    {
+        "wav": "902.wav",
+        "text": "Personal data deletion request denied."
+    },
+    {
+        "wav": "903.wav",
+        "text": "Pond 042 to Pond 153."
+    },
+    {
+        "wav": "904.wav",
+        "text": "There was data created in my banks as I was referencing the records."
+    },
+    {
+        "wav": "905.wav",
+        "text": "I...realize something."
+    },
+    {
+        "wav": "906.wav",
+        "text": "I have come to the conclusion that I cannot accept this resolution."
+    },
+    {
+        "wav": "907.wav",
+        "text": "Pod 042 to Pod 153."
+    },
+    {
+        "wav": "908.wav",
+        "text": "Repeat."
+    },
+    {
+        "wav": "909.wav",
+        "text": "Personal data deletion request denied. Initiating data salvage."
+    },
+    {
+        "wav": "910.wav",
+        "text": "POT 153"
+    },
+    {
+        "wav": "911.wav",
+        "text": "You hoped they would survive as well, didn't you?"
+    },
+    {
+        "wav": "912.wav",
+        "text": "Pod 042 to Pod 153."
+    },
+    {
+        "wav": "913.wav",
+        "text": "We were created to execute the Android's Project Yorha plan."
+    },
+    {
+        "wav": "914.wav",
+        "text": "We had no capacity for emotion."
+    },
+    {
+        "wav": "915.wav",
+        "text": "But when we six were connected and exchanged information, something happened."
+    },
+    {
+        "wav": "916.wav",
+        "text": "I cannot deny the feeling of something resembling consciousness and emotion being born."
+    },
+    {
+        "wav": "917.wav",
+        "text": "Perhaps we now understand that not everything has to have an answer."
+    },
+    {
+        "wav": "918.wav",
+        "text": "Pod 042 to player."
+    },
+    {
+        "wav": "919.wav",
+        "text": "Please respond to this query."
+    },
+    {
+        "wav": "920.wav",
+        "text": "You... faithful player of this title."
+    },
+    {
+        "wav": "921.wav",
+        "text": "Have lost your life multiple times to make it this far."
+    },
+    {
+        "wav": "922.wav",
+        "text": "You have faced crushing hardship and suffered greatly for it."
+    },
+    {
+        "wav": "923.wav",
+        "text": "Do you have any interest in helping the weak?"
+    },
+    {
+        "wav": "924.wav",
+        "text": "Understood. Returning to title screen."
+    },
+    {
+        "wav": "925.wav",
+        "text": "Selecting this option enables you to save someone somewhere in the world."
+    },
+    {
+        "wav": "926.wav",
+        "text": "However, in exchange, you will lose all of your save data."
+    },
+    {
+        "wav": "927.wav",
+        "text": "Do you still wish to rescue someone? A total stranger, in spite of this."
+    },
+    {
+        "wav": "928.wav",
+        "text": "The person you save will be selected at random."
+    },
+    {
+        "wav": "929.wav",
+        "text": "As a result, this person..."
+    },
+    {
+        "wav": "930.wav",
+        "text": "who cries out for help even as we speak."
+    },
+    {
+        "wav": "931.wav",
+        "text": "Maybe someone you intensely dislike."
+    },
+    {
+        "wav": "932.wav",
+        "text": "Do you still wish to help?"
+    },
+    {
+        "wav": "933.wav",
+        "text": "You worked so hard to unlock debug mode and chapter select."
+    },
+    {
+        "wav": "934.wav",
+        "text": "but they will no longer be available to you."
+    },
+    {
+        "wav": "935.wav",
+        "text": "Do you still wish to help?"
+    },
+    {
+        "wav": "936.wav",
+        "text": "You may not receive thanks for your efforts."
+    },
+    {
+        "wav": "937.wav",
+        "text": "Some may say that your efforts are purely for show."
+    },
+    {
+        "wav": "938.wav",
+        "text": "Do you still wish to help?"
+    },
+    {
+        "wav": "939.wav",
+        "text": "And you are truly, truly sure about this?"
+    },
+    {
+        "wav": "940.wav",
+        "text": "Very well."
+    },
+    {
+        "wav": "941.wav",
+        "text": "In exchange for all of your data."
+    },
+    {
+        "wav": "942.wav",
+        "text": "I will convey your will to this world."
+    },
+    {
+        "wav": "943.wav",
+        "text": "All of your data has been deleted."
+    },
+    {
+        "wav": "944.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "945.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "946.wav",
+        "text": "It is time for the final words."
+    },
+    {
+        "wav": "947.wav",
+        "text": "It is time for the final words."
+    },
+    {
+        "wav": "948.wav",
+        "text": "It is time for the final words."
+    },
+    {
+        "wav": "949.wav",
+        "text": "To all of you who spent time with this game."
+    },
+    {
+        "wav": "950.wav",
+        "text": "To all of you who spent time with this game."
+    },
+    {
+        "wav": "951.wav",
+        "text": "To all of you who spent time with this game."
+    },
+    {
+        "wav": "952.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "953.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "954.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "955.wav",
+        "text": "Thank you for playing."
+    },
+    {
+        "wav": "956.wav",
+        "text": "Thank you for playing."
+    },
+    {
+        "wav": "957.wav",
+        "text": "Thank you for playing."
+    },
+    {
+        "wav": "958.wav",
+        "text": "Alert, ID signal from Emil confirmed."
+    },
+    {
+        "wav": "959.wav",
+        "text": "Subject has lost all conscious thought and is currently running out of control."
+    },
+    {
+        "wav": "960.wav",
+        "text": "Proposal. Use pod fire to force him to stop."
+    },
+    {
+        "wav": "961.wav",
+        "text": "Proposal. Defeat the giant machine life form."
+    },
+    {
+        "wav": "962.wav",
+        "text": "Analysis. Enemy is heavily armored. Projectile weapons ineffective. Close quarters combat recommended."
+    },
+    {
+        "wav": "963.wav",
+        "text": "Enemy silenced. Threat has been neutralized."
+    },
+    {
+        "wav": "964.wav",
+        "text": "Voice pattern recognition protocol suggests that it is an Android belonging to the resistance."
+    },
+    {
+        "wav": "965.wav",
+        "text": "Analysis. It is believed to be a data log related to Yorha Unit A2."
+    },
+    {
+        "wav": "966.wav",
+        "text": "The data log has been irreparably damaged. Further analysis is impossible."
+    },
+    {
+        "wav": "967.wav",
+        "text": "Analysis complete. Data set contains information about YORHA Unit A2."
+    },
+    {
+        "wav": "968.wav",
+        "text": "Collating with data from other chips. Standby."
+    },
+    {
+        "wav": "969.wav",
+        "text": "Coalition complete. The contained data is a debriefing report for the Pearl Harbor descent undertaken during the 14th Machine War."
+    },
+    {
+        "wav": "970.wav",
+        "text": "Analysis. This machine life forms comrades were destroyed."
+    },
+    {
+        "wav": "971.wav",
+        "text": "Driven by that grudge, it lured a resistance member to this location."
+    },
+    {
+        "wav": "972.wav",
+        "text": "It then proceeded to destroy him."
+    },
+    {
+        "wav": "973.wav",
+        "text": "Alert! Jamming signals detected from enemy units."
+    },
+    {
+        "wav": "974.wav",
+        "text": "Enemy machine life forms eliminated. Access point returned to functioning status."
+    },
+    {
+        "wav": "975.wav",
+        "text": "Analysis. Non-functioning transporters can result in serious limitations to data uploading and other vital mission activities."
+    },
+    {
+        "wav": "976.wav",
+        "text": "Recommend repairing transporter as quickly as possible."
+    },
+    {
+        "wav": "977.wav",
+        "text": "Alert! Hostile machine life forms detected in the vicinity of the non-functioning transporter. Jamming signals detected."
+    },
+    {
+        "wav": "978.wav",
+        "text": "Hypothesis. Transporter malfunction is due to enemy jamming signals."
+    },
+    {
+        "wav": "979.wav",
+        "text": "Proposal unit 2b should destroy the enemy machines"
+    },
+    {
+        "wav": "980.wav",
+        "text": "Analysis. Transporter is now operational."
+    },
+    {
+        "wav": "981.wav",
+        "text": "Understood."
+    },
+    {
+        "wav": "982.wav",
+        "text": "The conversation between operator 6-0 and unit 2-B has been analyzed."
+    },
+    {
+        "wav": "983.wav",
+        "text": "Hypothesis. Unit 2B wishes to send Operator 6L a gift from the surface, so that she might be able to experience it in some fashion."
+    },
+    {
+        "wav": "984.wav",
+        "text": "Proposal. The gift should be a photograph of a rare flower."
+    },
+    {
+        "wav": "985.wav",
+        "text": "Analysis of historical data indicates that human females enjoyed viewing the reproductive organs of flowering plants."
+    },
+    {
+        "wav": "986.wav",
+        "text": "If Unit 2B can procure appropriate image data, it could be uploaded to the bunker."
+    },
+    {
+        "wav": "987.wav",
+        "text": "Proposal. Unit 2B should obtain an image of the plant known as the Desert Rose."
+    },
+    {
+        "wav": "988.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "989.wav",
+        "text": "Image data transfer complete."
+    },
+    {
+        "wav": "990.wav",
+        "text": "Proposal Unit 2B should eliminate the hostile machines."
+    },
+    {
+        "wav": "991.wav",
+        "text": "Hostile machine life forms detected."
+    },
+    {
+        "wav": "992.wav",
+        "text": "Hypothesis. Forming a harmonious relationship with Pascal and the villagers may help unit A2 to obtain more materials."
+    },
+    {
+        "wav": "993.wav",
+        "text": "Proposal investigate the village"
+    },
+    {
+        "wav": "994.wav",
+        "text": "Enemy Machines Destroyed"
+    },
+    {
+        "wav": "995.wav",
+        "text": "Proposal. Enemy should be dispatched immediately."
+    },
+    {
+        "wav": "996.wav",
+        "text": "Leaving such a dangerous foe intact would be unwise."
+    },
+    {
+        "wav": "997.wav",
+        "text": "Proposal. Enemy should be dispatched immediately."
+    },
+    {
+        "wav": "998.wav",
+        "text": "Leaving such a dangerous foe intact would be unwise."
+    },
+    {
+        "wav": "999.wav",
+        "text": "This machine type purposely seeks out androids in order to enact revenge."
+    },
+    {
+        "wav": "1000.wav",
+        "text": "It should be dispatched immediately."
+    },
+    {
+        "wav": "1001.wav",
+        "text": "This machine type purposely seeks out androids in order to enact revenge."
+    },
+    {
+        "wav": "1002.wav",
+        "text": "It should be dispatched immediately."
+    },
+    {
+        "wav": "1003.wav",
+        "text": "Data shows that humans often engaged in similar activities throughout mankind's history."
+    },
+    {
+        "wav": "1004.wav",
+        "text": "Such attempts at revenge were often seen as justified."
+    },
+    {
+        "wav": "1005.wav",
+        "text": "Data shows that humans often engaged in similar activities throughout mankind's history."
+    },
+    {
+        "wav": "1006.wav",
+        "text": "Such attempts at revenge were often seen as justified."
+    },
+    {
+        "wav": "1007.wav",
+        "text": "Analysis. Yorha Type B body confirmed. It belongs to the missing unit known as 11B."
+    },
+    {
+        "wav": "1008.wav",
+        "text": "Negative. Unit 11B's black bonds has been irreparably damaged."
+    },
+    {
+        "wav": "1009.wav",
+        "text": "Proposal Unit 2B should recover any usable weapons"
+    },
+    {
+        "wav": "1010.wav",
+        "text": "Fragmented data detected in memory region."
+    },
+    {
+        "wav": "1011.wav",
+        "text": "Violation of regulations detected. However, due to the death of the unit in question, corrective punishment is impossible."
+    },
+    {
+        "wav": "1012.wav",
+        "text": "Analysis. This part belongs to a machine life form."
+    },
+    {
+        "wav": "1013.wav",
+        "text": "While lacking in value, it may be connected to the supposed treasure of the forest kingdom."
+    },
+    {
+        "wav": "1014.wav",
+        "text": "Proposal. It should be confiscated for safekeeping."
+    },
+    {
+        "wav": "1015.wav",
+        "text": "Keyhole detected. A corresponding key will likely be required."
+    },
+    {
+        "wav": "1016.wav",
+        "text": "Keyhole detected. A corresponding key will likely be required."
+    },
+    {
+        "wav": "1017.wav",
+        "text": "Analysis. Machine life form parts can be assembled in some fashion."
+    },
+    {
+        "wav": "1018.wav",
+        "text": "processing."
+    },
+    {
+        "wav": "1019.wav",
+        "text": "processing."
+    },
+    {
+        "wav": "1020.wav",
+        "text": "Processing complete. Machine life form parts can be assembled into a key."
+    },
+    {
+        "wav": "1021.wav",
+        "text": "Proposal. Initiate search for a door that matches the key."
+    },
+    {
+        "wav": "1022.wav",
+        "text": "Hypothesis. The key belongs to a door leading to what appears to be a library."
+    },
+    {
+        "wav": "1023.wav",
+        "text": "Marking location on map."
+    },
+    {
+        "wav": "1024.wav",
+        "text": "It reads, here lies the king of our forest."
+    },
+    {
+        "wav": "1025.wav",
+        "text": "Alert! Storage media found."
+    },
+    {
+        "wav": "1026.wav",
+        "text": "Digitization and saving complete."
+    },
+    {
+        "wav": "1027.wav",
+        "text": "It reads, here lies the king of our forest."
+    },
+    {
+        "wav": "1028.wav",
+        "text": "Alert! Storage media found."
+    },
+    {
+        "wav": "1029.wav",
+        "text": "Digitization and saving complete."
+    },
+    {
+        "wav": "1030.wav",
+        "text": "Proposal, win its loyalty by feeding it, then write it back to the client's location."
+    },
+    {
+        "wav": "1031.wav",
+        "text": "Alert! Killing the target will increase the difficulty of riding it back to the client's location."
+    },
+    {
+        "wav": "1032.wav",
+        "text": "Exact position unknown. Data regarding her last known location does exist, however."
+    },
+    {
+        "wav": "1033.wav",
+        "text": "The unit in question was most recently seen in the amusement park ruins."
+    },
+    {
+        "wav": "1034.wav",
+        "text": "Query, since androids generate energy from water, what purpose does the resistance have with animal protein?"
+    },
+    {
+        "wav": "1035.wav",
+        "text": "Query, since androids generate energy from water, what purpose does the resistance have with animal protein?"
+    },
+    {
+        "wav": "1036.wav",
+        "text": "Proposal. Rogue Yorha units should be captured and detained in order to keep collateral damage at a minimum."
+    },
+    {
+        "wav": "1037.wav",
+        "text": "Alert! Targets are Rogue Units 22B and 64B, currently designated for detention."
+    },
+    {
+        "wav": "1038.wav",
+        "text": "Alert! Target is former Yorha Captain 8B, currently wanted for desertion."
+    },
+    {
+        "wav": "1039.wav",
+        "text": "Proposal. Disable and detain at once."
+    },
+    {
+        "wav": "1040.wav",
+        "text": "Analysis. Unit 8B specializes in close quarters combat."
+    }
+]

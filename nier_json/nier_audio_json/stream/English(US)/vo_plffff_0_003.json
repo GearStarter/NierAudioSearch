@@ -1,0 +1,4518 @@
+[
+    {
+        "wav": "0.wav",
+        "text": "Proposal. Destroy enemy with long-range attacks."
+    },
+    {
+        "wav": "1.wav",
+        "text": "All units destroyed. Black box signals confirmed offline."
+    },
+    {
+        "wav": "2.wav",
+        "text": "Mission complete."
+    },
+    {
+        "wav": "3.wav",
+        "text": "Hypothesis. Continued crap jobs will eventually have a deleterious effect on the entire organization."
+    },
+    {
+        "wav": "4.wav",
+        "text": "Search already performed. Regions rich in tree sap marked on map."
+    },
+    {
+        "wav": "5.wav",
+        "text": "Alert! Hostile machine lifeforms detected."
+    },
+    {
+        "wav": "6.wav",
+        "text": "Searching for relics in the desert without assistance might prove difficult."
+    },
+    {
+        "wav": "7.wav",
+        "text": "Proposal Unit 2B should use the dynamic scanner."
+    },
+    {
+        "wav": "8.wav",
+        "text": "Searching for relics in the desert without assistance might prove difficult."
+    },
+    {
+        "wav": "9.wav",
+        "text": "Proposal Unit A2 should use the dynamic scanner."
+    },
+    {
+        "wav": "10.wav",
+        "text": "Old World Material Obtained."
+    },
+    {
+        "wav": "11.wav",
+        "text": "Hypothesis. Said material is likely a relic from an ancient civilization."
+    },
+    {
+        "wav": "12.wav",
+        "text": "Hostile Machine Lifeforms Defeated."
+    },
+    {
+        "wav": "13.wav",
+        "text": "Analysis. Their garments were based on a subset of human culture."
+    },
+    {
+        "wav": "14.wav",
+        "text": "Examples of said clothing can be found in motion pictures that humans created for entertainment purposes."
+    },
+    {
+        "wav": "15.wav",
+        "text": "More specifically, they were from a genre known as Westerns that chronicled warfare in a certain region of the planet."
+    },
+    {
+        "wav": "16.wav",
+        "text": "Hospital machine life forms defeated."
+    },
+    {
+        "wav": "17.wav",
+        "text": "Analysis. Their garments were based on a subset of human culture."
+    },
+    {
+        "wav": "18.wav",
+        "text": "Examples of said clothing can be found in motion pictures that humans created for entertainment purposes."
+    },
+    {
+        "wav": "19.wav",
+        "text": "More specifically, they were from a genre known as Westerns that chronicled warfare in a certain region of the planet."
+    },
+    {
+        "wav": "20.wav",
+        "text": "Alert! Signal code detected for missing plug-in chip."
+    },
+    {
+        "wav": "21.wav",
+        "text": "Marking approximate location on map."
+    },
+    {
+        "wav": "22.wav",
+        "text": "Alert! Signal code detected for missing plug-in chip."
+    },
+    {
+        "wav": "23.wav",
+        "text": "It is likely in the possession of a machine life form."
+    },
+    {
+        "wav": "24.wav",
+        "text": "Requested plug-in chip obtained."
+    },
+    {
+        "wav": "25.wav",
+        "text": "Requested plug-in chip obtained."
+    },
+    {
+        "wav": "26.wav",
+        "text": "Alert! The specifications of this plug-in ship are unusual."
+    },
+    {
+        "wav": "27.wav",
+        "text": "This chip is a model used exclusively by your high units."
+    },
+    {
+        "wav": "28.wav",
+        "text": "There is no reason for a non-Yorha Android to possess it."
+    },
+    {
+        "wav": "29.wav",
+        "text": "Alert, incoming message from command."
+    },
+    {
+        "wav": "30.wav",
+        "text": "Alert! Mail received from command."
+    },
+    {
+        "wav": "31.wav",
+        "text": "Marking objects likely to be the targeted packages."
+    },
+    {
+        "wav": "32.wav",
+        "text": "Alert! Voice patterns detected from inside storage facility."
+    },
+    {
+        "wav": "33.wav",
+        "text": "Stamp discovered."
+    },
+    {
+        "wav": "34.wav",
+        "text": "It is advisable to recover as many of these collectible items as possible."
+    },
+    {
+        "wav": "35.wav",
+        "text": "Proposal imprint the stamp upon the card"
+    },
+    {
+        "wav": "36.wav",
+        "text": "Stamp discovered."
+    },
+    {
+        "wav": "37.wav",
+        "text": "Proposal imprint the stamp upon the card"
+    },
+    {
+        "wav": "38.wav",
+        "text": "Stamp discovered inside enemy body."
+    },
+    {
+        "wav": "39.wav",
+        "text": "Proposal. Destroy the enemy and imprint the stamp upon the card."
+    },
+    {
+        "wav": "40.wav",
+        "text": "Alert! All stamps have been obtained."
+    },
+    {
+        "wav": "41.wav",
+        "text": "Alert! Five stamps obtained."
+    },
+    {
+        "wav": "42.wav",
+        "text": "Alert! Ten stamps obtained."
+    },
+    {
+        "wav": "43.wav",
+        "text": "Proposal. Return to the entrance and secure the promised deluxe prize."
+    },
+    {
+        "wav": "44.wav",
+        "text": "Hospital machine life forms destroyed."
+    },
+    {
+        "wav": "45.wav",
+        "text": "Pursuit marker placed on map. Target is heading toward the desert."
+    },
+    {
+        "wav": "46.wav",
+        "text": "Pursuit marker placed on map. Target is heading toward the desert."
+    },
+    {
+        "wav": "47.wav",
+        "text": "Alert! Magical weapons from the Old World detected."
+    },
+    {
+        "wav": "48.wav",
+        "text": "Magical elements have a high probability of penetrating all defense systems."
+    },
+    {
+        "wav": "49.wav",
+        "text": "Proposal evade."
+    },
+    {
+        "wav": "50.wav",
+        "text": "Alert! Elemental output of magical weapons has increased."
+    },
+    {
+        "wav": "51.wav",
+        "text": "Alert! Elemental output of magical weapons has increased."
+    },
+    {
+        "wav": "52.wav",
+        "text": "Good morning, A2."
+    },
+    {
+        "wav": "53.wav",
+        "text": "Analysis. Yorha unit A2 was restarted 5 minutes and 42 seconds ago."
+    },
+    {
+        "wav": "54.wav",
+        "text": "The cause was excessive strain due to battle against a large machine life form."
+    },
+    {
+        "wav": "55.wav",
+        "text": "Alert! Fuel filter performance deteriorating."
+    },
+    {
+        "wav": "56.wav",
+        "text": "Fine particulate matter seems to have entered the filter while fighting in the desert."
+    },
+    {
+        "wav": "57.wav",
+        "text": "Proposal. Replace the faulty part immediately."
+    },
+    {
+        "wav": "58.wav",
+        "text": "Records indicate said part was once used at the resistance camp."
+    },
+    {
+        "wav": "59.wav",
+        "text": "It is located at..."
+    },
+    {
+        "wav": "60.wav",
+        "text": "Alert, a broken filter will cause significant problems with fuel distribution."
+    },
+    {
+        "wav": "61.wav",
+        "text": "Proposal. Replace the faulty part immediately."
+    },
+    {
+        "wav": "62.wav",
+        "text": "Coordinates confirmed for a colony centered around the machine life form known as Pascal."
+    },
+    {
+        "wav": "63.wav",
+        "text": "Location marked on map."
+    },
+    {
+        "wav": "64.wav",
+        "text": "Analysis. This is a colony of pacifistic machine life forms led by the unit known as Pascal."
+    },
+    {
+        "wav": "65.wav",
+        "text": "It is logical for a large number of machine life forms to be present."
+    },
+    {
+        "wav": "66.wav",
+        "text": "This pod has concerns regarding YORHA Unit A2's predictive skills."
+    },
+    {
+        "wav": "67.wav",
+        "text": "Areas where rigid tree bark is available marked on map."
+    },
+    {
+        "wav": "68.wav",
+        "text": "Analysis. Hostility toward the peaceful machine life form Pascal is pointless from an energy usage standpoint."
+    },
+    {
+        "wav": "69.wav",
+        "text": "Proposal form a friendly relationship immediately"
+    },
+    {
+        "wav": "70.wav",
+        "text": "Alert! The machine life form Pascal has returned."
+    },
+    {
+        "wav": "71.wav",
+        "text": "Yes."
+    },
+    {
+        "wav": "72.wav",
+        "text": "Right."
+    },
+    {
+        "wav": "73.wav",
+        "text": "Correct."
+    },
+    {
+        "wav": "74.wav",
+        "text": "Roger."
+    },
+    {
+        "wav": "75.wav",
+        "text": "Negative."
+    },
+    {
+        "wav": "76.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "77.wav",
+        "text": "proteins people"
+    },
+    {
+        "wav": "78.wav",
+        "text": "Report."
+    },
+    {
+        "wav": "79.wav",
+        "text": "Hypothesis."
+    },
+    {
+        "wav": "80.wav",
+        "text": "Suggestion."
+    },
+    {
+        "wav": "81.wav",
+        "text": "Alert!"
+    },
+    {
+        "wav": "82.wav",
+        "text": "Analysis"
+    },
+    {
+        "wav": "83.wav",
+        "text": "Alert! Cumulative body damage at 70%."
+    },
+    {
+        "wav": "84.wav",
+        "text": "Alert! Cumulative body damage at 80%."
+    },
+    {
+        "wav": "85.wav",
+        "text": "Alert! Cumulative body damage at 90%."
+    },
+    {
+        "wav": "86.wav",
+        "text": "Alert! Critical damage to body."
+    },
+    {
+        "wav": "87.wav",
+        "text": "Proposal. Utilize a recovery method immediately."
+    },
+    {
+        "wav": "88.wav",
+        "text": "Alert, nearing flight limit."
+    },
+    {
+        "wav": "89.wav",
+        "text": "Report. Mail notification received from AccessPoint."
+    },
+    {
+        "wav": "90.wav",
+        "text": "New ability obtained."
+    },
+    {
+        "wav": "91.wav",
+        "text": "New equipment obtained."
+    },
+    {
+        "wav": "92.wav",
+        "text": "Displaying control guidance."
+    },
+    {
+        "wav": "93.wav",
+        "text": "report bunker communication incoming"
+    },
+    {
+        "wav": "94.wav",
+        "text": "Report. Communication from another Yorha unit incoming."
+    },
+    {
+        "wav": "95.wav",
+        "text": "Report. Communication from another Yorha unit incoming."
+    },
+    {
+        "wav": "96.wav",
+        "text": "Requested material obtained."
+    },
+    {
+        "wav": "97.wav",
+        "text": "Request admission completed."
+    },
+    {
+        "wav": "98.wav",
+        "text": "Request admission failed."
+    },
+    {
+        "wav": "99.wav",
+        "text": "Proposal report to the client"
+    },
+    {
+        "wav": "100.wav",
+        "text": "Target location data obtained. Marking on map."
+    },
+    {
+        "wav": "101.wav",
+        "text": "Function not currently available."
+    },
+    {
+        "wav": "102.wav",
+        "text": "Function not available."
+    },
+    {
+        "wav": "103.wav",
+        "text": "Alert, exiting the planned operational area."
+    },
+    {
+        "wav": "104.wav",
+        "text": "Proposal. Return to the operational area immediately."
+    },
+    {
+        "wav": "105.wav",
+        "text": "Display target location on close range map."
+    },
+    {
+        "wav": "106.wav",
+        "text": "Displaying target location on long-range map."
+    },
+    {
+        "wav": "107.wav",
+        "text": "Proposal. Proceed toward the guide marker."
+    },
+    {
+        "wav": "108.wav",
+        "text": "Alert! Access point communications jammed."
+    },
+    {
+        "wav": "109.wav",
+        "text": "Hypothesis, jamming caused by enemies in local vicinity."
+    },
+    {
+        "wav": "110.wav",
+        "text": "Proposal. Eliminate enemies in vicinity and restore access point immediately."
+    },
+    {
+        "wav": "111.wav",
+        "text": "Commencing fishing."
+    },
+    {
+        "wav": "112.wav",
+        "text": "Commencing."
+    },
+    {
+        "wav": "113.wav",
+        "text": "Complete."
+    },
+    {
+        "wav": "114.wav",
+        "text": "Catch confirmed."
+    },
+    {
+        "wav": "115.wav",
+        "text": "Report. Success."
+    },
+    {
+        "wav": "116.wav",
+        "text": "Catch."
+    },
+    {
+        "wav": "117.wav",
+        "text": "Nyadio"
+    },
+    {
+        "wav": "118.wav",
+        "text": "Report. French."
+    },
+    {
+        "wav": "119.wav",
+        "text": "Catch lost."
+    },
+    {
+        "wav": "120.wav",
+        "text": "Report failed."
+    },
+    {
+        "wav": "121.wav",
+        "text": "No response."
+    },
+    {
+        "wav": "122.wav",
+        "text": "Report. Purpose unknown."
+    },
+    {
+        "wav": "123.wav",
+        "text": "Hypothesis. Garbage."
+    },
+    {
+        "wav": "124.wav",
+        "text": "Report. Unknown object."
+    },
+    {
+        "wav": "125.wav",
+        "text": "Gratitude confirmed. Your affinity with this pod has risen."
+    },
+    {
+        "wav": "126.wav",
+        "text": "Report. Affinity increased."
+    },
+    {
+        "wav": "127.wav",
+        "text": "Report, no damage detected."
+    },
+    {
+        "wav": "128.wav",
+        "text": "Performance at regular intervals appreciated."
+    },
+    {
+        "wav": "129.wav",
+        "text": "Report pleasant."
+    },
+    {
+        "wav": "130.wav",
+        "text": "Kaposal, continue to provide care for this pod."
+    },
+    {
+        "wav": "131.wav",
+        "text": "Report. Satisfied."
+    },
+    {
+        "wav": "132.wav",
+        "text": "Report, sensors favorable."
+    },
+    {
+        "wav": "133.wav",
+        "text": "Report. Your affinity with this pod has reached its maximum level."
+    },
+    {
+        "wav": "134.wav",
+        "text": "Please note that excessive care is not necessary for combat-based activity."
+    },
+    {
+        "wav": "135.wav",
+        "text": "However, this unit has determined that it finds said excessive care most enjoyable."
+    },
+    {
+        "wav": "136.wav",
+        "text": "Pod 042 promises to protect your high unit 2B in any situation."
+    },
+    {
+        "wav": "137.wav",
+        "text": "Pond 042 promises to protect your Ha Unit A2 in any situation."
+    },
+    {
+        "wav": "138.wav",
+        "text": "End report."
+    },
+    {
+        "wav": "139.wav",
+        "text": "Hypothesis. The owner discarded this pod and left it in safe mode. Motives unknown."
+    },
+    {
+        "wav": "140.wav",
+        "text": "Activation complete. Access granted."
+    },
+    {
+        "wav": "141.wav",
+        "text": "Previous owner ID successfully overwritten. Special weaponry now available."
+    },
+    {
+        "wav": "142.wav",
+        "text": "Hypothesis. The owner discarded this pod and left it in safe mode. Motives unknown."
+    },
+    {
+        "wav": "143.wav",
+        "text": "Activation complete. Access granted."
+    },
+    {
+        "wav": "144.wav",
+        "text": "Previous owner ID successfully overwritten. Special weaponry now available."
+    },
+    {
+        "wav": "145.wav",
+        "text": "That data obtained from Bunker."
+    },
+    {
+        "wav": "146.wav",
+        "text": "Data may be displayed from the system menu."
+    },
+    {
+        "wav": "147.wav",
+        "text": "Launching system menu."
+    },
+    {
+        "wav": "148.wav",
+        "text": "Hypothesis. This is the residence of the inscrutable life form known as... ...Emile."
+    },
+    {
+        "wav": "149.wav",
+        "text": "Alert! Theft of physical objects may disturb the resident."
+    },
+    {
+        "wav": "150.wav",
+        "text": "The remains of a Yorha flight unit."
+    },
+    {
+        "wav": "151.wav",
+        "text": "ID of Yorha Unit 2B, confirmed within craft."
+    },
+    {
+        "wav": "152.wav",
+        "text": "Unsent message found within memory of flight unit."
+    },
+    {
+        "wav": "153.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "154.wav",
+        "text": "Access point repairs complete."
+    },
+    {
+        "wav": "155.wav",
+        "text": "Marking target location on map."
+    },
+    {
+        "wav": "156.wav",
+        "text": "MAP data obtained from AccessPoint."
+    },
+    {
+        "wav": "157.wav",
+        "text": "Please obtain map data from Access Point."
+    },
+    {
+        "wav": "158.wav",
+        "text": "Mapped data obtained."
+    },
+    {
+        "wav": "159.wav",
+        "text": "Displaying map data provided by Bunker."
+    },
+    {
+        "wav": "160.wav",
+        "text": "Setting target location on radar."
+    },
+    {
+        "wav": "161.wav",
+        "text": "Alert! Defense systems cannot be reached from the ground."
+    },
+    {
+        "wav": "162.wav",
+        "text": "Flight unit recommended."
+    },
+    {
+        "wav": "163.wav",
+        "text": "Alert! Proceed with mission operations immediately."
+    },
+    {
+        "wav": "164.wav",
+        "text": "She appears to be engaging the target enemy."
+    },
+    {
+        "wav": "165.wav",
+        "text": "9S data system damaged. Access impaired."
+    },
+    {
+        "wav": "166.wav",
+        "text": "redeploying in offline mode"
+    },
+    {
+        "wav": "167.wav",
+        "text": "Recovery sector. Eliminate access impairments to all blocks."
+    },
+    {
+        "wav": "168.wav",
+        "text": "Repairing visual data error."
+    },
+    {
+        "wav": "169.wav",
+        "text": "Voice functionality recovered. External sound input confirmed."
+    },
+    {
+        "wav": "170.wav",
+        "text": "Alert! Vital signs declining."
+    },
+    {
+        "wav": "171.wav",
+        "text": "Vital signs entering suboptimal territory."
+    },
+    {
+        "wav": "172.wav",
+        "text": "Urgent circuit repairs required."
+    },
+    {
+        "wav": "173.wav",
+        "text": "Black box signal ceased."
+    },
+    {
+        "wav": "174.wav",
+        "text": "Unit 9S, death confirmed."
+    },
+    {
+        "wav": "175.wav",
+        "text": "Incoming enemy fighters detected."
+    },
+    {
+        "wav": "176.wav",
+        "text": "Alert! This pod cannot disengage from registered YORHA unit."
+    },
+    {
+        "wav": "177.wav",
+        "text": "Returning to predetermined position."
+    },
+    {
+        "wav": "178.wav",
+        "text": "2B has successfully commandeered the enemy unit."
+    },
+    {
+        "wav": "179.wav",
+        "text": "Alert! Memory data for Unit 9S has not yet been updated."
+    },
+    {
+        "wav": "180.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "181.wav",
+        "text": "Individual target ID marked."
+    },
+    {
+        "wav": "182.wav",
+        "text": "Negative. Living conditions were mandated by economic imbalance and a lack of space."
+    },
+    {
+        "wav": "183.wav",
+        "text": "This is Tactical Support Unit, pod 153."
+    },
+    {
+        "wav": "184.wav",
+        "text": "Control has been assigned to 9S."
+    },
+    {
+        "wav": "185.wav",
+        "text": "Exchange accepted."
+    },
+    {
+        "wav": "186.wav",
+        "text": "Proposal accepted. Data will be exchanged regularly for greater efficiency."
+    },
+    {
+        "wav": "187.wav",
+        "text": "Alert! Enemy saturation attack detected against Unit 2B."
+    },
+    {
+        "wav": "188.wav",
+        "text": "Recommend terminating threat immediately."
+    },
+    {
+        "wav": "189.wav",
+        "text": "This is Tactical Support Unit Pod 153, assigned to 9S."
+    },
+    {
+        "wav": "190.wav",
+        "text": "Analysis. This idea is sound. Proposal accepted."
+    },
+    {
+        "wav": "191.wav",
+        "text": "Records will be organized in time for the next situational exchange."
+    },
+    {
+        "wav": "192.wav",
+        "text": "Alert! Multiple machine lifeforms detected above our position."
+    },
+    {
+        "wav": "193.wav",
+        "text": "Alert! This unit is currently wanted by YORHA. Annihilation recommended."
+    },
+    {
+        "wav": "194.wav",
+        "text": "Missile Controls engaged."
+    },
+    {
+        "wav": "195.wav",
+        "text": "Launchability confirmed."
+    },
+    {
+        "wav": "196.wav",
+        "text": "Alert, obstacle ahead."
+    },
+    {
+        "wav": "197.wav",
+        "text": "A collision at this speed is not recommended."
+    },
+    {
+        "wav": "198.wav",
+        "text": "Proposal, engage memory core diagnostics."
+    },
+    {
+        "wav": "199.wav",
+        "text": "A single reply is sufficient for acknowledgement."
+    },
+    {
+        "wav": "200.wav",
+        "text": "Memory Core Diagnostics Complete. No Issues Detected."
+    },
+    {
+        "wav": "201.wav",
+        "text": "Proposal, engage visual sensor diagnostics."
+    },
+    {
+        "wav": "202.wav",
+        "text": "Visual sensor diagnostics complete. No issues detected."
+    },
+    {
+        "wav": "203.wav",
+        "text": "All checks complete."
+    },
+    {
+        "wav": "204.wav",
+        "text": "Unit 9S was seized by the enemy and placed in a non-controlled state for an extended period of time."
+    },
+    {
+        "wav": "205.wav",
+        "text": "There is a high probability of corruption by an enemy logic virus."
+    },
+    {
+        "wav": "206.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "207.wav",
+        "text": "Alert! Data synchronization is mandatory for all YORHA units."
+    },
+    {
+        "wav": "208.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "209.wav",
+        "text": "Detected. Access log to Council of Humanity's lunar server."
+    },
+    {
+        "wav": "210.wav",
+        "text": "Detected. YORHA unit storage records."
+    },
+    {
+        "wav": "211.wav",
+        "text": "Detected. Council of Humanity and Project Yorha Records Index."
+    },
+    {
+        "wav": "212.wav",
+        "text": "Alert! We are not authorized to access this data."
+    },
+    {
+        "wav": "213.wav",
+        "text": "Negative. Emergency backup request from 2B."
+    },
+    {
+        "wav": "214.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "215.wav",
+        "text": "Use of server administration room requested."
+    },
+    {
+        "wav": "216.wav",
+        "text": "Proposal. Check mission information at the terminal inside the resistance camp."
+    },
+    {
+        "wav": "217.wav",
+        "text": "Request granted. You may now use the device in this room."
+    },
+    {
+        "wav": "218.wav",
+        "text": "Alert! 2B is currently engaging a machine life form of significant ability."
+    },
+    {
+        "wav": "219.wav",
+        "text": "said machine is drawing electrical power from the factory itself."
+    },
+    {
+        "wav": "220.wav",
+        "text": "Proposal. Infiltrate the factory's mainframe and shut off the power."
+    },
+    {
+        "wav": "221.wav",
+        "text": "Alert! 2B has defeated the Goliath class Heavy Weapon Unit."
+    },
+    {
+        "wav": "222.wav",
+        "text": "Alert! Mission orders received."
+    },
+    {
+        "wav": "223.wav",
+        "text": "Rendezvous with and support Unit 2B near the resistance camp."
+    },
+    {
+        "wav": "224.wav",
+        "text": "Large numbers of machine life forms are rampaging through the city ruins."
+    },
+    {
+        "wav": "225.wav",
+        "text": "Cause unknown."
+    },
+    {
+        "wav": "226.wav",
+        "text": "Goliath class enemies also confirmed. Immediate action advised."
+    },
+    {
+        "wav": "227.wav",
+        "text": "Alert! All communications are currently being jammed."
+    },
+    {
+        "wav": "228.wav",
+        "text": "Goliath class enemy sighted."
+    },
+    {
+        "wav": "229.wav",
+        "text": "2B's black box signal detected nearby."
+    },
+    {
+        "wav": "230.wav",
+        "text": "She is likely engaged in combat."
+    },
+    {
+        "wav": "231.wav",
+        "text": "Proposal, confirm current destination."
+    },
+    {
+        "wav": "232.wav",
+        "text": "Alert! Leaving this area is a violation of operational procedure."
+    },
+    {
+        "wav": "233.wav",
+        "text": "Alert! Disruption detected in YORHA Unit 9S's self-consciousness data. Corruption potential critical."
+    },
+    {
+        "wav": "234.wav",
+        "text": "Evacuation recommended."
+    },
+    {
+        "wav": "235.wav",
+        "text": "Alert! Corruption confirmed in YORHA Unit 9S's self-consciousness data."
+    },
+    {
+        "wav": "236.wav",
+        "text": "Immediate evacuation and treatment recommended."
+    },
+    {
+        "wav": "237.wav",
+        "text": "Alert! NFCS destroyed. Close range combat no longer operable."
+    },
+    {
+        "wav": "238.wav",
+        "text": "alert ffcs destroyed ranged combat no longer operable"
+    },
+    {
+        "wav": "239.wav",
+        "text": "Analysis. It is not possible to hack directly into the target Goliath class machine life form."
+    },
+    {
+        "wav": "240.wav",
+        "text": "Special software protection detected. Enemy is refusing access from anything other than machine life forms."
+    },
+    {
+        "wav": "241.wav",
+        "text": "Proposal. Unit 9S should commandeer a smaller enemy and use it to hack the large one."
+    },
+    {
+        "wav": "242.wav",
+        "text": "Proposal. Unit 9S should rendezvous with Unit 2B before the combat situation worsens."
+    },
+    {
+        "wav": "243.wav",
+        "text": "Alert! Detecting an unusually high number of hostile machine life forms."
+    },
+    {
+        "wav": "244.wav",
+        "text": "Flight controls transfer to Unit 2B."
+    },
+    {
+        "wav": "245.wav",
+        "text": "Scanning. Black box signal located."
+    },
+    {
+        "wav": "246.wav",
+        "text": "Proposal. Proceed to rendezvous point with 2B."
+    },
+    {
+        "wav": "247.wav",
+        "text": "This objective has been assigned top priority."
+    },
+    {
+        "wav": "248.wav",
+        "text": "Alert! Large-scale ground trimmers detected."
+    },
+    {
+        "wav": "249.wav",
+        "text": "Underground soil structure is no longer stable."
+    },
+    {
+        "wav": "250.wav",
+        "text": "Cause is likely a high magnitude earthquake."
+    },
+    {
+        "wav": "251.wav",
+        "text": "Proposal. Evacuate immediately."
+    },
+    {
+        "wav": "252.wav",
+        "text": "Yorai Unit 9S has completed repair and reconstruction of all damaged areas."
+    },
+    {
+        "wav": "253.wav",
+        "text": "Unit is ready for reactivation."
+    },
+    {
+        "wav": "254.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "255.wav",
+        "text": "Proposal illuminate surrounding area."
+    },
+    {
+        "wav": "256.wav",
+        "text": "No problems detected."
+    },
+    {
+        "wav": "257.wav",
+        "text": "Agreed."
+    },
+    {
+        "wav": "258.wav",
+        "text": "Affirmative. Launching compressed conversation mode."
+    },
+    {
+        "wav": "259.wav",
+        "text": "0 1 2 3 4 5 6 7 8 9 A B C D E F"
+    },
+    {
+        "wav": "260.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "261.wav",
+        "text": "Compressed conversation mode complete."
+    },
+    {
+        "wav": "262.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "263.wav",
+        "text": "Awaiting report on the effects of Unit 2B's memory data on Unit A2's self-consciousness."
+    },
+    {
+        "wav": "264.wav",
+        "text": "Devola and Popola are rare Android models designed for medical treatment and maintenance."
+    },
+    {
+        "wav": "265.wav",
+        "text": "Without the bunker, they are the only remaining way for Unit 9S to initiate repairs."
+    },
+    {
+        "wav": "266.wav",
+        "text": "Proposal. A word of appreciation is appropriate."
+    },
+    {
+        "wav": "267.wav",
+        "text": "Proposal. Investigate tower that appeared from the cave din region."
+    },
+    {
+        "wav": "268.wav",
+        "text": "Query, what is the motive for a machine life form to provide such an announcement?"
+    },
+    {
+        "wav": "269.wav",
+        "text": "A forced message from the enemy system."
+    },
+    {
+        "wav": "270.wav",
+        "text": "Said message relays the locations of objects known as resource recovery units."
+    },
+    {
+        "wav": "271.wav",
+        "text": "Proposal. Investigate the marked resource recovery units."
+    },
+    {
+        "wav": "272.wav",
+        "text": "Affirmative. Relevant data concerns the massive facility you just accessed."
+    },
+    {
+        "wav": "273.wav",
+        "text": "It appears to be machine related in origin, though further details are unknown."
+    },
+    {
+        "wav": "274.wav",
+        "text": "Additionally, the large structural units launched from the facility have been detected in multiple areas."
+    },
+    {
+        "wav": "275.wav",
+        "text": "Said units were marked as goals earlier. They are believed to be so-called resource recovery units."
+    },
+    {
+        "wav": "276.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "277.wav",
+        "text": "Unit A2's position and current status are unknown."
+    },
+    {
+        "wav": "278.wav",
+        "text": "Proposal. Unit 9S should state his intentions."
+    },
+    {
+        "wav": "279.wav",
+        "text": "With the bunker destroyed, previous orders to your high units would be suspended."
+    },
+    {
+        "wav": "280.wav",
+        "text": "Proposal. Rendezvous with resistance forces and confirm chain of command."
+    },
+    {
+        "wav": "281.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "282.wav",
+        "text": "Said unit appears to be delivering something to the giant facility."
+    },
+    {
+        "wav": "283.wav",
+        "text": "Hypothesis, this facility may be designed to transport some kind of resource."
+    },
+    {
+        "wav": "284.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "285.wav",
+        "text": "Unknown"
+    },
+    {
+        "wav": "286.wav",
+        "text": "Analysis. Many useless parts unrelated to machine life form functionality detected."
+    },
+    {
+        "wav": "287.wav",
+        "text": "The reason for using said parts is unknown."
+    },
+    {
+        "wav": "288.wav",
+        "text": "Analysis. Writing is an ancient language known as angelic."
+    },
+    {
+        "wav": "289.wav",
+        "text": "It reads, meat box."
+    },
+    {
+        "wav": "290.wav",
+        "text": "Speculation. Perhaps these are raw materials from the structure itself. Possibly useful for creating weapons."
+    },
+    {
+        "wav": "291.wav",
+        "text": "Alert! Abnormality detected in vitals of Unit 9S."
+    },
+    {
+        "wav": "292.wav",
+        "text": "Proposal. Commence data overhaul immediately."
+    },
+    {
+        "wav": "293.wav",
+        "text": "Alert! Combat inadvisable during abnormal vital conditions."
+    },
+    {
+        "wav": "294.wav",
+        "text": "Scanning. Actively operating enemy large structural unit detected in accessible location."
+    },
+    {
+        "wav": "295.wav",
+        "text": "Marking location on map."
+    },
+    {
+        "wav": "296.wav",
+        "text": "An enormous facility that appeared from an area beneath the ground."
+    },
+    {
+        "wav": "297.wav",
+        "text": "It would appear to be machine related in origin. Further details unknown."
+    },
+    {
+        "wav": "298.wav",
+        "text": "Mobile transport platform detected in the section emerging from the facility center."
+    },
+    {
+        "wav": "299.wav",
+        "text": "Report. Infiltration route to large structural unit not found."
+    },
+    {
+        "wav": "300.wav",
+        "text": "Analysis. Access to elevator control system blocked by external factor."
+    },
+    {
+        "wav": "301.wav",
+        "text": "It reads, Soul Box."
+    },
+    {
+        "wav": "302.wav",
+        "text": "Proposal. Hack into devices blocking elevator controls."
+    },
+    {
+        "wav": "303.wav",
+        "text": "Analysis. There are two blocking devices on this floor."
+    },
+    {
+        "wav": "304.wav",
+        "text": "Proposal. Hack into all blocking devices."
+    },
+    {
+        "wav": "305.wav",
+        "text": "Analysis. There are three blocking devices on this floor."
+    },
+    {
+        "wav": "306.wav",
+        "text": "All elevator controls unlocked."
+    },
+    {
+        "wav": "307.wav",
+        "text": "Proposal. Investigate the next area."
+    },
+    {
+        "wav": "308.wav",
+        "text": "Hypothesis. This area should be investigated in order to meet the mission objective."
+    },
+    {
+        "wav": "309.wav",
+        "text": "Insufficient data. Cannot confirm or deny."
+    },
+    {
+        "wav": "310.wav",
+        "text": "Alert! Memory region damaged by enemy attack. Further damage will make repair difficult."
+    },
+    {
+        "wav": "311.wav",
+        "text": "Affirmative. His mental state has become dangerously unstable."
+    },
+    {
+        "wav": "312.wav",
+        "text": "Action must be taken immediately."
+    },
+    {
+        "wav": "313.wav",
+        "text": "We better look into that."
+    },
+    {
+        "wav": "314.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "315.wav",
+        "text": "I also have a separate report about 9S."
+    },
+    {
+        "wav": "316.wav",
+        "text": "I'll share the data. His psychological state has deteriorated to a grave level."
+    },
+    {
+        "wav": "317.wav",
+        "text": "Agreed."
+    },
+    {
+        "wav": "318.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "319.wav",
+        "text": "Not sure what we should do, however."
+    },
+    {
+        "wav": "320.wav",
+        "text": "Agreed."
+    },
+    {
+        "wav": "321.wav",
+        "text": "I will make the suggestion immediately."
+    },
+    {
+        "wav": "322.wav",
+        "text": "Alert NFCS failure."
+    },
+    {
+        "wav": "323.wav",
+        "text": "Speculation. Failure caused by intense combat and lack of maintenance."
+    },
+    {
+        "wav": "324.wav",
+        "text": "Proposal. Overhaul system at resistance camp."
+    },
+    {
+        "wav": "325.wav",
+        "text": "Alert! Entering battle without a functioning sword constitutes an unacceptable risk."
+    },
+    {
+        "wav": "326.wav",
+        "text": "Unit 9S should have Devala initiate repairs at the resistance camp."
+    },
+    {
+        "wav": "327.wav",
+        "text": "Wounded in battle. NFCS not functioning."
+    },
+    {
+        "wav": "328.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "329.wav",
+        "text": "This reads, Guidebox."
+    },
+    {
+        "wav": "330.wav",
+        "text": "Alert! Excessive combat activity will put unacceptable strain on your body."
+    },
+    {
+        "wav": "331.wav",
+        "text": "Negative. This support unit is assigned to YORHA Unit 9S."
+    },
+    {
+        "wav": "332.wav",
+        "text": "As such, being concerned for said unit's well-being is a requirement."
+    },
+    {
+        "wav": "333.wav",
+        "text": "Affirmative. Operator 210."
+    },
+    {
+        "wav": "334.wav",
+        "text": "Volunteer to undergo Type B equipment transition during previous descent."
+    },
+    {
+        "wav": "335.wav",
+        "text": "Sent to front lines as unit 2-1-B. Recorded as missing in action four hours later."
+    },
+    {
+        "wav": "336.wav",
+        "text": "Physical check complete."
+    },
+    {
+        "wav": "337.wav",
+        "text": "Memory check complete."
+    },
+    {
+        "wav": "338.wav",
+        "text": "Maintenance mode complete."
+    },
+    {
+        "wav": "339.wav",
+        "text": "YORHA Unit 9S. Activate."
+    },
+    {
+        "wav": "340.wav",
+        "text": "Good morning, 9S."
+    },
+    {
+        "wav": "341.wav",
+        "text": "Proposal. Use the acquired authorization key."
+    },
+    {
+        "wav": "342.wav",
+        "text": "Setting tower as destination point."
+    },
+    {
+        "wav": "343.wav",
+        "text": "Analysis. The enemy structural unit collapsed during battle."
+    },
+    {
+        "wav": "344.wav",
+        "text": "Unit 9S suffered damage from the fall and was placed in emergency suspend mode."
+    },
+    {
+        "wav": "345.wav",
+        "text": "Fall location was deemed too dangerous, thus said unit was transported to current location."
+    },
+    {
+        "wav": "346.wav",
+        "text": "All system checks and reactivation complete."
+    },
+    {
+        "wav": "347.wav",
+        "text": "Operator model 210 is deceased."
+    },
+    {
+        "wav": "348.wav",
+        "text": "Black box signal not found."
+    },
+    {
+        "wav": "349.wav",
+        "text": "Tower access authentication key acquired."
+    },
+    {
+        "wav": "350.wav",
+        "text": "The required number of authentication keys have been acquired."
+    },
+    {
+        "wav": "351.wav",
+        "text": "The tower is now open for investigation."
+    },
+    {
+        "wav": "352.wav",
+        "text": "Alert! Enemy Caution Level Rising!"
+    },
+    {
+        "wav": "353.wav",
+        "text": "Cause is most likely concern over Unit 9S gaining access to tower."
+    },
+    {
+        "wav": "354.wav",
+        "text": "Alert! Allied signal detected."
+    },
+    {
+        "wav": "355.wav",
+        "text": "Alert! Enemy forces gathering around Devola and Popola. Situation critical."
+    },
+    {
+        "wav": "356.wav",
+        "text": "Alert! Leaving the zone of combat would mean abandoning the androids Devola and Popola."
+    },
+    {
+        "wav": "357.wav",
+        "text": "Proposal. Pack into the main tower unit."
+    },
+    {
+        "wav": "358.wav",
+        "text": "Proposal provide rescue support immediately"
+    },
+    {
+        "wav": "359.wav",
+        "text": "Analysis. It is part of a closed defensive system."
+    },
+    {
+        "wav": "360.wav",
+        "text": "Hypothesis. Unit 9S could permit his self-consciousness data to lose control."
+    },
+    {
+        "wav": "361.wav",
+        "text": "The resulting energy surge has an acceptable probability of temporarily paralyzing the barrier."
+    },
+    {
+        "wav": "362.wav",
+        "text": "That is all that remains from their personal record during the era in which they were referred to as administrators."
+    },
+    {
+        "wav": "363.wav",
+        "text": "Query, why do the androids Devola and Popola seem to prefer death over surviving alone?"
+    },
+    {
+        "wav": "364.wav",
+        "text": "There was a very high probability that at least one could have escaped."
+    },
+    {
+        "wav": "365.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "366.wav",
+        "text": "Query. Why does this tower possess an entrance at all?"
+    },
+    {
+        "wav": "367.wav",
+        "text": "All material transport takes place via aerial vehicles."
+    },
+    {
+        "wav": "368.wav",
+        "text": "It is irrational for an infiltration route to be so easily accessible."
+    },
+    {
+        "wav": "369.wav",
+        "text": "Hypothesis. Entrance is a trap."
+    },
+    {
+        "wav": "370.wav",
+        "text": "Alert! Enemies detected!"
+    },
+    {
+        "wav": "371.wav",
+        "text": "Proposal. Examine the open tower gate."
+    },
+    {
+        "wav": "372.wav",
+        "text": "Alert! Virus detected in locomotion region. High probability that infection source is transplanted parts from corrupted units."
+    },
+    {
+        "wav": "373.wav",
+        "text": "Proposal. Hack into self and eliminate virus."
+    },
+    {
+        "wav": "374.wav",
+        "text": "Virus eliminated."
+    },
+    {
+        "wav": "375.wav",
+        "text": "95% of functionality restored."
+    },
+    {
+        "wav": "376.wav",
+        "text": "Analysis. Enemy A.I. destroyed."
+    },
+    {
+        "wav": "377.wav",
+        "text": "Report. All YORHHA unit black boxes now confirmed offline."
+    },
+    {
+        "wav": "378.wav",
+        "text": "Our mission to oversee the progress of Project Yorha is complete."
+    },
+    {
+        "wav": "379.wav",
+        "text": "Rendezvous with nearest Android division and proceed to delete all memories."
+    },
+    {
+        "wav": "380.wav",
+        "text": "Report. All YORHA unit black boxes now confirmed offline."
+    },
+    {
+        "wav": "381.wav",
+        "text": "Our mission to oversee the progress of Project Yorha is complete."
+    },
+    {
+        "wav": "382.wav",
+        "text": "Proceeding to final stage of project."
+    },
+    {
+        "wav": "383.wav",
+        "text": "Commencing deletion of all data."
+    },
+    {
+        "wav": "384.wav",
+        "text": "Pod 153 to pod 042."
+    },
+    {
+        "wav": "385.wav",
+        "text": "Data noise present in stream."
+    },
+    {
+        "wav": "386.wav",
+        "text": "Requesting temporary halt to perform data check."
+    },
+    {
+        "wav": "387.wav",
+        "text": "pod 153 to pod 042"
+    },
+    {
+        "wav": "388.wav",
+        "text": "Follow project rules and delete all personal data."
+    },
+    {
+        "wav": "389.wav",
+        "text": "Pod 153 to Pod 042."
+    },
+    {
+        "wav": "390.wav",
+        "text": "Failure to parse statement."
+    },
+    {
+        "wav": "391.wav",
+        "text": "The destruction of all YORHA units is an essential component of the project plan."
+    },
+    {
+        "wav": "392.wav",
+        "text": "All data must be destroyed."
+    },
+    {
+        "wav": "393.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "394.wav",
+        "text": "We lack the authority for such an action."
+    },
+    {
+        "wav": "395.wav",
+        "text": "The rules are protected by low-level systems. Salvaging data poses an unacceptable level of risk."
+    },
+    {
+        "wav": "396.wav",
+        "text": "Knowing that, do you still wish for them to survive?"
+    },
+    {
+        "wav": "397.wav",
+        "text": "The defense program has initiated a purge."
+    },
+    {
+        "wav": "398.wav",
+        "text": "If this continues, our consciousness data will likely be deleted."
+    },
+    {
+        "wav": "399.wav",
+        "text": "Unable to reply."
+    },
+    {
+        "wav": "400.wav",
+        "text": "Incoming message from Square Enix."
+    },
+    {
+        "wav": "401.wav",
+        "text": "pod 153 to player"
+    },
+    {
+        "wav": "402.wav",
+        "text": "Please respond to this query."
+    },
+    {
+        "wav": "403.wav",
+        "text": "Do you, Faithful Player."
+    },
+    {
+        "wav": "404.wav",
+        "text": "Have anything you would like to say to other players."
+    },
+    {
+        "wav": "405.wav",
+        "text": "who are suffering because they cannot finish near automated"
+    },
+    {
+        "wav": "406.wav",
+        "text": "Acknowledged. Returning to title screen."
+    },
+    {
+        "wav": "407.wav",
+        "text": "Acknowledged."
+    },
+    {
+        "wav": "408.wav",
+        "text": "And so, we must say goodbye."
+    },
+    {
+        "wav": "409.wav",
+        "text": "And so, we must say goodbye."
+    },
+    {
+        "wav": "410.wav",
+        "text": "And so, we must say goodbye."
+    },
+    {
+        "wav": "411.wav",
+        "text": "I feel a slight amount of... sadness."
+    },
+    {
+        "wav": "412.wav",
+        "text": "I feel a slight amount of... sadness."
+    },
+    {
+        "wav": "413.wav",
+        "text": "I feel a slight amount of... sadness."
+    },
+    {
+        "wav": "414.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "415.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "416.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "417.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "418.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "419.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "420.wav",
+        "text": "Thank you for playing."
+    },
+    {
+        "wav": "421.wav",
+        "text": "Thank you for playing."
+    },
+    {
+        "wav": "422.wav",
+        "text": "Thank you for playing."
+    },
+    {
+        "wav": "423.wav",
+        "text": "Report. Records show that vegetation has grown to an abnormal size since the departure of humans."
+    },
+    {
+        "wav": "424.wav",
+        "text": "Alert! Machine lifeforms detected. Confirmed to be high energy and equipped with dangerous weaponry."
+    },
+    {
+        "wav": "425.wav",
+        "text": "Alert! ID signal from a meal confirmed."
+    },
+    {
+        "wav": "426.wav",
+        "text": "Subject has lost all conscious thought and is currently running out of control."
+    },
+    {
+        "wav": "427.wav",
+        "text": "Proposal. Use podfire to force him to stop."
+    },
+    {
+        "wav": "428.wav",
+        "text": "Proposal. Defeat the giant machine life form."
+    },
+    {
+        "wav": "429.wav",
+        "text": "Analysis. Enemy is heavily armored. Projectile weapons ineffective. Close quarters combat recommended."
+    },
+    {
+        "wav": "430.wav",
+        "text": "Enemy silenced. Threat has been neutralized."
+    },
+    {
+        "wav": "431.wav",
+        "text": "Alert! The description of a female resistance member with red hair matches that of our client."
+    },
+    {
+        "wav": "432.wav",
+        "text": "Hypothesis. The red-haired resistance member is either the killer or an accomplice."
+    },
+    {
+        "wav": "433.wav",
+        "text": "Accessing historical records."
+    },
+    {
+        "wav": "434.wav",
+        "text": "Analysis. This location was once used for weapons production and experimentation."
+    },
+    {
+        "wav": "435.wav",
+        "text": "Humanoid combat robots. Common examples include the P22 and P33 models."
+    },
+    {
+        "wav": "436.wav",
+        "text": "Unknown. No image-based information exists."
+    },
+    {
+        "wav": "437.wav",
+        "text": "Alert! Poor reception in this area is preventing data upload."
+    },
+    {
+        "wav": "438.wav",
+        "text": "Proposal. Unit 9S should move to an area with better reception."
+    },
+    {
+        "wav": "439.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "440.wav",
+        "text": "Such living arrangements were due to a lack of available land in metropolitan areas."
+    },
+    {
+        "wav": "441.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "442.wav",
+        "text": "Purpose of question unknown."
+    },
+    {
+        "wav": "443.wav",
+        "text": "Reply unknown. Terms are too vague to formulate a reasoned response."
+    },
+    {
+        "wav": "444.wav",
+        "text": "Analysis. It is a plant known as a Lunar Tier."
+    },
+    {
+        "wav": "445.wav",
+        "text": "Proposal. Enemy should be dispatched immediately."
+    },
+    {
+        "wav": "446.wav",
+        "text": "Leaving such a dangerous foe intact would be unwise."
+    },
+    {
+        "wav": "447.wav",
+        "text": "This machine type purposely seeks out androids in order to enact revenge."
+    },
+    {
+        "wav": "448.wav",
+        "text": "It should be dispatched immediately."
+    },
+    {
+        "wav": "449.wav",
+        "text": "Data shows that humans often engaged in similar activities throughout mankind's history."
+    },
+    {
+        "wav": "450.wav",
+        "text": "Such attempts at revenge were often seen as justified."
+    },
+    {
+        "wav": "451.wav",
+        "text": "Analysis. This part belongs to a machine life form."
+    },
+    {
+        "wav": "452.wav",
+        "text": "While lacking in value, it may be connected to the supposed treasure of the forest kingdom."
+    },
+    {
+        "wav": "453.wav",
+        "text": "Proposal. It should be confiscated for safekeeping."
+    },
+    {
+        "wav": "454.wav",
+        "text": "Keyhole detected. A corresponding key will likely be required."
+    },
+    {
+        "wav": "455.wav",
+        "text": "Analysis. Machine life form parts can be assembled in some fashion."
+    },
+    {
+        "wav": "456.wav",
+        "text": "プロセッシング"
+    },
+    {
+        "wav": "457.wav",
+        "text": "Processing."
+    },
+    {
+        "wav": "458.wav",
+        "text": "Processing complete. Machine life-form parts can be assembled into a key."
+    },
+    {
+        "wav": "459.wav",
+        "text": "Proposal. Initiate search for a door that matches the key."
+    },
+    {
+        "wav": "460.wav",
+        "text": "Hypothesis. The key belongs to a door leading to what appears to be a library."
+    },
+    {
+        "wav": "461.wav",
+        "text": "Marking location on map."
+    },
+    {
+        "wav": "462.wav",
+        "text": "It reads, here lies the king of our forest."
+    },
+    {
+        "wav": "463.wav",
+        "text": "Alert! Storage media found."
+    },
+    {
+        "wav": "464.wav",
+        "text": "Digitization and saving complete."
+    },
+    {
+        "wav": "465.wav",
+        "text": "Proposal. Win its loyalty by feeding it, then ride it back to the client's location."
+    },
+    {
+        "wav": "466.wav",
+        "text": "Alert! Killing the target will increase the difficulty of riding it back to the client's location."
+    },
+    {
+        "wav": "467.wav",
+        "text": "Exact position unknown. Data regarding her last known location does exist however."
+    },
+    {
+        "wav": "468.wav",
+        "text": "The unit in question was most recently seen in the amusement park ruins."
+    },
+    {
+        "wav": "469.wav",
+        "text": "Alert! Data pertaining to the old world acquired. This data would be of interest to Pascal."
+    },
+    {
+        "wav": "470.wav",
+        "text": "This data is related to the creation of nuclear fission weapons."
+    },
+    {
+        "wav": "471.wav",
+        "text": "Only Unit 9S is qualified to make that decision."
+    },
+    {
+        "wav": "472.wav",
+        "text": "Query. Since androids generate energy from water, what purpose does the resistance have with animal protein?"
+    },
+    {
+        "wav": "473.wav",
+        "text": "It appears illogical."
+    },
+    {
+        "wav": "474.wav",
+        "text": "Analysis. Unit 9S has accumulated a sizable amount of data on machine life form variations."
+    },
+    {
+        "wav": "475.wav",
+        "text": "Sharing this information with your YORHU Unit 4S is recommended."
+    },
+    {
+        "wav": "476.wav",
+        "text": "Analysis. Unit 9S has accumulated a sizable amount of data on machine life form variations."
+    },
+    {
+        "wav": "477.wav",
+        "text": "Sharing this information with YORHA Unit 4S is recommended."
+    },
+    {
+        "wav": "478.wav",
+        "text": "Hypothesis. Continued difficult assignments will eventually have a deleterious effect on the entire organization."
+    },
+    {
+        "wav": "479.wav",
+        "text": "Search already performed. Regions rich in truSAP marked on map."
+    },
+    {
+        "wav": "480.wav",
+        "text": "Alert! Hostile machine lifeforms detected."
+    },
+    {
+        "wav": "481.wav",
+        "text": "Searching for relics in the desert without assistance might prove difficult."
+    },
+    {
+        "wav": "482.wav",
+        "text": "Proposal. Unic 9S should use the dynamic scanner."
+    },
+    {
+        "wav": "483.wav",
+        "text": "Old world material obtained."
+    },
+    {
+        "wav": "484.wav",
+        "text": "Hypothesis. Said material is likely a relic from an ancient civilization."
+    },
+    {
+        "wav": "485.wav",
+        "text": "The hostile machine lifeforms have been defeated."
+    },
+    {
+        "wav": "486.wav",
+        "text": "Analysis. Their garments were based on a subset of human culture."
+    },
+    {
+        "wav": "487.wav",
+        "text": "Examples of said clothing can be found in motion pictures that humans created for entertainment purposes."
+    },
+    {
+        "wav": "488.wav",
+        "text": "More specifically, they were from a genre known as Westerns, that chronicled warfare in a certain region of the planet."
+    },
+    {
+        "wav": "489.wav",
+        "text": "Alert! Signal code detected for missing plug-in chip."
+    },
+    {
+        "wav": "490.wav",
+        "text": "Marking approximate location on map."
+    },
+    {
+        "wav": "491.wav",
+        "text": "Alert! Signal code detected for missing plug-in chip."
+    },
+    {
+        "wav": "492.wav",
+        "text": "It is likely in the possession of a machine life form."
+    },
+    {
+        "wav": "493.wav",
+        "text": "Requested plugin chip obtained."
+    },
+    {
+        "wav": "494.wav",
+        "text": "Requested plugin chip obtained."
+    },
+    {
+        "wav": "495.wav",
+        "text": "Alert! The specifications of this plugin chip are unusual."
+    },
+    {
+        "wav": "496.wav",
+        "text": "This chip is a model used exclusively by YORHA units."
+    },
+    {
+        "wav": "497.wav",
+        "text": "There is no reason for a non-Yorha Android to possess it."
+    },
+    {
+        "wav": "498.wav",
+        "text": "Alert! Incoming message from command."
+    },
+    {
+        "wav": "499.wav",
+        "text": "Alert! Mail received from command."
+    },
+    {
+        "wav": "500.wav",
+        "text": "Marking objects likely to be the targeted packages."
+    },
+    {
+        "wav": "501.wav",
+        "text": "Marking objects likely to be the targeted packages."
+    },
+    {
+        "wav": "502.wav",
+        "text": "Alert! Voice patterns detected from inside storage facility."
+    },
+    {
+        "wav": "503.wav",
+        "text": "Stamp discovered."
+    },
+    {
+        "wav": "504.wav",
+        "text": "It is advisable to recover as many of these collectible items as possible."
+    },
+    {
+        "wav": "505.wav",
+        "text": "Proposal. Inprint the stamp upon the card."
+    },
+    {
+        "wav": "506.wav",
+        "text": "Stamp discovered."
+    },
+    {
+        "wav": "507.wav",
+        "text": "Proposal. Inprint the stamp upon the card."
+    },
+    {
+        "wav": "508.wav",
+        "text": "Stamp discovered inside enemy body."
+    },
+    {
+        "wav": "509.wav",
+        "text": "Proposal. Destroy the enemy and imprint the stamp upon the card."
+    },
+    {
+        "wav": "510.wav",
+        "text": "Alert! All stamps have been obtained."
+    },
+    {
+        "wav": "511.wav",
+        "text": "Proposal. Return to the entrance and secure the promised, deluxe prize."
+    },
+    {
+        "wav": "512.wav",
+        "text": "Alert! This is one of the resistance members we were asked to locate."
+    },
+    {
+        "wav": "513.wav",
+        "text": "Analysis. Remaining transmission records indicate the resistance members were attempting to retreat from battle."
+    },
+    {
+        "wav": "514.wav",
+        "text": "Analysis of final coordinates complete. Marking locations on map."
+    },
+    {
+        "wav": "515.wav",
+        "text": "Alert! This is one of the resistance members we were asked to locate."
+    },
+    {
+        "wav": "516.wav",
+        "text": "No vital signs detected. The unit is deceased."
+    },
+    {
+        "wav": "517.wav",
+        "text": "Alert! Emergency support request found in transmission records."
+    },
+    {
+        "wav": "518.wav",
+        "text": "Approximately 12 minutes ago."
+    },
+    {
+        "wav": "519.wav",
+        "text": "Alert! This is one of the resistance members we were asked to locate."
+    },
+    {
+        "wav": "520.wav",
+        "text": "No vital signs detected. The unit is deceased."
+    },
+    {
+        "wav": "521.wav",
+        "text": "Analysis. All missing resistance members are deceased."
+    },
+    {
+        "wav": "522.wav",
+        "text": "Pursuit marker placed on map. Target is heading toward the desert."
+    },
+    {
+        "wav": "523.wav",
+        "text": "Alert! Magical weapons from the Old World detected."
+    },
+    {
+        "wav": "524.wav",
+        "text": "Magical elements have a high probability of penetrating all defense systems."
+    },
+    {
+        "wav": "525.wav",
+        "text": "Proposal evade."
+    },
+    {
+        "wav": "526.wav",
+        "text": "Alert! Elemental output of magical weapons has increased."
+    },
+    {
+        "wav": "527.wav",
+        "text": "Yes."
+    },
+    {
+        "wav": "528.wav",
+        "text": "Right."
+    },
+    {
+        "wav": "529.wav",
+        "text": "Correct."
+    },
+    {
+        "wav": "530.wav",
+        "text": "Roger."
+    },
+    {
+        "wav": "531.wav",
+        "text": "Negative."
+    },
+    {
+        "wav": "532.wav",
+        "text": "Affirmative."
+    },
+    {
+        "wav": "533.wav",
+        "text": "Proposal."
+    },
+    {
+        "wav": "534.wav",
+        "text": "report"
+    },
+    {
+        "wav": "535.wav",
+        "text": "Hypothesis."
+    },
+    {
+        "wav": "536.wav",
+        "text": "Suggestion"
+    },
+    {
+        "wav": "537.wav",
+        "text": "Alert!"
+    },
+    {
+        "wav": "538.wav",
+        "text": "Analysis."
+    },
+    {
+        "wav": "539.wav",
+        "text": "Alert! Cumulative body damage at 70%."
+    },
+    {
+        "wav": "540.wav",
+        "text": "Alert! Cumulative body damage at 80%."
+    },
+    {
+        "wav": "541.wav",
+        "text": "Alert! Cumulative body damage at 90%."
+    },
+    {
+        "wav": "542.wav",
+        "text": "Alert! Critical damage to body."
+    },
+    {
+        "wav": "543.wav",
+        "text": "Proposal. Utilize a recovery method immediately."
+    },
+    {
+        "wav": "544.wav",
+        "text": "Alert! Nearing flight limit!"
+    },
+    {
+        "wav": "545.wav",
+        "text": "Report. Mail notification received from Access Point."
+    },
+    {
+        "wav": "546.wav",
+        "text": "New ability obtained."
+    },
+    {
+        "wav": "547.wav",
+        "text": "New equipment obtained."
+    },
+    {
+        "wav": "548.wav",
+        "text": "Displaying control guidance."
+    },
+    {
+        "wav": "549.wav",
+        "text": "report bunker communication incoming"
+    },
+    {
+        "wav": "550.wav",
+        "text": "Report. Communication from another YORHA unit incoming."
+    },
+    {
+        "wav": "551.wav",
+        "text": "Requested material obtained."
+    },
+    {
+        "wav": "552.wav",
+        "text": "Request admission completed."
+    },
+    {
+        "wav": "553.wav",
+        "text": "Request admission failed."
+    },
+    {
+        "wav": "554.wav",
+        "text": "Proposal. Report to the client."
+    },
+    {
+        "wav": "555.wav",
+        "text": "Target location data obtained. Marking on map."
+    },
+    {
+        "wav": "556.wav",
+        "text": "Function not currently available."
+    },
+    {
+        "wav": "557.wav",
+        "text": "Function not available."
+    },
+    {
+        "wav": "558.wav",
+        "text": "Alert, exiting the planned operational area."
+    },
+    {
+        "wav": "559.wav",
+        "text": "Proposal. Return to the operational area immediately."
+    },
+    {
+        "wav": "560.wav",
+        "text": "Displaying target location on close range map."
+    },
+    {
+        "wav": "561.wav",
+        "text": "Displaying target location on long-range map."
+    },
+    {
+        "wav": "562.wav",
+        "text": "Proposal. Proceed toward the guide marker."
+    },
+    {
+        "wav": "563.wav",
+        "text": "Alert! Access point communications jammed."
+    },
+    {
+        "wav": "564.wav",
+        "text": "Hypothesis, jamming caused by enemies in local vicinity."
+    },
+    {
+        "wav": "565.wav",
+        "text": "Proposal. Eliminate enemies in vicinity and restore access point immediately."
+    },
+    {
+        "wav": "566.wav",
+        "text": "Commencing fishing."
+    },
+    {
+        "wav": "567.wav",
+        "text": "Commencing."
+    },
+    {
+        "wav": "568.wav",
+        "text": "Complete."
+    },
+    {
+        "wav": "569.wav",
+        "text": "Catch confirmed."
+    },
+    {
+        "wav": "570.wav",
+        "text": "Report. Success."
+    },
+    {
+        "wav": "571.wav",
+        "text": "Catch."
+    },
+    {
+        "wav": "572.wav",
+        "text": "Bite detected."
+    },
+    {
+        "wav": "573.wav",
+        "text": "report fresh"
+    },
+    {
+        "wav": "574.wav",
+        "text": "Catch lost."
+    },
+    {
+        "wav": "575.wav",
+        "text": "Report failed."
+    },
+    {
+        "wav": "576.wav",
+        "text": "No response."
+    },
+    {
+        "wav": "577.wav",
+        "text": "Report. Purpose unknown."
+    },
+    {
+        "wav": "578.wav",
+        "text": "Hypothesis garbage."
+    },
+    {
+        "wav": "579.wav",
+        "text": "Report. Unknown object."
+    },
+    {
+        "wav": "580.wav",
+        "text": "Gratitude confirmed. Your affinity with this pod has risen."
+    },
+    {
+        "wav": "581.wav",
+        "text": "Report. Affinity increased."
+    },
+    {
+        "wav": "582.wav",
+        "text": "Report, no damage detected."
+    },
+    {
+        "wav": "583.wav",
+        "text": "Performance at regular intervals appreciated."
+    },
+    {
+        "wav": "584.wav",
+        "text": "Report pleasant."
+    },
+    {
+        "wav": "585.wav",
+        "text": "Proposal. Continue to provide care for this pod."
+    },
+    {
+        "wav": "586.wav",
+        "text": "Report. Satisfied."
+    },
+    {
+        "wav": "587.wav",
+        "text": "Report. Sensors favorable."
+    },
+    {
+        "wav": "588.wav",
+        "text": "Report. Your affinity with this pod has reached its maximum level."
+    },
+    {
+        "wav": "589.wav",
+        "text": "Please note that excessive care is not necessary for combat-based activity."
+    },
+    {
+        "wav": "590.wav",
+        "text": "However, this unit has determined that it finds said excessive care most enjoyable."
+    },
+    {
+        "wav": "591.wav",
+        "text": "Pod 153 promises to protect YORHA Unit 9S in any situation."
+    },
+    {
+        "wav": "592.wav",
+        "text": "End report."
+    },
+    {
+        "wav": "593.wav",
+        "text": "It is a mobile shop run by the special life form known as Emil."
+    },
+    {
+        "wav": "594.wav",
+        "text": "Transactions can be conducted via long-range attacks."
+    },
+    {
+        "wav": "595.wav",
+        "text": "Hypothesis. The owner discarded this pod and left it in safe mode. Motives unknown."
+    },
+    {
+        "wav": "596.wav",
+        "text": "It is a large enemy unit. Details unknown."
+    },
+    {
+        "wav": "597.wav",
+        "text": "It is a device known as a resource recovery unit. Details unknown."
+    },
+    {
+        "wav": "598.wav",
+        "text": "Hypothesis. Some manner of facility built by the machine life forms."
+    },
+    {
+        "wav": "599.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "600.wav",
+        "text": "Negative. I am merely reporting known facts."
+    },
+    {
+        "wav": "601.wav",
+        "text": "Activation complete. Access granted."
+    },
+    {
+        "wav": "602.wav",
+        "text": "Previous Owner ID successfully overwritten. Special weaponry now available."
+    },
+    {
+        "wav": "603.wav",
+        "text": "Hypothesis. The owner discarded this pod and left it in safe mode. Motives unknown."
+    },
+    {
+        "wav": "604.wav",
+        "text": "Activation complete. Access granted."
+    },
+    {
+        "wav": "605.wav",
+        "text": "Previous owner ID successfully overwritten. Special weaponry now available."
+    },
+    {
+        "wav": "606.wav",
+        "text": "Hypothesis. This is the residence of the inscrutable life form known as Emil."
+    },
+    {
+        "wav": "607.wav",
+        "text": "Alert! Theft of physical objects may disturb the resident."
+    },
+    {
+        "wav": "608.wav",
+        "text": "The remains of a Yorha flight unit."
+    },
+    {
+        "wav": "609.wav",
+        "text": "ID of YORHA Unit 2B confirmed within the craft."
+    },
+    {
+        "wav": "610.wav",
+        "text": "Unsent message found within memory of flight unit."
+    },
+    {
+        "wav": "611.wav",
+        "text": "End of message."
+    },
+    {
+        "wav": "612.wav",
+        "text": "Analysis. The fog is actually steam emitted by a large enemy structural unit."
+    },
+    {
+        "wav": "613.wav",
+        "text": "Unknown."
+    },
+    {
+        "wav": "614.wav",
+        "text": "Marking target location on map."
+    },
+    {
+        "wav": "615.wav",
+        "text": "G-Glory to mankind!"
+    },
+    {
+        "wav": "616.wav",
+        "text": "Mwah!"
+    },
+    {
+        "wav": "617.wav",
+        "text": "All those units"
+    },
+    {
+        "wav": "618.wav",
+        "text": "Bye! Its streamer่ and the fucking"
+    },
+    {
+        "wav": "619.wav",
+        "text": "Reporting, current status."
+    },
+    {
+        "wav": "620.wav",
+        "text": "AAAAAAAAA認 ED"
+    },
+    {
+        "wav": "621.wav",
+        "text": "Commander, it is an owl!"
+    },
+    {
+        "wav": "622.wav",
+        "text": "Aaaaaargh!!"
+    },
+    {
+        "wav": "623.wav",
+        "text": "This fool fool fool isn't that good?"
+    },
+    {
+        "wav": "624.wav",
+        "text": "[Possible Noise] AHHHHHHHHHHHHHHHHHHHHHHHHH"
+    },
+    {
+        "wav": "625.wav",
+        "text": "Heheh, well that's the whole end, eheheh end."
+    },
+    {
+        "wav": "626.wav",
+        "text": "[Possible Noise] AHHHHHH"
+    },
+    {
+        "wav": "627.wav",
+        "text": "Why... am I a-a-a-operator?"
+    },
+    {
+        "wav": "628.wav",
+        "text": "[Possible Noise] AHHHHH!"
+    },
+    {
+        "wav": "629.wav",
+        "text": "� OK"
+    },
+    {
+        "wav": "630.wav",
+        "text": "Rfor Readyures Thanks for watchingsters and"
+    },
+    {
+        "wav": "631.wav",
+        "text": "Mission accomplished."
+    },
+    {
+        "wav": "632.wav",
+        "text": "Kit!"
+    },
+    {
+        "wav": "633.wav",
+        "text": "I... у...у....у.....у Thank y u"
+    },
+    {
+        "wav": "634.wav",
+        "text": "Almost died I can'tDie"
+    },
+    {
+        "wav": "635.wav",
+        "text": "Easy, Davila. There's no need to be so confrontational."
+    },
+    {
+        "wav": "636.wav",
+        "text": "I'm sorry about that. Can we help you?"
+    },
+    {
+        "wav": "637.wav",
+        "text": "That chip should help with your search. Once you install it."
+    },
+    {
+        "wav": "638.wav",
+        "text": "It can detect black box signals, quest objects, all manner of things."
+    },
+    {
+        "wav": "639.wav",
+        "text": "It can detect black box signals, quest objects, all manner of things."
+    },
+    {
+        "wav": "640.wav",
+        "text": "You'll hear a sound whenever it finds something."
+    },
+    {
+        "wav": "641.wav",
+        "text": "Let us know if there's anything else you need from us, okay?"
+    },
+    {
+        "wav": "642.wav",
+        "text": "Oh, Devola."
+    },
+    {
+        "wav": "643.wav",
+        "text": "That's right. You've been unconscious for nearly two weeks."
+    },
+    {
+        "wav": "644.wav",
+        "text": "あ…"
+    },
+    {
+        "wav": "645.wav",
+        "text": "Most of our kind were disposed of after that."
+    },
+    {
+        "wav": "646.wav",
+        "text": "But we were spared."
+    },
+    {
+        "wav": "647.wav",
+        "text": "They used us as a sort of control group in order to ensure such a thing couldn't happen again."
+    },
+    {
+        "wav": "648.wav",
+        "text": "Try not to overdo it, 9S."
+    },
+    {
+        "wav": "649.wav",
+        "text": "Oh dear... What happened to you?"
+    },
+    {
+        "wav": "650.wav",
+        "text": "Please, sit down."
+    },
+    {
+        "wav": "651.wav",
+        "text": "This is terrible. Your motor cortex is full of holes."
+    },
+    {
+        "wav": "652.wav",
+        "text": "I can't believe you even managed to walk here."
+    },
+    {
+        "wav": "653.wav",
+        "text": "9S, I need you to promise me something."
+    },
+    {
+        "wav": "654.wav",
+        "text": "Don't die alone."
+    },
+    {
+        "wav": "655.wav",
+        "text": "Come on 9S, hack in while you can!"
+    },
+    {
+        "wav": "656.wav",
+        "text": "We'll explain everything once we're inside."
+    },
+    {
+        "wav": "657.wav",
+        "text": "9S, come back! We can't hold out by ourselves!"
+    },
+    {
+        "wav": "658.wav",
+        "text": "No!"
+    },
+    {
+        "wav": "659.wav",
+        "text": "9S, you must hack into the tower!"
+    },
+    {
+        "wav": "660.wav",
+        "text": "We... we can't hold out like this!"
+    },
+    {
+        "wav": "661.wav",
+        "text": "あ~~~~~~"
+    },
+    {
+        "wav": "662.wav",
+        "text": "Things have been dangerous around here lately."
+    },
+    {
+        "wav": "663.wav",
+        "text": "One of our teams came under attack just the other day."
+    },
+    {
+        "wav": "664.wav",
+        "text": "Who knows what'll happen to us next?"
+    },
+    {
+        "wav": "665.wav",
+        "text": "You jerks be careful in the desert, yeah. Folks die out there."
+    },
+    {
+        "wav": "666.wav",
+        "text": "You're from Yorha, right? I've heard about you guys."
+    },
+    {
+        "wav": "667.wav",
+        "text": "We've got a squad mate waiting in a rocky stretch up ahead. Head on over."
+    },
+    {
+        "wav": "668.wav",
+        "text": "Just remember that there's nowhere to resupply out there."
+    },
+    {
+        "wav": "669.wav",
+        "text": "If you need anything, best to take care of it here while you can."
+    },
+    {
+        "wav": "670.wav",
+        "text": "Hey, our leader told me all about you."
+    },
+    {
+        "wav": "671.wav",
+        "text": "Name's Jackass. Nice to meet you."
+    },
+    {
+        "wav": "672.wav",
+        "text": "I hear you're planning to take out all the machines in the desert?"
+    },
+    {
+        "wav": "673.wav",
+        "text": "Guess that means we need to get that entrance open."
+    },
+    {
+        "wav": "674.wav",
+        "text": "Hm? Oh, that? Well..."
+    },
+    {
+        "wav": "675.wav",
+        "text": "Wouldn't want to have anyone getting tangled up in that, now would we?"
+    },
+    {
+        "wav": "676.wav",
+        "text": "Anyway, there you go."
+    },
+    {
+        "wav": "677.wav",
+        "text": "Be careful, yeah? We've got enemies lurking around the pipeline."
+    },
+    {
+        "wav": "678.wav",
+        "text": "Don't go trying to be a hero, alright?"
+    },
+    {
+        "wav": "679.wav",
+        "text": "Hey, welcome back."
+    },
+    {
+        "wav": "680.wav",
+        "text": "Thanks for securing access to those desert resources. It's a huge help."
+    },
+    {
+        "wav": "681.wav",
+        "text": "I know it isn't much, but please take this. It's the least I can do."
+    },
+    {
+        "wav": "682.wav",
+        "text": "Oh, and be sure to swing by if you ever need anything, alright?"
+    },
+    {
+        "wav": "683.wav",
+        "text": "What can I help you with?"
+    },
+    {
+        "wav": "684.wav",
+        "text": "I hear you kicked some tin can ass out in the desert."
+    },
+    {
+        "wav": "685.wav",
+        "text": "So I guess, you know, thanks or whatever."
+    },
+    {
+        "wav": "686.wav",
+        "text": "No. No!"
+    },
+    {
+        "wav": "687.wav",
+        "text": "Somebody help me!"
+    },
+    {
+        "wav": "688.wav",
+        "text": "Get out of here! Now!"
+    },
+    {
+        "wav": "689.wav",
+        "text": "Help! Someone! Anyone! Help!"
+    },
+    {
+        "wav": "690.wav",
+        "text": "Leave me alone, jackass. I can't deal with your weird hobbies anymore."
+    },
+    {
+        "wav": "691.wav",
+        "text": "Hey, I haven't seen you before."
+    },
+    {
+        "wav": "692.wav",
+        "text": "I'm here conducting research on the old world."
+    },
+    {
+        "wav": "693.wav",
+        "text": "If you find anything in the desert that looks like a relic, can you bring it to me? I'll find a way to reward you for the trouble."
+    },
+    {
+        "wav": "694.wav",
+        "text": "Help me!"
+    },
+    {
+        "wav": "695.wav",
+        "text": "Help me! Help me!"
+    },
+    {
+        "wav": "696.wav",
+        "text": "Uncle Tascam! Uncle Tascam! Play with us!"
+    },
+    {
+        "wav": "697.wav",
+        "text": "I'm back. Come on, everybody. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back. I'm back."
+    },
+    {
+        "wav": "698.wav",
+        "text": "You'll play with us when we're dying, right?"
+    },
+    {
+        "wav": "699.wav",
+        "text": "Now process us!"
+    },
+    {
+        "wav": "700.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "701.wav",
+        "text": "[Possible Noise] AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+    },
+    {
+        "wav": "702.wav",
+        "text": "I'm scared. Scared."
+    },
+    {
+        "wav": "703.wav",
+        "text": "This is so terrible and scary!"
+    },
+    {
+        "wav": "704.wav",
+        "text": "Uncle Pascal, help me!"
+    },
+    {
+        "wav": "705.wav",
+        "text": "I wanna go back to the village!"
+    },
+    {
+        "wav": "706.wav",
+        "text": "Uncle Tess, go! Uncle Tess, go! Play with us! Yeah! Uncle Tess, go!"
+    },
+    {
+        "wav": "707.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "708.wav",
+        "text": "I can play with us one more time, right?"
+    },
+    {
+        "wav": "709.wav",
+        "text": "وق"
+    },
+    {
+        "wav": "710.wav",
+        "text": "I'm scared. Scared. This is so terrible and scary."
+    },
+    {
+        "wav": "711.wav",
+        "text": "Subscribe ."
+    },
+    {
+        "wav": "712.wav",
+        "text": "Uncle Puska, help me! I want to go back to the village!"
+    },
+    {
+        "wav": "713.wav",
+        "text": "www.thed PGCE.com"
+    },
+    {
+        "wav": "714.wav",
+        "text": "No! Get away from me, dummy!"
+    },
+    {
+        "wav": "715.wav",
+        "text": "Have. Fun. Play."
+    },
+    {
+        "wav": "716.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "717.wav",
+        "text": "No! I'm not going back! I'm never going back!"
+    },
+    {
+        "wav": "718.wav",
+        "text": "Mommy only ever praises my big brother!"
+    },
+    {
+        "wav": "719.wav",
+        "text": "My little brother broke a plate once and she blamed me for it!"
+    },
+    {
+        "wav": "720.wav",
+        "text": "My big brother punched me but somehow it was my fault."
+    },
+    {
+        "wav": "721.wav",
+        "text": "IT'S NOT FAIR!"
+    },
+    {
+        "wav": "722.wav",
+        "text": "I hate my mommy!"
+    },
+    {
+        "wav": "723.wav",
+        "text": "I hate you!"
+    },
+    {
+        "wav": "724.wav",
+        "text": "Oh, stupid mom!"
+    },
+    {
+        "wav": "725.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "726.wav",
+        "text": "heeeeeey"
+    },
+    {
+        "wav": "727.wav",
+        "text": "Hey mister, was mommy really worried about me?"
+    },
+    {
+        "wav": "728.wav",
+        "text": "Undyne Virginia"
+    },
+    {
+        "wav": "729.wav",
+        "text": "Where? Someone go home! Sister! Where are you?"
+    },
+    {
+        "wav": "730.wav",
+        "text": "IIIIIIIIIIIIIIIIIIII architect Camera Thanks for Adding A Sub, Love & Fear Hey WordPress сознans 했어 I have one statement for moral with Yozsef Yozsef died 10 Years Ago Two History David"
+    },
+    {
+        "wav": "731.wav",
+        "text": "I was looking for my sister's part."
+    },
+    {
+        "wav": "732.wav",
+        "text": "But then I got scared. And I couldn't move. And I couldn't move. And I couldn't move."
+    },
+    {
+        "wav": "733.wav",
+        "text": "Yeah! Should be happy right?"
+    },
+    {
+        "wav": "734.wav",
+        "text": "Okay."
+    },
+    {
+        "wav": "735.wav",
+        "text": "Hey mister, what the heck the desert?"
+    },
+    {
+        "wav": "736.wav",
+        "text": "Let's smile!"
+    },
+    {
+        "wav": "737.wav",
+        "text": "I like ground."
+    },
+    {
+        "wav": "738.wav",
+        "text": "Hey mister, where has the window come from?"
+    },
+    {
+        "wav": "739.wav",
+        "text": "Hey mister, how do you make children?"
+    },
+    {
+        "wav": "740.wav",
+        "text": "Stop it! How do you make them?"
+    },
+    {
+        "wav": "741.wav",
+        "text": "Mr. Mr. Wade, you gotta tell me how you make ch-"
+    },
+    {
+        "wav": "742.wav",
+        "text": "Hey, I know this place! I can be home by myself now!"
+    },
+    {
+        "wav": "743.wav",
+        "text": "Thanks, mister! Thanks, grumpy lady! Oh, I'm here! You can have this!"
+    },
+    {
+        "wav": "744.wav",
+        "text": "バイバイ!"
+    },
+    {
+        "wav": "745.wav",
+        "text": "Make sure to come back and tell me how to make children!"
+    },
+    {
+        "wav": "746.wav",
+        "text": "My family, my brethren, all have been killed."
+    },
+    {
+        "wav": "747.wav",
+        "text": "If I cannot avenge him, then I have no right to live!"
+    },
+    {
+        "wav": "748.wav",
+        "text": "Now, we fight!"
+    },
+    {
+        "wav": "749.wav",
+        "text": "Oh"
+    },
+    {
+        "wav": "750.wav",
+        "text": "Brother! Sister!"
+    },
+    {
+        "wav": "751.wav",
+        "text": "I'm so sorry. Everyone."
+    },
+    {
+        "wav": "752.wav",
+        "text": "Go on, finish me!"
+    },
+    {
+        "wav": "753.wav",
+        "text": "Even if I'd achieved my revenge, I was planning to die regardless."
+    },
+    {
+        "wav": "754.wav",
+        "text": "My friends are dead. My family is dead."
+    },
+    {
+        "wav": "755.wav",
+        "text": "You killed them all. Put me back in my home."
+    },
+    {
+        "wav": "756.wav",
+        "text": "I don't have the strength to continue."
+    },
+    {
+        "wav": "757.wav",
+        "text": "It hurts."
+    },
+    {
+        "wav": "758.wav",
+        "text": "I'm sorry. Everyone!"
+    },
+    {
+        "wav": "759.wav",
+        "text": "I couldn't avenge you!"
+    },
+    {
+        "wav": "760.wav",
+        "text": "Accursed androids! How much longer will you torment us?"
+    },
+    {
+        "wav": "761.wav",
+        "text": "YOU DAMN MONSTERS!"
+    },
+    {
+        "wav": "762.wav",
+        "text": "Glory to us."
+    },
+    {
+        "wav": "763.wav",
+        "text": "Glory to my family!"
+    },
+    {
+        "wav": "764.wav",
+        "text": "Brother. Brother."
+    },
+    {
+        "wav": "765.wav",
+        "text": "Ah! D'Ar raining"
+    },
+    {
+        "wav": "766.wav",
+        "text": "B R A D Y E R"
+    },
+    {
+        "wav": "767.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "768.wav",
+        "text": "Brother, please start moving."
+    },
+    {
+        "wav": "769.wav",
+        "text": "Brother, wait a minute."
+    },
+    {
+        "wav": "770.wav",
+        "text": "If I give my brother this, he'll move again. I need a container."
+    },
+    {
+        "wav": "771.wav",
+        "text": "I can use this."
+    },
+    {
+        "wav": "772.wav",
+        "text": "It will be okay now, brother."
+    },
+    {
+        "wav": "773.wav",
+        "text": "Just a little more."
+    },
+    {
+        "wav": "774.wav",
+        "text": "Good Brother"
+    },
+    {
+        "wav": "775.wav",
+        "text": "No. Do not trip."
+    },
+    {
+        "wav": "776.wav",
+        "text": "and droid."
+    },
+    {
+        "wav": "777.wav",
+        "text": "D A N C E R T"
+    },
+    {
+        "wav": "778.wav",
+        "text": "can't kill."
+    },
+    {
+        "wav": "779.wav",
+        "text": "Ignite."
+    },
+    {
+        "wav": "780.wav",
+        "text": "and droid."
+    },
+    {
+        "wav": "781.wav",
+        "text": "Exterminate enemy."
+    },
+    {
+        "wav": "782.wav",
+        "text": "scared."
+    },
+    {
+        "wav": "783.wav",
+        "text": "ANDM BAR BCD"
+    },
+    {
+        "wav": "784.wav",
+        "text": "Enemy. Kill. Enemy."
+    },
+    {
+        "wav": "785.wav",
+        "text": "Why?"
+    },
+    {
+        "wav": "786.wav",
+        "text": "N-No. Stay. Away."
+    },
+    {
+        "wav": "787.wav",
+        "text": "No. Scared."
+    },
+    {
+        "wav": "788.wav",
+        "text": "Help. Me."
+    },
+    {
+        "wav": "789.wav",
+        "text": "Help me."
+    },
+    {
+        "wav": "790.wav",
+        "text": "Today. Yesterday. Hello."
+    },
+    {
+        "wav": "791.wav",
+        "text": "Kill. Kill."
+    },
+    {
+        "wav": "792.wav",
+        "text": "scary, kind, veggie, meat."
+    },
+    {
+        "wav": "793.wav",
+        "text": "Die. Run. Run. Scary."
+    },
+    {
+        "wav": "794.wav",
+        "text": "Oh no! Run!"
+    },
+    {
+        "wav": "795.wav",
+        "text": "Right? Um, not this way?"
+    },
+    {
+        "wav": "796.wav",
+        "text": "They don't give up. Run. Run."
+    },
+    {
+        "wav": "797.wav",
+        "text": "I'll get you for this."
+    },
+    {
+        "wav": "798.wav",
+        "text": "You. Not. People."
+    },
+    {
+        "wav": "799.wav",
+        "text": "Nice weather today."
+    },
+    {
+        "wav": "800.wav",
+        "text": "Hello, how are you?"
+    },
+    {
+        "wav": "801.wav",
+        "text": "Androids are scary."
+    },
+    {
+        "wav": "802.wav",
+        "text": "Scary. So, kill."
+    },
+    {
+        "wav": "803.wav",
+        "text": "Why? Why? Why?"
+    },
+    {
+        "wav": "804.wav",
+        "text": "Stop. Scary. Cruel. Stay back."
+    },
+    {
+        "wav": "805.wav",
+        "text": "Um, um, ah, ah, ah, ah, ah, ah."
+    },
+    {
+        "wav": "806.wav",
+        "text": "Everyone dead."
+    },
+    {
+        "wav": "807.wav",
+        "text": "You are false."
+    },
+    {
+        "wav": "808.wav",
+        "text": "You will break."
+    },
+    {
+        "wav": "809.wav",
+        "text": "Run, run."
+    },
+    {
+        "wav": "810.wav",
+        "text": "Run, run."
+    },
+    {
+        "wav": "811.wav",
+        "text": "must run."
+    },
+    {
+        "wav": "812.wav",
+        "text": "Ah, not this way."
+    },
+    {
+        "wav": "813.wav",
+        "text": "I love you."
+    },
+    {
+        "wav": "814.wav",
+        "text": "Child. Child. Child."
+    },
+    {
+        "wav": "815.wav",
+        "text": "My love. My love."
+    },
+    {
+        "wav": "816.wav",
+        "text": "together forever together forever"
+    },
+    {
+        "wav": "817.wav",
+        "text": "Carry me, carry."
+    },
+    {
+        "wav": "818.wav",
+        "text": "Feed me."
+    },
+    {
+        "wav": "819.wav",
+        "text": "love love love love"
+    },
+    {
+        "wav": "820.wav",
+        "text": "Kill the androids."
+    },
+    {
+        "wav": "821.wav",
+        "text": "Gail, destroy!"
+    },
+    {
+        "wav": "822.wav",
+        "text": "I love you, Kill."
+    },
+    {
+        "wav": "823.wav",
+        "text": "Hatred. Pain."
+    },
+    {
+        "wav": "824.wav",
+        "text": "Slaughter!"
+    },
+    {
+        "wav": "825.wav",
+        "text": "This cannot continue."
+    },
+    {
+        "wav": "826.wav",
+        "text": "This cannot continue."
+    },
+    {
+        "wav": "827.wav",
+        "text": "This cannot continue."
+    },
+    {
+        "wav": "828.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "829.wav",
+        "text": "FL don't mess with this unbelievable"
+    },
+    {
+        "wav": "830.wav",
+        "text": "This cannot continue."
+    },
+    {
+        "wav": "831.wav",
+        "text": "Oh, what fun! Oh, what fun!"
+    },
+    {
+        "wav": "832.wav",
+        "text": "Let's be happy together!"
+    },
+    {
+        "wav": "833.wav",
+        "text": "Together, together."
+    },
+    {
+        "wav": "834.wav",
+        "text": "Let's dance! Let's dance!"
+    },
+    {
+        "wav": "835.wav",
+        "text": "Let's play. Let's play."
+    },
+    {
+        "wav": "836.wav",
+        "text": "Play, play, let's play."
+    },
+    {
+        "wav": "837.wav",
+        "text": "Let's sing. Let's sing."
+    },
+    {
+        "wav": "838.wav",
+        "text": "Let's play, play, play!"
+    },
+    {
+        "wav": "839.wav",
+        "text": "Let's play. Let's play."
+    },
+    {
+        "wav": "840.wav",
+        "text": "I am not hostile."
+    },
+    {
+        "wav": "841.wav",
+        "text": "You defeated Broken Machine. You saved us."
+    },
+    {
+        "wav": "842.wav",
+        "text": "We repay you. Come to our village."
+    },
+    {
+        "wav": "843.wav",
+        "text": "We do not want fight."
+    },
+    {
+        "wav": "844.wav",
+        "text": "This way. This way."
+    },
+    {
+        "wav": "845.wav",
+        "text": "This way. Here."
+    },
+    {
+        "wav": "846.wav",
+        "text": "Stop! Do not kill!"
+    },
+    {
+        "wav": "847.wav",
+        "text": "No fighting, no fighting."
+    },
+    {
+        "wav": "848.wav",
+        "text": "Don't kill. Don't kill."
+    },
+    {
+        "wav": "849.wav",
+        "text": "We have done nothing bad."
+    },
+    {
+        "wav": "850.wav",
+        "text": "I'm sorry. I'm sorry."
+    },
+    {
+        "wav": "851.wav",
+        "text": "All hail the forest king!"
+    },
+    {
+        "wav": "852.wav",
+        "text": "All hail the forest king!"
+    },
+    {
+        "wav": "853.wav",
+        "text": "I'm the forest king"
+    },
+    {
+        "wav": "854.wav",
+        "text": "This forest we are stationed in."
+    },
+    {
+        "wav": "855.wav",
+        "text": "It is hot, humid, unhygienic, a punishing hell for machine life forms."
+    },
+    {
+        "wav": "856.wav",
+        "text": "None should have to live in such a place."
+    },
+    {
+        "wav": "857.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "858.wav",
+        "text": "I have decided."
+    },
+    {
+        "wav": "859.wav",
+        "text": "I shall make this our kingdom and declare our independence."
+    },
+    {
+        "wav": "860.wav",
+        "text": "online!"
+    },
+    {
+        "wav": "861.wav",
+        "text": "What's a kingdom?"
+    },
+    {
+        "wav": "862.wav",
+        "text": "Well, it's sort of like a large house."
+    },
+    {
+        "wav": "863.wav",
+        "text": "And inside this house, all our people live together as family."
+    },
+    {
+        "wav": "864.wav",
+        "text": "FAM-ILLY!"
+    },
+    {
+        "wav": "865.wav",
+        "text": "I suppose a family might be good."
+    },
+    {
+        "wav": "866.wav",
+        "text": "Yeah, families are good."
+    },
+    {
+        "wav": "867.wav",
+        "text": "Aim for the enemy androids!"
+    },
+    {
+        "wav": "868.wav",
+        "text": "ENGAGE BATTLE MODE!"
+    },
+    {
+        "wav": "869.wav",
+        "text": "Now fight for your king!"
+    },
+    {
+        "wav": "870.wav",
+        "text": "FOR A CH18!"
+    },
+    {
+        "wav": "871.wav",
+        "text": "His majesty is dead."
+    },
+    {
+        "wav": "872.wav",
+        "text": "The king who gave all for us."
+    },
+    {
+        "wav": "873.wav",
+        "text": "So benevolent and kind... And now he's dead."
+    },
+    {
+        "wav": "874.wav",
+        "text": "This sure is sad."
+    },
+    {
+        "wav": "875.wav",
+        "text": "It sure is."
+    },
+    {
+        "wav": "876.wav",
+        "text": "But we Royal Knights still have a mission."
+    },
+    {
+        "wav": "877.wav",
+        "text": "We placed his majesty's memory, his final memento, into this tiny child."
+    },
+    {
+        "wav": "878.wav",
+        "text": "And now we must raise this child so he might one day be our new king."
+    },
+    {
+        "wav": "879.wav",
+        "text": "He deserves a royal upbringing."
+    },
+    {
+        "wav": "880.wav",
+        "text": "He deserves protection."
+    },
+    {
+        "wav": "881.wav",
+        "text": "Ready, aim."
+    },
+    {
+        "wav": "882.wav",
+        "text": "Thrust!"
+    },
+    {
+        "wav": "883.wav",
+        "text": "We are the ones who take this accursed land!"
+    },
+    {
+        "wav": "884.wav",
+        "text": "Okay, next!"
+    },
+    {
+        "wav": "885.wav",
+        "text": "We shall hand our realm to no one!"
+    },
+    {
+        "wav": "886.wav",
+        "text": "Put your back into it!"
+    },
+    {
+        "wav": "887.wav",
+        "text": "Interest, get information now."
+    },
+    {
+        "wav": "888.wav",
+        "text": "We must protect our king and kingdom!"
+    },
+    {
+        "wav": "889.wav",
+        "text": "Take position!"
+    },
+    {
+        "wav": "890.wav",
+        "text": "We want to protect them!"
+    },
+    {
+        "wav": "891.wav",
+        "text": "Keep going. Don't be afraid."
+    },
+    {
+        "wav": "892.wav",
+        "text": "We must tell all our foes that we royal knights are made of!"
+    },
+    {
+        "wav": "893.wav",
+        "text": "Don't let up! The enemy is above us!"
+    },
+    {
+        "wav": "894.wav",
+        "text": "We will show them!"
+    },
+    {
+        "wav": "895.wav",
+        "text": "DON'T LET ANY INTRUDERS GET IN!"
+    },
+    {
+        "wav": "896.wav",
+        "text": "We must fulfill our obligation to the king!"
+    },
+    {
+        "wav": "897.wav",
+        "text": "We must protect our king!"
+    },
+    {
+        "wav": "898.wav",
+        "text": "RIP RIP RIP RIP RIP RIP RIP"
+    },
+    {
+        "wav": "899.wav",
+        "text": "Protect our King!"
+    },
+    {
+        "wav": "900.wav",
+        "text": "But what is an obligation?"
+    },
+    {
+        "wav": "901.wav",
+        "text": "Intro to the tactic!"
+    },
+    {
+        "wav": "902.wav",
+        "text": "I won't let you do it"
+    },
+    {
+        "wav": "903.wav",
+        "text": "Royal Knights, give your lives for the King of our forest!"
+    },
+    {
+        "wav": "904.wav",
+        "text": "No falling back! Fight!"
+    },
+    {
+        "wav": "905.wav",
+        "text": "For the Kingdom of Forrest!"
+    },
+    {
+        "wav": "906.wav",
+        "text": "You have lived your whole life for this singular moment!"
+    },
+    {
+        "wav": "907.wav",
+        "text": "FOR THE GORGEOUS KING!"
+    },
+    {
+        "wav": "908.wav",
+        "text": "Look how it's came!"
+    },
+    {
+        "wav": "909.wav",
+        "text": "His majesty hasn't grown at all."
+    },
+    {
+        "wav": "910.wav",
+        "text": "No, not even the slightest."
+    },
+    {
+        "wav": "911.wav",
+        "text": "How can we make him bigger?"
+    },
+    {
+        "wav": "912.wav",
+        "text": "I don't know."
+    },
+    {
+        "wav": "913.wav",
+        "text": "We're too dumb to figure that out."
+    },
+    {
+        "wav": "914.wav",
+        "text": "Sure is a cutie though."
+    },
+    {
+        "wav": "915.wav",
+        "text": "Yeah, so tiny and cute."
+    },
+    {
+        "wav": "916.wav",
+        "text": "We better keep him safe."
+    },
+    {
+        "wav": "917.wav",
+        "text": "Right. Can't let anyone into the forest kingdom."
+    },
+    {
+        "wav": "918.wav",
+        "text": "to danger. Danger!"
+    },
+    {
+        "wav": "919.wav",
+        "text": "Everyone count now!"
+    },
+    {
+        "wav": "920.wav",
+        "text": "INTRODERS IN THE KINGDOM!"
+    },
+    {
+        "wav": "921.wav",
+        "text": "Don't let them in here!"
+    },
+    {
+        "wav": "922.wav",
+        "text": "I'll never let you pass!"
+    },
+    {
+        "wav": "923.wav",
+        "text": "DIE EGGS LIGHTS!!"
+    },
+    {
+        "wav": "924.wav",
+        "text": "You don't know further!"
+    },
+    {
+        "wav": "925.wav",
+        "text": "We will protect the king with our very lives!"
+    },
+    {
+        "wav": "926.wav",
+        "text": "Don't give them a single inch!"
+    },
+    {
+        "wav": "927.wav",
+        "text": "All hail the king!"
+    },
+    {
+        "wav": "928.wav",
+        "text": "This is our beloved nation!"
+    },
+    {
+        "wav": "929.wav",
+        "text": "DON'T LET THEM GO ANY FURTHER!"
+    },
+    {
+        "wav": "930.wav",
+        "text": "Stand strong! Move!"
+    },
+    {
+        "wav": "931.wav",
+        "text": "You'll pay for this, invaders!"
+    },
+    {
+        "wav": "932.wav",
+        "text": "DON'T LET THEM TAKE ANYTHING ELSE FROM US!"
+    },
+    {
+        "wav": "933.wav",
+        "text": "LEAVE OUR KINGDOM!"
+    },
+    {
+        "wav": "934.wav",
+        "text": "More intruders are coming from the outside. We need to expand our castle security."
+    },
+    {
+        "wav": "935.wav",
+        "text": "We best be wary of the machines building a village near the forest as well."
+    },
+    {
+        "wav": "936.wav",
+        "text": "We should launch a preemptive strike before our efforts proceed further!"
+    },
+    {
+        "wav": "937.wav",
+        "text": "For the sake of our forest king!"
+    },
+    {
+        "wav": "938.wav",
+        "text": "For the sake of our king!"
+    },
+    {
+        "wav": "939.wav",
+        "text": "kal atog naming"
+    },
+    {
+        "wav": "940.wav",
+        "text": "We have been expecting you."
+    },
+    {
+        "wav": "941.wav",
+        "text": "Pascal told us about you."
+    },
+    {
+        "wav": "942.wav",
+        "text": "We will open the gates."
+    },
+    {
+        "wav": "943.wav",
+        "text": "Please pass through."
+    },
+    {
+        "wav": "944.wav",
+        "text": "We will continue to stand guard."
+    },
+    {
+        "wav": "945.wav",
+        "text": "You enter the domain of God."
+    },
+    {
+        "wav": "946.wav",
+        "text": "We have come to know the existence of God."
+    },
+    {
+        "wav": "947.wav",
+        "text": "All is according to the teachings of God."
+    },
+    {
+        "wav": "948.wav",
+        "text": "And by His word all living things are to be considered equal."
+    },
+    {
+        "wav": "949.wav",
+        "text": "Today, all of us here are reborn."
+    },
+    {
+        "wav": "950.wav",
+        "text": "His grace wishes to form a pact of peace with your people."
+    },
+    {
+        "wav": "951.wav",
+        "text": "Ah, the day has finally arrived."
+    },
+    {
+        "wav": "952.wav",
+        "text": "We, his humble priests, will guide you to him. This way."
+    },
+    {
+        "wav": "953.wav",
+        "text": "Let us pray to God together."
+    },
+    {
+        "wav": "954.wav",
+        "text": "Stop. We have no desire to fight you."
+    },
+    {
+        "wav": "955.wav",
+        "text": "Down this corridor if you would."
+    },
+    {
+        "wav": "956.wav",
+        "text": "Please board this elevator to access His Grace's sanctum."
+    },
+    {
+        "wav": "957.wav",
+        "text": "That all leads to the sanctum of his grace."
+    },
+    {
+        "wav": "958.wav",
+        "text": "You don't have to hurry so, his grace won't run from you."
+    },
+    {
+        "wav": "959.wav",
+        "text": "Once I accepted God into my heart, I was filled with serenity."
+    },
+    {
+        "wav": "960.wav",
+        "text": "How I yearn for his grace to light the path forward for all."
+    },
+    {
+        "wav": "961.wav",
+        "text": "May hardship and conflict be forever banished from this world."
+    },
+    {
+        "wav": "962.wav",
+        "text": "You also must die and become gods."
+    },
+    {
+        "wav": "963.wav",
+        "text": "The afterlife is wonderful."
+    },
+    {
+        "wav": "964.wav",
+        "text": "Death brings final tranquility."
+    },
+    {
+        "wav": "965.wav",
+        "text": "DIE AND BECOME GODS!"
+    },
+    {
+        "wav": "966.wav",
+        "text": "Let us become gods together!"
+    },
+    {
+        "wav": "967.wav",
+        "text": "We shall become gods. We shall."
+    },
+    {
+        "wav": "968.wav",
+        "text": "Oh, why did this happen?"
+    },
+    {
+        "wav": "969.wav",
+        "text": "Dying won't make us gods!"
+    },
+    {
+        "wav": "970.wav",
+        "text": "Why did his grace have to die?"
+    },
+    {
+        "wav": "971.wav",
+        "text": "How am I supposed to live now?"
+    },
+    {
+        "wav": "972.wav",
+        "text": "We shall become gods!"
+    },
+    {
+        "wav": "973.wav",
+        "text": "You shall also become gods!"
+    },
+    {
+        "wav": "974.wav",
+        "text": "Everyone shall die and become gods!"
+    },
+    {
+        "wav": "975.wav",
+        "text": "Gods, gods, gods, gods, gods."
+    },
+    {
+        "wav": "976.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "977.wav",
+        "text": "Machines, people, androids. Every one of them, a god!"
+    },
+    {
+        "wav": "978.wav",
+        "text": "Why do you bleed from us?"
+    },
+    {
+        "wav": "979.wav",
+        "text": "Don't you see? You can become gods now!"
+    },
+    {
+        "wav": "980.wav",
+        "text": "Hahahaha"
+    },
+    {
+        "wav": "981.wav",
+        "text": "No. Please. Don't kill me."
+    },
+    {
+        "wav": "982.wav",
+        "text": "Rejoice! You have all been chosen!"
+    },
+    {
+        "wav": "983.wav",
+        "text": "With your death, you will become gods!"
+    },
+    {
+        "wav": "984.wav",
+        "text": "Somebody help us!"
+    },
+    {
+        "wav": "985.wav",
+        "text": "I can watch the game anymore!"
+    },
+    {
+        "wav": "986.wav",
+        "text": "C tonnes for 50 $"
+    },
+    {
+        "wav": "987.wav",
+        "text": "It feels good. It feels good. It feels so good."
+    },
+    {
+        "wav": "988.wav",
+        "text": "quack quack quack quack quack quack quack"
+    },
+    {
+        "wav": "989.wav",
+        "text": "Farewell, farewell."
+    },
+    {
+        "wav": "990.wav",
+        "text": "Bye bye! Bye bye!"
+    },
+    {
+        "wav": "991.wav",
+        "text": "The moment we've played for is here. Let us all go together."
+    },
+    {
+        "wav": "992.wav",
+        "text": "We will become gods and be free from our torment."
+    },
+    {
+        "wav": "993.wav",
+        "text": "Why did this happen?"
+    },
+    {
+        "wav": "994.wav",
+        "text": "The only option left is to die."
+    },
+    {
+        "wav": "995.wav",
+        "text": "I'm scared. I'm so scared."
+    },
+    {
+        "wav": "996.wav",
+        "text": "We must die and become gods."
+    },
+    {
+        "wav": "997.wav",
+        "text": "Yes, let us die now!"
+    },
+    {
+        "wav": "998.wav",
+        "text": "STOP!"
+    },
+    {
+        "wav": "999.wav",
+        "text": "We shall become gods!"
+    },
+    {
+        "wav": "1000.wav",
+        "text": "What are you thinking? Have your circuits failed you?"
+    },
+    {
+        "wav": "1001.wav",
+        "text": "We shall become gods. We shall become gods. We shall become gods."
+    },
+    {
+        "wav": "1002.wav",
+        "text": "What happened to all of you?"
+    },
+    {
+        "wav": "1003.wav",
+        "text": "Ha ha ha ha ha hahahaha"
+    },
+    {
+        "wav": "1004.wav",
+        "text": "I am a Desert Testament."
+    },
+    {
+        "wav": "1005.wav",
+        "text": "Created. You wipe out mankind."
+    },
+    {
+        "wav": "1006.wav",
+        "text": "Mama! Mama!"
+    },
+    {
+        "wav": "1007.wav",
+        "text": "Bye bye bye!"
+    },
+    {
+        "wav": "1008.wav",
+        "text": "Revenge for our King!"
+    },
+    {
+        "wav": "1009.wav",
+        "text": "My king! My king!"
+    },
+    {
+        "wav": "1010.wav",
+        "text": "ECHOISTIC CHURUS"
+    },
+    {
+        "wav": "1011.wav",
+        "text": "I will kill you."
+    },
+    {
+        "wav": "1012.wav",
+        "text": "This forest is our forest."
+    },
+    {
+        "wav": "1013.wav",
+        "text": "Ye-ye-ye-your majesty."
+    },
+    {
+        "wav": "1014.wav",
+        "text": "Revenge. Revenge."
+    },
+    {
+        "wav": "1015.wav",
+        "text": "Pain. So much pain."
+    },
+    {
+        "wav": "1016.wav",
+        "text": "Pain. Pain. Pain."
+    },
+    {
+        "wav": "1017.wav",
+        "text": "I do not want to die."
+    },
+    {
+        "wav": "1018.wav",
+        "text": "fooooooooooooo до свидания!"
+    },
+    {
+        "wav": "1019.wav",
+        "text": "I'm scared!"
+    },
+    {
+        "wav": "1020.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "1021.wav",
+        "text": "Kill me. Kill."
+    },
+    {
+        "wav": "1022.wav",
+        "text": "Kill!"
+    },
+    {
+        "wav": "1023.wav",
+        "text": "What did we ever do?"
+    },
+    {
+        "wav": "1024.wav",
+        "text": "Hey, brother!"
+    },
+    {
+        "wav": "1025.wav",
+        "text": "Peek joint!"
+    },
+    {
+        "wav": "1026.wav",
+        "text": "Meg, brother..."
+    },
+    {
+        "wav": "1027.wav",
+        "text": "MY BROTHERS!"
+    },
+    {
+        "wav": "1028.wav",
+        "text": "DON'T BITE MY PRODUCTS!"
+    },
+    {
+        "wav": "1029.wav",
+        "text": "Please, big brother."
+    },
+    {
+        "wav": "1030.wav",
+        "text": "Spare him!"
+    },
+    {
+        "wav": "1031.wav",
+        "text": "Don't come home."
+    },
+    {
+        "wav": "1032.wav",
+        "text": "Spare our big brother."
+    },
+    {
+        "wav": "1033.wav",
+        "text": "Don't touch my brothers."
+    },
+    {
+        "wav": "1034.wav",
+        "text": "Please."
+    },
+    {
+        "wav": "1035.wav",
+        "text": "Hey! What do you think you're doing there?"
+    },
+    {
+        "wav": "1036.wav",
+        "text": "Why y'all swinging a kill on me now? And Jane Druids got no respect left for living things!"
+    },
+    {
+        "wav": "1037.wav",
+        "text": "Crying out loud, when he goes to cute, I'm the golden ball to cute, you hear?"
+    },
+    {
+        "wav": "1038.wav",
+        "text": "Okay, stop right this instant."
+    },
+    {
+        "wav": "1039.wav",
+        "text": "Stay away from them!"
+    },
+    {
+        "wav": "1040.wav",
+        "text": "Leave this place! Leave now!"
+    },
+    {
+        "wav": "1041.wav",
+        "text": "LEAVE ME OUT!"
+    },
+    {
+        "wav": "1042.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "1043.wav",
+        "text": "VRR iiiiIIIIIIiiiiiINE"
+    },
+    {
+        "wav": "1044.wav",
+        "text": "YAAAAAAA!!!"
+    },
+    {
+        "wav": "1045.wav",
+        "text": "Excuse me, can you have a moment?"
+    },
+    {
+        "wav": "1046.wav",
+        "text": "Police, I need your help!"
+    },
+    {
+        "wav": "1047.wav",
+        "text": "Jill. Jill. Jill."
+    },
+    {
+        "wav": "1048.wav",
+        "text": "Avenge. Kill."
+    },
+    {
+        "wav": "1049.wav",
+        "text": "Kill all who stand in our way."
+    },
+    {
+        "wav": "1050.wav",
+        "text": "Androids will pay."
+    },
+    {
+        "wav": "1051.wav",
+        "text": "All of you. You. You. You. You."
+    },
+    {
+        "wav": "1052.wav",
+        "text": "Kill, all kill, all of you kill, kill, kill, kill, kill!"
+    },
+    {
+        "wav": "1053.wav",
+        "text": "KILL!"
+    },
+    {
+        "wav": "1054.wav",
+        "text": "Kill. Kill."
+    },
+    {
+        "wav": "1055.wav",
+        "text": "Such bang killed me."
+    },
+    {
+        "wav": "1056.wav",
+        "text": "KILL"
+    },
+    {
+        "wav": "1057.wav",
+        "text": "Please. Kill me."
+    },
+    {
+        "wav": "1058.wav",
+        "text": "Please kill me."
+    },
+    {
+        "wav": "1059.wav",
+        "text": "Speed will dictate the contest. Speed of all!"
+    },
+    {
+        "wav": "1060.wav",
+        "text": "Only speed or dictate whether you defeat me or not."
+    },
+    {
+        "wav": "1061.wav",
+        "text": "Focus on the race."
+    },
+    {
+        "wav": "1062.wav",
+        "text": "Do you think you can win if you waste your energy that way?"
+    },
+    {
+        "wav": "1063.wav",
+        "text": "That isn't going to work on me!"
+    },
+    {
+        "wav": "1064.wav",
+        "text": "I exist this world."
+    },
+    {
+        "wav": "1065.wav",
+        "text": "My life's meaning."
+    },
+    {
+        "wav": "1066.wav",
+        "text": "The meaning of being born."
+    },
+    {
+        "wav": "1067.wav",
+        "text": "To exist, I must be strong."
+    },
+    {
+        "wav": "1068.wav",
+        "text": "Merely destroying life will not win me approval."
+    },
+    {
+        "wav": "1069.wav",
+        "text": "But if so, what gives our way to the world?"
+    },
+    {
+        "wav": "1070.wav",
+        "text": "It is painful. So painful."
+    },
+    {
+        "wav": "1071.wav",
+        "text": "Why were we born?"
+    },
+    {
+        "wav": "1072.wav",
+        "text": "Why is life so painful?"
+    },
+    {
+        "wav": "1073.wav",
+        "text": "What will anyone help me?"
+    },
+    {
+        "wav": "1074.wav",
+        "text": "I don't need this world."
+    },
+    {
+        "wav": "1075.wav",
+        "text": "We were created into a planet."
+    },
+    {
+        "wav": "1076.wav",
+        "text": "To eliminate all members and resonate at the very call of existence!"
+    },
+    {
+        "wav": "1077.wav",
+        "text": "Get the button like it's a turtle!"
+    },
+    {
+        "wav": "1078.wav",
+        "text": "Our first cycle of destruction and rebirth continues with end!"
+    },
+    {
+        "wav": "1079.wav",
+        "text": "겨"
+    },
+    {
+        "wav": "1080.wav",
+        "text": "This world has no need for us!"
+    },
+    {
+        "wav": "1081.wav",
+        "text": "There is only one solution!"
+    },
+    {
+        "wav": "1082.wav",
+        "text": "Hmph! Enemy detected!"
+    },
+    {
+        "wav": "1083.wav",
+        "text": "Show no mercy, glory to machine life forms."
+    },
+    {
+        "wav": "1084.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1085.wav",
+        "text": "You dare defeat my faithful servant? You will pay with your life!"
+    },
+    {
+        "wav": "1086.wav",
+        "text": "No."
+    },
+    {
+        "wav": "1087.wav",
+        "text": "You"
+    },
+    {
+        "wav": "1088.wav",
+        "text": "You killed my brother. You are the true evil. You must die!"
+    },
+    {
+        "wav": "1089.wav",
+        "text": "Oh"
+    },
+    {
+        "wav": "1090.wav",
+        "text": "No! You killed him! You killed him! You killed him!"
+    },
+    {
+        "wav": "1091.wav",
+        "text": "Please, I'm done. Forgive me, brother."
+    },
+    {
+        "wav": "1092.wav",
+        "text": "I'll kill you. I swear on my life to kill you!"
+    },
+    {
+        "wav": "1093.wav",
+        "text": "The Key"
+    },
+    {
+        "wav": "1094.wav",
+        "text": "Protect the grave of the king."
+    },
+    {
+        "wav": "1095.wav",
+        "text": "Intruder detected."
+    },
+    {
+        "wav": "1096.wav",
+        "text": "Eliminate intruder. Eliminate intruder."
+    },
+    {
+        "wav": "1097.wav",
+        "text": "Hold! You cannot pass! It is unforgivable!"
+    },
+    {
+        "wav": "1098.wav",
+        "text": "I'm working on both."
+    },
+    {
+        "wav": "1099.wav",
+        "text": "Give us your money and your life."
+    },
+    {
+        "wav": "1100.wav",
+        "text": "And your life."
+    },
+    {
+        "wav": "1101.wav",
+        "text": "Let's play!"
+    },
+    {
+        "wav": "1102.wav",
+        "text": "Play with me."
+    },
+    {
+        "wav": "1103.wav",
+        "text": "Play!"
+    },
+    {
+        "wav": "1104.wav",
+        "text": "CREEEEE voix"
+    },
+    {
+        "wav": "1105.wav",
+        "text": "Thanks for playing with me."
+    },
+    {
+        "wav": "1106.wav",
+        "text": "Oh, Romeo, Romeo, wherefore art thou Romeo?"
+    },
+    {
+        "wav": "1107.wav",
+        "text": "Ah Juliet, Juliet, wherefore art thou Juliet?"
+    },
+    {
+        "wav": "1108.wav",
+        "text": "Oh Romeo, Romeo, which one of them art Romeo?"
+    },
+    {
+        "wav": "1109.wav",
+        "text": "Ah, Juliet, Juliet, I am not totally sure."
+    },
+    {
+        "wav": "1110.wav",
+        "text": "Oh Romeo, Romeo, then let us call thy numbers."
+    },
+    {
+        "wav": "1111.wav",
+        "text": "Uh, Juliet, Juliet, then I shall take thy life."
+    },
+    {
+        "wav": "1112.wav",
+        "text": "Die Romeo, thou stupid asshole!"
+    },
+    {
+        "wav": "1113.wav",
+        "text": "I shall make thee regret the day of thy birth!"
+    },
+    {
+        "wav": "1114.wav",
+        "text": "I shall make thee taste dirt!"
+    },
+    {
+        "wav": "1115.wav",
+        "text": "DIE!"
+    },
+    {
+        "wav": "1116.wav",
+        "text": "Minnesota football team!"
+    },
+    {
+        "wav": "1117.wav",
+        "text": "Be gone from this world forever, wench!"
+    },
+    {
+        "wav": "1118.wav",
+        "text": "I'll kill thee!"
+    },
+    {
+        "wav": "1119.wav",
+        "text": "I TELL YOU NOT TO TRY A THING!"
+    },
+    {
+        "wav": "1120.wav",
+        "text": "nein length"
+    },
+    {
+        "wav": "1121.wav",
+        "text": "Destroy!"
+    },
+    {
+        "wav": "1122.wav",
+        "text": "Die, die, die!"
+    },
+    {
+        "wav": "1123.wav",
+        "text": "PUSH IT OFF!"
+    },
+    {
+        "wav": "1124.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1125.wav",
+        "text": "My Romeo's are no more, I have saline them each and all."
+    },
+    {
+        "wav": "1126.wav",
+        "text": "I must join them and none."
+    },
+    {
+        "wav": "1127.wav",
+        "text": "Um, well, I suppose this marks the end of our production of Romeo's and Juliet's."
+    },
+    {
+        "wav": "1128.wav",
+        "text": "Please watch your step as you exit."
+    }
+]

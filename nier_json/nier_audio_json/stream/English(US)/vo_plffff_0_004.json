@@ -1,0 +1,630 @@
+[
+    {
+        "wav": "0.wav",
+        "text": "If you'd like to have your card stamped, please come this way."
+    },
+    {
+        "wav": "1.wav",
+        "text": "Right then, here you are."
+    },
+    {
+        "wav": "2.wav",
+        "text": "You've already received the stamp for this attraction."
+    },
+    {
+        "wav": "3.wav",
+        "text": "Share, you may help with us."
+    },
+    {
+        "wav": "4.wav",
+        "text": "No more fighting!"
+    },
+    {
+        "wav": "5.wav",
+        "text": "Spread the word throughout the world!"
+    },
+    {
+        "wav": "6.wav",
+        "text": "LIT CHILD FUN!"
+    },
+    {
+        "wav": "7.wav",
+        "text": "A BANANACAL MUTURAIN"
+    },
+    {
+        "wav": "8.wav",
+        "text": "Ah, help me! Please help me!"
+    },
+    {
+        "wav": "9.wav",
+        "text": "We did not come here to fight!"
+    },
+    {
+        "wav": "10.wav",
+        "text": "Please help."
+    },
+    {
+        "wav": "11.wav",
+        "text": "All we need is love"
+    },
+    {
+        "wav": "12.wav",
+        "text": "[Possible Noise] NOOOOOOOOOOOOO"
+    },
+    {
+        "wav": "13.wav",
+        "text": "Ka jetzt Tamam"
+    },
+    {
+        "wav": "14.wav",
+        "text": "I don't want to fight!"
+    },
+    {
+        "wav": "15.wav",
+        "text": "Happy next to all!"
+    },
+    {
+        "wav": "16.wav",
+        "text": "Revenge. Claim your revenge."
+    },
+    {
+        "wav": "17.wav",
+        "text": "Avenge the pain of our comrades!"
+    },
+    {
+        "wav": "18.wav",
+        "text": "I hate androids. Hate them."
+    },
+    {
+        "wav": "19.wav",
+        "text": "Change them! Kill them! Destroy them all!"
+    },
+    {
+        "wav": "20.wav",
+        "text": "Violence rules this world! Violence is all!"
+    },
+    {
+        "wav": "21.wav",
+        "text": "Go eat and everyone."
+    },
+    {
+        "wav": "22.wav",
+        "text": "Tear apart those who resist us!"
+    },
+    {
+        "wav": "23.wav",
+        "text": "Kill, kill, kill, kill, kill, kill!"
+    },
+    {
+        "wav": "24.wav",
+        "text": "Burn them to death! Crush them to death!"
+    },
+    {
+        "wav": "25.wav",
+        "text": "Drain their blood, every drop."
+    },
+    {
+        "wav": "26.wav",
+        "text": "KILL THEM ALL! I'VE HAD THE MOST SACRIFICED FIGHTING ALTER!"
+    },
+    {
+        "wav": "27.wav",
+        "text": "I feel so, so alive."
+    },
+    {
+        "wav": "28.wav",
+        "text": "You will die arriving in pain!"
+    },
+    {
+        "wav": "29.wav",
+        "text": "All hail the machines!"
+    },
+    {
+        "wav": "30.wav",
+        "text": "Hahaha!!!"
+    },
+    {
+        "wav": "31.wav",
+        "text": "Nya-ya-ya-ya-ya!"
+    },
+    {
+        "wav": "32.wav",
+        "text": "Three."
+    },
+    {
+        "wav": "33.wav",
+        "text": "to"
+    },
+    {
+        "wav": "34.wav",
+        "text": "Bye."
+    },
+    {
+        "wav": "35.wav",
+        "text": "Go!"
+    },
+    {
+        "wav": "36.wav",
+        "text": "Ah, 2B."
+    },
+    {
+        "wav": "37.wav",
+        "text": "Ah, 2B."
+    },
+    {
+        "wav": "38.wav",
+        "text": "Maintenance finished."
+    },
+    {
+        "wav": "39.wav",
+        "text": "Maintenance finished."
+    },
+    {
+        "wav": "40.wav",
+        "text": "You detonated your black box in order to defeat the enemy."
+    },
+    {
+        "wav": "41.wav",
+        "text": "You detonated your black box in order to defeat the enemy."
+    },
+    {
+        "wav": "42.wav",
+        "text": "Bold, but risky. Try not to be so reckless next time."
+    },
+    {
+        "wav": "43.wav",
+        "text": "Bold, but risky. Try not to be so reckless next time."
+    },
+    {
+        "wav": "44.wav",
+        "text": "I know you're fresh out of maintenance, but I have another mission for you."
+    },
+    {
+        "wav": "45.wav",
+        "text": "I know you're fresh out of maintenance, but I have another mission for you."
+    },
+    {
+        "wav": "46.wav",
+        "text": "I need you to head to the surface, rendezvous with the resistance and do some recon."
+    },
+    {
+        "wav": "47.wav",
+        "text": "I need you to head to the surface, rendezvous with the resistance and do some recon."
+    },
+    {
+        "wav": "48.wav",
+        "text": "We haven't been able to get in touch with them."
+    },
+    {
+        "wav": "49.wav",
+        "text": "We haven't been able to get in touch with them."
+    },
+    {
+        "wav": "50.wav",
+        "text": "So we'll need you to look into that as well."
+    },
+    {
+        "wav": "51.wav",
+        "text": "So we'll need you to look into that as well."
+    },
+    {
+        "wav": "52.wav",
+        "text": "2B9S. We've lost contact with several URHEL units that were on their way to the surface."
+    },
+    {
+        "wav": "53.wav",
+        "text": "Their black boxes are online, so we presume they're still alive."
+    },
+    {
+        "wav": "54.wav",
+        "text": "We've tracked the location of their signals."
+    },
+    {
+        "wav": "55.wav",
+        "text": "So I need all your units on the surface to head over and investigate."
+    },
+    {
+        "wav": "56.wav",
+        "text": "Yorha, this is your commander."
+    },
+    {
+        "wav": "57.wav",
+        "text": "For the first time in centuries, we've intercepted a signal belonging to the aliens."
+    },
+    {
+        "wav": "58.wav",
+        "text": "These are the creatures that are in direct command of the machine life forms on this planet."
+    },
+    {
+        "wav": "59.wav",
+        "text": "If we can destroy them, we can end this long and arduous war once and for all."
+    },
+    {
+        "wav": "60.wav",
+        "text": "Our Intel team is hard at work attempting to analyze the source of the signal, but we're not there yet."
+    },
+    {
+        "wav": "61.wav",
+        "text": "We need more data."
+    },
+    {
+        "wav": "62.wav",
+        "text": "All YORHHA units are hereby ordered to prioritize data collection above all else."
+    },
+    {
+        "wav": "63.wav",
+        "text": "We can't let this chance slip through our fingers."
+    },
+    {
+        "wav": "64.wav",
+        "text": "Glory to mankind."
+    },
+    {
+        "wav": "65.wav",
+        "text": "Then they were dead this whole time."
+    },
+    {
+        "wav": "66.wav",
+        "text": "The Council of Humanity needs time to formulate a plan."
+    },
+    {
+        "wav": "67.wav",
+        "text": "Until then, this information must be kept confidential."
+    },
+    {
+        "wav": "68.wav",
+        "text": "Speak of it to no one."
+    },
+    {
+        "wav": "69.wav",
+        "text": "Your next mission is to gather additional intel on the individual known as Pascal."
+    },
+    {
+        "wav": "70.wav",
+        "text": "This order comes directly from the council."
+    },
+    {
+        "wav": "71.wav",
+        "text": "Knowledge of such unique individuals is essential for the success of future missions."
+    },
+    {
+        "wav": "72.wav",
+        "text": "Bunker to 2B and 9S."
+    },
+    {
+        "wav": "73.wav",
+        "text": "We've picked up a signal from the black box of a fugitive known as A2."
+    },
+    {
+        "wav": "74.wav",
+        "text": "What you see in front of you is your enemy."
+    },
+    {
+        "wav": "75.wav",
+        "text": "She deserted us. She's destroyed multiple Pursuit Androids."
+    },
+    {
+        "wav": "76.wav",
+        "text": "Now kill her before she kills you."
+    },
+    {
+        "wav": "77.wav",
+        "text": "I see."
+    },
+    {
+        "wav": "78.wav",
+        "text": "Well, at least you're both safe."
+    },
+    {
+        "wav": "79.wav",
+        "text": "That's an incredibly powerful unit you just faced."
+    },
+    {
+        "wav": "80.wav",
+        "text": "You should probably keep your distance in the future."
+    },
+    {
+        "wav": "81.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "82.wav",
+        "text": "I'm afraid that's classified."
+    },
+    {
+        "wav": "83.wav",
+        "text": "2B 9S, come in."
+    },
+    {
+        "wav": "84.wav",
+        "text": "Emergency orders incoming."
+    },
+    {
+        "wav": "85.wav",
+        "text": "The carrier ship that was set to resupply has come under attack."
+    },
+    {
+        "wav": "86.wav",
+        "text": "It's currently being engaged by a swarm of machines."
+    },
+    {
+        "wav": "87.wav",
+        "text": "I've asked all Yorha troops in the city ruins for assistance, and I'll need you to provide backup as well."
+    },
+    {
+        "wav": "88.wav",
+        "text": "I'm sending flight units and coordinates now."
+    },
+    {
+        "wav": "89.wav",
+        "text": "Good luck. Out."
+    },
+    {
+        "wav": "90.wav",
+        "text": "to be."
+    },
+    {
+        "wav": "91.wav",
+        "text": "Good job destroying that machine."
+    },
+    {
+        "wav": "92.wav",
+        "text": "Upon further analysis, we learned that the machine, code named Adam, was responsible for managing half of their entire network."
+    },
+    {
+        "wav": "93.wav",
+        "text": "A disruption of this magnitude to their network should weaken the machine significantly."
+    },
+    {
+        "wav": "94.wav",
+        "text": "He'll undergo a full data overhaul up here."
+    },
+    {
+        "wav": "95.wav",
+        "text": "Assuming we don't encounter any problems, we're planning to partner him with you again."
+    },
+    {
+        "wav": "96.wav",
+        "text": "In the meantime, I have another mission for you."
+    },
+    {
+        "wav": "97.wav",
+        "text": "I've mailed you the briefing. Go ahead and take a look."
+    },
+    {
+        "wav": "98.wav",
+        "text": "9S"
+    },
+    {
+        "wav": "99.wav",
+        "text": "I'm sorry, you're needed back at command."
+    },
+    {
+        "wav": "100.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "101.wav",
+        "text": "You left quite a trail when you accessed the main server."
+    },
+    {
+        "wav": "102.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "103.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "104.wav",
+        "text": "Yes."
+    },
+    {
+        "wav": "105.wav",
+        "text": "We installed the Council of Humanities server on the surface of the Moon."
+    },
+    {
+        "wav": "106.wav",
+        "text": "Mankind no longer exists."
+    },
+    {
+        "wav": "107.wav",
+        "text": "In truth, humans never went to the moon at all."
+    },
+    {
+        "wav": "108.wav",
+        "text": "Any transmissions received from the Moon are just dummy signals we set up in advance."
+    },
+    {
+        "wav": "109.wav",
+        "text": "The only thing there is a small bit of data relating to the human genome."
+    },
+    {
+        "wav": "110.wav",
+        "text": "Humans were already extinct when the aliens attacked."
+    },
+    {
+        "wav": "111.wav",
+        "text": "All the details are stored on this memory chip."
+    },
+    {
+        "wav": "112.wav",
+        "text": "If you want to look at it, I won't stop you."
+    },
+    {
+        "wav": "113.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "114.wav",
+        "text": "No one fights without a reason."
+    },
+    {
+        "wav": "115.wav",
+        "text": "And we need a god worth dying for."
+    },
+    {
+        "wav": "116.wav",
+        "text": "To be 9S."
+    },
+    {
+        "wav": "117.wav",
+        "text": "What are you doing here?"
+    },
+    {
+        "wav": "118.wav",
+        "text": "A virus? What are you talking about?"
+    },
+    {
+        "wav": "119.wav",
+        "text": "None of our ground units reported anything about a virus."
+    },
+    {
+        "wav": "120.wav",
+        "text": "And why did you leave the battlefield anyway? I didn't order a retreat."
+    },
+    {
+        "wav": "121.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "122.wav",
+        "text": "No."
+    },
+    {
+        "wav": "123.wav",
+        "text": "If anyone is acting infected here, it's you."
+    },
+    {
+        "wav": "124.wav",
+        "text": "How is that even possible?"
+    },
+    {
+        "wav": "125.wav",
+        "text": "Damn it!"
+    },
+    {
+        "wav": "126.wav",
+        "text": "But tell me, why weren't you two infected?"
+    },
+    {
+        "wav": "127.wav",
+        "text": "I see."
+    },
+    {
+        "wav": "128.wav",
+        "text": "I too was synced up with the server."
+    },
+    {
+        "wav": "129.wav",
+        "text": "There's no time."
+    },
+    {
+        "wav": "130.wav",
+        "text": "You two are the last remaining members of Yorha."
+    },
+    {
+        "wav": "131.wav",
+        "text": "It's your duty to survive."
+    },
+    {
+        "wav": "132.wav",
+        "text": "Besides, this is my command."
+    },
+    {
+        "wav": "133.wav",
+        "text": "Let me at least fulfill my duty here to the end."
+    },
+    {
+        "wav": "134.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "135.wav",
+        "text": "Normally you'd be called, but we'll be calling to be."
+    },
+    {
+        "wav": "136.wav",
+        "text": "Continue to observe the situation and dispatch them."
+    },
+    {
+        "wav": "137.wav",
+        "text": "Bunker to 2B."
+    },
+    {
+        "wav": "138.wav",
+        "text": "The signal from the access point just came back online. Good job."
+    },
+    {
+        "wav": "139.wav",
+        "text": "Go on."
+    },
+    {
+        "wav": "140.wav",
+        "text": "which means they know that Facility is one of our network terminals."
+    },
+    {
+        "wav": "141.wav",
+        "text": "Damn, they're getting smarter by the day."
+    },
+    {
+        "wav": "142.wav",
+        "text": "Thank you. I'll be sure to share this with the Council of Humanity on the Moon."
+    },
+    {
+        "wav": "143.wav",
+        "text": "All units, be on the lookout for a missing Yorha in the city ruins."
+    },
+    {
+        "wav": "144.wav",
+        "text": "This unit was in possession of several plug-in chips that contain classified information."
+    },
+    {
+        "wav": "145.wav",
+        "text": "I need you to seek out whatever intel you can regarding their current whereabouts and status."
+    },
+    {
+        "wav": "146.wav",
+        "text": "Hello, this is the Resource Recovery Unit, now activating Defense Mode."
+    },
+    {
+        "wav": "147.wav",
+        "text": "ああ"
+    },
+    {
+        "wav": "148.wav",
+        "text": "You beat that thing with surface-based gear? That's a surprise."
+    },
+    {
+        "wav": "149.wav",
+        "text": "Thanks for the backup."
+    },
+    {
+        "wav": "150.wav",
+        "text": "You guys are amazing!"
+    },
+    {
+        "wav": "151.wav",
+        "text": "Thanks, we owe you one."
+    },
+    {
+        "wav": "152.wav",
+        "text": "うぅ…"
+    },
+    {
+        "wav": "153.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "154.wav",
+        "text": "9S... that's that kid who was with you, right?"
+    },
+    {
+        "wav": "155.wav",
+        "text": "I saw him all right. That explosion sent him flying."
+    },
+    {
+        "wav": "156.wav",
+        "text": "Hard to say. I'll take my best guess at a landing spot and transfer the data to you."
+    }
+]

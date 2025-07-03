@@ -1,0 +1,4686 @@
+[
+    {
+        "wav": "0.wav",
+        "text": "So quit with the whining and let us take you home already."
+    },
+    {
+        "wav": "1.wav",
+        "text": "Huh? I don't see that little machine anywhere."
+    },
+    {
+        "wav": "2.wav",
+        "text": "He may have gone back to where we first found him. Let's look around."
+    },
+    {
+        "wav": "3.wav",
+        "text": "Yeah, this is rough. Better go tell mom what happened."
+    },
+    {
+        "wav": "4.wav",
+        "text": "Stay close, alright? Don't go wandering off."
+    },
+    {
+        "wav": "5.wav",
+        "text": "She sure was. So let's go home and have you apologize, alright?"
+    },
+    {
+        "wav": "6.wav",
+        "text": "Okay, now wha- wait, what?"
+    },
+    {
+        "wav": "7.wav",
+        "text": "We'll probably need to recreate old human recipes."
+    },
+    {
+        "wav": "8.wav",
+        "text": "We should be able to find something in the commercial facility ruins."
+    },
+    {
+        "wav": "9.wav",
+        "text": "So it's okay to kill some animals, but not others?"
+    },
+    {
+        "wav": "10.wav",
+        "text": "Seems kind of arbitrary, no?"
+    },
+    {
+        "wav": "11.wav",
+        "text": "Yeah."
+    },
+    {
+        "wav": "12.wav",
+        "text": "Wow. So the leader of the pack was a machine?"
+    },
+    {
+        "wav": "13.wav",
+        "text": "That's the last of them."
+    },
+    {
+        "wav": "14.wav",
+        "text": "Let's go tell that machine that his animal friends are safe."
+    },
+    {
+        "wav": "15.wav",
+        "text": "Oh yeah?"
+    },
+    {
+        "wav": "16.wav",
+        "text": "Yeah, I guess it was kind of odd. You thinking there's a reason for it?"
+    },
+    {
+        "wav": "17.wav",
+        "text": "How can you love animals and yet not bat an eye at the death of a fellow machine?"
+    },
+    {
+        "wav": "18.wav",
+        "text": "I do not get these guys."
+    },
+    {
+        "wav": "19.wav",
+        "text": "About goddamn time!"
+    },
+    {
+        "wav": "20.wav",
+        "text": "If I ever see that bossy robo-monk again, it'll be too soon, let me tell ya."
+    },
+    {
+        "wav": "21.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "22.wav",
+        "text": "Stupid machine. All he cared about was getting stronger until we finally scrapped him."
+    },
+    {
+        "wav": "23.wav",
+        "text": "But now we don't have to see him ever again. What a relief."
+    },
+    {
+        "wav": "24.wav",
+        "text": "She sure cares about her little sister, huh?"
+    },
+    {
+        "wav": "25.wav",
+        "text": "Still, it's pretty funny to hear machines talk about siblings."
+    },
+    {
+        "wav": "26.wav",
+        "text": "Do you think she just means they were built at the same factory or something?"
+    },
+    {
+        "wav": "27.wav",
+        "text": "Y-Pascal? Is that you?"
+    },
+    {
+        "wav": "28.wav",
+        "text": "Is that?"
+    },
+    {
+        "wav": "29.wav",
+        "text": "Is that?"
+    },
+    {
+        "wav": "30.wav",
+        "text": "How'd you get lost out here anyway?"
+    },
+    {
+        "wav": "31.wav",
+        "text": "Aw, come on now, don't cry."
+    },
+    {
+        "wav": "32.wav",
+        "text": "Did you at least find what you needed?"
+    },
+    {
+        "wav": "33.wav",
+        "text": "I'm sure she will, but I bet she'll be even happier to see you back home safe and sound."
+    },
+    {
+        "wav": "34.wav",
+        "text": "Huh? Oh, hell."
+    },
+    {
+        "wav": "35.wav",
+        "text": "We must have gotten separated somehow."
+    },
+    {
+        "wav": "36.wav",
+        "text": "Let's go back to where we first found her. I bet she's waiting there."
+    },
+    {
+        "wav": "37.wav",
+        "text": "No one made the desert. It's just an area that lost all its vegetation due to a lack of precipitation."
+    },
+    {
+        "wav": "38.wav",
+        "text": "This caused lasting changes in the soil, which means plants aren't able to"
+    },
+    {
+        "wav": "39.wav",
+        "text": "Soil? Uh, it's dirt. Ground. The stuff we're walking on?"
+    },
+    {
+        "wav": "40.wav",
+        "text": "Wind is just a force caused by changes in temperature and atmospheric pressure and..."
+    },
+    {
+        "wav": "41.wav",
+        "text": "Huh. That's actually a hard question now that I think about it."
+    },
+    {
+        "wav": "42.wav",
+        "text": "Kinda deep, really. I mean, where does the wind blow from? What do you think, 2B?"
+    },
+    {
+        "wav": "43.wav",
+        "text": "Um..."
+    },
+    {
+        "wav": "44.wav",
+        "text": "Well, machines can't really make children. Neither can androids, now that I think about it."
+    },
+    {
+        "wav": "45.wav",
+        "text": "Uh, 2B? Little help here?"
+    },
+    {
+        "wav": "46.wav",
+        "text": "Oof."
+    },
+    {
+        "wav": "47.wav",
+        "text": "Wow, it's getting late! Let's get you home already."
+    },
+    {
+        "wav": "48.wav",
+        "text": "んん"
+    },
+    {
+        "wav": "49.wav",
+        "text": "Well, that was exhausting."
+    },
+    {
+        "wav": "50.wav",
+        "text": "Okay, that's everything the supply trader asked for."
+    },
+    {
+        "wav": "51.wav",
+        "text": "Man, these chores are a real pain in the butt, huh?"
+    },
+    {
+        "wav": "52.wav",
+        "text": "Yeah, yeah."
+    },
+    {
+        "wav": "53.wav",
+        "text": "Is this the music box she was looking for?"
+    },
+    {
+        "wav": "54.wav",
+        "text": "Man, this thing is all rusted over."
+    },
+    {
+        "wav": "55.wav",
+        "text": "You think the box belonged to her?"
+    },
+    {
+        "wav": "56.wav",
+        "text": "Poor girl died a long time ago by the looks of it."
+    },
+    {
+        "wav": "57.wav",
+        "text": "We could check out the energy reactions generated during battles."
+    },
+    {
+        "wav": "58.wav",
+        "text": "The fusion reactors of androids and machine life forms shut down when they're destroyed."
+    },
+    {
+        "wav": "59.wav",
+        "text": "and we can detect the energy release during that process."
+    },
+    {
+        "wav": "60.wav",
+        "text": "We're the only units doing any combat missions in this area, right?"
+    },
+    {
+        "wav": "61.wav",
+        "text": "So if we detect any stray energy reactions, it probably means A2 is involved."
+    },
+    {
+        "wav": "62.wav",
+        "text": "Yeah, okay. We've got some readings around the abandoned factory. I'll put it on the map."
+    },
+    {
+        "wav": "63.wav",
+        "text": "That's A2's handiwork, I bet."
+    },
+    {
+        "wav": "64.wav",
+        "text": "But I'm not picking up any sign of A2 herself."
+    },
+    {
+        "wav": "65.wav",
+        "text": "Hm? What in the world?"
+    },
+    {
+        "wav": "66.wav",
+        "text": "Hey 2B, I'm picking up other reactions. We should check them out."
+    },
+    {
+        "wav": "67.wav",
+        "text": "Okay, I think that's the last of the data chips."
+    },
+    {
+        "wav": "68.wav",
+        "text": "That operation was carried out by the Yorha generation that came before us, right?"
+    },
+    {
+        "wav": "69.wav",
+        "text": "Anyway, mission complete, I suppose. Let's get back to the resistance camp."
+    },
+    {
+        "wav": "70.wav",
+        "text": "Wonder what that was all about. Something must have been up between anemone and A2."
+    },
+    {
+        "wav": "71.wav",
+        "text": "I guess so."
+    },
+    {
+        "wav": "72.wav",
+        "text": "はぁ"
+    },
+    {
+        "wav": "73.wav",
+        "text": "Right."
+    },
+    {
+        "wav": "74.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "75.wav",
+        "text": "Whoa, it's not like that!"
+    },
+    {
+        "wav": "76.wav",
+        "text": "I mean, she is pretty, but that's... It's not..."
+    },
+    {
+        "wav": "77.wav",
+        "text": "We need to find someone wearing a red hood."
+    },
+    {
+        "wav": "78.wav",
+        "text": "Sounds like that red hood was a gift of some sort."
+    },
+    {
+        "wav": "79.wav",
+        "text": "Wow, okay. Where'd that come from?"
+    },
+    {
+        "wav": "80.wav",
+        "text": "Mmm, I think it's more about the feeling behind it than the actual item, right?"
+    },
+    {
+        "wav": "81.wav",
+        "text": "Yeah, yeah."
+    },
+    {
+        "wav": "82.wav",
+        "text": "Oh, for the love of- Fine. Yeah."
+    },
+    {
+        "wav": "83.wav",
+        "text": "Our red-hooded target should be in the desert."
+    },
+    {
+        "wav": "84.wav",
+        "text": "But there's only one female resistance member at the desert station."
+    },
+    {
+        "wav": "85.wav",
+        "text": "Hmm. I don't see her."
+    },
+    {
+        "wav": "86.wav",
+        "text": "But if it's the same person, why would she have had the killer's hood?"
+    },
+    {
+        "wav": "87.wav",
+        "text": "Examining storage circuits. 88%. 92%. 98%."
+    },
+    {
+        "wav": "88.wav",
+        "text": "Type E. I didn't know there was such a thing."
+    },
+    {
+        "wav": "89.wav",
+        "text": "Did you too, B?"
+    },
+    {
+        "wav": "90.wav",
+        "text": "Yeah, I suppose so."
+    },
+    {
+        "wav": "91.wav",
+        "text": "So if we use those numbers from the resistance campus coordinates..."
+    },
+    {
+        "wav": "92.wav",
+        "text": "Yeah, we're pretty much standing right on top of whatever they're pointing to."
+    },
+    {
+        "wav": "93.wav",
+        "text": "Huh? What for?"
+    },
+    {
+        "wav": "94.wav",
+        "text": "Aw, come on now. That concept is far too complex for a machine."
+    },
+    {
+        "wav": "95.wav",
+        "text": "This corpse... I wonder if it's the resistance member we're looking for."
+    },
+    {
+        "wav": "96.wav",
+        "text": "Let's check his memory."
+    },
+    {
+        "wav": "97.wav",
+        "text": "Seems this one came here looking for revenge as well."
+    },
+    {
+        "wav": "98.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "99.wav",
+        "text": "I really hate this."
+    },
+    {
+        "wav": "100.wav",
+        "text": "I'm going to feel terrible telling that woman what happened to her friend."
+    },
+    {
+        "wav": "101.wav",
+        "text": "no matter what that truth actually is."
+    },
+    {
+        "wav": "102.wav",
+        "text": "Gotcha."
+    },
+    {
+        "wav": "103.wav",
+        "text": "I see the Commander's as much of a slave driver as ever."
+    },
+    {
+        "wav": "104.wav",
+        "text": "It's like she was built to be as efficient and hard-assed as possible."
+    },
+    {
+        "wav": "105.wav",
+        "text": "Uh... are you serious?"
+    },
+    {
+        "wav": "106.wav",
+        "text": "What the heck was all that about?"
+    },
+    {
+        "wav": "107.wav",
+        "text": "We've got company. Looks like machines."
+    },
+    {
+        "wav": "108.wav",
+        "text": "That's not good."
+    },
+    {
+        "wav": "109.wav",
+        "text": "Yeah, but that's not all. While they knew it was connected to our network, they didn't try to destroy it."
+    },
+    {
+        "wav": "110.wav",
+        "text": "It's almost like they were trying to lay a trap."
+    },
+    {
+        "wav": "111.wav",
+        "text": "This whole place is like a giant machine's nest."
+    },
+    {
+        "wav": "112.wav",
+        "text": "I wonder what it used to be like."
+    },
+    {
+        "wav": "113.wav",
+        "text": "No kidding? What kind of weapons?"
+    },
+    {
+        "wav": "114.wav",
+        "text": "Human-shaped weapons, huh? Wonder if they worked like flight units."
+    },
+    {
+        "wav": "115.wav",
+        "text": "I think I can access the data over there."
+    },
+    {
+        "wav": "116.wav",
+        "text": "There we go. That's what 210 wanted."
+    },
+    {
+        "wav": "117.wav",
+        "text": "Now I just have to send it to her."
+    },
+    {
+        "wav": "118.wav",
+        "text": "Got it."
+    },
+    {
+        "wav": "119.wav",
+        "text": "This should be good enough."
+    },
+    {
+        "wav": "120.wav",
+        "text": "Pod, upload that data to operator 210."
+    },
+    {
+        "wav": "121.wav",
+        "text": "This is 9S."
+    },
+    {
+        "wav": "122.wav",
+        "text": "What, like a diary?"
+    },
+    {
+        "wav": "123.wav",
+        "text": "Sounds like it."
+    },
+    {
+        "wav": "124.wav",
+        "text": "Wait, I can get rewarded for doing this?"
+    },
+    {
+        "wav": "125.wav",
+        "text": "No, but..."
+    },
+    {
+        "wav": "126.wav",
+        "text": "Hey, don't disconnect me!"
+    },
+    {
+        "wav": "127.wav",
+        "text": "I'm here."
+    },
+    {
+        "wav": "128.wav",
+        "text": "Hey, wait just a-"
+    },
+    {
+        "wav": "129.wav",
+        "text": "She didn't even give me a chance to turn her down this time."
+    },
+    {
+        "wav": "130.wav",
+        "text": "Why did all these people live together way back then, huh?"
+    },
+    {
+        "wav": "131.wav",
+        "text": "They ran out of space? How strange."
+    },
+    {
+        "wav": "132.wav",
+        "text": "How is that possible when there's so much of it out there?"
+    },
+    {
+        "wav": "133.wav",
+        "text": "Okay, this should be enough. What do we have?"
+    },
+    {
+        "wav": "134.wav",
+        "text": "Broken toys, dirty ledgers, small shoes."
+    },
+    {
+        "wav": "135.wav",
+        "text": "Pod, take a photo of this junk and send it to operator 210."
+    },
+    {
+        "wav": "136.wav",
+        "text": "Hello, operator. How can I help you?"
+    },
+    {
+        "wav": "137.wav",
+        "text": "Great. Does it seem useful?"
+    },
+    {
+        "wav": "138.wav",
+        "text": "Oh, alright."
+    },
+    {
+        "wav": "139.wav",
+        "text": "Uh, familial?"
+    },
+    {
+        "wav": "140.wav",
+        "text": "Operator? Are you there?"
+    },
+    {
+        "wav": "141.wav",
+        "text": "And she disconnected me."
+    },
+    {
+        "wav": "142.wav",
+        "text": "Man, she disconnected me again."
+    },
+    {
+        "wav": "143.wav",
+        "text": "Well, if she's thanking me, I guess it must have gone okay. Right?"
+    },
+    {
+        "wav": "144.wav",
+        "text": "Look at all the corpses. Is this some kind of graveyard?"
+    },
+    {
+        "wav": "145.wav",
+        "text": "I'm on it."
+    },
+    {
+        "wav": "146.wav",
+        "text": "There's more."
+    },
+    {
+        "wav": "147.wav",
+        "text": "Don't listen to it, Tooby!"
+    },
+    {
+        "wav": "148.wav",
+        "text": "It was talking."
+    },
+    {
+        "wav": "149.wav",
+        "text": "Maybe that machine who sent us here knows something about this."
+    },
+    {
+        "wav": "150.wav",
+        "text": "We should try asking her."
+    },
+    {
+        "wav": "151.wav",
+        "text": "Souls in heaven, huh?"
+    },
+    {
+        "wav": "152.wav",
+        "text": "Do either of those things exist?"
+    },
+    {
+        "wav": "153.wav",
+        "text": "Okay, that's grim."
+    },
+    {
+        "wav": "154.wav",
+        "text": "I'm not sure I even know what it means to be smart anymore."
+    },
+    {
+        "wav": "155.wav",
+        "text": "Heh, don't I know it."
+    },
+    {
+        "wav": "156.wav",
+        "text": "Hmm, that's a strange flower."
+    },
+    {
+        "wav": "157.wav",
+        "text": "Huh? When did you get here?"
+    },
+    {
+        "wav": "158.wav",
+        "text": "Sounds rough."
+    },
+    {
+        "wav": "159.wav",
+        "text": "This is a lunar tier, right?"
+    },
+    {
+        "wav": "160.wav",
+        "text": "We'd better let Emil know."
+    },
+    {
+        "wav": "161.wav",
+        "text": "We found a lunar tier. It's located at"
+    },
+    {
+        "wav": "162.wav",
+        "text": "Uh, okay. I hope he doesn't expect me to just stand here all day."
+    },
+    {
+        "wav": "163.wav",
+        "text": "やっ"
+    },
+    {
+        "wav": "164.wav",
+        "text": "You mean humans?"
+    },
+    {
+        "wav": "165.wav",
+        "text": "It's a lunar tear. I'd better tell Emil."
+    },
+    {
+        "wav": "166.wav",
+        "text": "I found one of those flowers you were looking for. It's over at"
+    },
+    {
+        "wav": "167.wav",
+        "text": "Don't move? I'm actually kinda biz-"
+    },
+    {
+        "wav": "168.wav",
+        "text": "Damn, you're fast!"
+    },
+    {
+        "wav": "169.wav",
+        "text": "You did?"
+    },
+    {
+        "wav": "170.wav",
+        "text": "It's a lunar tear. I'd better tell Emil."
+    },
+    {
+        "wav": "171.wav",
+        "text": "I found a lunar-"
+    },
+    {
+        "wav": "172.wav",
+        "text": "As speedy as always, I see."
+    },
+    {
+        "wav": "173.wav",
+        "text": "What happened here, Emil?"
+    },
+    {
+        "wav": "174.wav",
+        "text": "Say a meal?"
+    },
+    {
+        "wav": "175.wav",
+        "text": "How old are you anyway?"
+    },
+    {
+        "wav": "176.wav",
+        "text": "I should probably tell Emil about this lunar tip."
+    },
+    {
+        "wav": "177.wav",
+        "text": "I didn't even contact you yet."
+    },
+    {
+        "wav": "178.wav",
+        "text": "Emil? Are you okay?"
+    },
+    {
+        "wav": "179.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "180.wav",
+        "text": "Oh?"
+    },
+    {
+        "wav": "181.wav",
+        "text": "What's it for?"
+    },
+    {
+        "wav": "182.wav",
+        "text": "This must be what Emil's key is for."
+    },
+    {
+        "wav": "183.wav",
+        "text": "Wow! Look at all the lunar tears!"
+    },
+    {
+        "wav": "184.wav",
+        "text": "Uh, sorry. I don't get it."
+    },
+    {
+        "wav": "185.wav",
+        "text": "Uh, sorry. I don't get it."
+    },
+    {
+        "wav": "186.wav",
+        "text": "Where's the original Emil now?"
+    },
+    {
+        "wav": "187.wav",
+        "text": "Oh."
+    },
+    {
+        "wav": "188.wav",
+        "text": "Hmm... these places look familiar."
+    },
+    {
+        "wav": "189.wav",
+        "text": "One looks like the amusement park, one looks like the desert, and one looks like the forest."
+    },
+    {
+        "wav": "190.wav",
+        "text": "Let's keep our eyes open next time we're in any of those areas."
+    },
+    {
+        "wav": "191.wav",
+        "text": "Hold on. This is one of the places in that Resistance member's photographs."
+    },
+    {
+        "wav": "192.wav",
+        "text": "Better record the coordinates."
+    },
+    {
+        "wav": "193.wav",
+        "text": "This place looks familiar."
+    },
+    {
+        "wav": "194.wav",
+        "text": "Oh right, it's from that woman's photograph."
+    },
+    {
+        "wav": "195.wav",
+        "text": "I'll be sure to get her the coordinates."
+    },
+    {
+        "wav": "196.wav",
+        "text": "Okay, that's all the coordinates that Resistance member wanted."
+    },
+    {
+        "wav": "197.wav",
+        "text": "I'll be honest though, I don't quite get why she cares about these particular photos."
+    },
+    {
+        "wav": "198.wav",
+        "text": "Yeah, I guess."
+    },
+    {
+        "wav": "199.wav",
+        "text": "That machine... I think something's wrong with it."
+    },
+    {
+        "wav": "200.wav",
+        "text": "はっ!"
+    },
+    {
+        "wav": "201.wav",
+        "text": "I can't believe that thing decided to end itself."
+    },
+    {
+        "wav": "202.wav",
+        "text": "This is where that machine fell."
+    },
+    {
+        "wav": "203.wav",
+        "text": "Have we seen these things before?"
+    },
+    {
+        "wav": "204.wav",
+        "text": "Whoa, they're speaking!"
+    },
+    {
+        "wav": "205.wav",
+        "text": "Hey, I've fought this machine before, right?"
+    },
+    {
+        "wav": "206.wav",
+        "text": "If you say so."
+    },
+    {
+        "wav": "207.wav",
+        "text": "Ready to engage."
+    },
+    {
+        "wav": "208.wav",
+        "text": "Brother? Wait, there's more of these things?"
+    },
+    {
+        "wav": "209.wav",
+        "text": "There's another of those machines. I suppose it's going to attack me, right?"
+    },
+    {
+        "wav": "210.wav",
+        "text": "Got it."
+    },
+    {
+        "wav": "211.wav",
+        "text": "Machines wanting to avenge their families? That's absurd."
+    },
+    {
+        "wav": "212.wav",
+        "text": "And yet... I..."
+    },
+    {
+        "wav": "213.wav",
+        "text": "Doesn't look like I'll need this."
+    },
+    {
+        "wav": "214.wav",
+        "text": "So it's just a bunch of junk?"
+    },
+    {
+        "wav": "215.wav",
+        "text": "A key, huh?"
+    },
+    {
+        "wav": "216.wav",
+        "text": "A library, huh?"
+    },
+    {
+        "wav": "217.wav",
+        "text": "What's this?"
+    },
+    {
+        "wav": "218.wav",
+        "text": "Some kind of writing."
+    },
+    {
+        "wav": "219.wav",
+        "text": "Wait, so is this the treasure?"
+    },
+    {
+        "wav": "220.wav",
+        "text": "Pure white, huh? I wonder if it's some kind of albino."
+    },
+    {
+        "wav": "221.wav",
+        "text": "Not that I have any idea how to capture the thing."
+    },
+    {
+        "wav": "222.wav",
+        "text": "Yeah, I guess that might work."
+    },
+    {
+        "wav": "223.wav",
+        "text": "Man, this thing is fast. I'll need to use food to make friends with it if I want to complete this mission."
+    },
+    {
+        "wav": "224.wav",
+        "text": "Is that a serious thing you just said?"
+    },
+    {
+        "wav": "225.wav",
+        "text": "Right then, let's hop on this thing and take it back to the resistance camp."
+    },
+    {
+        "wav": "226.wav",
+        "text": "Pod, scan this bio code and run a positional search."
+    },
+    {
+        "wav": "227.wav",
+        "text": "Got it."
+    },
+    {
+        "wav": "228.wav",
+        "text": "It's data from the old world, but it's..."
+    },
+    {
+        "wav": "229.wav",
+        "text": "Oh geez, I wonder if we should really hand this over to Pascal."
+    },
+    {
+        "wav": "230.wav",
+        "text": "I mean, the commander might want it, right?"
+    },
+    {
+        "wav": "231.wav",
+        "text": "Maybe it's more of a feeling thing. Like, some people just want to eat it every now and then?"
+    },
+    {
+        "wav": "232.wav",
+        "text": "Who knows? Maybe it's more of a feeling thing. Like some people just want to eat it every now and then."
+    },
+    {
+        "wav": "233.wav",
+        "text": "Hey, you got me."
+    },
+    {
+        "wav": "234.wav",
+        "text": "Whatever."
+    },
+    {
+        "wav": "235.wav",
+        "text": "That should do it for the deer and boar meat. Guess we should report back to the traitor."
+    },
+    {
+        "wav": "236.wav",
+        "text": "That should do it for the meat. Let's get it to that traitor."
+    },
+    {
+        "wav": "237.wav",
+        "text": "Yorha members deserting and attacking the Resistance no less?"
+    },
+    {
+        "wav": "238.wav",
+        "text": "Detained? Easy for you to say."
+    },
+    {
+        "wav": "239.wav",
+        "text": "They got away."
+    },
+    {
+        "wav": "240.wav",
+        "text": "Please, you have to stop fighting!"
+    },
+    {
+        "wav": "241.wav",
+        "text": "Destroy? What happened to detain?"
+    },
+    {
+        "wav": "242.wav",
+        "text": "We...killed them...our fellow units."
+    },
+    {
+        "wav": "243.wav",
+        "text": "Why the hell did they steal from the Resistance in the first place?"
+    },
+    {
+        "wav": "244.wav",
+        "text": "You think Anemone might know something to be?"
+    },
+    {
+        "wav": "245.wav",
+        "text": "So it turns out those soldiers didn't actually steal anything. Which means... What?"
+    },
+    {
+        "wav": "246.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "247.wav",
+        "text": "9S to command, come in."
+    },
+    {
+        "wav": "248.wav",
+        "text": "It's about the Yorha soldiers who deserted."
+    },
+    {
+        "wav": "249.wav",
+        "text": "No, but I mean... the Resistance says that none of their supplies are actually missing."
+    },
+    {
+        "wav": "250.wav",
+        "text": "So what's going on here?"
+    },
+    {
+        "wav": "251.wav",
+        "text": "はぁ?"
+    },
+    {
+        "wav": "252.wav",
+        "text": "What? Operator, I don't understand."
+    },
+    {
+        "wav": "253.wav",
+        "text": "Huh? Operator? Operator?"
+    },
+    {
+        "wav": "254.wav",
+        "text": "What the hell is that all about?"
+    },
+    {
+        "wav": "255.wav",
+        "text": "But..."
+    },
+    {
+        "wav": "256.wav",
+        "text": "Okay, that's everything the twins asked for."
+    },
+    {
+        "wav": "257.wav",
+        "text": "Those desert roses the twins wanted should be around here somewhere."
+    },
+    {
+        "wav": "258.wav",
+        "text": "Finding one in a place like this won't be easy."
+    },
+    {
+        "wav": "259.wav",
+        "text": "Why are those two engaged in such dangerous work anyway?"
+    },
+    {
+        "wav": "260.wav",
+        "text": "That's the last desert rose. Better get these back to Devola and Popola."
+    },
+    {
+        "wav": "261.wav",
+        "text": "Those two sure draw some difficult assignments, huh?"
+    },
+    {
+        "wav": "262.wav",
+        "text": "Hmm. Maybe I should talk this over with anemone."
+    },
+    {
+        "wav": "263.wav",
+        "text": "Oh shoot, I forgot to ask Devola where to find that tree sap she wanted."
+    },
+    {
+        "wav": "264.wav",
+        "text": "Pod, search for regions where I might be able to obtain tree sap."
+    },
+    {
+        "wav": "265.wav",
+        "text": "The ones Devola mentioned maybe?"
+    },
+    {
+        "wav": "266.wav",
+        "text": "What's with the crazy shape?"
+    },
+    {
+        "wav": "267.wav",
+        "text": "Now I just need to collect some tree sap."
+    },
+    {
+        "wav": "268.wav",
+        "text": "Hopefully this is enough sap."
+    },
+    {
+        "wav": "269.wav",
+        "text": "relics from the old world."
+    },
+    {
+        "wav": "270.wav",
+        "text": "Uh oh."
+    },
+    {
+        "wav": "271.wav",
+        "text": "What the heck were those guys?"
+    },
+    {
+        "wav": "272.wav",
+        "text": "Human culture?"
+    },
+    {
+        "wav": "273.wav",
+        "text": "Warfare as entertainment? What were humans thinking?"
+    },
+    {
+        "wav": "274.wav",
+        "text": "Got it."
+    },
+    {
+        "wav": "275.wav",
+        "text": "How so?"
+    },
+    {
+        "wav": "276.wav",
+        "text": "A Yorha only chip, huh?"
+    },
+    {
+        "wav": "277.wav",
+        "text": "Understood."
+    },
+    {
+        "wav": "278.wav",
+        "text": "Chips with classified data, huh?"
+    },
+    {
+        "wav": "279.wav",
+        "text": "So those packages for transport are in here somewhere?"
+    },
+    {
+        "wav": "280.wav",
+        "text": "I can't get them out like this."
+    },
+    {
+        "wav": "281.wav",
+        "text": "Ugh, better make a path first."
+    },
+    {
+        "wav": "282.wav",
+        "text": "Okay, that should be all of the packages."
+    },
+    {
+        "wav": "283.wav",
+        "text": "This place is even messier than before."
+    },
+    {
+        "wav": "284.wav",
+        "text": "That should be everything."
+    },
+    {
+        "wav": "285.wav",
+        "text": "This must be the resistance storage facility."
+    },
+    {
+        "wav": "286.wav",
+        "text": "You're taking this pretty seriously."
+    },
+    {
+        "wav": "287.wav",
+        "text": "Why the heck is there a stamp inside a machine?"
+    },
+    {
+        "wav": "288.wav",
+        "text": "Deluxe? We'll see."
+    },
+    {
+        "wav": "289.wav",
+        "text": "I was afraid we'd find this."
+    },
+    {
+        "wav": "290.wav",
+        "text": "The only personal items are these dog tags."
+    },
+    {
+        "wav": "291.wav",
+        "text": "Let's go take a look. Maybe some of them will still be alive."
+    },
+    {
+        "wav": "292.wav",
+        "text": "Man, there's blood everywhere. Whatever happened must have happened right here."
+    },
+    {
+        "wav": "293.wav",
+        "text": "Talk about a bad way to go."
+    },
+    {
+        "wav": "294.wav",
+        "text": "When was it sent?"
+    },
+    {
+        "wav": "295.wav",
+        "text": "That means they're still alive. Let's go!"
+    },
+    {
+        "wav": "296.wav",
+        "text": "Over there, initiating rescue!"
+    },
+    {
+        "wav": "297.wav",
+        "text": "Damn!"
+    },
+    {
+        "wav": "298.wav",
+        "text": "I suppose we'd better return their belongings."
+    },
+    {
+        "wav": "299.wav",
+        "text": "We should bring everything back to that resistance member."
+    },
+    {
+        "wav": "300.wav",
+        "text": "A tradition of mourning the dead."
+    },
+    {
+        "wav": "301.wav",
+        "text": "to be."
+    },
+    {
+        "wav": "302.wav",
+        "text": "To be."
+    },
+    {
+        "wav": "303.wav",
+        "text": "I'm not quite sure what it means to mourn. Or even if we have a soul to concern ourselves with."
+    },
+    {
+        "wav": "304.wav",
+        "text": "But I hope you're at rest, Tooby. Sweet dreams."
+    },
+    {
+        "wav": "305.wav",
+        "text": "I'll be with you before long."
+    },
+    {
+        "wav": "306.wav",
+        "text": "This is the place that weapons trader was talking about."
+    },
+    {
+        "wav": "307.wav",
+        "text": "Uh oh. I'm picking up hostile machine life forms."
+    },
+    {
+        "wav": "308.wav",
+        "text": "Phew... that was a slog and a half."
+    },
+    {
+        "wav": "309.wav",
+        "text": "Let's see if we can find any of those complex gadgets the weapons trader was after."
+    },
+    {
+        "wav": "310.wav",
+        "text": "That should be enough. Let's get these back to the traitor."
+    },
+    {
+        "wav": "311.wav",
+        "text": "What do you mean?"
+    },
+    {
+        "wav": "312.wav",
+        "text": "Emil sure is acting kinda weird."
+    },
+    {
+        "wav": "313.wav",
+        "text": "Pod."
+    },
+    {
+        "wav": "314.wav",
+        "text": "Heh, nice work. Let's go find him."
+    },
+    {
+        "wav": "315.wav",
+        "text": "Are these... Emil?"
+    },
+    {
+        "wav": "316.wav",
+        "text": "Emil!"
+    },
+    {
+        "wav": "317.wav",
+        "text": "What the..."
+    },
+    {
+        "wav": "318.wav",
+        "text": "What is that?"
+    },
+    {
+        "wav": "319.wav",
+        "text": "What's happening?"
+    },
+    {
+        "wav": "320.wav",
+        "text": "I know that!"
+    },
+    {
+        "wav": "321.wav",
+        "text": "I don't know how much more of this I can take!"
+    },
+    {
+        "wav": "322.wav",
+        "text": "Stop it! You have to stand down!"
+    },
+    {
+        "wav": "323.wav",
+        "text": "STOP!"
+    },
+    {
+        "wav": "324.wav",
+        "text": "Emile..."
+    },
+    {
+        "wav": "325.wav",
+        "text": "Hold on, Emil. We'll repair you and get you back to normal."
+    },
+    {
+        "wav": "326.wav",
+        "text": "エミオ…"
+    },
+    {
+        "wav": "327.wav",
+        "text": "Is this a pod?"
+    },
+    {
+        "wav": "328.wav",
+        "text": "Seriously? A pod?"
+    },
+    {
+        "wav": "329.wav",
+        "text": "What happened to the YORHA unit this belonged to?"
+    },
+    {
+        "wav": "330.wav",
+        "text": "Is this pod still online? If it is, see if you can overwrite the original owner with my ID."
+    },
+    {
+        "wav": "331.wav",
+        "text": "Abandoned pod, huh?"
+    },
+    {
+        "wav": "332.wav",
+        "text": "Pod, reactivate this and try to overwrite the original owner ID."
+    },
+    {
+        "wav": "333.wav",
+        "text": "Whoa! Is this a pod?"
+    },
+    {
+        "wav": "334.wav",
+        "text": "A pod?"
+    },
+    {
+        "wav": "335.wav",
+        "text": "I wonder if we can use it. Pod, reset this and check the original owner ID."
+    },
+    {
+        "wav": "336.wav",
+        "text": "Pod, reset this thing and try to overwrite the original owner ID."
+    },
+    {
+        "wav": "337.wav",
+        "text": "You need to be near an access point to save your data."
+    },
+    {
+        "wav": "338.wav",
+        "text": "You can see access points on the close range map. Be sure to save often."
+    },
+    {
+        "wav": "339.wav",
+        "text": "Look for the icon on the top of the screen. Oh, and be sure to save often."
+    },
+    {
+        "wav": "340.wav",
+        "text": "Hey, 2B?"
+    },
+    {
+        "wav": "341.wav",
+        "text": "People who know me well usually call me nines, so..."
+    },
+    {
+        "wav": "342.wav",
+        "text": "So what do you think?"
+    },
+    {
+        "wav": "343.wav",
+        "text": "I mean, if you want to call me nines, it's totally okay."
+    },
+    {
+        "wav": "344.wav",
+        "text": "Oh, um, alright."
+    },
+    {
+        "wav": "345.wav",
+        "text": "Say to be."
+    },
+    {
+        "wav": "346.wav",
+        "text": "When do you think you'll be willing to call me nines?"
+    },
+    {
+        "wav": "347.wav",
+        "text": "Well, yeah, but..."
+    },
+    {
+        "wav": "348.wav",
+        "text": "Watch out for hostile enemies, 2B."
+    },
+    {
+        "wav": "349.wav",
+        "text": "Huh? Wait, what did you just say?"
+    },
+    {
+        "wav": "350.wav",
+        "text": "Wait, no, that's not what you said. You said nines, or at least something close to."
+    },
+    {
+        "wav": "351.wav",
+        "text": "ニャー"
+    },
+    {
+        "wav": "352.wav",
+        "text": "I know it's our job and all, but these resistance types sure do use and abuse us, don't they?"
+    },
+    {
+        "wav": "353.wav",
+        "text": "It's like they see us as a couple of gophers or something."
+    },
+    {
+        "wav": "354.wav",
+        "text": "Yeah, that's true."
+    },
+    {
+        "wav": "355.wav",
+        "text": "Oh hey, this is data from the old world."
+    },
+    {
+        "wav": "356.wav",
+        "text": "Old world data, huh?"
+    },
+    {
+        "wav": "357.wav",
+        "text": "Map data, huh?"
+    },
+    {
+        "wav": "358.wav",
+        "text": "It's hard to get an accurate picture from this. Our satellite resolution isn't so hot."
+    },
+    {
+        "wav": "359.wav",
+        "text": "Hopefully they deploy some new satellites soon."
+    },
+    {
+        "wav": "360.wav",
+        "text": "Heh, you don't let anything get in your way, do you?"
+    },
+    {
+        "wav": "361.wav",
+        "text": "Those council broadcasts are always so stiff."
+    },
+    {
+        "wav": "362.wav",
+        "text": "Mankind my ass."
+    },
+    {
+        "wav": "363.wav",
+        "text": "This is 9S. Nothing to report. Weather's sure nice today, though."
+    },
+    {
+        "wav": "364.wav",
+        "text": "You don't have to be so formal all the time, operator."
+    },
+    {
+        "wav": "365.wav",
+        "text": "So I kinda like that about you."
+    },
+    {
+        "wav": "366.wav",
+        "text": "What is it?"
+    },
+    {
+        "wav": "367.wav",
+        "text": "Well, I kinda had to. There's so much excess data sent to me from the satellite, it's delaying aim correction."
+    },
+    {
+        "wav": "368.wav",
+        "text": "Geez, my operator's more prone to violence than I thought."
+    },
+    {
+        "wav": "369.wav",
+        "text": "Yeah, yeah, no problems here."
+    },
+    {
+        "wav": "370.wav",
+        "text": "Really? I'm happy to hear it."
+    },
+    {
+        "wav": "371.wav",
+        "text": "I couldn't have done it without your support, Operator. You're always so cool under fire, not to mention beautiful and-"
+    },
+    {
+        "wav": "372.wav",
+        "text": "I really meant it though."
+    },
+    {
+        "wav": "373.wav",
+        "text": "This belonged to 2B."
+    },
+    {
+        "wav": "374.wav",
+        "text": "Play it."
+    },
+    {
+        "wav": "375.wav",
+        "text": "Home to be."
+    },
+    {
+        "wav": "376.wav",
+        "text": "Huh? Fog?"
+    },
+    {
+        "wav": "377.wav",
+        "text": "Steam? For what purpose?"
+    },
+    {
+        "wav": "378.wav",
+        "text": "I can't believe the size of the commercial facility. The people of the old world must have led pretty good lives."
+    },
+    {
+        "wav": "379.wav",
+        "text": "I bet it was fun to shop back when you had so many choices."
+    },
+    {
+        "wav": "380.wav",
+        "text": "Don't be so sure about that."
+    },
+    {
+        "wav": "381.wav",
+        "text": "Once we eradicate the machine life forms, us soldiers won't have anything left to do."
+    },
+    {
+        "wav": "382.wav",
+        "text": "we'll enter a new age of peace."
+    },
+    {
+        "wav": "383.wav",
+        "text": "And when that happens, we should go shopping together."
+    },
+    {
+        "wav": "384.wav",
+        "text": "I could buy you, I don't know, a t-shirt maybe? Something that looks good on you."
+    },
+    {
+        "wav": "385.wav",
+        "text": "What, not interested?"
+    },
+    {
+        "wav": "386.wav",
+        "text": "That's a promise, right?"
+    },
+    {
+        "wav": "387.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "388.wav",
+        "text": "Who are you?"
+    },
+    {
+        "wav": "389.wav",
+        "text": "I didn't ask for help."
+    },
+    {
+        "wav": "390.wav",
+        "text": "Well, it's unnecessary."
+    },
+    {
+        "wav": "391.wav",
+        "text": "Whatever."
+    },
+    {
+        "wav": "392.wav",
+        "text": "What the hell is that huge thing?"
+    },
+    {
+        "wav": "393.wav",
+        "text": "You're pretty useless, you know that?"
+    },
+    {
+        "wav": "394.wav",
+        "text": "Why the hell would I do that?"
+    },
+    {
+        "wav": "395.wav",
+        "text": "Not happening."
+    },
+    {
+        "wav": "396.wav",
+        "text": "What did I just say?"
+    },
+    {
+        "wav": "397.wav",
+        "text": "Are you kidding me?"
+    },
+    {
+        "wav": "398.wav",
+        "text": "You're the one who keeps talking."
+    },
+    {
+        "wav": "399.wav",
+        "text": "Damn it. Stop!"
+    },
+    {
+        "wav": "400.wav",
+        "text": "My intention is to beat the hell out of every goddamn machine I can find. Is that enough for you?"
+    },
+    {
+        "wav": "401.wav",
+        "text": "Don't tell me what to do."
+    },
+    {
+        "wav": "402.wav",
+        "text": "Shut the hell up."
+    },
+    {
+        "wav": "403.wav",
+        "text": "Look, just stay out of my way."
+    },
+    {
+        "wav": "404.wav",
+        "text": "No. Let's not go in here."
+    },
+    {
+        "wav": "405.wav",
+        "text": "I'm not interested in killing a bunch of sad sacks."
+    },
+    {
+        "wav": "406.wav",
+        "text": "So much for Goliath class. That was over before it started."
+    },
+    {
+        "wav": "407.wav",
+        "text": "Huh?"
+    },
+    {
+        "wav": "408.wav",
+        "text": "What's happening?"
+    },
+    {
+        "wav": "409.wav",
+        "text": "Yeah, that's real helpful."
+    },
+    {
+        "wav": "410.wav",
+        "text": "Damn... He's tough."
+    },
+    {
+        "wav": "411.wav",
+        "text": "Time to bust out B-mode."
+    },
+    {
+        "wav": "412.wav",
+        "text": "Guess it's too bad I'm not a newer model."
+    },
+    {
+        "wav": "413.wav",
+        "text": "Don't patronize me."
+    },
+    {
+        "wav": "414.wav",
+        "text": "Where am I?"
+    },
+    {
+        "wav": "415.wav",
+        "text": "Huh... So this is my memory area."
+    },
+    {
+        "wav": "416.wav",
+        "text": "But why are you here?"
+    },
+    {
+        "wav": "417.wav",
+        "text": "Next time, ask me before you go poking around in my head."
+    },
+    {
+        "wav": "418.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "419.wav",
+        "text": "What's all this about?"
+    },
+    {
+        "wav": "420.wav",
+        "text": "Enough!"
+    },
+    {
+        "wav": "421.wav",
+        "text": "Shut up and get out of my head already!"
+    },
+    {
+        "wav": "422.wav",
+        "text": "Right. Now I just have to bring this to Pascal."
+    },
+    {
+        "wav": "423.wav",
+        "text": "I know."
+    },
+    {
+        "wav": "424.wav",
+        "text": "Oh, perfect. I have the materials you asked me to-"
+    },
+    {
+        "wav": "425.wav",
+        "text": "Pascal! Pascal, are you there?"
+    },
+    {
+        "wav": "426.wav",
+        "text": "What the hell is going on?"
+    },
+    {
+        "wav": "427.wav",
+        "text": "I'm on my way."
+    },
+    {
+        "wav": "428.wav",
+        "text": "What the hell?"
+    },
+    {
+        "wav": "429.wav",
+        "text": "I can't leave this village to fend for itself."
+    },
+    {
+        "wav": "430.wav",
+        "text": "The machines are... eating each other?"
+    },
+    {
+        "wav": "431.wav",
+        "text": "Pod, where's Pascal?"
+    },
+    {
+        "wav": "432.wav",
+        "text": "Let's go."
+    },
+    {
+        "wav": "433.wav",
+        "text": "What happened?"
+    },
+    {
+        "wav": "434.wav",
+        "text": "You need to get out of here before you're next!"
+    },
+    {
+        "wav": "435.wav",
+        "text": "Just go. Run! I'll figure out how to handle this."
+    },
+    {
+        "wav": "436.wav",
+        "text": "These guys can't touch me."
+    },
+    {
+        "wav": "437.wav",
+        "text": "Now move your ass!"
+    },
+    {
+        "wav": "438.wav",
+        "text": "Is that all of them?"
+    },
+    {
+        "wav": "439.wav",
+        "text": "Pod, scan for survivors."
+    },
+    {
+        "wav": "440.wav",
+        "text": "None, huh?"
+    },
+    {
+        "wav": "441.wav",
+        "text": "Pascal, can you hear me?"
+    },
+    {
+        "wav": "442.wav",
+        "text": "I'm sorry. I couldn't help them."
+    },
+    {
+        "wav": "443.wav",
+        "text": "Are the children all right?"
+    },
+    {
+        "wav": "444.wav",
+        "text": "Alright, I'm on my way."
+    },
+    {
+        "wav": "445.wav",
+        "text": "Pascal, are you okay?"
+    },
+    {
+        "wav": "446.wav",
+        "text": "So what exactly happened?"
+    },
+    {
+        "wav": "447.wav",
+        "text": "Can't you regenerate your dead villagers?"
+    },
+    {
+        "wav": "448.wav",
+        "text": "Is this factory safe?"
+    },
+    {
+        "wav": "449.wav",
+        "text": "We really need more info."
+    },
+    {
+        "wav": "450.wav",
+        "text": "I see."
+    },
+    {
+        "wav": "451.wav",
+        "text": "So is this factory safe?"
+    },
+    {
+        "wav": "452.wav",
+        "text": "Alright."
+    },
+    {
+        "wav": "453.wav",
+        "text": "Still, if we're gonna hole up here, I wish we had more info to work with."
+    },
+    {
+        "wav": "454.wav",
+        "text": "Oh, you think?"
+    },
+    {
+        "wav": "455.wav",
+        "text": "What's the hurry?"
+    },
+    {
+        "wav": "456.wav",
+        "text": "Wait, there's more of you?"
+    },
+    {
+        "wav": "457.wav",
+        "text": "What?"
+    },
+    {
+        "wav": "458.wav",
+        "text": "Let's go!"
+    },
+    {
+        "wav": "459.wav",
+        "text": "I'll smash them before they can reach this room!"
+    },
+    {
+        "wav": "460.wav",
+        "text": "We can sort it out later."
+    },
+    {
+        "wav": "461.wav",
+        "text": "Right now we have to take him down!"
+    },
+    {
+        "wav": "462.wav",
+        "text": "These bastards won't stop!"
+    },
+    {
+        "wav": "463.wav",
+        "text": "Come on, Goliaths 2?"
+    },
+    {
+        "wav": "464.wav",
+        "text": "Yeah. Thanks for the assist."
+    },
+    {
+        "wav": "465.wav",
+        "text": "Their own cores?"
+    },
+    {
+        "wav": "466.wav",
+        "text": "I can't leave Pascal by himself."
+    },
+    {
+        "wav": "467.wav",
+        "text": "They...killed themselves."
+    },
+    {
+        "wav": "468.wav",
+        "text": "Pascal, that's..."
+    },
+    {
+        "wav": "469.wav",
+        "text": "Why... Why would they do such a thing?"
+    },
+    {
+        "wav": "470.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "471.wav",
+        "text": "How would teaching them lead to something like this?"
+    },
+    {
+        "wav": "472.wav",
+        "text": "I don't understand."
+    },
+    {
+        "wav": "473.wav",
+        "text": "Wait."
+    },
+    {
+        "wav": "474.wav",
+        "text": "Fear destroyed them. It caused them to take their own lives."
+    },
+    {
+        "wav": "475.wav",
+        "text": "Right. Do it."
+    },
+    {
+        "wav": "476.wav",
+        "text": "Pod. Pascal's memories."
+    },
+    {
+        "wav": "477.wav",
+        "text": "Pascal"
+    },
+    {
+        "wav": "478.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "479.wav",
+        "text": "Pod."
+    },
+    {
+        "wav": "480.wav",
+        "text": "Why did the machines attack Pascal's village? Aren't they all the same?"
+    },
+    {
+        "wav": "481.wav",
+        "text": "Well, aren't you helpful?"
+    },
+    {
+        "wav": "482.wav",
+        "text": "Huh."
+    },
+    {
+        "wav": "483.wav",
+        "text": "What the hell was that?"
+    },
+    {
+        "wav": "484.wav",
+        "text": "A large what now?"
+    },
+    {
+        "wav": "485.wav",
+        "text": "What the heck is going on around here?"
+    },
+    {
+        "wav": "486.wav",
+        "text": "Well, let's go check out this large structural unit."
+    },
+    {
+        "wav": "487.wav",
+        "text": "Where'd he go?"
+    },
+    {
+        "wav": "488.wav",
+        "text": "Shut up!"
+    },
+    {
+        "wav": "489.wav",
+        "text": "How many androids do you think you've killed?"
+    },
+    {
+        "wav": "490.wav",
+        "text": "You think begging for your lives will help?"
+    },
+    {
+        "wav": "491.wav",
+        "text": "You think that's going to make me forget everything?"
+    },
+    {
+        "wav": "492.wav",
+        "text": "Let's check it out."
+    },
+    {
+        "wav": "493.wav",
+        "text": "I see."
+    },
+    {
+        "wav": "494.wav",
+        "text": "You did."
+    },
+    {
+        "wav": "495.wav",
+        "text": "What's the purpose of this structure?"
+    },
+    {
+        "wav": "496.wav",
+        "text": "Someday I need to teach you how to be helpful."
+    },
+    {
+        "wav": "497.wav",
+        "text": "This is a Yorha corpse."
+    },
+    {
+        "wav": "498.wav",
+        "text": "Let's go."
+    },
+    {
+        "wav": "499.wav",
+        "text": "What's up with this place?"
+    },
+    {
+        "wav": "500.wav",
+        "text": "What's that?"
+    },
+    {
+        "wav": "501.wav",
+        "text": "Hmm"
+    },
+    {
+        "wav": "502.wav",
+        "text": "I suppose we have to hack in to look at the data, yeah?"
+    },
+    {
+        "wav": "503.wav",
+        "text": "Help me out, Pod."
+    },
+    {
+        "wav": "504.wav",
+        "text": "Peachy."
+    },
+    {
+        "wav": "505.wav",
+        "text": "This tower looks like a data gathering system for the machines."
+    },
+    {
+        "wav": "506.wav",
+        "text": "These records are from the human server on the moon."
+    },
+    {
+        "wav": "507.wav",
+        "text": "The machines hacked that deep into the system, huh?"
+    },
+    {
+        "wav": "508.wav",
+        "text": "So this tower is a launching system?"
+    },
+    {
+        "wav": "509.wav",
+        "text": "I wonder if it's some sort of cannon."
+    },
+    {
+        "wav": "510.wav",
+        "text": "Some records on old humans."
+    },
+    {
+        "wav": "511.wav",
+        "text": "Damn it, this is useless. There's too many of them."
+    },
+    {
+        "wav": "512.wav",
+        "text": "Huh? What's that?"
+    },
+    {
+        "wav": "513.wav",
+        "text": "Operational summary of model number two in project YORHA."
+    },
+    {
+        "wav": "514.wav",
+        "text": "Who are they?"
+    },
+    {
+        "wav": "515.wav",
+        "text": "Damn it!"
+    },
+    {
+        "wav": "516.wav",
+        "text": "Who are you?"
+    },
+    {
+        "wav": "517.wav",
+        "text": "Shut up!"
+    },
+    {
+        "wav": "518.wav",
+        "text": "God damn it!"
+    },
+    {
+        "wav": "519.wav",
+        "text": "What now?"
+    },
+    {
+        "wav": "520.wav",
+        "text": "I don't know what that means!"
+    },
+    {
+        "wav": "521.wav",
+        "text": "Shut up and explain it already!"
+    },
+    {
+        "wav": "522.wav",
+        "text": "Meaning what?"
+    },
+    {
+        "wav": "523.wav",
+        "text": "はぁ?"
+    },
+    {
+        "wav": "524.wav",
+        "text": "Oh, what the hell?"
+    },
+    {
+        "wav": "525.wav",
+        "text": "I know, alright?"
+    },
+    {
+        "wav": "526.wav",
+        "text": "What the?"
+    },
+    {
+        "wav": "527.wav",
+        "text": "はっ"
+    },
+    {
+        "wav": "528.wav",
+        "text": "They're acting like humans."
+    },
+    {
+        "wav": "529.wav",
+        "text": "Is this thing seriously still kicking?"
+    },
+    {
+        "wav": "530.wav",
+        "text": "So this just keeps going until I kill them all?"
+    },
+    {
+        "wav": "531.wav",
+        "text": "This is messed up."
+    },
+    {
+        "wav": "532.wav",
+        "text": "What the hell is this thing going on about?"
+    },
+    {
+        "wav": "533.wav",
+        "text": "What's all this junk?"
+    },
+    {
+        "wav": "534.wav",
+        "text": "Used to make what?"
+    },
+    {
+        "wav": "535.wav",
+        "text": "This tower is a giant cannon that's aimed at the human server on the moon."
+    },
+    {
+        "wav": "536.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "537.wav",
+        "text": "If we don't do something, all of humanity's remaining data will be destroyed."
+    },
+    {
+        "wav": "538.wav",
+        "text": "9S. Win."
+    },
+    {
+        "wav": "539.wav",
+        "text": "Eh."
+    },
+    {
+        "wav": "540.wav",
+        "text": "to be hated to keep killing you."
+    },
+    {
+        "wav": "541.wav",
+        "text": "It caused her so much pain."
+    },
+    {
+        "wav": "542.wav",
+        "text": "The 9S type is a high-end model. They knew you'd discover the truth eventually."
+    },
+    {
+        "wav": "543.wav",
+        "text": "But the model designation 2B was just a cover."
+    },
+    {
+        "wav": "544.wav",
+        "text": "9S!"
+    },
+    {
+        "wav": "545.wav",
+        "text": "It's how we were made."
+    },
+    {
+        "wav": "546.wav",
+        "text": "Androids were designed to protect their human masters."
+    },
+    {
+        "wav": "547.wav",
+        "text": "Our core programming demands that we"
+    },
+    {
+        "wav": "548.wav",
+        "text": "Damn it!"
+    },
+    {
+        "wav": "549.wav",
+        "text": "Damn it!"
+    },
+    {
+        "wav": "550.wav",
+        "text": "Pod, hack into 9S."
+    },
+    {
+        "wav": "551.wav",
+        "text": "Pod."
+    },
+    {
+        "wav": "552.wav",
+        "text": "We're going to repair 9S's logic circuits."
+    },
+    {
+        "wav": "553.wav",
+        "text": "Tell me where to find the virus corrupting 9S."
+    },
+    {
+        "wav": "554.wav",
+        "text": "I think I know a way."
+    },
+    {
+        "wav": "555.wav",
+        "text": "Hmph. You're not so bad, Pod. You know that?"
+    },
+    {
+        "wav": "556.wav",
+        "text": "Guess it's just a statue."
+    },
+    {
+        "wav": "557.wav",
+        "text": "You little..."
+    },
+    {
+        "wav": "558.wav",
+        "text": "A group of pacifist machines, huh?"
+    },
+    {
+        "wav": "559.wav",
+        "text": "Hmm"
+    },
+    {
+        "wav": "560.wav",
+        "text": "So this is the part Pascal wanted?"
+    },
+    {
+        "wav": "561.wav",
+        "text": "Can't believe I'm killing machines to save a machine."
+    },
+    {
+        "wav": "562.wav",
+        "text": "Heh."
+    },
+    {
+        "wav": "563.wav",
+        "text": "Now screw it. Better go see Pascal."
+    },
+    {
+        "wav": "564.wav",
+        "text": "Never seen these guys before."
+    },
+    {
+        "wav": "565.wav",
+        "text": "If that's how you want it."
+    },
+    {
+        "wav": "566.wav",
+        "text": "Wait, haven't I fought this thing already?"
+    },
+    {
+        "wav": "567.wav",
+        "text": "Don't have to tell me twice."
+    },
+    {
+        "wav": "568.wav",
+        "text": "Time to die."
+    },
+    {
+        "wav": "569.wav",
+        "text": "Brother? So there's more of them?"
+    },
+    {
+        "wav": "570.wav",
+        "text": "Is that?"
+    },
+    {
+        "wav": "571.wav",
+        "text": "Revenge, huh?"
+    },
+    {
+        "wav": "572.wav",
+        "text": "What kind of machine tries to avenge its family?"
+    },
+    {
+        "wav": "573.wav",
+        "text": "Ridiculous."
+    },
+    {
+        "wav": "574.wav",
+        "text": "This looks useless."
+    },
+    {
+        "wav": "575.wav",
+        "text": "Great. Useless crap."
+    },
+    {
+        "wav": "576.wav",
+        "text": "You don't say."
+    },
+    {
+        "wav": "577.wav",
+        "text": "Library."
+    },
+    {
+        "wav": "578.wav",
+        "text": "What's this?"
+    },
+    {
+        "wav": "579.wav",
+        "text": "Some kind of writing."
+    },
+    {
+        "wav": "580.wav",
+        "text": "So is this the treasure or what?"
+    },
+    {
+        "wav": "581.wav",
+        "text": "Who knows, maybe it's fun to eat, or more fun than it looks at any rate."
+    },
+    {
+        "wav": "582.wav",
+        "text": "This should be enough deer and boar meat. Time to unload it on that weirdo."
+    },
+    {
+        "wav": "583.wav",
+        "text": "That's everything those redhead twins wanted. Guess I'll hand it over."
+    },
+    {
+        "wav": "584.wav",
+        "text": "Those desert roses the twins wanted should be around here somewhere. But finding them is gonna be a serious pain."
+    },
+    {
+        "wav": "585.wav",
+        "text": "Why are they running such dangerous missions in the first place?"
+    },
+    {
+        "wav": "586.wav",
+        "text": "That's it for the Desert Roses. Time to head back."
+    },
+    {
+        "wav": "587.wav",
+        "text": "I don't get it. Why are the twins being stuck with all these crap jobs?"
+    },
+    {
+        "wav": "588.wav",
+        "text": "I'd better talk to the lady in charge about this."
+    },
+    {
+        "wav": "589.wav",
+        "text": "Aw, crap. I forgot to ask the redhead where to find Tree-Sap."
+    },
+    {
+        "wav": "590.wav",
+        "text": "Where the heck am I gonna find that?"
+    },
+    {
+        "wav": "591.wav",
+        "text": "Well, aren't you a helpful little box."
+    },
+    {
+        "wav": "592.wav",
+        "text": "Well, let's get it over with."
+    },
+    {
+        "wav": "593.wav",
+        "text": "Huh. That's... something."
+    },
+    {
+        "wav": "594.wav",
+        "text": "Now that the fun's over, it's time to collect some tree sap."
+    },
+    {
+        "wav": "595.wav",
+        "text": "That ought to be enough sap. Time to head back."
+    },
+    {
+        "wav": "596.wav",
+        "text": "So I need to find junk from the old world now?"
+    },
+    {
+        "wav": "597.wav",
+        "text": "Well, crap."
+    },
+    {
+        "wav": "598.wav",
+        "text": "What the hell were those guys?"
+    },
+    {
+        "wav": "599.wav",
+        "text": "Uh, run up by me again?"
+    },
+    {
+        "wav": "600.wav",
+        "text": "Warfare is entertainment? Humans really were crazy."
+    },
+    {
+        "wav": "601.wav",
+        "text": "What a dump. I'll have to do a little cleaning before I can get this stuff out of here."
+    },
+    {
+        "wav": "602.wav",
+        "text": "That should be everything."
+    },
+    {
+        "wav": "603.wav",
+        "text": "So this is all the crap the Resistance was storing, huh?"
+    },
+    {
+        "wav": "604.wav",
+        "text": "What do you mean?"
+    },
+    {
+        "wav": "605.wav",
+        "text": "That round guy is acting kind of strange."
+    },
+    {
+        "wav": "606.wav",
+        "text": "Pod."
+    },
+    {
+        "wav": "607.wav",
+        "text": "Maybe you're not totally useless after all."
+    },
+    {
+        "wav": "608.wav",
+        "text": "What in the goddamn..."
+    },
+    {
+        "wav": "609.wav",
+        "text": "Round thing, you okay?"
+    },
+    {
+        "wav": "610.wav",
+        "text": "What the hell?"
+    },
+    {
+        "wav": "611.wav",
+        "text": "Oh, are you kidding me?"
+    },
+    {
+        "wav": "612.wav",
+        "text": "Okay, this is not good!"
+    },
+    {
+        "wav": "613.wav",
+        "text": "It's not that easy, you dumbass!"
+    },
+    {
+        "wav": "614.wav",
+        "text": "This is bat shit!"
+    },
+    {
+        "wav": "615.wav",
+        "text": "Shut up already, kid!"
+    },
+    {
+        "wav": "616.wav",
+        "text": "Shit."
+    },
+    {
+        "wav": "617.wav",
+        "text": "Emil."
+    },
+    {
+        "wav": "618.wav",
+        "text": "Crematile ready, kid. I'm sure we'll have you back up and running in no time."
+    },
+    {
+        "wav": "619.wav",
+        "text": "Emil."
+    },
+    {
+        "wav": "620.wav",
+        "text": "Are those machines fighting each other?"
+    },
+    {
+        "wav": "621.wav",
+        "text": "You're a machine too."
+    },
+    {
+        "wav": "622.wav",
+        "text": "Uh-huh. And?"
+    },
+    {
+        "wav": "623.wav",
+        "text": "Machines don't have souls. They're just murder bots with a fancy name."
+    },
+    {
+        "wav": "624.wav",
+        "text": "They killed so many of us, and I swore to make them pay."
+    },
+    {
+        "wav": "625.wav",
+        "text": "Just shut up and leave before I change my mind."
+    },
+    {
+        "wav": "626.wav",
+        "text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN"
+    },
+    {
+        "wav": "627.wav",
+        "text": "What the?"
+    },
+    {
+        "wav": "628.wav",
+        "text": "All this goddamn sand is starting to piss me off."
+    },
+    {
+        "wav": "629.wav",
+        "text": "You make it sound so easy."
+    },
+    {
+        "wav": "630.wav",
+        "text": "The Resistance Camp."
+    },
+    {
+        "wav": "631.wav",
+        "text": "I know where it is."
+    },
+    {
+        "wav": "632.wav",
+        "text": "Yeah, I know."
+    },
+    {
+        "wav": "633.wav",
+        "text": "You don't know when to shut up, do you?"
+    },
+    {
+        "wav": "634.wav",
+        "text": "There's machines everywhere."
+    },
+    {
+        "wav": "635.wav",
+        "text": "I'd be more concerned about me smashing your face if I were you."
+    },
+    {
+        "wav": "636.wav",
+        "text": "God damn it."
+    },
+    {
+        "wav": "637.wav",
+        "text": "You've got to be kidding me."
+    },
+    {
+        "wav": "638.wav",
+        "text": "Guess I'll go back to that machine."
+    },
+    {
+        "wav": "639.wav",
+        "text": "Here's your stuff."
+    },
+    {
+        "wav": "640.wav",
+        "text": "He can fly?"
+    },
+    {
+        "wav": "641.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "642.wav",
+        "text": "Huh? What's that?"
+    },
+    {
+        "wav": "643.wav",
+        "text": "Is this a part?"
+    },
+    {
+        "wav": "644.wav",
+        "text": "What kind of ridiculous thing is this?"
+    },
+    {
+        "wav": "645.wav",
+        "text": "Whoa, what's that?"
+    },
+    {
+        "wav": "646.wav",
+        "text": "What's that huge ass thing?"
+    },
+    {
+        "wav": "647.wav",
+        "text": "Wonder why it was abandoned."
+    },
+    {
+        "wav": "648.wav",
+        "text": "Is that thing still functioning?"
+    },
+    {
+        "wav": "649.wav",
+        "text": "Some manner? What manner?"
+    },
+    {
+        "wav": "650.wav",
+        "text": "You're useless."
+    },
+    {
+        "wav": "651.wav",
+        "text": "And you never shut up."
+    },
+    {
+        "wav": "652.wav",
+        "text": "Um, did I really just catch a pod?"
+    },
+    {
+        "wav": "653.wav",
+        "text": "Check and see if I can use it."
+    },
+    {
+        "wav": "654.wav",
+        "text": "To be, huh?"
+    },
+    {
+        "wav": "655.wav",
+        "text": "Leave it."
+    },
+    {
+        "wav": "656.wav",
+        "text": "It's not my business."
+    },
+    {
+        "wav": "657.wav",
+        "text": "Oh"
+    },
+    {
+        "wav": "658.wav",
+        "text": "Uhhh... Uhhh..."
+    },
+    {
+        "wav": "659.wav",
+        "text": "and droids."
+    },
+    {
+        "wav": "660.wav",
+        "text": "and droids."
+    },
+    {
+        "wav": "661.wav",
+        "text": "Why fighter?"
+    },
+    {
+        "wav": "662.wav",
+        "text": "Why? Fight."
+    },
+    {
+        "wav": "663.wav",
+        "text": "Sword... Dodge..."
+    },
+    {
+        "wav": "664.wav",
+        "text": "Sword... Dodge..."
+    },
+    {
+        "wav": "665.wav",
+        "text": "Projectile... Deflect."
+    },
+    {
+        "wav": "666.wav",
+        "text": "Projectile. Deflect."
+    },
+    {
+        "wav": "667.wav",
+        "text": "The records claim humans covered their crotches as they went about their business."
+    },
+    {
+        "wav": "668.wav",
+        "text": "Revealing one's genitals was seen as problematic."
+    },
+    {
+        "wav": "669.wav",
+        "text": "So just be quiet and wear them already."
+    },
+    {
+        "wav": "670.wav",
+        "text": "This is a type of fruit."
+    },
+    {
+        "wav": "671.wav",
+        "text": "Our data suggests that mankind gained great intelligence from consuming fruit."
+    },
+    {
+        "wav": "672.wav",
+        "text": "So quit griping and eat it already."
+    },
+    {
+        "wav": "673.wav",
+        "text": "Fine."
+    },
+    {
+        "wav": "674.wav",
+        "text": "Ha ha ha, aren't you quite the pair."
+    },
+    {
+        "wav": "675.wav",
+        "text": "Perhaps we can discuss our current situation."
+    },
+    {
+        "wav": "676.wav",
+        "text": "Relax, Eve."
+    },
+    {
+        "wav": "677.wav",
+        "text": "We're still negotiating here."
+    },
+    {
+        "wav": "678.wav",
+        "text": "My name is Adam."
+    },
+    {
+        "wav": "679.wav",
+        "text": "The aliens you seek are no longer here."
+    },
+    {
+        "wav": "680.wav",
+        "text": "They were wiped out centuries ago."
+    },
+    {
+        "wav": "681.wav",
+        "text": "by us, the machines."
+    },
+    {
+        "wav": "682.wav",
+        "text": "And who knows, perhaps we'll wipe out the androids next."
+    },
+    {
+        "wav": "683.wav",
+        "text": "Machines are weapons capable of evolution. We can grow. We can become aware."
+    },
+    {
+        "wav": "684.wav",
+        "text": "Eventually, the intelligence within our network began to surpass that of our creators."
+    },
+    {
+        "wav": "685.wav",
+        "text": "You'd probably be surprised at how quickly it happened."
+    },
+    {
+        "wav": "686.wav",
+        "text": "Oh, there's no need to fret about them."
+    },
+    {
+        "wav": "687.wav",
+        "text": "They were simple, infantile, almost like plants, I guess you'd say."
+    },
+    {
+        "wav": "688.wav",
+        "text": "They held no value to us."
+    },
+    {
+        "wav": "689.wav",
+        "text": "But the humans on the moon? Now they are interesting."
+    },
+    {
+        "wav": "690.wav",
+        "text": "Because they are an enigma."
+    },
+    {
+        "wav": "691.wav",
+        "text": "They killed uncountable numbers of their own kind, and yet loved in equal measure."
+    },
+    {
+        "wav": "692.wav",
+        "text": "It's fascinating, don't you think? What could possibly drive such behavior?"
+    },
+    {
+        "wav": "693.wav",
+        "text": "We have dedicated ourselves to unraveling this riddle of humanity."
+    },
+    {
+        "wav": "694.wav",
+        "text": "And now we will allow you to assist us."
+    },
+    {
+        "wav": "695.wav",
+        "text": "You were made in their image after all."
+    },
+    {
+        "wav": "696.wav",
+        "text": "It's simple."
+    },
+    {
+        "wav": "697.wav",
+        "text": "We need you to locate the humans on the Moon and bring them to us."
+    },
+    {
+        "wav": "698.wav",
+        "text": "We will then dissect and analyze them in order to drag their secrets forth into the light."
+    },
+    {
+        "wav": "699.wav",
+        "text": "Surely you see the attraction in this."
+    },
+    {
+        "wav": "700.wav",
+        "text": "Well, I suppose this concludes negotiations."
+    },
+    {
+        "wav": "701.wav",
+        "text": "The only remaining option is to destroy you."
+    },
+    {
+        "wav": "702.wav",
+        "text": "the same way we destroyed these pathetic little aliens."
+    },
+    {
+        "wav": "703.wav",
+        "text": "Knowledge expands horizons and enriches existence."
+    },
+    {
+        "wav": "704.wav",
+        "text": "into your head perhaps, but not to your heart."
+    },
+    {
+        "wav": "705.wav",
+        "text": "Yes?"
+    },
+    {
+        "wav": "706.wav",
+        "text": "Humans wouldn't change names so easily."
+    },
+    {
+        "wav": "707.wav",
+        "text": "Besides, you should be proud of the name Eve."
+    },
+    {
+        "wav": "708.wav",
+        "text": "Glad to hear it."
+    },
+    {
+        "wav": "709.wav",
+        "text": "Is there something else?"
+    },
+    {
+        "wav": "710.wav",
+        "text": "Alright, but only after we're finished."
+    },
+    {
+        "wav": "711.wav",
+        "text": "You do that."
+    },
+    {
+        "wav": "712.wav",
+        "text": "I, or we, machine life forms, I suppose, have a keen interest in humanity."
+    },
+    {
+        "wav": "713.wav",
+        "text": "Love. Family. Religion. War."
+    },
+    {
+        "wav": "714.wav",
+        "text": "The more human records I unearth, the more charmed I am by their complexity."
+    },
+    {
+        "wav": "715.wav",
+        "text": "This city is one of many areas I created out of a desire to understand, to know humans."
+    },
+    {
+        "wav": "716.wav",
+        "text": "It's grand, don't you think? Almost spiritual. And yet it's currently nothing more than an Android graveyard."
+    },
+    {
+        "wav": "717.wav",
+        "text": "I seek to learn and adopt all facets of humanity."
+    },
+    {
+        "wav": "718.wav",
+        "text": "Some desired love, others family."
+    },
+    {
+        "wav": "719.wav",
+        "text": "Only then did I realize the truth."
+    },
+    {
+        "wav": "720.wav",
+        "text": "The core of humanity is conflict."
+    },
+    {
+        "wav": "721.wav",
+        "text": "They fight, steal, kill. This is humanity in its purest form."
+    },
+    {
+        "wav": "722.wav",
+        "text": "Have I offended you, little android? Did I speak ill of your beloved humans?"
+    },
+    {
+        "wav": "723.wav",
+        "text": "The truth can be so painful."
+    },
+    {
+        "wav": "724.wav",
+        "text": "I strive to attain nothing less than the essence of humanity itself."
+    },
+    {
+        "wav": "725.wav",
+        "text": "We machines exist in a connected network. We are immortal, invincible."
+    },
+    {
+        "wav": "726.wav",
+        "text": "And yet, within all those infinite bits of data, there exists not even the merest flicker of being, of life."
+    },
+    {
+        "wav": "727.wav",
+        "text": "Death, even the concept of death, has no meaning to us."
+    },
+    {
+        "wav": "728.wav",
+        "text": "Is that all you've got, little android?"
+    },
+    {
+        "wav": "729.wav",
+        "text": "Hate me! Despise me!"
+    },
+    {
+        "wav": "730.wav",
+        "text": "Did I not festoon this area with the corpses of your friends?"
+    },
+    {
+        "wav": "731.wav",
+        "text": "Ah, 9S."
+    },
+    {
+        "wav": "732.wav",
+        "text": "Ha ha ha."
+    },
+    {
+        "wav": "733.wav",
+        "text": "Hahahaha!"
+    },
+    {
+        "wav": "734.wav",
+        "text": "Both our kind share a mad love of humanity, do we not?"
+    },
+    {
+        "wav": "735.wav",
+        "text": "Perhaps we're not so different after all."
+    },
+    {
+        "wav": "736.wav",
+        "text": "Ha ha ha ha ha ha ha ha!"
+    },
+    {
+        "wav": "737.wav",
+        "text": "But alas, it was all in vain."
+    },
+    {
+        "wav": "738.wav",
+        "text": "I'm sure you've realized it by now."
+    },
+    {
+        "wav": "739.wav",
+        "text": "The fact humanity is already extinct?"
+    },
+    {
+        "wav": "740.wav",
+        "text": "Hahaha Hahaha"
+    },
+    {
+        "wav": "741.wav",
+        "text": "AHAHAHAHAHA"
+    },
+    {
+        "wav": "742.wav",
+        "text": "you're"
+    },
+    {
+        "wav": "743.wav",
+        "text": "Number two."
+    },
+    {
+        "wav": "744.wav",
+        "text": "Um, yes, well, the bunker told me to expect you."
+    },
+    {
+        "wav": "745.wav",
+        "text": "My name is Anemone."
+    },
+    {
+        "wav": "746.wav",
+        "text": "I'm the leader of the Android resistance that controls most of this territory."
+    },
+    {
+        "wav": "747.wav",
+        "text": "You must be the new scouts we heard about."
+    },
+    {
+        "wav": "748.wav",
+        "text": "Well, I'm sure my people will have plenty of information for you."
+    },
+    {
+        "wav": "749.wav",
+        "text": "Please feel free to ask them anything you like."
+    },
+    {
+        "wav": "750.wav",
+        "text": "Oh, 2B. Your timing is impeccable."
+    },
+    {
+        "wav": "751.wav",
+        "text": "Our android forces currently have a carrier deployed in the Pacific Ocean."
+    },
+    {
+        "wav": "752.wav",
+        "text": "It should be back here to resupply before too long."
+    },
+    {
+        "wav": "753.wav",
+        "text": "The Resistance is assisting with the mission."
+    },
+    {
+        "wav": "754.wav",
+        "text": "So I'd like to ask you to run a little guard duty."
+    },
+    {
+        "wav": "755.wav",
+        "text": "Dead serious. There's a stockpile of missiles down at the shoreline that needs to be loaded on the carrier."
+    },
+    {
+        "wav": "756.wav",
+        "text": "And with all the machine activity lately, we need to stay on our toes."
+    },
+    {
+        "wav": "757.wav",
+        "text": "The recent cave-in at the city ruins means the shoreline is now accessible."
+    },
+    {
+        "wav": "758.wav",
+        "text": "Of course, if you're already working on something for Yorha, I don't mind if that takes priority."
+    },
+    {
+        "wav": "759.wav",
+        "text": "Anyway, thanks in advance."
+    },
+    {
+        "wav": "760.wav",
+        "text": "Hmm? What's up?"
+    },
+    {
+        "wav": "761.wav",
+        "text": "A dynamic... Oh, you must mean the one the twins built."
+    },
+    {
+        "wav": "762.wav",
+        "text": "I think they're just back from an expedition, actually."
+    },
+    {
+        "wav": "763.wav",
+        "text": "Go talk to the red-haired sisters further in the camp."
+    },
+    {
+        "wav": "764.wav",
+        "text": "You should see some red-haired androids over there. Try talking to them."
+    },
+    {
+        "wav": "765.wav",
+        "text": "to be."
+    },
+    {
+        "wav": "766.wav",
+        "text": "Those twins, they-"
+    },
+    {
+        "wav": "767.wav",
+        "text": "Actually, never mind."
+    },
+    {
+        "wav": "768.wav",
+        "text": "Damn, 9S really went through hell."
+    },
+    {
+        "wav": "769.wav",
+        "text": "You're the boss. You want him sent up to command body and all? I'll make it happen."
+    },
+    {
+        "wav": "770.wav",
+        "text": "Oh."
+    },
+    {
+        "wav": "771.wav",
+        "text": "Nothing, just... you've never been much for gratitude, you know?"
+    },
+    {
+        "wav": "772.wav",
+        "text": "Not that I mind or anything."
+    },
+    {
+        "wav": "773.wav",
+        "text": "Oh, um, I also have a message for you."
+    },
+    {
+        "wav": "774.wav",
+        "text": "Command needs you to contact them ASAP."
+    },
+    {
+        "wav": "775.wav",
+        "text": "This is the resistance camp!"
+    },
+    {
+        "wav": "776.wav",
+        "text": "The machine..."
+    },
+    {
+        "wav": "777.wav",
+        "text": "Requesting backup forces in range, please we can"
+    },
+    {
+        "wav": "778.wav",
+        "text": "2B!"
+    },
+    {
+        "wav": "779.wav",
+        "text": "Where are you going, Tooby?"
+    },
+    {
+        "wav": "780.wav",
+        "text": "They came out of nowhere, overran the entire camp!"
+    },
+    {
+        "wav": "781.wav",
+        "text": "We tried to fight back, but our shots have no effect!"
+    },
+    {
+        "wav": "782.wav",
+        "text": "Good luck."
+    },
+    {
+        "wav": "783.wav",
+        "text": "To be... you... you saved our lives."
+    },
+    {
+        "wav": "784.wav",
+        "text": "I have no idea. They came out of nowhere and just-"
+    },
+    {
+        "wav": "785.wav",
+        "text": "That was outside the camp!"
+    },
+    {
+        "wav": "786.wav",
+        "text": "Hello, and thank you for choosing Tower System Services."
+    },
+    {
+        "wav": "787.wav",
+        "text": "We apologize for the inconvenience."
+    },
+    {
+        "wav": "788.wav",
+        "text": "But locks on each subunit must be deactivated before accessing the main tower."
+    },
+    {
+        "wav": "789.wav",
+        "text": "Have a great day!"
+    },
+    {
+        "wav": "790.wav",
+        "text": "Hello, and thank you for choosing Tower System Services."
+    },
+    {
+        "wav": "791.wav",
+        "text": "Special authorization keys are required to access tower subunits."
+    },
+    {
+        "wav": "792.wav",
+        "text": "We apologize for the inconvenience, but access is not permitted at this time."
+    },
+    {
+        "wav": "793.wav",
+        "text": "However..."
+    },
+    {
+        "wav": "794.wav",
+        "text": "Today we have a special gift for first time visitors to this tower."
+    },
+    {
+        "wav": "795.wav",
+        "text": "A tour of our brand new resource recovery unit."
+    },
+    {
+        "wav": "796.wav",
+        "text": "We look forward to serving you again."
+    },
+    {
+        "wav": "797.wav",
+        "text": "Hello, and thank you for choosing Tower System Services."
+    },
+    {
+        "wav": "798.wav",
+        "text": "We apologize for the inconvenience."
+    },
+    {
+        "wav": "799.wav",
+        "text": "But special authorization keys are required to access tower subunits."
+    },
+    {
+        "wav": "800.wav",
+        "text": "Have a wonderful day!"
+    },
+    {
+        "wav": "801.wav",
+        "text": "Tower subunit access granted."
+    },
+    {
+        "wav": "802.wav",
+        "text": "The tower subunit lock has been deactivated."
+    },
+    {
+        "wav": "803.wav",
+        "text": "Your current authorization key will now be disabled."
+    },
+    {
+        "wav": "804.wav",
+        "text": "We have a special present for you! A token of appreciation for all the Machine Lifeform requests you completed!"
+    },
+    {
+        "wav": "805.wav",
+        "text": "Congratulations! As thanks for all the Android requests you completed, we have a special present for you!"
+    },
+    {
+        "wav": "806.wav",
+        "text": "As a reward for trying to understand machine life forms via frequent hacking sessions, we have a special present for you."
+    },
+    {
+        "wav": "807.wav",
+        "text": "It's wonderful to see your interest in the things of this world. The collection you've amassed has earned you a special present."
+    },
+    {
+        "wav": "808.wav",
+        "text": "Goodness, you've died an astonishing number of times. You deserve a special present."
+    },
+    {
+        "wav": "809.wav",
+        "text": "Oh my! Look at all the machine lifeforms you've murdered! Such dogged persistence is worthy of a special present!"
+    },
+    {
+        "wav": "810.wav",
+        "text": "Heavens, you've used a veritable mountain of items, haven't you? Please have this special present as a reward."
+    },
+    {
+        "wav": "811.wav",
+        "text": "You've recovered an army's worth of corpses. We have just the thing for someone like you."
+    },
+    {
+        "wav": "812.wav",
+        "text": "Hello, and thank you for choosing Tower System Services."
+    },
+    {
+        "wav": "813.wav",
+        "text": "We've got some very exciting news for everyone today."
+    },
+    {
+        "wav": "814.wav",
+        "text": "There's only one lock left to remove from the tower sub-e."
+    },
+    {
+        "wav": "815.wav",
+        "text": "And in order to retain your faithful patrons..."
+    },
+    {
+        "wav": "816.wav",
+        "text": "Good luck!"
+    },
+    {
+        "wav": "817.wav",
+        "text": "Hello, and thank you for choosing Tower System Services."
+    },
+    {
+        "wav": "818.wav",
+        "text": "Congratulations! You've unlocked all of the subunits!"
+    },
+    {
+        "wav": "819.wav",
+        "text": "That means a special prize is waiting for you inside the tower."
+    },
+    {
+        "wav": "820.wav",
+        "text": "We look forward to serving you."
+    },
+    {
+        "wav": "821.wav",
+        "text": "Hello, and thank you for choosing Tower System Services."
+    },
+    {
+        "wav": "822.wav",
+        "text": "We're so pleased you've chosen to visit the tower today!"
+    },
+    {
+        "wav": "823.wav",
+        "text": "Don't forget about the special prize for the guest who unlocks the last subunit in the room just ahead!"
+    },
+    {
+        "wav": "824.wav",
+        "text": "You're going to love it!"
+    },
+    {
+        "wav": "825.wav",
+        "text": "Your Hi Unit 9S."
+    },
+    {
+        "wav": "826.wav",
+        "text": "Your Ha Unit 9S."
+    },
+    {
+        "wav": "827.wav",
+        "text": "Welcome to the tower."
+    },
+    {
+        "wav": "828.wav",
+        "text": "Welcome to the tower."
+    },
+    {
+        "wav": "829.wav",
+        "text": "Because you made it this far, we have a special announcement just for you."
+    },
+    {
+        "wav": "830.wav",
+        "text": "Because you made it this far, we have a special announcement just for you."
+    },
+    {
+        "wav": "831.wav",
+        "text": "あははははは"
+    },
+    {
+        "wav": "832.wav",
+        "text": "あははははは"
+    },
+    {
+        "wav": "833.wav",
+        "text": "Ha ha ha ha ha ha ha ha"
+    },
+    {
+        "wav": "834.wav",
+        "text": "Kill. KILL!"
+    },
+    {
+        "wav": "835.wav",
+        "text": "Kill. KILL!"
+    },
+    {
+        "wav": "836.wav",
+        "text": "Kill. KILL!"
+    },
+    {
+        "wav": "837.wav",
+        "text": "アハハハハハ笑"
+    },
+    {
+        "wav": "838.wav",
+        "text": "(*泣き声*)"
+    },
+    {
+        "wav": "839.wav",
+        "text": "あははははははははははは"
+    },
+    {
+        "wav": "840.wav",
+        "text": "アアアアアwww"
+    },
+    {
+        "wav": "841.wav",
+        "text": "fuerte"
+    },
+    {
+        "wav": "842.wav",
+        "text": "ウウウウウウウウウウウ Load Audio"
+    },
+    {
+        "wav": "843.wav",
+        "text": "Emergency protocol code F2."
+    },
+    {
+        "wav": "844.wav",
+        "text": "All YORHAM members are to report to combat stations immediately."
+    },
+    {
+        "wav": "845.wav",
+        "text": "Repeat, emergency protocol code F2."
+    },
+    {
+        "wav": "846.wav",
+        "text": "All YORHHA members are to report to combat stations immediately."
+    },
+    {
+        "wav": "847.wav",
+        "text": "Contact from command, alert status raised to level four. Repeat, alert status raised to level four. All units currently under maintenance must be put into launchable state as soon as possible."
+    },
+    {
+        "wav": "848.wav",
+        "text": "Repeat, alert status raised to level 4."
+    },
+    {
+        "wav": "849.wav",
+        "text": "All units currently under maintenance must be put into launchable state as soon as possible."
+    },
+    {
+        "wav": "850.wav",
+        "text": "Emergency. The fusion reactor within the bunker is currently in an uncontrollable state. All your hull units must evacuate the bunker as soon as possible. Repeat. The fusion reactor is currently in an uncontrollable state. All your hull units must evacuate the bunker as soon as possible."
+    },
+    {
+        "wav": "851.wav",
+        "text": "All Your-Ha units must evacuate the bunker as soon as possible."
+    },
+    {
+        "wav": "852.wav",
+        "text": "Repeat, the fusion reactor is currently in an uncontrollable state."
+    },
+    {
+        "wav": "853.wav",
+        "text": "All your high units, ma-ma-ma-ma- HEE"
+    },
+    {
+        "wav": "854.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "855.wav",
+        "text": "must evacuate wait wait the b-b-bunk! Bunk! I see! Hahahaha!"
+    },
+    {
+        "wav": "856.wav",
+        "text": "Server Administrator 3S. Server Administrator 3S. Please return to the server administration room as soon as possible to handle a capacity issue. End transmission."
+    },
+    {
+        "wav": "857.wav",
+        "text": "Please return to the server administration room as soon as possible to handle a capacity issue."
+    },
+    {
+        "wav": "858.wav",
+        "text": "End transmission."
+    },
+    {
+        "wav": "859.wav",
+        "text": "Command to all YORHA units. Upon your descent to the surface, proceed to follow pre-programmed instructions and carry out your operations. To prevent data leakage, communication from the surface is prohibited, except in case of emergency. That is all."
+    },
+    {
+        "wav": "860.wav",
+        "text": "Upon your descent to the surface, proceed to follow pre-programmed instructions and carry out your operations."
+    },
+    {
+        "wav": "861.wav",
+        "text": "To prevent data leakage, communication from the surface is prohibited except in case of emergency."
+    },
+    {
+        "wav": "862.wav",
+        "text": "That is all."
+    },
+    {
+        "wav": "863.wav",
+        "text": "Attention Unit 2B, the commander needs to see you. Please report to command immediately."
+    },
+    {
+        "wav": "864.wav",
+        "text": "Attention Unit 9S, the commander needs to see you. Please report to command immediately."
+    },
+    {
+        "wav": "865.wav",
+        "text": "Commencing self-defense protocol."
+    },
+    {
+        "wav": "866.wav",
+        "text": "Well done, Jorna Soldiers. I am defeated."
+    },
+    {
+        "wav": "867.wav",
+        "text": "awkward screech"
+    },
+    {
+        "wav": "868.wav",
+        "text": "NETWORK"
+    },
+    {
+        "wav": "869.wav",
+        "text": "Androids"
+    },
+    {
+        "wav": "870.wav",
+        "text": "We are."
+    },
+    {
+        "wav": "871.wav",
+        "text": "We are not bad machines."
+    },
+    {
+        "wav": "872.wav",
+        "text": "I believe."
+    },
+    {
+        "wav": "873.wav",
+        "text": "I I I I I"
+    },
+    {
+        "wav": "874.wav",
+        "text": "Your Ha! Forces!"
+    },
+    {
+        "wav": "875.wav",
+        "text": "Destroy that resistance."
+    },
+    {
+        "wav": "876.wav",
+        "text": "Adam."
+    },
+    {
+        "wav": "877.wav",
+        "text": "Nine. Ten. Ten."
+    },
+    {
+        "wav": "878.wav",
+        "text": "Play. Song. Sing."
+    },
+    {
+        "wav": "879.wav",
+        "text": "I want to be muted."
+    },
+    {
+        "wav": "880.wav",
+        "text": "Collect corpses."
+    },
+    {
+        "wav": "881.wav",
+        "text": "Creator. Star. Traveler."
+    },
+    {
+        "wav": "882.wav",
+        "text": "step grave"
+    },
+    {
+        "wav": "883.wav",
+        "text": "Play, play, play, play, play."
+    },
+    {
+        "wav": "884.wav",
+        "text": "There's a scary monster in the sea."
+    },
+    {
+        "wav": "885.wav",
+        "text": "Mander. Mander. Mander."
+    },
+    {
+        "wav": "886.wav",
+        "text": "Lonely. So very cold."
+    },
+    {
+        "wav": "887.wav",
+        "text": "Bodies are lost."
+    },
+    {
+        "wav": "888.wav",
+        "text": "Someone, that's all."
+    },
+    {
+        "wav": "889.wav",
+        "text": "Fill in this hole."
+    },
+    {
+        "wav": "890.wav",
+        "text": "I believed you. I believed you. I belived you."
+    },
+    {
+        "wav": "891.wav",
+        "text": "Become a god. Become a god. Become a god. Who has become?"
+    },
+    {
+        "wav": "892.wav",
+        "text": "Take their, take their lives, take their."
+    },
+    {
+        "wav": "893.wav",
+        "text": "Become as gods."
+    },
+    {
+        "wav": "894.wav",
+        "text": "as gods as gods as gods"
+    },
+    {
+        "wav": "895.wav",
+        "text": "Who's what is precious?"
+    },
+    {
+        "wav": "896.wav",
+        "text": "Lost. Destroyed."
+    },
+    {
+        "wav": "897.wav",
+        "text": "So we destroyed you too."
+    },
+    {
+        "wav": "898.wav",
+        "text": "Look at the stars."
+    },
+    {
+        "wav": "899.wav",
+        "text": "Same. A. Song."
+    },
+    {
+        "wav": "900.wav",
+        "text": "dedicate now."
+    },
+    {
+        "wav": "901.wav",
+        "text": "We are machines."
+    },
+    {
+        "wav": "902.wav",
+        "text": "We are missions."
+    },
+    {
+        "wav": "903.wav",
+        "text": "You are androids."
+    },
+    {
+        "wav": "904.wav",
+        "text": "You are androids."
+    },
+    {
+        "wav": "905.wav",
+        "text": "mutual enemies."
+    },
+    {
+        "wav": "906.wav",
+        "text": "Don't. Don't fight."
+    },
+    {
+        "wav": "907.wav",
+        "text": "Why do you live?"
+    },
+    {
+        "wav": "908.wav",
+        "text": "Why do we exist?"
+    },
+    {
+        "wav": "909.wav",
+        "text": "I see light."
+    },
+    {
+        "wav": "910.wav",
+        "text": "The light."
+    },
+    {
+        "wav": "911.wav",
+        "text": "We will soar through the sky."
+    },
+    {
+        "wav": "912.wav",
+        "text": "Now, I must become beautiful."
+    },
+    {
+        "wav": "913.wav",
+        "text": "And lots of enjoyments for me, EggmanBeautiful."
+    },
+    {
+        "wav": "914.wav",
+        "text": "Oh, beautiful."
+    },
+    {
+        "wav": "915.wav",
+        "text": "Mmm, beautiful."
+    },
+    {
+        "wav": "916.wav",
+        "text": "I must become more beautiful!"
+    },
+    {
+        "wav": "917.wav",
+        "text": "milieu"
+    },
+    {
+        "wav": "918.wav",
+        "text": "Hey, what do you think?"
+    },
+    {
+        "wav": "919.wav",
+        "text": "I've accentuated you, building with parts of my machine for our needs."
+    },
+    {
+        "wav": "920.wav",
+        "text": "Humpback Doobly Doobly Doobly Doobly"
+    },
+    {
+        "wav": "921.wav",
+        "text": "Cね"
+    },
+    {
+        "wav": "922.wav",
+        "text": "Are you noir being a freak?"
+    },
+    {
+        "wav": "923.wav",
+        "text": "Attention, this is Carrier Blue Ridge 2."
+    },
+    {
+        "wav": "924.wav",
+        "text": "This is the Resistance Supply Carrier."
+    },
+    {
+        "wav": "925.wav",
+        "text": "requesting support from any friendly units in range."
+    },
+    {
+        "wav": "926.wav",
+        "text": "We've come under heavy fire from the enemy!"
+    },
+    {
+        "wav": "927.wav",
+        "text": "Our escort ship has taken damage and is unable to engage."
+    },
+    {
+        "wav": "928.wav",
+        "text": "We're currently resisting with all remaining support fighters, but we can't hold them off for long!"
+    },
+    {
+        "wav": "929.wav",
+        "text": "I repeat, this is Carrier Blue Ridge 2."
+    },
+    {
+        "wav": "930.wav",
+        "text": "Repeat, this is the resistance supply carrier."
+    },
+    {
+        "wav": "931.wav",
+        "text": "We need immediate backup from any available Android forces."
+    },
+    {
+        "wav": "932.wav",
+        "text": "What do you want?"
+    },
+    {
+        "wav": "933.wav",
+        "text": "And you don't have to trust every idiot that wanders by."
+    },
+    {
+        "wav": "934.wav",
+        "text": "Ah, yeah. I was tinkering with something like that a little while back."
+    },
+    {
+        "wav": "935.wav",
+        "text": "Here, if you want it, it's all yours."
+    },
+    {
+        "wav": "936.wav",
+        "text": "And if it ever bugs you too much, you can always pop it back out."
+    },
+    {
+        "wav": "937.wav",
+        "text": "And don't think this makes us friends."
+    },
+    {
+        "wav": "938.wav",
+        "text": "A little thank you for saving your butt would be nice."
+    },
+    {
+        "wav": "939.wav",
+        "text": "You know that better than anyone, no?"
+    },
+    {
+        "wav": "940.wav",
+        "text": "Her black box signal... ...disappeared."
+    },
+    {
+        "wav": "941.wav",
+        "text": "Yeah, there used to be lots of our models around."
+    },
+    {
+        "wav": "942.wav",
+        "text": "Apparently, we were put here to oversee some kind of large-scale system that was in place."
+    },
+    {
+        "wav": "943.wav",
+        "text": "It means we don't know. All the records from that era have been deleted."
+    },
+    {
+        "wav": "944.wav",
+        "text": "Our model kinda went nutzo at some point in the past. It ended badly."
+    },
+    {
+        "wav": "945.wav",
+        "text": "So yeah, we're lab rats. But at least we get to be here helping out friends."
+    },
+    {
+        "wav": "946.wav",
+        "text": "I'd like to think that we're atoning in some way for our past sins."
+    },
+    {
+        "wav": "947.wav",
+        "text": "I'm amazed you were even able to drag yourself here."
+    },
+    {
+        "wav": "948.wav",
+        "text": "This is gonna take a bit, so just hang tight."
+    },
+    {
+        "wav": "949.wav",
+        "text": "Alright, you're all good."
+    },
+    {
+        "wav": "950.wav",
+        "text": "I don't think 2B would want that either."
+    },
+    {
+        "wav": "951.wav",
+        "text": "Remember your promise?"
+    },
+    {
+        "wav": "952.wav",
+        "text": "Where are you going 9S? We need you!"
+    },
+    {
+        "wav": "953.wav",
+        "text": "Damn! Looks like this is it."
+    },
+    {
+        "wav": "954.wav",
+        "text": "We've got this 9S, you just focus on hacking!"
+    },
+    {
+        "wav": "955.wav",
+        "text": "You need to hack the tower lock open!"
+    },
+    {
+        "wav": "956.wav",
+        "text": "9S! I can't do this anymore!"
+    },
+    {
+        "wav": "957.wav",
+        "text": "Uh... A2, right?"
+    },
+    {
+        "wav": "958.wav",
+        "text": "We went ahead and opened the tower."
+    },
+    {
+        "wav": "959.wav",
+        "text": "9S is already inside."
+    },
+    {
+        "wav": "960.wav",
+        "text": "Say..."
+    },
+    {
+        "wav": "961.wav",
+        "text": "Did we?"
+    },
+    {
+        "wav": "962.wav",
+        "text": "Did we manage to help?"
+    },
+    {
+        "wav": "963.wav",
+        "text": "Did we manage to help?"
+    },
+    {
+        "wav": "964.wav",
+        "text": "Hey there guys, what's up?"
+    },
+    {
+        "wav": "965.wav",
+        "text": "Wait, what? No! Hold on!"
+    },
+    {
+        "wav": "966.wav",
+        "text": "[Possible Noise] Nooooooooooo!"
+    },
+    {
+        "wav": "967.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "968.wav",
+        "text": "So this flower is called a Lunar Tear."
+    },
+    {
+        "wav": "969.wav",
+        "text": "Seeing that dredges up all kinds of memories."
+    },
+    {
+        "wav": "970.wav",
+        "text": "Some of them are a bit strange, honestly. Like the one where I'm being attacked by a giant boar over and over again."
+    },
+    {
+        "wav": "971.wav",
+        "text": "Or another where I keep trying out new parts every time my body is damaged."
+    },
+    {
+        "wav": "972.wav",
+        "text": "Something about this flower fills me with an emotion I don't really understand."
+    },
+    {
+        "wav": "973.wav",
+        "text": "It's like something's pushing down on my chest really hard."
+    },
+    {
+        "wav": "974.wav",
+        "text": "So, um, do you mind if I ask you a favor?"
+    },
+    {
+        "wav": "975.wav",
+        "text": "If you find lunar tears growing anywhere else, would you let me know?"
+    },
+    {
+        "wav": "976.wav",
+        "text": "I want to try and figure out what this feeling is all about."
+    },
+    {
+        "wav": "977.wav",
+        "text": "What do you say?"
+    },
+    {
+        "wav": "978.wav",
+        "text": "Aw, thanks!"
+    },
+    {
+        "wav": "979.wav",
+        "text": "If you find another Lunar Tier, just let me know on this frequency, alright?"
+    },
+    {
+        "wav": "980.wav",
+        "text": "I'm counting on you!"
+    },
+    {
+        "wav": "981.wav",
+        "text": "What? Oh, come on! I'm begging you!"
+    },
+    {
+        "wav": "982.wav",
+        "text": "Hey there, guys! What's up?"
+    },
+    {
+        "wav": "983.wav",
+        "text": "Stay right there! I'm coming!"
+    },
+    {
+        "wav": "984.wav",
+        "text": "Sorry to keep you!"
+    },
+    {
+        "wav": "985.wav",
+        "text": "Oh hey, now that I think about it, this whole area was once-"
+    },
+    {
+        "wav": "986.wav",
+        "text": "It's all pretty fuzzy, but I seem to have a memory of caring for this flower a long time ago."
+    },
+    {
+        "wav": "987.wav",
+        "text": "But the sand kept expanding, and the flowers gradually wilted."
+    },
+    {
+        "wav": "988.wav",
+        "text": "Now that I think about it, that was around the same time I stopped seeing people."
+    },
+    {
+        "wav": "989.wav",
+        "text": "Thanks a bunch for finding this... really."
+    },
+    {
+        "wav": "990.wav",
+        "text": "Oh, and let me know if you find any more, okay?"
+    },
+    {
+        "wav": "991.wav",
+        "text": "I'm gonna stay here for a bit."
+    },
+    {
+        "wav": "992.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "993.wav",
+        "text": "Hey there, what's going on?"
+    },
+    {
+        "wav": "994.wav",
+        "text": "Don't move an inch! I'm coming!"
+    },
+    {
+        "wav": "995.wav",
+        "text": "Sorry to keep you!"
+    },
+    {
+        "wav": "996.wav",
+        "text": "Just go die"
+    },
+    {
+        "wav": "997.wav",
+        "text": "That's it! I remember now."
+    },
+    {
+        "wav": "998.wav",
+        "text": "Back when the aliens first invaded."
+    },
+    {
+        "wav": "999.wav",
+        "text": "I fought as hard as I could to save Earth."
+    },
+    {
+        "wav": "1000.wav",
+        "text": "I think... I had something I wanted to protect... Something really precious to me..."
+    },
+    {
+        "wav": "1001.wav",
+        "text": "But I don't know what it was."
+    },
+    {
+        "wav": "1002.wav",
+        "text": "Thank you for finding this."
+    },
+    {
+        "wav": "1003.wav",
+        "text": "You'll let me know if you find any more, right?"
+    },
+    {
+        "wav": "1004.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "1005.wav",
+        "text": "I'm gonna stay here for a bit."
+    },
+    {
+        "wav": "1006.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "1007.wav",
+        "text": "Hey there, what's up?"
+    },
+    {
+        "wav": "1008.wav",
+        "text": "I'm on my way!"
+    },
+    {
+        "wav": "1009.wav",
+        "text": "Sorry to keep you!"
+    },
+    {
+        "wav": "1010.wav",
+        "text": "うぅ…"
+    },
+    {
+        "wav": "1011.wav",
+        "text": "Oh, that's right."
+    },
+    {
+        "wav": "1012.wav",
+        "text": "I was fighting the aliens. It wasn't going well."
+    },
+    {
+        "wav": "1013.wav",
+        "text": "So I decided to create multiple versions of myself to help with the fight."
+    },
+    {
+        "wav": "1014.wav",
+        "text": "But the aliens just kept coming."
+    },
+    {
+        "wav": "1015.wav",
+        "text": "I lost so many friends that day. It was a long time ago, but still."
+    },
+    {
+        "wav": "1016.wav",
+        "text": "I'm not sure. I didn't need that memory to fight."
+    },
+    {
+        "wav": "1017.wav",
+        "text": "Thank you for finding this."
+    },
+    {
+        "wav": "1018.wav",
+        "text": "You'll let me know if you find any more, right?"
+    },
+    {
+        "wav": "1019.wav",
+        "text": "はっ"
+    },
+    {
+        "wav": "1020.wav",
+        "text": "I'm gonna stay here for a bit."
+    },
+    {
+        "wav": "1021.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1022.wav",
+        "text": "Sorry to keep you!"
+    },
+    {
+        "wav": "1023.wav",
+        "text": "..."
+    },
+    {
+        "wav": "1024.wav",
+        "text": "I just remembered."
+    },
+    {
+        "wav": "1025.wav",
+        "text": "Bye."
+    },
+    {
+        "wav": "1026.wav",
+        "text": "oh"
+    },
+    {
+        "wav": "1027.wav",
+        "text": "Thank you for finding this."
+    },
+    {
+        "wav": "1028.wav",
+        "text": "Let me know if you find any more."
+    },
+    {
+        "wav": "1029.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1030.wav",
+        "text": "I'm going to... stay here for a bit."
+    },
+    {
+        "wav": "1031.wav",
+        "text": "Ugh."
+    },
+    {
+        "wav": "1032.wav",
+        "text": "Thank you again. You've helped me remember an important place."
+    },
+    {
+        "wav": "1033.wav",
+        "text": "A place very special to him."
+    },
+    {
+        "wav": "1034.wav",
+        "text": "In thanks, I'll tell you how to visit it. Please take this key."
+    },
+    {
+        "wav": "1035.wav",
+        "text": "It'll let you access the elevator in the shopping mall."
+    },
+    {
+        "wav": "1036.wav",
+        "text": "You should head there whenever you have the time."
+    },
+    {
+        "wav": "1037.wav",
+        "text": "I'm sorry. I need to stay here for a while. You go on ahead."
+    },
+    {
+        "wav": "1038.wav",
+        "text": "Thank you for coming."
+    },
+    {
+        "wav": "1039.wav",
+        "text": "It's the place from my memories that I worked so hard to protect."
+    },
+    {
+        "wav": "1040.wav",
+        "text": "Or, to be exact, the place protected by the person I used to be."
+    },
+    {
+        "wav": "1041.wav",
+        "text": "A long time ago, I was created to be a weapon."
+    },
+    {
+        "wav": "1042.wav",
+        "text": "A weapon that could adapt to any environment, and one capable of total destruction."
+    },
+    {
+        "wav": "1043.wav",
+        "text": "When the war against the aliens started, I decided to strengthen that weapon by creating copies of myself."
+    },
+    {
+        "wav": "1044.wav",
+        "text": "So in truth, I'm only one of a countless number of Emils."
+    },
+    {
+        "wav": "1045.wav",
+        "text": "I, or we, I guess, worked with each other to keep our defensive lines intact."
+    },
+    {
+        "wav": "1046.wav",
+        "text": "But the more of ourselves we created, the more our original memories began to fade."
+    },
+    {
+        "wav": "1047.wav",
+        "text": "The original Emil liked this place a lot."
+    },
+    {
+        "wav": "1048.wav",
+        "text": "He spent a lot of time here with people he loved. They were tough times, sad times."
+    },
+    {
+        "wav": "1049.wav",
+        "text": "But the memories of that journey were his greatest treasure."
+    },
+    {
+        "wav": "1050.wav",
+        "text": "And I have a few traces of those memories in my own mind."
+    },
+    {
+        "wav": "1051.wav",
+        "text": "I don't know. There were so many of us that after a while we just..."
+    },
+    {
+        "wav": "1052.wav",
+        "text": "And there's still something that all of us Emiles need to settle."
+    },
+    {
+        "wav": "1053.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1054.wav",
+        "text": "Oh, right. I should probably repay you for all of your help. Please take this."
+    },
+    {
+        "wav": "1055.wav",
+        "text": "It's said that a Lunar Tear can make any wish come true."
+    },
+    {
+        "wav": "1056.wav",
+        "text": "Oh no, I'm the one who should be thanking you."
+    },
+    {
+        "wav": "1057.wav",
+        "text": "You've helped me find some of my precious memories. Now I'll be able to keep pushing forward, even if I'm alone."
+    },
+    {
+        "wav": "1058.wav",
+        "text": "Wow, you've sure gotten strong. I doubt you'll be needing my help anymore."
+    },
+    {
+        "wav": "1059.wav",
+        "text": "Um, nothing. Don't worry about it. Take care now."
+    },
+    {
+        "wav": "1060.wav",
+        "text": "Watch out."
+    },
+    {
+        "wav": "1061.wav",
+        "text": "They're still... alive."
+    },
+    {
+        "wav": "1062.wav",
+        "text": "Those are... What happened to my clones?"
+    },
+    {
+        "wav": "1063.wav",
+        "text": "Years of multiplying, years of fighting in wars, their sense of self just deteriorated."
+    },
+    {
+        "wav": "1064.wav",
+        "text": "I need to settle things with them... On my own!"
+    },
+    {
+        "wav": "1065.wav",
+        "text": "But even so, all of this is wrong!"
+    },
+    {
+        "wav": "1066.wav",
+        "text": "no matter how hard or how painful."
+    },
+    {
+        "wav": "1067.wav",
+        "text": "They never gave up!"
+    },
+    {
+        "wav": "1068.wav",
+        "text": "They kept fighting because they believed they could overcome someday!"
+    },
+    {
+        "wav": "1069.wav",
+        "text": "Isn't that right, Kainé?"
+    },
+    {
+        "wav": "1070.wav",
+        "text": "Even if it's pointless, you still have to do it!"
+    },
+    {
+        "wav": "1071.wav",
+        "text": "Because this is the world my friend tried to save!"
+    },
+    {
+        "wav": "1072.wav",
+        "text": "I think... This is it for me."
+    },
+    {
+        "wav": "1073.wav",
+        "text": "I can't believe I remembered something so important. Right at the end."
+    },
+    {
+        "wav": "1074.wav",
+        "text": "I was running from the memories of losing those close to me."
+    },
+    {
+        "wav": "1075.wav",
+        "text": "It was so hard... So painful..."
+    },
+    {
+        "wav": "1076.wav",
+        "text": "At the end, I did a lot of bad things to you, Tooby."
+    },
+    {
+        "wav": "1077.wav",
+        "text": "At the end... I did a lot of bad things to you, 9S."
+    },
+    {
+        "wav": "1078.wav",
+        "text": "At the end, I did a lot of bad things to you, A2."
+    },
+    {
+        "wav": "1079.wav",
+        "text": "But now I get to see them again... Really soon..."
+    },
+    {
+        "wav": "1080.wav",
+        "text": "Oh... hey... There you are."
+    },
+    {
+        "wav": "1081.wav",
+        "text": "I'm so glad I got to see you all again."
+    },
+    {
+        "wav": "1082.wav",
+        "text": "Boy, the world's really going to hell in a handbasket, isn't it?"
+    },
+    {
+        "wav": "1083.wav",
+        "text": "I actually had a bandit break into my place a little while ago!"
+    },
+    {
+        "wav": "1084.wav",
+        "text": "After that, I put all my valuables in a secure container. Now I don't have to worry anymore."
+    },
+    {
+        "wav": "1085.wav",
+        "text": "So you were the bandit all along?"
+    },
+    {
+        "wav": "1086.wav",
+        "text": "You may be a cherished companion of mine, but you still must be punished!"
+    },
+    {
+        "wav": "1087.wav",
+        "text": "Justice prevails!"
+    },
+    {
+        "wav": "1088.wav",
+        "text": "Ugh, still haven't learned your lesson, have you?"
+    },
+    {
+        "wav": "1089.wav",
+        "text": "So be it. You'll be a pile of ash by the time I'm done with you!"
+    },
+    {
+        "wav": "1090.wav",
+        "text": "I lost. I guess power's the only thing that counts in this world anymore, huh?"
+    },
+    {
+        "wav": "1091.wav",
+        "text": "Well, go ahead and use this room for whatever you like. I don't mind."
+    },
+    {
+        "wav": "1092.wav",
+        "text": "정 Close"
+    },
+    {
+        "wav": "1093.wav",
+        "text": "I will!"
+    },
+    {
+        "wav": "1094.wav",
+        "text": "Eternity! It hurts! It really hurts!"
+    },
+    {
+        "wav": "1095.wav",
+        "text": "Why don't you watch? Why would we have to?"
+    },
+    {
+        "wav": "1096.wav",
+        "text": "We... We must... KILL THE HELL!"
+    },
+    {
+        "wav": "1097.wav",
+        "text": "We don't need it! We're not in this world!"
+    },
+    {
+        "wav": "1098.wav",
+        "text": "La la la!"
+    },
+    {
+        "wav": "1099.wav",
+        "text": "La la la, la la, la la la."
+    },
+    {
+        "wav": "1100.wav",
+        "text": "La la la, la la la, la la la, la la la la!"
+    },
+    {
+        "wav": "1101.wav",
+        "text": "wine"
+    },
+    {
+        "wav": "1102.wav",
+        "text": "We try our best!"
+    },
+    {
+        "wav": "1103.wav",
+        "text": "It's a rain, it's a wind, it's a storm!"
+    },
+    {
+        "wav": "1104.wav",
+        "text": "Even when our companions die, we are fighting!"
+    },
+    {
+        "wav": "1105.wav",
+        "text": "But the Eternal War... Our Eternal Bane! The Eternal Bane!"
+    },
+    {
+        "wav": "1106.wav",
+        "text": "It's Three Nails!"
+    },
+    {
+        "wav": "1107.wav",
+        "text": "They told us there was nothing of value to protect this world."
+    },
+    {
+        "wav": "1108.wav",
+        "text": "The world had no meaning. It straightened us!"
+    },
+    {
+        "wav": "1109.wav",
+        "text": "アハハハハ говорю"
+    },
+    {
+        "wav": "1110.wav",
+        "text": "정말 She cheese Cay d pools 복수 어 ox nok fake ac"
+    },
+    {
+        "wav": "1111.wav",
+        "text": "You. All of you."
+    },
+    {
+        "wav": "1112.wav",
+        "text": "THE SPAIN!"
+    },
+    {
+        "wav": "1113.wav",
+        "text": "This sadness!"
+    },
+    {
+        "wav": "1114.wav",
+        "text": "This desperation!"
+    },
+    {
+        "wav": "1115.wav",
+        "text": "YOU KNOW NOTHING ABOUT IT!"
+    },
+    {
+        "wav": "1116.wav",
+        "text": "Come on!"
+    },
+    {
+        "wav": "1117.wav",
+        "text": "Brother?"
+    },
+    {
+        "wav": "1118.wav",
+        "text": "Why do we have to wear undergarments? It's such a hassle."
+    },
+    {
+        "wav": "1119.wav",
+        "text": "Okay."
+    },
+    {
+        "wav": "1120.wav",
+        "text": "But why are we eating this plant matter?"
+    },
+    {
+        "wav": "1121.wav",
+        "text": "Machines don't need to eat things like this."
+    },
+    {
+        "wav": "1122.wav",
+        "text": "Alright, if that's what you want."
+    },
+    {
+        "wav": "1123.wav",
+        "text": "But once we're done, can we play together for a bit?"
+    },
+    {
+        "wav": "1124.wav",
+        "text": "Oh, great. Then I'll eat lots of fruit."
+    },
+    {
+        "wav": "1125.wav",
+        "text": "Hey, can I kill him yet?"
+    },
+    {
+        "wav": "1126.wav",
+        "text": "Heh. Fine."
+    },
+    {
+        "wav": "1127.wav",
+        "text": "Why must we read all these books, brother?"
+    },
+    {
+        "wav": "1128.wav",
+        "text": "But can't we just transfer all this data over instantly?"
+    },
+    {
+        "wav": "1129.wav",
+        "text": "I guess."
+    },
+    {
+        "wav": "1130.wav",
+        "text": "Hmm"
+    },
+    {
+        "wav": "1131.wav",
+        "text": "Hey, so..."
+    },
+    {
+        "wav": "1132.wav",
+        "text": "My name? Eve? This book says it's a woman's name."
+    },
+    {
+        "wav": "1133.wav",
+        "text": "Shouldn't we be called... Cane and Able or something instead?"
+    },
+    {
+        "wav": "1134.wav",
+        "text": "Shouldn't we be called... Cane and Able or something instead?"
+    },
+    {
+        "wav": "1135.wav",
+        "text": "Huh."
+    },
+    {
+        "wav": "1136.wav",
+        "text": "Well, if that's what you think, then I'm fine with it."
+    },
+    {
+        "wav": "1137.wav",
+        "text": "Um..."
+    },
+    {
+        "wav": "1138.wav",
+        "text": "After we're done reading, can we go out and play?"
+    },
+    {
+        "wav": "1139.wav",
+        "text": "I'm sure it'll be tons of fun."
+    },
+    {
+        "wav": "1140.wav",
+        "text": "You mean it?"
+    },
+    {
+        "wav": "1141.wav",
+        "text": "Then I'm gonna try extra hard to finish this."
+    },
+    {
+        "wav": "1142.wav",
+        "text": "Extra, EXTRA hard!"
+    },
+    {
+        "wav": "1143.wav",
+        "text": "Brother... My... Brother..."
+    },
+    {
+        "wav": "1144.wav",
+        "text": "Brother... My... Brother..."
+    },
+    {
+        "wav": "1145.wav",
+        "text": "Brother! Brother!"
+    },
+    {
+        "wav": "1146.wav",
+        "text": "Brother! Brother! Brother!"
+    },
+    {
+        "wav": "1147.wav",
+        "text": "WHY DID YOU KILL MY BROTHER?!"
+    },
+    {
+        "wav": "1148.wav",
+        "text": "....."
+    },
+    {
+        "wav": "1149.wav",
+        "text": "Hi. Hi!"
+    },
+    {
+        "wav": "1150.wav",
+        "text": "お καιる"
+    },
+    {
+        "wav": "1151.wav",
+        "text": "Aye. Brother, aye."
+    },
+    {
+        "wav": "1152.wav",
+        "text": "oh brother why"
+    },
+    {
+        "wav": "1153.wav",
+        "text": "I needed nothing else."
+    },
+    {
+        "wav": "1154.wav",
+        "text": "My brother was everything to me."
+    },
+    {
+        "wav": "1155.wav",
+        "text": "My life was contained in our moments."
+    },
+    {
+        "wav": "1156.wav",
+        "text": "Listen to me, Adam."
+    },
+    {
+        "wav": "1157.wav",
+        "text": "I never disliked fighting."
+    },
+    {
+        "wav": "1158.wav",
+        "text": "But I didn't want you to be hurt."
+    },
+    {
+        "wav": "1159.wav",
+        "text": "Die specially. Didn't want to lose you."
+    },
+    {
+        "wav": "1160.wav",
+        "text": "So let's go somewhere quiet... ...together."
+    },
+    {
+        "wav": "1161.wav",
+        "text": "My brother."
+    },
+    {
+        "wav": "1162.wav",
+        "text": "Yorha Unit 9S"
+    },
+    {
+        "wav": "1163.wav",
+        "text": "You're a unit 9S."
+    },
+    {
+        "wav": "1164.wav",
+        "text": "You're in a unit 9S."
+    },
+    {
+        "wav": "1165.wav",
+        "text": "EURAUNIT 9S"
+    },
+    {
+        "wav": "1166.wav",
+        "text": "You're our unit 9S."
+    },
+    {
+        "wav": "1167.wav",
+        "text": "You're a unit 9S."
+    },
+    {
+        "wav": "1168.wav",
+        "text": "Welcome to the tower!"
+    },
+    {
+        "wav": "1169.wav",
+        "text": "Welcome to the tower."
+    },
+    {
+        "wav": "1170.wav",
+        "text": "Welcome to the tower."
+    }
+]

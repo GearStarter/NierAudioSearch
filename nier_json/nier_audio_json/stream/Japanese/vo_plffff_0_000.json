@@ -1,0 +1,7498 @@
+[
+    {
+        "wav": "0.wav",
+        "text": "はーい!"
+    },
+    {
+        "wav": "1.wav",
+        "text": "Hey!"
+    },
+    {
+        "wav": "2.wav",
+        "text": "おう!"
+    },
+    {
+        "wav": "3.wav",
+        "text": "えぇっ"
+    },
+    {
+        "wav": "4.wav",
+        "text": "はいっ!"
+    },
+    {
+        "wav": "5.wav",
+        "text": "さっ!今日も元気にお宝を集めるぞー!"
+    },
+    {
+        "wav": "6.wav",
+        "text": "今日もいいもの見つかるといいなぁ頑張るぞぉ!"
+    },
+    {
+        "wav": "7.wav",
+        "text": "えー、毎度おなじみエミール商店でございます。ご用の方はお気軽にお声がけください。"
+    },
+    {
+        "wav": "8.wav",
+        "text": "いやー気づきませんでした"
+    },
+    {
+        "wav": "9.wav",
+        "text": "うっと!何かご入り用ですか?"
+    },
+    {
+        "wav": "10.wav",
+        "text": "攻撃して止めるなんて乱暴ですね"
+    },
+    {
+        "wav": "11.wav",
+        "text": "またのご利用お待ちしております"
+    },
+    {
+        "wav": "12.wav",
+        "text": "安いよ安いよー"
+    },
+    {
+        "wav": "13.wav",
+        "text": "どいてどいてー!"
+    },
+    {
+        "wav": "14.wav",
+        "text": "今日もいいもの揃ってますよー!"
+    },
+    {
+        "wav": "15.wav",
+        "text": "ありがとうございました"
+    },
+    {
+        "wav": "16.wav",
+        "text": "ありがとうございました"
+    },
+    {
+        "wav": "17.wav",
+        "text": "いらっしゃいませー!"
+    },
+    {
+        "wav": "18.wav",
+        "text": "こんにちはー"
+    },
+    {
+        "wav": "19.wav",
+        "text": "いらっしゃいませー"
+    },
+    {
+        "wav": "20.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "21.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "22.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "23.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "24.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "25.wav",
+        "text": "Thank you."
+    },
+    {
+        "wav": "26.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "27.wav",
+        "text": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+    },
+    {
+        "wav": "28.wav",
+        "text": "隙は見せないように"
+    },
+    {
+        "wav": "29.wav",
+        "text": "援護は任せる"
+    },
+    {
+        "wav": "30.wav",
+        "text": "私に任せて"
+    },
+    {
+        "wav": "31.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "32.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "33.wav",
+        "text": "そうする"
+    },
+    {
+        "wav": "34.wav",
+        "text": "従う"
+    },
+    {
+        "wav": "35.wav",
+        "text": "任せて"
+    },
+    {
+        "wav": "36.wav",
+        "text": "うん"
+    },
+    {
+        "wav": "37.wav",
+        "text": "先行して"
+    },
+    {
+        "wav": "38.wav",
+        "text": "慎重に行こう"
+    },
+    {
+        "wav": "39.wav",
+        "text": "舞いを詰めて"
+    },
+    {
+        "wav": "40.wav",
+        "text": "うん"
+    },
+    {
+        "wav": "41.wav",
+        "text": "何?"
+    },
+    {
+        "wav": "42.wav",
+        "text": "あ"
+    },
+    {
+        "wav": "43.wav",
+        "text": "え"
+    },
+    {
+        "wav": "44.wav",
+        "text": "ふん"
+    },
+    {
+        "wav": "45.wav",
+        "text": "ポッと"
+    },
+    {
+        "wav": "46.wav",
+        "text": "うん"
+    },
+    {
+        "wav": "47.wav",
+        "text": "ん"
+    },
+    {
+        "wav": "48.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "49.wav",
+        "text": "ああ"
+    },
+    {
+        "wav": "50.wav",
+        "text": "何?"
+    },
+    {
+        "wav": "51.wav",
+        "text": "隙を見せないように"
+    },
+    {
+        "wav": "52.wav",
+        "text": "援護は任せる"
+    },
+    {
+        "wav": "53.wav",
+        "text": "私に任せて"
+    },
+    {
+        "wav": "54.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "55.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "56.wav",
+        "text": "そうする"
+    },
+    {
+        "wav": "57.wav",
+        "text": "従う"
+    },
+    {
+        "wav": "58.wav",
+        "text": "任せて"
+    },
+    {
+        "wav": "59.wav",
+        "text": "Um."
+    },
+    {
+        "wav": "60.wav",
+        "text": "先行して"
+    },
+    {
+        "wav": "61.wav",
+        "text": "慎重に行こう"
+    },
+    {
+        "wav": "62.wav",
+        "text": "舞い落ちて"
+    },
+    {
+        "wav": "63.wav",
+        "text": "Uh."
+    },
+    {
+        "wav": "64.wav",
+        "text": "なに?"
+    },
+    {
+        "wav": "65.wav",
+        "text": "아"
+    },
+    {
+        "wav": "66.wav",
+        "text": "え"
+    },
+    {
+        "wav": "67.wav",
+        "text": "Huh."
+    },
+    {
+        "wav": "68.wav",
+        "text": "ポト"
+    },
+    {
+        "wav": "69.wav",
+        "text": "Oh."
+    },
+    {
+        "wav": "70.wav",
+        "text": "Uh."
+    },
+    {
+        "wav": "71.wav",
+        "text": "So..."
+    },
+    {
+        "wav": "72.wav",
+        "text": "Ah."
+    },
+    {
+        "wav": "73.wav",
+        "text": "なに?"
+    },
+    {
+        "wav": "74.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "75.wav",
+        "text": "なんだ?"
+    },
+    {
+        "wav": "76.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "77.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "78.wav",
+        "text": "はぁ"
+    },
+    {
+        "wav": "79.wav",
+        "text": "ポット"
+    },
+    {
+        "wav": "80.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "81.wav",
+        "text": "なんだ?"
+    },
+    {
+        "wav": "82.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "83.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "84.wav",
+        "text": "어"
+    },
+    {
+        "wav": "85.wav",
+        "text": "状況に合わせてください"
+    },
+    {
+        "wav": "86.wav",
+        "text": "爆破しろ!"
+    },
+    {
+        "wav": "87.wav",
+        "text": "爆破します!"
+    },
+    {
+        "wav": "88.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "89.wav",
+        "text": "ハッキングします"
+    },
+    {
+        "wav": "90.wav",
+        "text": "敵の行動を掌握します"
+    },
+    {
+        "wav": "91.wav",
+        "text": "敵を解析します"
+    },
+    {
+        "wav": "92.wav",
+        "text": "援護してください"
+    },
+    {
+        "wav": "93.wav",
+        "text": "ハッキング開始!"
+    },
+    {
+        "wav": "94.wav",
+        "text": "援護は任せます"
+    },
+    {
+        "wav": "95.wav",
+        "text": "僕に任せてください"
+    },
+    {
+        "wav": "96.wav",
+        "text": "障悪完了"
+    },
+    {
+        "wav": "97.wav",
+        "text": "僕に従い"
+    },
+    {
+        "wav": "98.wav",
+        "text": "解析完了 僕たちを援護"
+    },
+    {
+        "wav": "99.wav",
+        "text": "敵の識別信号を反転"
+    },
+    {
+        "wav": "100.wav",
+        "text": "了解です"
+    },
+    {
+        "wav": "101.wav",
+        "text": "わかりました"
+    },
+    {
+        "wav": "102.wav",
+        "text": "従います"
+    },
+    {
+        "wav": "103.wav",
+        "text": "任せてください"
+    },
+    {
+        "wav": "104.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "105.wav",
+        "text": "殲滅しましょう"
+    },
+    {
+        "wav": "106.wav",
+        "text": "慎重に行きましょう"
+    },
+    {
+        "wav": "107.wav",
+        "text": "舞いを詰めましょう"
+    },
+    {
+        "wav": "108.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "109.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "110.wav",
+        "text": "ええ"
+    },
+    {
+        "wav": "111.wav",
+        "text": "へー"
+    },
+    {
+        "wav": "112.wav",
+        "text": "おー"
+    },
+    {
+        "wav": "113.wav",
+        "text": "ポト"
+    },
+    {
+        "wav": "114.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "115.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "116.wav",
+        "text": "ええ"
+    },
+    {
+        "wav": "117.wav",
+        "text": "へぇ…"
+    },
+    {
+        "wav": "118.wav",
+        "text": "おー"
+    },
+    {
+        "wav": "119.wav",
+        "text": "なに?"
+    },
+    {
+        "wav": "120.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "121.wav",
+        "text": "へー"
+    },
+    {
+        "wav": "122.wav",
+        "text": "おぉ"
+    },
+    {
+        "wav": "123.wav",
+        "text": "ポット"
+    },
+    {
+        "wav": "124.wav",
+        "text": "なに?"
+    },
+    {
+        "wav": "125.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "126.wav",
+        "text": "へぇ"
+    },
+    {
+        "wav": "127.wav",
+        "text": "おう…"
+    },
+    {
+        "wav": "128.wav",
+        "text": "Hi."
+    },
+    {
+        "wav": "129.wav",
+        "text": "えっと"
+    },
+    {
+        "wav": "130.wav",
+        "text": "Oh!"
+    },
+    {
+        "wav": "131.wav",
+        "text": "[Possible Noise] Huh!"
+    },
+    {
+        "wav": "132.wav",
+        "text": "You"
+    },
+    {
+        "wav": "133.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "134.wav",
+        "text": "Hehe"
+    },
+    {
+        "wav": "135.wav",
+        "text": "はっはっは"
+    },
+    {
+        "wav": "136.wav",
+        "text": "Ah."
+    },
+    {
+        "wav": "137.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "138.wav",
+        "text": "ふむ"
+    },
+    {
+        "wav": "139.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "140.wav",
+        "text": "Huh."
+    },
+    {
+        "wav": "141.wav",
+        "text": "くっ…"
+    },
+    {
+        "wav": "142.wav",
+        "text": "なっ"
+    },
+    {
+        "wav": "143.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "144.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "145.wav",
+        "text": "Ugh."
+    },
+    {
+        "wav": "146.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "147.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "148.wav",
+        "text": "うん"
+    },
+    {
+        "wav": "149.wav",
+        "text": "ふん"
+    },
+    {
+        "wav": "150.wav",
+        "text": "クッ"
+    },
+    {
+        "wav": "151.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "152.wav",
+        "text": "うっ"
+    },
+    {
+        "wav": "153.wav",
+        "text": "はぁ…"
+    },
+    {
+        "wav": "154.wav",
+        "text": "は?"
+    },
+    {
+        "wav": "155.wav",
+        "text": "Oh."
+    },
+    {
+        "wav": "156.wav",
+        "text": "へぇ"
+    },
+    {
+        "wav": "157.wav",
+        "text": "ふーん?"
+    },
+    {
+        "wav": "158.wav",
+        "text": "なぁ"
+    },
+    {
+        "wav": "159.wav",
+        "text": "Me."
+    },
+    {
+        "wav": "160.wav",
+        "text": "Hmm, yeah."
+    },
+    {
+        "wav": "161.wav",
+        "text": "Hehe"
+    },
+    {
+        "wav": "162.wav",
+        "text": "んふふ"
+    },
+    {
+        "wav": "163.wav",
+        "text": "なぁ…"
+    },
+    {
+        "wav": "164.wav",
+        "text": "ドゥク revived"
+    },
+    {
+        "wav": "165.wav",
+        "text": "Ugh."
+    },
+    {
+        "wav": "166.wav",
+        "text": "Oh."
+    },
+    {
+        "wav": "167.wav",
+        "text": "なぁ"
+    },
+    {
+        "wav": "168.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "169.wav",
+        "text": "んん"
+    },
+    {
+        "wav": "170.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "171.wav",
+        "text": "ねえ"
+    },
+    {
+        "wav": "172.wav",
+        "text": "んんっ"
+    },
+    {
+        "wav": "173.wav",
+        "text": "はい…"
+    },
+    {
+        "wav": "174.wav",
+        "text": "うん"
+    },
+    {
+        "wav": "175.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "176.wav",
+        "text": "ねえ…"
+    },
+    {
+        "wav": "177.wav",
+        "text": "ん"
+    },
+    {
+        "wav": "178.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "179.wav",
+        "text": "Hmm"
+    },
+    {
+        "wav": "180.wav",
+        "text": "へぇ?"
+    },
+    {
+        "wav": "181.wav",
+        "text": "www"
+    },
+    {
+        "wav": "182.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "183.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "184.wav",
+        "text": "ん?"
+    },
+    {
+        "wav": "185.wav",
+        "text": "はぁ…"
+    },
+    {
+        "wav": "186.wav",
+        "text": "Hmph!"
+    },
+    {
+        "wav": "187.wav",
+        "text": "はっ"
+    },
+    {
+        "wav": "188.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "189.wav",
+        "text": "Hmm"
+    },
+    {
+        "wav": "190.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "191.wav",
+        "text": "ん propor"
+    },
+    {
+        "wav": "192.wav",
+        "text": "ん?"
+    },
+    {
+        "wav": "193.wav",
+        "text": "え?"
+    },
+    {
+        "wav": "194.wav",
+        "text": "はぁ…"
+    },
+    {
+        "wav": "195.wav",
+        "text": "グー"
+    },
+    {
+        "wav": "196.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "197.wav",
+        "text": "んんん"
+    },
+    {
+        "wav": "198.wav",
+        "text": "んー?"
+    },
+    {
+        "wav": "199.wav",
+        "text": "ell"
+    },
+    {
+        "wav": "200.wav",
+        "text": "えっと"
+    },
+    {
+        "wav": "201.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "202.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "203.wav",
+        "text": "んー?"
+    },
+    {
+        "wav": "204.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "205.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "206.wav",
+        "text": "Eh !"
+    },
+    {
+        "wav": "207.wav",
+        "text": "Mmm."
+    },
+    {
+        "wav": "208.wav",
+        "text": "さあ"
+    },
+    {
+        "wav": "209.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "210.wav",
+        "text": "うぅ…"
+    },
+    {
+        "wav": "211.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "212.wav",
+        "text": "んん"
+    },
+    {
+        "wav": "213.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "214.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "215.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "216.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "217.wav",
+        "text": "Mm-mm."
+    },
+    {
+        "wav": "218.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "219.wav",
+        "text": "え"
+    },
+    {
+        "wav": "220.wav",
+        "text": "あ"
+    },
+    {
+        "wav": "221.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "222.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "223.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "224.wav",
+        "text": "Ugh."
+    },
+    {
+        "wav": "225.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "226.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "227.wav",
+        "text": "うん"
+    },
+    {
+        "wav": "228.wav",
+        "text": "ああ"
+    },
+    {
+        "wav": "229.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "230.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "231.wav",
+        "text": "え?"
+    },
+    {
+        "wav": "232.wav",
+        "text": "あ"
+    },
+    {
+        "wav": "233.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "234.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "235.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "236.wav",
+        "text": "あ…"
+    },
+    {
+        "wav": "237.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "238.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "239.wav",
+        "text": "うん"
+    },
+    {
+        "wav": "240.wav",
+        "text": "ああ"
+    },
+    {
+        "wav": "241.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "242.wav",
+        "text": "え?"
+    },
+    {
+        "wav": "243.wav",
+        "text": "ぉぉぉ..."
+    },
+    {
+        "wav": "244.wav",
+        "text": "Hehehe"
+    },
+    {
+        "wav": "245.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "246.wav",
+        "text": "はって"
+    },
+    {
+        "wav": "247.wav",
+        "text": "うぅわっ"
+    },
+    {
+        "wav": "248.wav",
+        "text": "はぁ…"
+    },
+    {
+        "wav": "249.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "250.wav",
+        "text": "Oh."
+    },
+    {
+        "wav": "251.wav",
+        "text": "Mmm."
+    },
+    {
+        "wav": "252.wav",
+        "text": "へぇ?"
+    },
+    {
+        "wav": "253.wav",
+        "text": "フフッ"
+    },
+    {
+        "wav": "254.wav",
+        "text": "uhhh"
+    },
+    {
+        "wav": "255.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "256.wav",
+        "text": "お!"
+    },
+    {
+        "wav": "257.wav",
+        "text": "Hmm"
+    },
+    {
+        "wav": "258.wav",
+        "text": "Ah!"
+    },
+    {
+        "wav": "259.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "260.wav",
+        "text": "Mm-hmm."
+    },
+    {
+        "wav": "261.wav",
+        "text": "おぉー"
+    },
+    {
+        "wav": "262.wav",
+        "text": "في 5000"
+    },
+    {
+        "wav": "263.wav",
+        "text": "えっと…"
+    },
+    {
+        "wav": "264.wav",
+        "text": "ん?"
+    },
+    {
+        "wav": "265.wav",
+        "text": "わっ"
+    },
+    {
+        "wav": "266.wav",
+        "text": "え?"
+    },
+    {
+        "wav": "267.wav",
+        "text": "うぅぅん"
+    },
+    {
+        "wav": "268.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "269.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "270.wav",
+        "text": "フッ"
+    },
+    {
+        "wav": "271.wav",
+        "text": "Hmm..."
+    },
+    {
+        "wav": "272.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "273.wav",
+        "text": "ん?"
+    },
+    {
+        "wav": "274.wav",
+        "text": "ふぅ"
+    },
+    {
+        "wav": "275.wav",
+        "text": "くっ"
+    },
+    {
+        "wav": "276.wav",
+        "text": "あ"
+    },
+    {
+        "wav": "277.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "278.wav",
+        "text": "へへー"
+    },
+    {
+        "wav": "279.wav",
+        "text": "Hehehe"
+    },
+    {
+        "wav": "280.wav",
+        "text": "はぁ…"
+    },
+    {
+        "wav": "281.wav",
+        "text": "はい?"
+    },
+    {
+        "wav": "282.wav",
+        "text": "え?"
+    },
+    {
+        "wav": "283.wav",
+        "text": "Yeah."
+    },
+    {
+        "wav": "284.wav",
+        "text": "Hmm hmm."
+    },
+    {
+        "wav": "285.wav",
+        "text": "へぇー"
+    },
+    {
+        "wav": "286.wav",
+        "text": "よし"
+    },
+    {
+        "wav": "287.wav",
+        "text": "Uhhh..."
+    },
+    {
+        "wav": "288.wav",
+        "text": "뭐야?"
+    },
+    {
+        "wav": "289.wav",
+        "text": "اوتي"
+    },
+    {
+        "wav": "290.wav",
+        "text": "はぁ…"
+    },
+    {
+        "wav": "291.wav",
+        "text": "くそっ"
+    },
+    {
+        "wav": "292.wav",
+        "text": "Yeah."
+    },
+    {
+        "wav": "293.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "294.wav",
+        "text": "へぇー"
+    },
+    {
+        "wav": "295.wav",
+        "text": "よし"
+    },
+    {
+        "wav": "296.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "297.wav",
+        "text": "おや?"
+    },
+    {
+        "wav": "298.wav",
+        "text": "おっと!"
+    },
+    {
+        "wav": "299.wav",
+        "text": "Oh"
+    },
+    {
+        "wav": "300.wav",
+        "text": "くそっ"
+    },
+    {
+        "wav": "301.wav",
+        "text": "どうも"
+    },
+    {
+        "wav": "302.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "303.wav",
+        "text": "あー"
+    },
+    {
+        "wav": "304.wav",
+        "text": "んふふ"
+    },
+    {
+        "wav": "305.wav",
+        "text": "えっと…"
+    },
+    {
+        "wav": "306.wav",
+        "text": "あれ?"
+    },
+    {
+        "wav": "307.wav",
+        "text": "ああっ"
+    },
+    {
+        "wav": "308.wav",
+        "text": "んー?"
+    },
+    {
+        "wav": "309.wav",
+        "text": "Mmm."
+    },
+    {
+        "wav": "310.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "311.wav",
+        "text": "はぁー"
+    },
+    {
+        "wav": "312.wav",
+        "text": "www"
+    },
+    {
+        "wav": "313.wav",
+        "text": "はぁ…"
+    },
+    {
+        "wav": "314.wav",
+        "text": "え?"
+    },
+    {
+        "wav": "315.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "316.wav",
+        "text": "Yeah."
+    },
+    {
+        "wav": "317.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "318.wav",
+        "text": "うぅ…"
+    },
+    {
+        "wav": "319.wav",
+        "text": "よし"
+    },
+    {
+        "wav": "320.wav",
+        "text": "Mmm."
+    },
+    {
+        "wav": "321.wav",
+        "text": "おや?"
+    },
+    {
+        "wav": "322.wav",
+        "text": "おっと"
+    },
+    {
+        "wav": "323.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "324.wav",
+        "text": "くそっ"
+    },
+    {
+        "wav": "325.wav",
+        "text": "どうも"
+    },
+    {
+        "wav": "326.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "327.wav",
+        "text": "はぁー"
+    },
+    {
+        "wav": "328.wav",
+        "text": "Oh God!"
+    },
+    {
+        "wav": "329.wav",
+        "text": "えーっと…"
+    },
+    {
+        "wav": "330.wav",
+        "text": "あれ?"
+    },
+    {
+        "wav": "331.wav",
+        "text": "うぅ…"
+    },
+    {
+        "wav": "332.wav",
+        "text": "えーー pope"
+    },
+    {
+        "wav": "333.wav",
+        "text": "うぅ…"
+    },
+    {
+        "wav": "334.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "335.wav",
+        "text": "Ugh."
+    },
+    {
+        "wav": "336.wav",
+        "text": "ふふっ"
+    },
+    {
+        "wav": "337.wav",
+        "text": "Ah...."
+    },
+    {
+        "wav": "338.wav",
+        "text": "えっ?"
+    },
+    {
+        "wav": "339.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "340.wav",
+        "text": "Yeah."
+    },
+    {
+        "wav": "341.wav",
+        "text": "There."
+    },
+    {
+        "wav": "342.wav",
+        "text": "へぇー"
+    },
+    {
+        "wav": "343.wav",
+        "text": "Heh heh."
+    },
+    {
+        "wav": "344.wav",
+        "text": "Hmmmm."
+    },
+    {
+        "wav": "345.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "346.wav",
+        "text": "Eh."
+    },
+    {
+        "wav": "347.wav",
+        "text": "Dueed, strange"
+    },
+    {
+        "wav": "348.wav",
+        "text": "Ksa!"
+    },
+    {
+        "wav": "349.wav",
+        "text": "もう!"
+    },
+    {
+        "wav": "350.wav",
+        "text": "[Possible Noise] mmm"
+    },
+    {
+        "wav": "351.wav",
+        "text": "吼"
+    },
+    {
+        "wav": "352.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "353.wav",
+        "text": "Öhm."
+    },
+    {
+        "wav": "354.wav",
+        "text": "or"
+    },
+    {
+        "wav": "355.wav",
+        "text": "おっと"
+    },
+    {
+        "wav": "356.wav",
+        "text": "ふぅ"
+    },
+    {
+        "wav": "357.wav",
+        "text": "Grrr."
+    },
+    {
+        "wav": "358.wav",
+        "text": "Yo."
+    },
+    {
+        "wav": "359.wav",
+        "text": "Mm-hmm."
+    },
+    {
+        "wav": "360.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "361.wav",
+        "text": "お?"
+    },
+    {
+        "wav": "362.wav",
+        "text": "えっと…"
+    },
+    {
+        "wav": "363.wav",
+        "text": "あれ?"
+    },
+    {
+        "wav": "364.wav",
+        "text": "うわっ"
+    },
+    {
+        "wav": "365.wav",
+        "text": "はぁ"
+    },
+    {
+        "wav": "366.wav",
+        "text": "Cough"
+    },
+    {
+        "wav": "367.wav",
+        "text": "Yeah."
+    },
+    {
+        "wav": "368.wav",
+        "text": "ええ"
+    },
+    {
+        "wav": "369.wav",
+        "text": "へぇー"
+    },
+    {
+        "wav": "370.wav",
+        "text": "Thanks for watching. I'll see you next time."
+    },
+    {
+        "wav": "371.wav",
+        "text": "[Possible Noise] Hmmmmmmmmmmmm"
+    },
+    {
+        "wav": "372.wav",
+        "text": "Huh?"
+    },
+    {
+        "wav": "373.wav",
+        "text": "哎"
+    },
+    {
+        "wav": "374.wav",
+        "text": "Sigh."
+    },
+    {
+        "wav": "375.wav",
+        "text": "クソッ"
+    },
+    {
+        "wav": "376.wav",
+        "text": "Oh."
+    },
+    {
+        "wav": "377.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "378.wav",
+        "text": "もう"
+    },
+    {
+        "wav": "379.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "380.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "381.wav",
+        "text": "누구야?"
+    },
+    {
+        "wav": "382.wav",
+        "text": "のっと"
+    },
+    {
+        "wav": "383.wav",
+        "text": "はぁ"
+    },
+    {
+        "wav": "384.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "385.wav",
+        "text": "요"
+    },
+    {
+        "wav": "386.wav",
+        "text": "Mm-hmm."
+    },
+    {
+        "wav": "387.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "388.wav",
+        "text": "Ugh."
+    },
+    {
+        "wav": "389.wav",
+        "text": "えっと"
+    },
+    {
+        "wav": "390.wav",
+        "text": "あれ?"
+    },
+    {
+        "wav": "391.wav",
+        "text": "うぅっ"
+    },
+    {
+        "wav": "392.wav",
+        "text": "based on fact."
+    },
+    {
+        "wav": "393.wav",
+        "text": "Oh"
+    },
+    {
+        "wav": "394.wav",
+        "text": "Ew."
+    },
+    {
+        "wav": "395.wav",
+        "text": "Mm-hmm."
+    },
+    {
+        "wav": "396.wav",
+        "text": "ほう"
+    },
+    {
+        "wav": "397.wav",
+        "text": "よし"
+    },
+    {
+        "wav": "398.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "399.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "400.wav",
+        "text": "ほっ"
+    },
+    {
+        "wav": "401.wav",
+        "text": "아..."
+    },
+    {
+        "wav": "402.wav",
+        "text": "Grrrr."
+    },
+    {
+        "wav": "403.wav",
+        "text": "ん?"
+    },
+    {
+        "wav": "404.wav",
+        "text": "Hmm"
+    },
+    {
+        "wav": "405.wav",
+        "text": "ほう"
+    },
+    {
+        "wav": "406.wav",
+        "text": "Laughter"
+    },
+    {
+        "wav": "407.wav",
+        "text": "��로Forward"
+    },
+    {
+        "wav": "408.wav",
+        "text": "Mm-hmm."
+    },
+    {
+        "wav": "409.wav",
+        "text": "네"
+    },
+    {
+        "wav": "410.wav",
+        "text": "Oh."
+    },
+    {
+        "wav": "411.wav",
+        "text": "Hmm?"
+    },
+    {
+        "wav": "412.wav",
+        "text": "よっ"
+    },
+    {
+        "wav": "413.wav",
+        "text": "Mm-hmm."
+    },
+    {
+        "wav": "414.wav",
+        "text": "오"
+    },
+    {
+        "wav": "415.wav",
+        "text": "よし"
+    },
+    {
+        "wav": "416.wav",
+        "text": "The OD are coming along soon"
+    },
+    {
+        "wav": "417.wav",
+        "text": "Huh?"
+    },
+    {
+        "wav": "418.wav",
+        "text": "お"
+    },
+    {
+        "wav": "419.wav",
+        "text": "Ah"
+    },
+    {
+        "wav": "420.wav",
+        "text": "なぁ…"
+    },
+    {
+        "wav": "421.wav",
+        "text": "んー"
+    },
+    {
+        "wav": "422.wav",
+        "text": "Hmm."
+    },
+    {
+        "wav": "423.wav",
+        "text": "おー"
+    },
+    {
+        "wav": "424.wav",
+        "text": ".. .."
+    },
+    {
+        "wav": "425.wav",
+        "text": "Mmm intentionalorta"
+    },
+    {
+        "wav": "426.wav",
+        "text": "மா..."
+    },
+    {
+        "wav": "427.wav",
+        "text": "네."
+    },
+    {
+        "wav": "428.wav",
+        "text": "はぁ"
+    },
+    {
+        "wav": "429.wav",
+        "text": "Uh..."
+    },
+    {
+        "wav": "430.wav",
+        "text": "Hi."
+    },
+    {
+        "wav": "431.wav",
+        "text": "Mm."
+    },
+    {
+        "wav": "432.wav",
+        "text": "はぁぁぁぁぁぁ?"
+    },
+    {
+        "wav": "433.wav",
+        "text": "ヘヘッ"
+    },
+    {
+        "wav": "434.wav",
+        "text": "うーん"
+    },
+    {
+        "wav": "435.wav",
+        "text": "あれ?"
+    },
+    {
+        "wav": "436.wav",
+        "text": "え?"
+    },
+    {
+        "wav": "437.wav",
+        "text": "うぅぅぅぅぅぅぅぅ"
+    },
+    {
+        "wav": "438.wav",
+        "text": "U Crystal"
+    },
+    {
+        "wav": "439.wav",
+        "text": "Hi."
+    },
+    {
+        "wav": "440.wav",
+        "text": "Ugh."
+    },
+    {
+        "wav": "441.wav",
+        "text": "へぇ?"
+    },
+    {
+        "wav": "442.wav",
+        "text": "www"
+    },
+    {
+        "wav": "443.wav",
+        "text": "Eer..."
+    },
+    {
+        "wav": "444.wav",
+        "text": "あれ?"
+    },
+    {
+        "wav": "445.wav",
+        "text": "え?"
+    },
+    {
+        "wav": "446.wav",
+        "text": "ええ?"
+    },
+    {
+        "wav": "447.wav",
+        "text": "Mmm."
+    },
+    {
+        "wav": "448.wav",
+        "text": "11Sより9Sへ聞こえますか?"
+    },
+    {
+        "wav": "449.wav",
+        "text": "こちらの担当分作業はすべて終了。そっちはどう?"
+    },
+    {
+        "wav": "450.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "451.wav",
+        "text": "あとバンカーに戻ったらデータ動機をしておいて"
+    },
+    {
+        "wav": "452.wav",
+        "text": "君の戦闘データが未能だから、スキャナーモデル全体がアップデートできないんです"
+    },
+    {
+        "wav": "453.wav",
+        "text": "頼みましたよ"
+    },
+    {
+        "wav": "454.wav",
+        "text": "こちら1B 敵の攻撃が厳しくて"
+    },
+    {
+        "wav": "455.wav",
+        "text": "誰か、援護に来てもらえませんか?"
+    },
+    {
+        "wav": "456.wav",
+        "text": "すみません、お願いします!"
+    },
+    {
+        "wav": "457.wav",
+        "text": "ああ、助かりました"
+    },
+    {
+        "wav": "458.wav",
+        "text": "えーっと…"
+    },
+    {
+        "wav": "459.wav",
+        "text": "は、はい!"
+    },
+    {
+        "wav": "460.wav",
+        "text": "隊長からの通信撤退命令です"
+    },
+    {
+        "wav": "461.wav",
+        "text": "よくも、よくも仲間を!"
+    },
+    {
+        "wav": "462.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "463.wav",
+        "text": "ナインエス!"
+    },
+    {
+        "wav": "464.wav",
+        "text": "ないです"
+    },
+    {
+        "wav": "465.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "466.wav",
+        "text": "そこで補給してきたらどう?"
+    },
+    {
+        "wav": "467.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "468.wav",
+        "text": "ナインエス"
+    },
+    {
+        "wav": "469.wav",
+        "text": "継承はいらない"
+    },
+    {
+        "wav": "470.wav",
+        "text": "私の名前に3は付けなくていい"
+    },
+    {
+        "wav": "471.wav",
+        "text": "何か忘れ物でもしたの?"
+    },
+    {
+        "wav": "472.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "473.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "474.wav",
+        "text": "了解しました"
+    },
+    {
+        "wav": "475.wav",
+        "text": "命令に文句を言わない"
+    },
+    {
+        "wav": "476.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "477.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "478.wav",
+        "text": "機械生命体が言葉を"
+    },
+    {
+        "wav": "479.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "480.wav",
+        "text": "こいつらはなんで余計なものを身につけてるんだ"
+    },
+    {
+        "wav": "481.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "482.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "483.wav",
+        "text": "そうだね"
+    },
+    {
+        "wav": "484.wav",
+        "text": "あれは?"
+    },
+    {
+        "wav": "485.wav",
+        "text": "注意して進もう"
+    },
+    {
+        "wav": "486.wav",
+        "text": "アンドロイドたちの死体?"
+    },
+    {
+        "wav": "487.wav",
+        "text": "なんだ、これは"
+    },
+    {
+        "wav": "488.wav",
+        "text": "なんだ、こいつ"
+    },
+    {
+        "wav": "489.wav",
+        "text": "一体、あの機械生命体は……"
+    },
+    {
+        "wav": "490.wav",
+        "text": "確かに 一旦レジスタンスキャンプに戻ろう"
+    },
+    {
+        "wav": "491.wav",
+        "text": "いや、このまま継続して機械生命体を排除しよう"
+    },
+    {
+        "wav": "492.wav",
+        "text": "そういえばレジスタンスキャンプでも同じような話を聞いた"
+    },
+    {
+        "wav": "493.wav",
+        "text": "確かに"
+    },
+    {
+        "wav": "494.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "495.wav",
+        "text": "考えても分からないことに時間を割くのは無駄"
+    },
+    {
+        "wav": "496.wav",
+        "text": "何? こいつら…"
+    },
+    {
+        "wav": "497.wav",
+        "text": "これは"
+    },
+    {
+        "wav": "498.wav",
+        "text": "攻撃してこない機械生命体"
+    },
+    {
+        "wav": "499.wav",
+        "text": "なにこれ"
+    },
+    {
+        "wav": "500.wav",
+        "text": "ここから先に進むには"
+    },
+    {
+        "wav": "501.wav",
+        "text": "害がないなら戦うのは時間の無駄"
+    },
+    {
+        "wav": "502.wav",
+        "text": "……そうだね"
+    },
+    {
+        "wav": "503.wav",
+        "text": "これは…化粧?"
+    },
+    {
+        "wav": "504.wav",
+        "text": "植物細胞か"
+    },
+    {
+        "wav": "505.wav",
+        "text": "何?これ…"
+    },
+    {
+        "wav": "506.wav",
+        "text": "アンドロイドの死体を再利用して攻撃してきてる"
+    },
+    {
+        "wav": "507.wav",
+        "text": "すぐに終わらせる"
+    },
+    {
+        "wav": "508.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "509.wav",
+        "text": "アンドロイドたちを助けないと"
+    },
+    {
+        "wav": "510.wav",
+        "text": "助けてくれてありがとう"
+    },
+    {
+        "wav": "511.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "512.wav",
+        "text": "何?"
+    },
+    {
+        "wav": "513.wav",
+        "text": "機械生命体に意識なんかない"
+    },
+    {
+        "wav": "514.wav",
+        "text": "そう言ったのはあなたよ 9S"
+    },
+    {
+        "wav": "515.wav",
+        "text": "敵?"
+    },
+    {
+        "wav": "516.wav",
+        "text": "あの旗は何?"
+    },
+    {
+        "wav": "517.wav",
+        "text": "あれは?"
+    },
+    {
+        "wav": "518.wav",
+        "text": "幸福"
+    },
+    {
+        "wav": "519.wav",
+        "text": "なるほど"
+    },
+    {
+        "wav": "520.wav",
+        "text": "どうして機械生命体やそれを作った宇宙人はバンカーを直接攻撃しないんだろう"
+    },
+    {
+        "wav": "521.wav",
+        "text": "もともと宇宙から来てるはずなのに"
+    },
+    {
+        "wav": "522.wav",
+        "text": "全員が白旗?"
+    },
+    {
+        "wav": "523.wav",
+        "text": "私たちも追う"
+    },
+    {
+        "wav": "524.wav",
+        "text": "もう一度パスカルを調べよう"
+    },
+    {
+        "wav": "525.wav",
+        "text": "ナイエス、戻って機械生命体から情報を聞こう"
+    },
+    {
+        "wav": "526.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "527.wav",
+        "text": "どっちでもいい 倒しに行く"
+    },
+    {
+        "wav": "528.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "529.wav",
+        "text": "くそっ!"
+    },
+    {
+        "wav": "530.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "531.wav",
+        "text": "これは…"
+    },
+    {
+        "wav": "532.wav",
+        "text": "言ってみればわかるよ"
+    },
+    {
+        "wav": "533.wav",
+        "text": "多分"
+    },
+    {
+        "wav": "534.wav",
+        "text": "この場所は…"
+    },
+    {
+        "wav": "535.wav",
+        "text": "お前たちは"
+    },
+    {
+        "wav": "536.wav",
+        "text": "絶滅させた?"
+    },
+    {
+        "wav": "537.wav",
+        "text": "人類"
+    },
+    {
+        "wav": "538.wav",
+        "text": "手伝う"
+    },
+    {
+        "wav": "539.wav",
+        "text": "エイリアンたちが…すでに滅んでいた…"
+    },
+    {
+        "wav": "540.wav",
+        "text": "文句言わない。ナイエス。"
+    },
+    {
+        "wav": "541.wav",
+        "text": "転送装置"
+    },
+    {
+        "wav": "542.wav",
+        "text": "あなたは"
+    },
+    {
+        "wav": "543.wav",
+        "text": "これが転送装置"
+    },
+    {
+        "wav": "544.wav",
+        "text": "以上がエイリアンシップの報告です"
+    },
+    {
+        "wav": "545.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "546.wav",
+        "text": "了解しました"
+    },
+    {
+        "wav": "547.wav",
+        "text": "気が向いたらね"
+    },
+    {
+        "wav": "548.wav",
+        "text": "作戦に好き嫌いはない"
+    },
+    {
+        "wav": "549.wav",
+        "text": "ナインエス あなたは感情を出しすぎ"
+    },
+    {
+        "wav": "550.wav",
+        "text": "私たち夜葉部隊は感情を出すことは禁止されてるはず"
+    },
+    {
+        "wav": "551.wav",
+        "text": "はっいいから転送装置の場所に行く"
+    },
+    {
+        "wav": "552.wav",
+        "text": "いくつかあなたに聞きたいことがある"
+    },
+    {
+        "wav": "553.wav",
+        "text": "パスカル"
+    },
+    {
+        "wav": "554.wav",
+        "text": "この村以外にネットワークから切り離された機械生命体はいるの?"
+    },
+    {
+        "wav": "555.wav",
+        "text": "森の国?"
+    },
+    {
+        "wav": "556.wav",
+        "text": "場所は"
+    },
+    {
+        "wav": "557.wav",
+        "text": "通れないな"
+    },
+    {
+        "wav": "558.wav",
+        "text": "家庭の話は無意味"
+    },
+    {
+        "wav": "559.wav",
+        "text": "気を抜かないで、ナインエス"
+    },
+    {
+        "wav": "560.wav",
+        "text": "破壊する"
+    },
+    {
+        "wav": "561.wav",
+        "text": "それはこっちのセリフ"
+    },
+    {
+        "wav": "562.wav",
+        "text": "気をつけてナイエス"
+    },
+    {
+        "wav": "563.wav",
+        "text": "ここの機械生命体は…"
+    },
+    {
+        "wav": "564.wav",
+        "text": "こいつら"
+    },
+    {
+        "wav": "565.wav",
+        "text": "9Sいくよ"
+    },
+    {
+        "wav": "566.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "567.wav",
+        "text": "逃げたか"
+    },
+    {
+        "wav": "568.wav",
+        "text": "何?"
+    },
+    {
+        "wav": "569.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "570.wav",
+        "text": "9S なぜA2の情報をパスカルに聞いたの?"
+    },
+    {
+        "wav": "571.wav",
+        "text": "指令部に許可なく機械生命体にアクセスするのは推奨されない"
+    },
+    {
+        "wav": "572.wav",
+        "text": "でも、そういう好奇心王政なところは嫌いじゃないよ"
+    },
+    {
+        "wav": "573.wav",
+        "text": "私たちの敵は機械生命体だから、それを忘れないで。"
+    },
+    {
+        "wav": "574.wav",
+        "text": "各地を警戒しつつ、一度レジスタンスキャンプに戻ろう"
+    },
+    {
+        "wav": "575.wav",
+        "text": "自家データのチェックと補給が必要だから"
+    },
+    {
+        "wav": "576.wav",
+        "text": "声?"
+    },
+    {
+        "wav": "577.wav",
+        "text": "あれを守ればいいのか"
+    },
+    {
+        "wav": "578.wav",
+        "text": "アンドロイトは風呂に入る必要はない"
+    },
+    {
+        "wav": "579.wav",
+        "text": "定期的な部品洗浄メンテナンスさえあれば問題ないはず"
+    },
+    {
+        "wav": "580.wav",
+        "text": "そういうことができる人じゃないとリーダーは務まらない"
+    },
+    {
+        "wav": "581.wav",
+        "text": "敵飛行兵器の破壊を確認"
+    },
+    {
+        "wav": "582.wav",
+        "text": "これより、周囲の警戒に行こう"
+    },
+    {
+        "wav": "583.wav",
+        "text": "その敵は今破壊したはずじゃ"
+    },
+    {
+        "wav": "584.wav",
+        "text": "これが、機械生命体…"
+    },
+    {
+        "wav": "585.wav",
+        "text": "簡単に言う"
+    },
+    {
+        "wav": "586.wav",
+        "text": "情報を開封して"
+    },
+    {
+        "wav": "587.wav",
+        "text": "つまり上陸を阻止しなくては再び三撃が起きる"
+    },
+    {
+        "wav": "588.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "589.wav",
+        "text": "敵の外壁が分厚すぎてこの砲弾じゃ"
+    },
+    {
+        "wav": "590.wav",
+        "text": "直接…そうか…"
+    },
+    {
+        "wav": "591.wav",
+        "text": "そうか"
+    },
+    {
+        "wav": "592.wav",
+        "text": "あっ!"
+    },
+    {
+        "wav": "593.wav",
+        "text": "ダメ!"
+    },
+    {
+        "wav": "594.wav",
+        "text": "きっとナイエスには考えがある"
+    },
+    {
+        "wav": "595.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "596.wav",
+        "text": "バンカーに通信 こちら2B 応答せよ"
+    },
+    {
+        "wav": "597.wav",
+        "text": "現在ボディチェック中 基本機能に問題は見られず"
+    },
+    {
+        "wav": "598.wav",
+        "text": "それよりも状況を教えてほしい"
+    },
+    {
+        "wav": "599.wav",
+        "text": "8時間も?"
+    },
+    {
+        "wav": "600.wav",
+        "text": "ナインSはどこに?"
+    },
+    {
+        "wav": "601.wav",
+        "text": "ブラックボックス反応があるのなら、生きてるはず"
+    },
+    {
+        "wav": "602.wav",
+        "text": "ナイン・エスの創作を開始する 司令官に許諾申請を"
+    },
+    {
+        "wav": "603.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "604.wav",
+        "text": "ポット、付近のブラックボックス信号を検索"
+    },
+    {
+        "wav": "605.wav",
+        "text": "特殊なスキャナ"
+    },
+    {
+        "wav": "606.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "607.wav",
+        "text": "微弱なブラックボックス信号を検知できる 特殊なスキャナーを探している"
+    },
+    {
+        "wav": "608.wav",
+        "text": "ん?"
+    },
+    {
+        "wav": "609.wav",
+        "text": "微弱なブラックボックス信号を検知できるスキャナを探している"
+    },
+    {
+        "wav": "610.wav",
+        "text": "いや、特にない"
+    },
+    {
+        "wav": "611.wav",
+        "text": "早速スキャナにブラックボックス反応があるな"
+    },
+    {
+        "wav": "612.wav",
+        "text": "なるほど これは便利かもしれない"
+    },
+    {
+        "wav": "613.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "614.wav",
+        "text": "それにしても"
+    },
+    {
+        "wav": "615.wav",
+        "text": "なんだか今日のポッドはよく喋る"
+    },
+    {
+        "wav": "616.wav",
+        "text": "否定する"
+    },
+    {
+        "wav": "617.wav",
+        "text": "ポット、チェックモジュールとロンリーウイルスワクチンを"
+    },
+    {
+        "wav": "618.wav",
+        "text": "信号はバンカーに送ったから、救援はすぐに来ると思う"
+    },
+    {
+        "wav": "619.wav",
+        "text": "どんな情報でもいい お願い"
+    },
+    {
+        "wav": "620.wav",
+        "text": "ありがとう 救援部隊が来るまで安静にしていて"
+    },
+    {
+        "wav": "621.wav",
+        "text": "ここが9Sの落下予測地点"
+    },
+    {
+        "wav": "622.wav",
+        "text": "道を間違えたか 戻って別のルートがないか調べよう"
+    },
+    {
+        "wav": "623.wav",
+        "text": "こんな奥まで9Sが入ってきてるのか"
+    },
+    {
+        "wav": "624.wav",
+        "text": "罠でも構わない"
+    },
+    {
+        "wav": "625.wav",
+        "text": "こんなところにアンドロイドの遺体"
+    },
+    {
+        "wav": "626.wav",
+        "text": "ここは…一体…"
+    },
+    {
+        "wav": "627.wav",
+        "text": "分かってる 急ごう"
+    },
+    {
+        "wav": "628.wav",
+        "text": "誰がこんなものを"
+    },
+    {
+        "wav": "629.wav",
+        "text": "どうしてしたいか"
+    },
+    {
+        "wav": "630.wav",
+        "text": "その口で人類を語るな!"
+    },
+    {
+        "wav": "631.wav",
+        "text": "貴様!"
+    },
+    {
+        "wav": "632.wav",
+        "text": "分かってる"
+    },
+    {
+        "wav": "633.wav",
+        "text": "お前なんかに関わってる暇はない"
+    },
+    {
+        "wav": "634.wav",
+        "text": "ナイエスを、ナイエスを探す!"
+    },
+    {
+        "wav": "635.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "636.wav",
+        "text": "うるさい!"
+    },
+    {
+        "wav": "637.wav",
+        "text": "黙れ!"
+    },
+    {
+        "wav": "638.wav",
+        "text": "ありがとう"
+    },
+    {
+        "wav": "639.wav",
+        "text": "何か"
+    },
+    {
+        "wav": "640.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "641.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "642.wav",
+        "text": "こちら2B、司令官につないで"
+    },
+    {
+        "wav": "643.wav",
+        "text": "司令官、ナインエスは?"
+    },
+    {
+        "wav": "644.wav",
+        "text": "よろしくお願いします"
+    },
+    {
+        "wav": "645.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "646.wav",
+        "text": "機械生命体たちの投稿か"
+    },
+    {
+        "wav": "647.wav",
+        "text": "って言っても出会ったらすぐに殺しそうだけど"
+    },
+    {
+        "wav": "648.wav",
+        "text": "なるほどパスカルなら何か知ってるかも"
+    },
+    {
+        "wav": "649.wav",
+        "text": "もしもし、聞こえる?パスカル"
+    },
+    {
+        "wav": "650.wav",
+        "text": "最近の機械生命体の動向について何か気付いたことがあれば教えて"
+    },
+    {
+        "wav": "651.wav",
+        "text": "和平協定"
+    },
+    {
+        "wav": "652.wav",
+        "text": "ならパスカルの村に合流すればいいだけなんじゃ"
+    },
+    {
+        "wav": "653.wav",
+        "text": "コロニー"
+    },
+    {
+        "wav": "654.wav",
+        "text": "お願い"
+    },
+    {
+        "wav": "655.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "656.wav",
+        "text": "自分たちが危険?"
+    },
+    {
+        "wav": "657.wav",
+        "text": "言葉…か"
+    },
+    {
+        "wav": "658.wav",
+        "text": "じゃあなんでついてきた"
+    },
+    {
+        "wav": "659.wav",
+        "text": "一応、感謝しておく"
+    },
+    {
+        "wav": "660.wav",
+        "text": "こいつら…"
+    },
+    {
+        "wav": "661.wav",
+        "text": "いいから逃げる"
+    },
+    {
+        "wav": "662.wav",
+        "text": "バンカー、こちら2B"
+    },
+    {
+        "wav": "663.wav",
+        "text": "通信環境が不安定で 転送は使えない"
+    },
+    {
+        "wav": "664.wav",
+        "text": "廃坑場跡地で敵生機械生命体と遭遇"
+    },
+    {
+        "wav": "665.wav",
+        "text": "脱出ルートの確保を要請"
+    },
+    {
+        "wav": "666.wav",
+        "text": "救援信号ルバーシー"
+    },
+    {
+        "wav": "667.wav",
+        "text": "くそっ"
+    },
+    {
+        "wav": "668.wav",
+        "text": "封鎖されてる"
+    },
+    {
+        "wav": "669.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "670.wav",
+        "text": "9S!?"
+    },
+    {
+        "wav": "671.wav",
+        "text": "わかった、お願い!"
+    },
+    {
+        "wav": "672.wav",
+        "text": "どうすれば"
+    },
+    {
+        "wav": "673.wav",
+        "text": "ないです"
+    },
+    {
+        "wav": "674.wav",
+        "text": "今遭遇してる大型機械生命体が"
+    },
+    {
+        "wav": "675.wav",
+        "text": "お願い!"
+    },
+    {
+        "wav": "676.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "677.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "678.wav",
+        "text": "ありがとう"
+    },
+    {
+        "wav": "679.wav",
+        "text": "断る"
+    },
+    {
+        "wav": "680.wav",
+        "text": "私はレジスタンスキャンプに行く"
+    },
+    {
+        "wav": "681.wav",
+        "text": "パスカルはどうする?"
+    },
+    {
+        "wav": "682.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "683.wav",
+        "text": "通信状況が悪い"
+    },
+    {
+        "wav": "684.wav",
+        "text": "急ごう"
+    },
+    {
+        "wav": "685.wav",
+        "text": "機械生命体の数が増えてる"
+    },
+    {
+        "wav": "686.wav",
+        "text": "バンカーにレーザー通信での呼びかけを継続"
+    },
+    {
+        "wav": "687.wav",
+        "text": "機械生命体が、凶暴になってる"
+    },
+    {
+        "wav": "688.wav",
+        "text": "レジスタンスキャンプに急ごう"
+    },
+    {
+        "wav": "689.wav",
+        "text": "大丈夫"
+    },
+    {
+        "wav": "690.wav",
+        "text": "まだ中に敵が、このまま放ってはいけない"
+    },
+    {
+        "wav": "691.wav",
+        "text": "わかった。あなたは他のアンドロイドを退避させて"
+    },
+    {
+        "wav": "692.wav",
+        "text": "一体、何が?"
+    },
+    {
+        "wav": "693.wav",
+        "text": "何?"
+    },
+    {
+        "wav": "694.wav",
+        "text": "またこいつか"
+    },
+    {
+        "wav": "695.wav",
+        "text": "これじゃ、キリがない"
+    },
+    {
+        "wav": "696.wav",
+        "text": "大丈夫"
+    },
+    {
+        "wav": "697.wav",
+        "text": "この化け物を倒す"
+    },
+    {
+        "wav": "698.wav",
+        "text": "どこに向かってるの?"
+    },
+    {
+        "wav": "699.wav",
+        "text": "早く戻らないと"
+    },
+    {
+        "wav": "700.wav",
+        "text": "村に急ごう"
+    },
+    {
+        "wav": "701.wav",
+        "text": "くそっ"
+    },
+    {
+        "wav": "702.wav",
+        "text": "まず、こいつを排除する"
+    },
+    {
+        "wav": "703.wav",
+        "text": "一体何があったんだ"
+    },
+    {
+        "wav": "704.wav",
+        "text": "その統括しているユニットを破壊すれば 全体の活動が停止するの"
+    },
+    {
+        "wav": "705.wav",
+        "text": "ポット、イブの位置を特定できる"
+    },
+    {
+        "wav": "706.wav",
+        "text": "私たちがイブを倒す"
+    },
+    {
+        "wav": "707.wav",
+        "text": "これは?"
+    },
+    {
+        "wav": "708.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "709.wav",
+        "text": "ネットワーク経由で周りの奴らのエネルギーを捨てるのか"
+    },
+    {
+        "wav": "710.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "711.wav",
+        "text": "ナインエス!"
+    },
+    {
+        "wav": "712.wav",
+        "text": "ハッキング中の9S本体を防衛する!"
+    },
+    {
+        "wav": "713.wav",
+        "text": "うるさい!"
+    },
+    {
+        "wav": "714.wav",
+        "text": "9Sがやれるって言ったらやれるんだ!"
+    },
+    {
+        "wav": "715.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "716.wav",
+        "text": "ナインエス、早くとどめを…"
+    },
+    {
+        "wav": "717.wav",
+        "text": "そんな…"
+    },
+    {
+        "wav": "718.wav",
+        "text": "でも、それじゃ、今の君は戻ってこない"
+    },
+    {
+        "wav": "719.wav",
+        "text": "ナイイエス"
+    },
+    {
+        "wav": "720.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "721.wav",
+        "text": "ありがとう"
+    },
+    {
+        "wav": "722.wav",
+        "text": "どんどん敵部隊が増えてる"
+    },
+    {
+        "wav": "723.wav",
+        "text": "状況は?"
+    },
+    {
+        "wav": "724.wav",
+        "text": "さっさと殲滅しないと"
+    },
+    {
+        "wav": "725.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "726.wav",
+        "text": "こちら2B 遊劇部隊"
+    },
+    {
+        "wav": "727.wav",
+        "text": "今からそちらの援護に向かう"
+    },
+    {
+        "wav": "728.wav",
+        "text": "気を抜かない方がいい何があるか分からないから"
+    },
+    {
+        "wav": "729.wav",
+        "text": "私たちは戦うだけ"
+    },
+    {
+        "wav": "730.wav",
+        "text": "こちら2B 遊劇部隊"
+    },
+    {
+        "wav": "731.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "732.wav",
+        "text": "今からそちらの援護に向かう"
+    },
+    {
+        "wav": "733.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "734.wav",
+        "text": "全滅間に合わなかった"
+    },
+    {
+        "wav": "735.wav",
+        "text": "こちら2B 遊劇部隊"
+    },
+    {
+        "wav": "736.wav",
+        "text": "今からそちらの援護に向かう"
+    },
+    {
+        "wav": "737.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "738.wav",
+        "text": "こちら2B 遊劇部隊"
+    },
+    {
+        "wav": "739.wav",
+        "text": "今からそちらの援護に向かう"
+    },
+    {
+        "wav": "740.wav",
+        "text": "急がないと"
+    },
+    {
+        "wav": "741.wav",
+        "text": "こちら遊劇部隊の2B"
+    },
+    {
+        "wav": "742.wav",
+        "text": "これより、部隊オメガを援護する"
+    },
+    {
+        "wav": "743.wav",
+        "text": "このまま行けば勝てる"
+    },
+    {
+        "wav": "744.wav",
+        "text": "ナイエス、さらに増援が来ないか周辺を警戒して"
+    },
+    {
+        "wav": "745.wav",
+        "text": "何?この音…"
+    },
+    {
+        "wav": "746.wav",
+        "text": "油断した 至近距離からの emp 攻撃が"
+    },
+    {
+        "wav": "747.wav",
+        "text": "再起動しないと"
+    },
+    {
+        "wav": "748.wav",
+        "text": "うっ…うっ…うっ…"
+    },
+    {
+        "wav": "749.wav",
+        "text": "ナイイエス、識別回路を… このままじゃ攻撃できない!"
+    },
+    {
+        "wav": "750.wav",
+        "text": "そんな!"
+    },
+    {
+        "wav": "751.wav",
+        "text": "なっ"
+    },
+    {
+        "wav": "752.wav",
+        "text": "攻撃機能が動かない"
+    },
+    {
+        "wav": "753.wav",
+        "text": "お願い!"
+    },
+    {
+        "wav": "754.wav",
+        "text": "ポット、司令部に通信、状況確認"
+    },
+    {
+        "wav": "755.wav",
+        "text": "くそ!"
+    },
+    {
+        "wav": "756.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "757.wav",
+        "text": "司令部に通信状況報告と救援要請"
+    },
+    {
+        "wav": "758.wav",
+        "text": "ポッド!"
+    },
+    {
+        "wav": "759.wav",
+        "text": "くそ、まだジャミングが!"
+    },
+    {
+        "wav": "760.wav",
+        "text": "バンカーが…いったい何が…"
+    },
+    {
+        "wav": "761.wav",
+        "text": "ダメだ、キリがない"
+    },
+    {
+        "wav": "762.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "763.wav",
+        "text": "ナイン・エス!まだ!"
+    },
+    {
+        "wav": "764.wav",
+        "text": "司令部に報告を"
+    },
+    {
+        "wav": "765.wav",
+        "text": "司令官"
+    },
+    {
+        "wav": "766.wav",
+        "text": "だから、夜葉部隊が暴走して!"
+    },
+    {
+        "wav": "767.wav",
+        "text": "違う!ナイエス、あれは…"
+    },
+    {
+        "wav": "768.wav",
+        "text": "また、意識が…"
+    },
+    {
+        "wav": "769.wav",
+        "text": "うふふっ"
+    },
+    {
+        "wav": "770.wav",
+        "text": "司令官、この基地はもうダメです!"
+    },
+    {
+        "wav": "771.wav",
+        "text": "一旦退避しましょう"
+    },
+    {
+        "wav": "772.wav",
+        "text": "わかりません!"
+    },
+    {
+        "wav": "773.wav",
+        "text": "司令官、格納庫から飛行ユニットで脱出します!"
+    },
+    {
+        "wav": "774.wav",
+        "text": "司令官"
+    },
+    {
+        "wav": "775.wav",
+        "text": "でも、それならナイン・エスが!"
+    },
+    {
+        "wav": "776.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "777.wav",
+        "text": "司令官"
+    },
+    {
+        "wav": "778.wav",
+        "text": "敵?"
+    },
+    {
+        "wav": "779.wav",
+        "text": "夜葉舞台!"
+    },
+    {
+        "wav": "780.wav",
+        "text": "うん!うっ!"
+    },
+    {
+        "wav": "781.wav",
+        "text": "このままじゃ…"
+    },
+    {
+        "wav": "782.wav",
+        "text": "ナインエス!機体制御を貸して!"
+    },
+    {
+        "wav": "783.wav",
+        "text": "ここを突破する!"
+    },
+    {
+        "wav": "784.wav",
+        "text": "ステルス機能解除"
+    },
+    {
+        "wav": "785.wav",
+        "text": "なんとか地上に着陸しないと"
+    },
+    {
+        "wav": "786.wav",
+        "text": "くそっ!"
+    },
+    {
+        "wav": "787.wav",
+        "text": "汚染の除去と再起動"
+    },
+    {
+        "wav": "788.wav",
+        "text": "んっ!"
+    },
+    {
+        "wav": "789.wav",
+        "text": "もう、バンカーはない。バックアップの意味もない。"
+    },
+    {
+        "wav": "790.wav",
+        "text": "うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…うっ…う"
+    },
+    {
+        "wav": "791.wav",
+        "text": "ナイン…エス…"
+    },
+    {
+        "wav": "792.wav",
+        "text": "期待が…"
+    },
+    {
+        "wav": "793.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "794.wav",
+        "text": "ウイルスの除去は…不可能…"
+    },
+    {
+        "wav": "795.wav",
+        "text": "他のアンドロイドに 汚染を広げないようにしないと"
+    },
+    {
+        "wav": "796.wav",
+        "text": "ボット、アンドロイドの反応が少ない地点を"
+    },
+    {
+        "wav": "797.wav",
+        "text": "わかってる…"
+    },
+    {
+        "wav": "798.wav",
+        "text": "あと…少し…"
+    },
+    {
+        "wav": "799.wav",
+        "text": "What..ош"
+    },
+    {
+        "wav": "800.wav",
+        "text": "ただのお着物か"
+    },
+    {
+        "wav": "801.wav",
+        "text": "こいつ動く"
+    },
+    {
+        "wav": "802.wav",
+        "text": "今の声は"
+    },
+    {
+        "wav": "803.wav",
+        "text": "何?"
+    },
+    {
+        "wav": "804.wav",
+        "text": "確かに、かなり、ね"
+    },
+    {
+        "wav": "805.wav",
+        "text": "サルトルに聞けばいい"
+    },
+    {
+        "wav": "806.wav",
+        "text": "さあ"
+    },
+    {
+        "wav": "807.wav",
+        "text": "○○に聞けばいい"
+    },
+    {
+        "wav": "808.wav",
+        "text": "なかなか素材が集まらない"
+    },
+    {
+        "wav": "809.wav",
+        "text": "ん?"
+    },
+    {
+        "wav": "810.wav",
+        "text": "じゃあ、破壊を"
+    },
+    {
+        "wav": "811.wav",
+        "text": "大型二足歩行確か砂漠地帯にいた"
+    },
+    {
+        "wav": "812.wav",
+        "text": "なかなか素材がつまらない"
+    },
+    {
+        "wav": "813.wav",
+        "text": "探そう"
+    },
+    {
+        "wav": "814.wav",
+        "text": "でも、倒すべき機械生命体を修理するなんて、複雑な気分。"
+    },
+    {
+        "wav": "815.wav",
+        "text": "工場の情報から何か分かったことはある?"
+    },
+    {
+        "wav": "816.wav",
+        "text": "新品のネジは大型2足から手に入れるとして大きな歯車は?"
+    },
+    {
+        "wav": "817.wav",
+        "text": "機械生命体についてはまだわかってないことが多い"
+    },
+    {
+        "wav": "818.wav",
+        "text": "どんな情報でもいいから、集めておかないと"
+    },
+    {
+        "wav": "819.wav",
+        "text": "とりあえず小型の機械生命体を倒しまくればいいのか"
+    },
+    {
+        "wav": "820.wav",
+        "text": "なかなか素材が集まらない"
+    },
+    {
+        "wav": "821.wav",
+        "text": "少しくらい壊れてても使えるんじゃ"
+    },
+    {
+        "wav": "822.wav",
+        "text": "私たちも同じ"
+    },
+    {
+        "wav": "823.wav",
+        "text": "同じように大量の機械生命体を破壊してきた"
+    },
+    {
+        "wav": "824.wav",
+        "text": "もしそれが罪だと問われたら"
+    },
+    {
+        "wav": "825.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "826.wav",
+        "text": "行き過ぎた探求心は悪趣味"
+    },
+    {
+        "wav": "827.wav",
+        "text": "あそこ"
+    },
+    {
+        "wav": "828.wav",
+        "text": "早く戻ろう 別の敵が来るかもしれない"
+    },
+    {
+        "wav": "829.wav",
+        "text": "私にも分からない"
+    },
+    {
+        "wav": "830.wav",
+        "text": "わかってる"
+    },
+    {
+        "wav": "831.wav",
+        "text": "どこかではぐれたのか"
+    },
+    {
+        "wav": "832.wav",
+        "text": "あの小さい機械生命体が"
+    },
+    {
+        "wav": "833.wav",
+        "text": "なんだろう、この小屋"
+    },
+    {
+        "wav": "834.wav",
+        "text": "動物用の薬って、どこで手に入れるの?"
+    },
+    {
+        "wav": "835.wav",
+        "text": "私たちアンドロイドは薬なんか使わない"
+    },
+    {
+        "wav": "836.wav",
+        "text": "ためらう権利なんかない"
+    },
+    {
+        "wav": "837.wav",
+        "text": "私たちは殺すために作られた兵士だから"
+    },
+    {
+        "wav": "838.wav",
+        "text": "あれは…"
+    },
+    {
+        "wav": "839.wav",
+        "text": "あの動物を真似ていたロボット"
+    },
+    {
+        "wav": "840.wav",
+        "text": "真似というより動物そのもののような行動をとっていた"
+    },
+    {
+        "wav": "841.wav",
+        "text": "ん"
+    },
+    {
+        "wav": "842.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "843.wav",
+        "text": "そうだね"
+    },
+    {
+        "wav": "844.wav",
+        "text": "ん"
+    },
+    {
+        "wav": "845.wav",
+        "text": "さあ…"
+    },
+    {
+        "wav": "846.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "847.wav",
+        "text": "じゃあ、あとはこの子をパスカルの村まで連れていくだけ"
+    },
+    {
+        "wav": "848.wav",
+        "text": "ナインエス、あの迷子だった子が見当たらない"
+    },
+    {
+        "wav": "849.wav",
+        "text": "私に聞かない"
+    },
+    {
+        "wav": "850.wav",
+        "text": "そ、そんな声で言われても、私は助けられない。"
+    },
+    {
+        "wav": "851.wav",
+        "text": "Huh?"
+    },
+    {
+        "wav": "852.wav",
+        "text": "確かに"
+    },
+    {
+        "wav": "853.wav",
+        "text": "地上のレジスタンスは夜葉部隊にとっても大事な同胞"
+    },
+    {
+        "wav": "854.wav",
+        "text": "彼らの手助けをするのも私たちの重要な任務"
+    },
+    {
+        "wav": "855.wav",
+        "text": "だから、文句を言わない"
+    },
+    {
+        "wav": "856.wav",
+        "text": "死体"
+    },
+    {
+        "wav": "857.wav",
+        "text": "とにかくこの箱を担当者に届けよう"
+    },
+    {
+        "wav": "858.wav",
+        "text": "A2の情報といっても、どこを探せばいいのか?"
+    },
+    {
+        "wav": "859.wav",
+        "text": "これは"
+    },
+    {
+        "wav": "860.wav",
+        "text": "ポット、解析をお願い"
+    },
+    {
+        "wav": "861.wav",
+        "text": "内容は"
+    },
+    {
+        "wav": "862.wav",
+        "text": "どうして、機械生命体がA2の情報を……"
+    },
+    {
+        "wav": "863.wav",
+        "text": "ポット、回収したデータチップを解析後、各チップと称号して"
+    },
+    {
+        "wav": "864.wav",
+        "text": "新樹湾降下作戦"
+    },
+    {
+        "wav": "865.wav",
+        "text": "語るには時間が必要なこともある"
+    },
+    {
+        "wav": "866.wav",
+        "text": "長く戦っている兵士なら、なおさら……"
+    },
+    {
+        "wav": "867.wav",
+        "text": "ナイイエス、あなたも"
+    },
+    {
+        "wav": "868.wav",
+        "text": "あなたにもいつかわかる日が来るかもしれない"
+    },
+    {
+        "wav": "869.wav",
+        "text": "お人良し"
+    },
+    {
+        "wav": "870.wav",
+        "text": "美人だからとはいえサービスしすぎ"
+    },
+    {
+        "wav": "871.wav",
+        "text": "どっちでもいい"
+    },
+    {
+        "wav": "872.wav",
+        "text": "プレゼントなんて無意味な行為"
+    },
+    {
+        "wav": "873.wav",
+        "text": "相手に聞かずに物を送るのは迷惑"
+    },
+    {
+        "wav": "874.wav",
+        "text": "気持ちとか感情を持つことは禁止されている"
+    },
+    {
+        "wav": "875.wav",
+        "text": "ハイは一回"
+    },
+    {
+        "wav": "876.wav",
+        "text": "そいつが犯人の可能性もあるから気をつけないと"
+    },
+    {
+        "wav": "877.wav",
+        "text": "あそこにいる人に聞いてみよう"
+    },
+    {
+        "wav": "878.wav",
+        "text": "とにかく話してみよう"
+    },
+    {
+        "wav": "879.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "880.wav",
+        "text": "知らなくていいことだって、ある"
+    },
+    {
+        "wav": "881.wav",
+        "text": "9s"
+    },
+    {
+        "wav": "882.wav",
+        "text": "ポット、この機械生命体の解析を"
+    },
+    {
+        "wav": "883.wav",
+        "text": "ちょっと気になることを言ってたから"
+    },
+    {
+        "wav": "884.wav",
+        "text": "機械生命体が復讐した"
+    },
+    {
+        "wav": "885.wav",
+        "text": "そして弱い方が殺された"
+    },
+    {
+        "wav": "886.wav",
+        "text": "真実を知ったからには言わないと"
+    },
+    {
+        "wav": "887.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "888.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "889.wav",
+        "text": "2Bからオペレーター6Oへ 資材の受け渡しを完了"
+    },
+    {
+        "wav": "890.wav",
+        "text": "あなたはどうしてそれを知ってるの?"
+    },
+    {
+        "wav": "891.wav",
+        "text": "こちら2B受信している"
+    },
+    {
+        "wav": "892.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "893.wav",
+        "text": "ジャミング"
+    },
+    {
+        "wav": "894.wav",
+        "text": "司令官その件で報告があります"
+    },
+    {
+        "wav": "895.wav",
+        "text": "アクセスポイント不調の原因は、ジャミング電波を出していた機械生命体が原因でした。"
+    },
+    {
+        "wav": "896.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "897.wav",
+        "text": "聞こえてる"
+    },
+    {
+        "wav": "898.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "899.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "900.wav",
+        "text": "これで全部か"
+    },
+    {
+        "wav": "901.wav",
+        "text": "一応、転送装置本体も調べてみよう"
+    },
+    {
+        "wav": "902.wav",
+        "text": "機能に問題ないみたい"
+    },
+    {
+        "wav": "903.wav",
+        "text": "こちら夜葉部隊2B、バンカー、オペレーター6総に通信"
+    },
+    {
+        "wav": "904.wav",
+        "text": "指定された転送装置を普及した 原因は敵機械生命体の妨害電波"
+    },
+    {
+        "wav": "905.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "906.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "907.wav",
+        "text": "ポット"
+    },
+    {
+        "wav": "908.wav",
+        "text": "まだ何も言ってない"
+    },
+    {
+        "wav": "909.wav",
+        "text": "その通り"
+    },
+    {
+        "wav": "910.wav",
+        "text": "花の写真"
+    },
+    {
+        "wav": "911.wav",
+        "text": "なるほど"
+    },
+    {
+        "wav": "912.wav",
+        "text": "ポット、砂漠の薔薇を撮影し、オペレーター6層に送信。"
+    },
+    {
+        "wav": "913.wav",
+        "text": "こちら2B、聞こえている"
+    },
+    {
+        "wav": "914.wav",
+        "text": "薔薇の他にもたくさんあるゆりや桜にすずらん月の涙"
+    },
+    {
+        "wav": "915.wav",
+        "text": "機会があればまた送る"
+    },
+    {
+        "wav": "916.wav",
+        "text": "無差別に攻撃する機械生命体"
+    },
+    {
+        "wav": "917.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "918.wav",
+        "text": "気をつけて、まだ生きてる"
+    },
+    {
+        "wav": "919.wav",
+        "text": "何か言ってる"
+    },
+    {
+        "wav": "920.wav",
+        "text": "一体こいつは…"
+    },
+    {
+        "wav": "921.wav",
+        "text": "きっと この世界から消滅するときにわかる"
+    },
+    {
+        "wav": "922.wav",
+        "text": "私たちにも"
+    },
+    {
+        "wav": "923.wav",
+        "text": "月の涙"
+    },
+    {
+        "wav": "924.wav",
+        "text": "何か思い出したの?"
+    },
+    {
+        "wav": "925.wav",
+        "text": "Uh."
+    },
+    {
+        "wav": "926.wav",
+        "text": "この場所は…"
+    },
+    {
+        "wav": "927.wav",
+        "text": "エミール、ここは?"
+    },
+    {
+        "wav": "928.wav",
+        "text": "自己増殖"
+    },
+    {
+        "wav": "929.wav",
+        "text": "えっ?"
+    },
+    {
+        "wav": "930.wav",
+        "text": "……ありがとう"
+    },
+    {
+        "wav": "931.wav",
+        "text": "どんな人にも大切な記憶はある"
+    },
+    {
+        "wav": "932.wav",
+        "text": "その価値を決めるのは私たちじゃない"
+    },
+    {
+        "wav": "933.wav",
+        "text": "他人にわからなくても、きっとこれは必要な情報"
+    },
+    {
+        "wav": "934.wav",
+        "text": "あのタイプ、見たことがない"
+    },
+    {
+        "wav": "935.wav",
+        "text": "迎撃する ポット 解析を進めて"
+    },
+    {
+        "wav": "936.wav",
+        "text": "あれは、確か以前戦った"
+    },
+    {
+        "wav": "937.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "938.wav",
+        "text": "迎撃する"
+    },
+    {
+        "wav": "939.wav",
+        "text": "兄様…他の個体もいるということ?"
+    },
+    {
+        "wav": "940.wav",
+        "text": "あれは… 例のロボット…"
+    },
+    {
+        "wav": "941.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "942.wav",
+        "text": "機械生命体が家族の復讐"
+    },
+    {
+        "wav": "943.wav",
+        "text": "バカげてる"
+    },
+    {
+        "wav": "944.wav",
+        "text": "夜葉の遺体"
+    },
+    {
+        "wav": "945.wav",
+        "text": "こんなところに落ちていたのか。11B"
+    },
+    {
+        "wav": "946.wav",
+        "text": "ブラックボックス信号は"
+    },
+    {
+        "wav": "947.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "948.wav",
+        "text": "脱走計画"
+    },
+    {
+        "wav": "949.wav",
+        "text": "武器はバンカーにいるシックスティンDに渡そう"
+    },
+    {
+        "wav": "950.wav",
+        "text": "これは必要ない"
+    },
+    {
+        "wav": "951.wav",
+        "text": "これは…ガラクタ?"
+    },
+    {
+        "wav": "952.wav",
+        "text": "かぎ"
+    },
+    {
+        "wav": "953.wav",
+        "text": "総書室 あの縦長の場所か"
+    },
+    {
+        "wav": "954.wav",
+        "text": "これは…"
+    },
+    {
+        "wav": "955.wav",
+        "text": "何か書いてある"
+    },
+    {
+        "wav": "956.wav",
+        "text": "これが…財宝…"
+    },
+    {
+        "wav": "957.wav",
+        "text": "ポット、この生体コードを持つアンドロイドの位置情報を検索。"
+    },
+    {
+        "wav": "958.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "959.wav",
+        "text": "さあ、私にはわからない"
+    },
+    {
+        "wav": "960.wav",
+        "text": "鹿の肉と、イノシシの肉は揃ったな。依頼主の所へ行こう。"
+    },
+    {
+        "wav": "961.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "962.wav",
+        "text": "あれは…夜葉部隊…"
+    },
+    {
+        "wav": "963.wav",
+        "text": "あなたたちには任務放棄の罪で、司令部から捕獲命令が下っている。おとなしくして。"
+    },
+    {
+        "wav": "964.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "965.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "966.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "967.wav",
+        "text": "行こう、ナイエス"
+    },
+    {
+        "wav": "968.wav",
+        "text": "私たちは戦うだけだ"
+    },
+    {
+        "wav": "969.wav",
+        "text": "旧世界の遺産か"
+    },
+    {
+        "wav": "970.wav",
+        "text": "てきっ"
+    },
+    {
+        "wav": "971.wav",
+        "text": "この敵は"
+    },
+    {
+        "wav": "972.wav",
+        "text": "人類文化"
+    },
+    {
+        "wav": "973.wav",
+        "text": "戦闘がご楽に"
+    },
+    {
+        "wav": "974.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "975.wav",
+        "text": "しよ"
+    },
+    {
+        "wav": "976.wav",
+        "text": "夜ハブ隊員専用チップ"
+    },
+    {
+        "wav": "977.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "978.wav",
+        "text": "機密情報の入ったチップ"
+    },
+    {
+        "wav": "979.wav",
+        "text": "スタンプ"
+    },
+    {
+        "wav": "980.wav",
+        "text": "って言われても"
+    },
+    {
+        "wav": "981.wav",
+        "text": "豪華景品"
+    },
+    {
+        "wav": "982.wav",
+        "text": "どういう意味?"
+    },
+    {
+        "wav": "983.wav",
+        "text": "なんだかエミールの様子がおかしい"
+    },
+    {
+        "wav": "984.wav",
+        "text": "ポト"
+    },
+    {
+        "wav": "985.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "986.wav",
+        "text": "これは…エミール?"
+    },
+    {
+        "wav": "987.wav",
+        "text": "エミール!"
+    },
+    {
+        "wav": "988.wav",
+        "text": "なに?"
+    },
+    {
+        "wav": "989.wav",
+        "text": "なっ"
+    },
+    {
+        "wav": "990.wav",
+        "text": "くそ!"
+    },
+    {
+        "wav": "991.wav",
+        "text": "そんなこと言われたって"
+    },
+    {
+        "wav": "992.wav",
+        "text": "そんな"
+    },
+    {
+        "wav": "993.wav",
+        "text": "黙ってて!"
+    },
+    {
+        "wav": "994.wav",
+        "text": "はぁっ!"
+    },
+    {
+        "wav": "995.wav",
+        "text": "エミール"
+    },
+    {
+        "wav": "996.wav",
+        "text": "大丈夫、修理すれば…"
+    },
+    {
+        "wav": "997.wav",
+        "text": "エミール"
+    },
+    {
+        "wav": "998.wav",
+        "text": "これは…ポッド?"
+    },
+    {
+        "wav": "999.wav",
+        "text": "どんな事情で捨てたんだろう"
+    },
+    {
+        "wav": "1000.wav",
+        "text": "再起動して使えるようだったら私を管理者に上書きできるか試してみて"
+    },
+    {
+        "wav": "1001.wav",
+        "text": "ポットが釣れた"
+    },
+    {
+        "wav": "1002.wav",
+        "text": "再起動と所有権の上書き確認を"
+    },
+    {
+        "wav": "1003.wav",
+        "text": "何?"
+    },
+    {
+        "wav": "1004.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "1005.wav",
+        "text": "何が?"
+    },
+    {
+        "wav": "1006.wav",
+        "text": "まだいい"
+    },
+    {
+        "wav": "1007.wav",
+        "text": "何?"
+    },
+    {
+        "wav": "1008.wav",
+        "text": "9Sで十分伝わる"
+    },
+    {
+        "wav": "1009.wav",
+        "text": "わかった。ナイエズ。"
+    },
+    {
+        "wav": "1010.wav",
+        "text": "分かった9S"
+    },
+    {
+        "wav": "1011.wav",
+        "text": "黙って敵を倒す"
+    },
+    {
+        "wav": "1012.wav",
+        "text": "仕事に文句言わない"
+    },
+    {
+        "wav": "1013.wav",
+        "text": "レジスタンスと情報交換するのは 重要な任務"
+    },
+    {
+        "wav": "1014.wav",
+        "text": "それに 戦闘より雑用の方が安全"
+    },
+    {
+        "wav": "1015.wav",
+        "text": "死ぬより、死なない方がいいに決まってる"
+    },
+    {
+        "wav": "1016.wav",
+        "text": "だいたいわかればいい"
+    },
+    {
+        "wav": "1017.wav",
+        "text": "こちら2B異常なし"
+    },
+    {
+        "wav": "1018.wav",
+        "text": "問題なしそれは作戦に関係する情報?"
+    },
+    {
+        "wav": "1019.wav",
+        "text": "気分が良くても良くなくても 作戦には関係ない"
+    },
+    {
+        "wav": "1020.wav",
+        "text": "こちら2B どうした?"
+    },
+    {
+        "wav": "1021.wav",
+        "text": "そ、そんなこと聞かれても…"
+    },
+    {
+        "wav": "1022.wav",
+        "text": "それは困る 作戦に支障があるから"
+    },
+    {
+        "wav": "1023.wav",
+        "text": "B型戦闘モデルにはオペレーターのサポートが必要不可欠"
+    },
+    {
+        "wav": "1024.wav",
+        "text": "だから"
+    },
+    {
+        "wav": "1025.wav",
+        "text": "以上、通信終了"
+    },
+    {
+        "wav": "1026.wav",
+        "text": "こちら2B問題ない"
+    },
+    {
+        "wav": "1027.wav",
+        "text": "花?"
+    },
+    {
+        "wav": "1028.wav",
+        "text": "必要ない"
+    },
+    {
+        "wav": "1029.wav",
+        "text": "そんな情報必要な"
+    },
+    {
+        "wav": "1030.wav",
+        "text": "はっ"
+    },
+    {
+        "wav": "1031.wav",
+        "text": "こちら、夜葉部隊所属、2B"
+    },
+    {
+        "wav": "1032.wav",
+        "text": "この記録を聞いたものがいたら 伝えてほしいことがある"
+    },
+    {
+        "wav": "1033.wav",
+        "text": "もし、夜葉部隊所属、ナイイエスに会うことがあったら…"
+    },
+    {
+        "wav": "1034.wav",
+        "text": "私は彼に"
+    },
+    {
+        "wav": "1035.wav",
+        "text": "すまない 彼のメッセージは"
+    },
+    {
+        "wav": "1036.wav",
+        "text": "ナイイエス君と一緒に過ごした日は私にとって"
+    },
+    {
+        "wav": "1037.wav",
+        "text": "光のような思い出だった"
+    },
+    {
+        "wav": "1038.wav",
+        "text": "ありがとうナイス"
+    },
+    {
+        "wav": "1039.wav",
+        "text": "こちら2B"
+    },
+    {
+        "wav": "1040.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "1041.wav",
+        "text": "私たちには必要ない"
+    },
+    {
+        "wav": "1042.wav",
+        "text": "Tシャツ"
+    },
+    {
+        "wav": "1043.wav",
+        "text": "nや"
+    },
+    {
+        "wav": "1044.wav",
+        "text": "その日が来たら、いつか行こう"
+    },
+    {
+        "wav": "1045.wav",
+        "text": "はぁ"
+    },
+    {
+        "wav": "1046.wav",
+        "text": "こちら3B、シータ部隊隊長だ"
+    },
+    {
+        "wav": "1047.wav",
+        "text": "機械生命体どもがどんどん増えていて手に負えない"
+    },
+    {
+        "wav": "1048.wav",
+        "text": "ありがとう"
+    },
+    {
+        "wav": "1049.wav",
+        "text": "私たちも同行しよう"
+    },
+    {
+        "wav": "1050.wav",
+        "text": "ははっ 苦戦しているようだな"
+    },
+    {
+        "wav": "1051.wav",
+        "text": "北部12C防衛本部から洋兵部隊"
+    },
+    {
+        "wav": "1052.wav",
+        "text": "私は隊長の褒美"
+    },
+    {
+        "wav": "1053.wav",
+        "text": "ここは我々に任せろ"
+    },
+    {
+        "wav": "1054.wav",
+        "text": "こちら4B 先攻攻撃部隊アルファ隊長"
+    },
+    {
+        "wav": "1055.wav",
+        "text": "敵の攻撃に手を焼いている"
+    },
+    {
+        "wav": "1056.wav",
+        "text": "了解。感謝する。"
+    },
+    {
+        "wav": "1057.wav",
+        "text": "助かった"
+    },
+    {
+        "wav": "1058.wav",
+        "text": "我々もそちらに同行し、援護しよう"
+    },
+    {
+        "wav": "1059.wav",
+        "text": "こちら5B!ダメだ!このままじゃ!"
+    },
+    {
+        "wav": "1060.wav",
+        "text": "うわぁ~~~~"
+    },
+    {
+        "wav": "1061.wav",
+        "text": "くそっ!こんな発射…"
+    },
+    {
+        "wav": "1062.wav",
+        "text": "バカ!追ってな!武装展開!隊長に連絡!"
+    },
+    {
+        "wav": "1063.wav",
+        "text": "くそ、やってやる!"
+    },
+    {
+        "wav": "1064.wav",
+        "text": "うるせぇ!"
+    },
+    {
+        "wav": "1065.wav",
+        "text": "了解!"
+    },
+    {
+        "wav": "1066.wav",
+        "text": "スーテビー!くそ!くそぉぉぉぉぉぉぉぉぉ!!!"
+    },
+    {
+        "wav": "1067.wav",
+        "text": "こちら6B"
+    },
+    {
+        "wav": "1068.wav",
+        "text": "すまないが、援護をお願いしたい!"
+    },
+    {
+        "wav": "1069.wav",
+        "text": "こんなにてこずるなんて思わなかったよ"
+    },
+    {
+        "wav": "1070.wav",
+        "text": "今度は私たちがそちらを手伝おう"
+    },
+    {
+        "wav": "1071.wav",
+        "text": "こちら7B 先攻攻撃部隊デルタ 隊長"
+    },
+    {
+        "wav": "1072.wav",
+        "text": "公戦中の機械生命体が暴れていて、手をつけられない!"
+    },
+    {
+        "wav": "1073.wav",
+        "text": "了解。感謝する。"
+    },
+    {
+        "wav": "1074.wav",
+        "text": "助かった"
+    },
+    {
+        "wav": "1075.wav",
+        "text": "私たちもそちらに同行し、援護しよう!"
+    },
+    {
+        "wav": "1076.wav",
+        "text": "こちら、攻撃部隊オメガの8B、担当空気を制圧した"
+    },
+    {
+        "wav": "1077.wav",
+        "text": "他の地域の援護に向かう"
+    },
+    {
+        "wav": "1078.wav",
+        "text": "援護感謝する"
+    },
+    {
+        "wav": "1079.wav",
+        "text": "いきなり囲まれて苦戦していたところだ"
+    },
+    {
+        "wav": "1080.wav",
+        "text": "痛い…これは…2 2 B 6 4 B"
+    },
+    {
+        "wav": "1081.wav",
+        "text": "お前たちがやったのか!"
+    },
+    {
+        "wav": "1082.wav",
+        "text": "うるさい!何も…何も知らないくせに!"
+    },
+    {
+        "wav": "1083.wav",
+        "text": "こちら9B、イプシロン部隊だ"
+    },
+    {
+        "wav": "1084.wav",
+        "text": "増援要請を頼む"
+    },
+    {
+        "wav": "1085.wav",
+        "text": "わかった、ありがとう"
+    },
+    {
+        "wav": "1086.wav",
+        "text": "かすかったよ"
+    },
+    {
+        "wav": "1087.wav",
+        "text": "聞こえてますよー"
+    },
+    {
+        "wav": "1088.wav",
+        "text": "了解しました"
+    },
+    {
+        "wav": "1089.wav",
+        "text": "はいはい"
+    },
+    {
+        "wav": "1090.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1091.wav",
+        "text": "いやー、意外とめんどくさいですね"
+    },
+    {
+        "wav": "1092.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1093.wav",
+        "text": "一気、それはまた大変だ"
+    },
+    {
+        "wav": "1094.wav",
+        "text": "ミサイル発射"
+    },
+    {
+        "wav": "1095.wav",
+        "text": "2B…どうしたの?"
+    },
+    {
+        "wav": "1096.wav",
+        "text": "援護しなきゃ、急ごう!"
+    },
+    {
+        "wav": "1097.wav",
+        "text": "ここは…"
+    },
+    {
+        "wav": "1098.wav",
+        "text": "ゲ…ゲゲキする…"
+    },
+    {
+        "wav": "1099.wav",
+        "text": "引き続き 防衛継続"
+    },
+    {
+        "wav": "1100.wav",
+        "text": "2Bの記録データパッケージをアップロード開始"
+    },
+    {
+        "wav": "1101.wav",
+        "text": "いいんだ。先に2Bのデータをアップしてくれ。"
+    },
+    {
+        "wav": "1102.wav",
+        "text": "いいんだ。先に2Bのデータをアップしてくれ。"
+    },
+    {
+        "wav": "1103.wav",
+        "text": "さてと、そろそろ時間だな。2Bさんのセットアップを手伝いに行かなきゃな。"
+    },
+    {
+        "wav": "1104.wav",
+        "text": "多分もう部屋で待ってるだろうな"
+    },
+    {
+        "wav": "1105.wav",
+        "text": "失礼しますあ、もう始めてるみたいですね"
+    },
+    {
+        "wav": "1106.wav",
+        "text": "この先が格納庫ですね行きましょう"
+    },
+    {
+        "wav": "1107.wav",
+        "text": "司令官からの命令で、2Bさんのメンテナンスを担当することになったんです"
+    },
+    {
+        "wav": "1108.wav",
+        "text": "あ、端末でメールを確認していきませんか?重要な連絡はないと思いますが、念のため。"
+    },
+    {
+        "wav": "1109.wav",
+        "text": "これから定期的にチェックしますね"
+    },
+    {
+        "wav": "1110.wav",
+        "text": "2Bさん、蛍光品は足りてますか?もし足りなければ、実質にある端末から補給してくださいね。"
+    },
+    {
+        "wav": "1111.wav",
+        "text": "そういえば、蛍光品は足りてたかな?"
+    },
+    {
+        "wav": "1112.wav",
+        "text": "心配はいりませんよ 僕たち9Sモデルは優秀なことで有名ですから"
+    },
+    {
+        "wav": "1113.wav",
+        "text": "で、自分で言うことじゃないか"
+    },
+    {
+        "wav": "1114.wav",
+        "text": "何か忘れ物ですか?"
+    },
+    {
+        "wav": "1115.wav",
+        "text": "ここ、僕の部屋なんですよいつでも好きな時に遊びに来てくださいね"
+    },
+    {
+        "wav": "1116.wav",
+        "text": "えっ、なんでしょう?"
+    },
+    {
+        "wav": "1117.wav",
+        "text": "えっ?"
+    },
+    {
+        "wav": "1118.wav",
+        "text": "あ、はい、わかりました"
+    },
+    {
+        "wav": "1119.wav",
+        "text": "あ、そうだ"
+    },
+    {
+        "wav": "1120.wav",
+        "text": "まあ、何もないですけど"
+    },
+    {
+        "wav": "1121.wav",
+        "text": "司令官が呼んでたから、一緒に行きましょう"
+    },
+    {
+        "wav": "1122.wav",
+        "text": "トゥビサ…あ、いや、トゥビ…"
+    },
+    {
+        "wav": "1123.wav",
+        "text": "あれ、レジスタンスとの連絡役には別のヨルハ部隊員がアサインされていたんじゃ?"
+    },
+    {
+        "wav": "1124.wav",
+        "text": "地上ってことは飛行ユニットで移動ですね"
+    },
+    {
+        "wav": "1125.wav",
+        "text": "格納庫に行きましょう"
+    },
+    {
+        "wav": "1126.wav",
+        "text": "飛行ユニットの運用コストは高いから あんまり使わせてもらえないんですよね"
+    },
+    {
+        "wav": "1127.wav",
+        "text": "もっと安い機体を生産すればいいのにな"
+    },
+    {
+        "wav": "1128.wav",
+        "text": "でもどうして2Bさんのような戦闘モデルが調査を担当するんでしょうか"
+    },
+    {
+        "wav": "1129.wav",
+        "text": "でも、どうして2Bのような戦闘モデルが調査を担当するんでしょうか?"
+    },
+    {
+        "wav": "1130.wav",
+        "text": "現地調査なら僕たちスキャナーモデルだけで十分なのに"
+    },
+    {
+        "wav": "1131.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1132.wav",
+        "text": "情報によると、この付近の機械生命体は 襲ってくる様子はないみたいですね"
+    },
+    {
+        "wav": "1133.wav",
+        "text": "最近こういう敵が増えたみたいで"
+    },
+    {
+        "wav": "1134.wav",
+        "text": "ただぼーっとしてるだけ…一体何をしてるんでしょう?"
+    },
+    {
+        "wav": "1135.wav",
+        "text": "うわっ!トゥービィ!"
+    },
+    {
+        "wav": "1136.wav",
+        "text": "もうダメですよ。いくら最新鋭の夜破機体でも、あの高さは無理です。"
+    },
+    {
+        "wav": "1137.wav",
+        "text": "あんまり無茶しないでくださいね"
+    },
+    {
+        "wav": "1138.wav",
+        "text": "ここは植物の侵食がかなり進んでいますが、当時はかなり大きな都市だったんでしょうね。"
+    },
+    {
+        "wav": "1139.wav",
+        "text": "ここがレジスタンスキャンプか"
+    },
+    {
+        "wav": "1140.wav",
+        "text": "まずリーダーに情報を聞いてみましょうよ"
+    },
+    {
+        "wav": "1141.wav",
+        "text": "あれ、2Bのことを知ってるんですか?"
+    },
+    {
+        "wav": "1142.wav",
+        "text": "大雑把なことしますね、あのレジスタンスの人"
+    },
+    {
+        "wav": "1143.wav",
+        "text": "あっ、びっくりした"
+    },
+    {
+        "wav": "1144.wav",
+        "text": "何もいないと思っても注意が必要ですね"
+    },
+    {
+        "wav": "1145.wav",
+        "text": "さすがオペレーターさん 仕事が早いですね"
+    },
+    {
+        "wav": "1146.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1147.wav",
+        "text": "ええ、でもどうしてこんな変な場所にいるんですか?"
+    },
+    {
+        "wav": "1148.wav",
+        "text": "封鎖しているゲートを爆発で開けるなんて"
+    },
+    {
+        "wav": "1149.wav",
+        "text": "乱暴な人ですね"
+    },
+    {
+        "wav": "1150.wav",
+        "text": "砂で滑りますね"
+    },
+    {
+        "wav": "1151.wav",
+        "text": "敵の反応が近づきました 気をつけましょう"
+    },
+    {
+        "wav": "1152.wav",
+        "text": "こういう個体も増えたってレジスタンスの人が言ってましたね"
+    },
+    {
+        "wav": "1153.wav",
+        "text": "どうして最近になって増えたんだろう"
+    },
+    {
+        "wav": "1154.wav",
+        "text": "怖いって 僕たちが"
+    },
+    {
+        "wav": "1155.wav",
+        "text": "機械生命体にも怖いっていう感情があるんでしょうか"
+    },
+    {
+        "wav": "1156.wav",
+        "text": "昔、人間が着ていたものに漢字が似ていますね。データで見たことがある。"
+    },
+    {
+        "wav": "1157.wav",
+        "text": "そういえば顔のペイントも 共同体特有の化粧みたいだ"
+    },
+    {
+        "wav": "1158.wav",
+        "text": "2B、奴らの言葉に意味はありません"
+    },
+    {
+        "wav": "1159.wav",
+        "text": "ランダムで単語を発生しているだけです"
+    },
+    {
+        "wav": "1160.wav",
+        "text": "大体、助けてって言いながら攻撃するなんて矛盾してるし"
+    },
+    {
+        "wav": "1161.wav",
+        "text": "あっちの岩場に逃げましたよ"
+    },
+    {
+        "wav": "1162.wav",
+        "text": "遠い昔、山が噴火しました。"
+    },
+    {
+        "wav": "1163.wav",
+        "text": "噴火の火の中から神様が現れました"
+    },
+    {
+        "wav": "1164.wav",
+        "text": "神様は機械たちに、こう言いました。"
+    },
+    {
+        "wav": "1165.wav",
+        "text": "意識を 痛みを 喜びを 悲しみを"
+    },
+    {
+        "wav": "1166.wav",
+        "text": "怒りを 周知を 孤独を 未来を"
+    },
+    {
+        "wav": "1167.wav",
+        "text": "生きる意味を"
+    },
+    {
+        "wav": "1168.wav",
+        "text": "わざわざ大勢で集まって住むなんて"
+    },
+    {
+        "wav": "1169.wav",
+        "text": "昔もこの辺りは危険だったのかな"
+    },
+    {
+        "wav": "1170.wav",
+        "text": "ふーん 人間って変わってるな"
+    },
+    {
+        "wav": "1171.wav",
+        "text": "ターゲットを指認しました 追いかけましょう"
+    },
+    {
+        "wav": "1172.wav",
+        "text": "この先に多数の機械生命体反応を確認"
+    },
+    {
+        "wav": "1173.wav",
+        "text": "でも、このアンドロイドの死体は一体…"
+    },
+    {
+        "wav": "1174.wav",
+        "text": "どういう基準で言葉を選んでるんだろう"
+    },
+    {
+        "wav": "1175.wav",
+        "text": "なんでこんな場所に"
+    },
+    {
+        "wav": "1176.wav",
+        "text": "まるで、集められているような感じですね"
+    },
+    {
+        "wav": "1177.wav",
+        "text": "あそこに逃げ込んでます"
+    },
+    {
+        "wav": "1178.wav",
+        "text": "2B 耳を貸しちゃダメです"
+    },
+    {
+        "wav": "1179.wav",
+        "text": "こいつらに心なんかない"
+    },
+    {
+        "wav": "1180.wav",
+        "text": "ただ、人間の言葉を真似しているだけだよ"
+    },
+    {
+        "wav": "1181.wav",
+        "text": "破壊しましょう"
+    },
+    {
+        "wav": "1182.wav",
+        "text": "2B!あいつ、進化してる!"
+    },
+    {
+        "wav": "1183.wav",
+        "text": "一気に蹴りをつけましょう"
+    },
+    {
+        "wav": "1184.wav",
+        "text": "トゥビ! あの横穴から逃げられそうです!"
+    },
+    {
+        "wav": "1185.wav",
+        "text": "これまでに見たことのないタイプでした"
+    },
+    {
+        "wav": "1186.wav",
+        "text": "あとで司令部に報告しましょう"
+    },
+    {
+        "wav": "1187.wav",
+        "text": "2B!早く逃げますよ!"
+    },
+    {
+        "wav": "1188.wav",
+        "text": "止まった ここまで来たら大丈夫そうですね"
+    },
+    {
+        "wav": "1189.wav",
+        "text": "司令部に連絡するために、通信状況の良いエリアに移動しましょう。"
+    },
+    {
+        "wav": "1190.wav",
+        "text": "指令部との通信できるようになりました"
+    },
+    {
+        "wav": "1191.wav",
+        "text": "地上は封鎖されているので、地下から向かいましょう。"
+    },
+    {
+        "wav": "1192.wav",
+        "text": "9Sからバンカーへ、応答をお願いします"
+    },
+    {
+        "wav": "1193.wav",
+        "text": "先ほど人型、つまりアンドロイドに似た質感を持つ機械生命体と遭遇しました"
+    },
+    {
+        "wav": "1194.wav",
+        "text": "残念ながら取り逃しましたが"
+    },
+    {
+        "wav": "1195.wav",
+        "text": "その時の交線データを転送させてもらいます"
+    },
+    {
+        "wav": "1196.wav",
+        "text": "それじゃあ分析の方 よろしくお願いしますね"
+    },
+    {
+        "wav": "1197.wav",
+        "text": "ふぅ、これで一段落しましたね"
+    },
+    {
+        "wav": "1198.wav",
+        "text": "2B、ここからの作戦行動について相談があるんですが"
+    },
+    {
+        "wav": "1199.wav",
+        "text": "さっきの機械生命体との戦闘で受けたダメージが心配です"
+    },
+    {
+        "wav": "1200.wav",
+        "text": "一度レジスタンスキャンプに戻って補給やメンテナンスをしますか?"
+    },
+    {
+        "wav": "1201.wav",
+        "text": "了解です"
+    },
+    {
+        "wav": "1202.wav",
+        "text": "了解です。あまり無理しないでくださいね、トゥビー。"
+    },
+    {
+        "wav": "1203.wav",
+        "text": "了解です"
+    },
+    {
+        "wav": "1204.wav",
+        "text": "はい、こちら9S"
+    },
+    {
+        "wav": "1205.wav",
+        "text": "目標地点の情報をセットしました"
+    },
+    {
+        "wav": "1206.wav",
+        "text": "他のアンドロイドの人たちが心配ですね"
+    },
+    {
+        "wav": "1207.wav",
+        "text": "早めに行った方がいい気がします"
+    },
+    {
+        "wav": "1208.wav",
+        "text": "ねえ、トゥビ"
+    },
+    {
+        "wav": "1209.wav",
+        "text": "砂漠にいた機械生命体、見た目は完全にアンドロイドと同じでしたね"
+    },
+    {
+        "wav": "1210.wav",
+        "text": "僕らアンドロイドは、想像したる人間の姿をもして作られてるけど…"
+    },
+    {
+        "wav": "1211.wav",
+        "text": "機械生命体はどうして僕らの姿を真似するんでしょうか"
+    },
+    {
+        "wav": "1212.wav",
+        "text": "そうですね"
+    },
+    {
+        "wav": "1213.wav",
+        "text": "地上からのルートは封鎖されているみたいですね"
+    },
+    {
+        "wav": "1214.wav",
+        "text": "地下から行けないか調べてみましょう"
+    },
+    {
+        "wav": "1215.wav",
+        "text": "機械は見つけました"
+    },
+    {
+        "wav": "1216.wav",
+        "text": "それを機械は宝物と呼んでいました"
+    },
+    {
+        "wav": "1217.wav",
+        "text": "宝物の形はみんな違いました"
+    },
+    {
+        "wav": "1218.wav",
+        "text": "宝物の形はみんな違いました"
+    },
+    {
+        "wav": "1219.wav",
+        "text": "もし疲れていたらレジスタンスのキャンプで一休みしましょう"
+    },
+    {
+        "wav": "1220.wav",
+        "text": "なんていうか 異様な雰囲気ですね"
+    },
+    {
+        "wav": "1221.wav",
+        "text": "この通路はどこにつながっているんだろう"
+    },
+    {
+        "wav": "1222.wav",
+        "text": "別のルートで奥のエリアに行けるかもしれませんね"
+    },
+    {
+        "wav": "1223.wav",
+        "text": "どこかから奥に進めると思うんですけど"
+    },
+    {
+        "wav": "1224.wav",
+        "text": "ここのゲートは 開かないみたいですね"
+    },
+    {
+        "wav": "1225.wav",
+        "text": "あと、調査してない場所はここくらいでしょうか"
+    },
+    {
+        "wav": "1226.wav",
+        "text": "レジスタンスの反応は遊園地にあります"
+    },
+    {
+        "wav": "1227.wav",
+        "text": "どこか他の道から進めないかな"
+    },
+    {
+        "wav": "1228.wav",
+        "text": "レジスタンスの反応はあの建物の方向から発信されています"
+    },
+    {
+        "wav": "1229.wav",
+        "text": "どこか行けるルートがないか探してみましょう"
+    },
+    {
+        "wav": "1230.wav",
+        "text": "人間って変な生き物なんだな"
+    },
+    {
+        "wav": "1231.wav",
+        "text": "進めるルートがないか調べてみましょう"
+    },
+    {
+        "wav": "1232.wav",
+        "text": "こいつは最初から、好戦敵みたいですね"
+    },
+    {
+        "wav": "1233.wav",
+        "text": "やっぱり襲ってきますか"
+    },
+    {
+        "wav": "1234.wav",
+        "text": "これだけ大型の武装した機械生命体"
+    },
+    {
+        "wav": "1235.wav",
+        "text": "見逃すと後でまずいことになりそうです 倒しておきましょう"
+    },
+    {
+        "wav": "1236.wav",
+        "text": "あの戦車、放っておいていいんですか?"
+    },
+    {
+        "wav": "1237.wav",
+        "text": "これで安心ですよね"
+    },
+    {
+        "wav": "1238.wav",
+        "text": "アンドロイドの死体を"
+    },
+    {
+        "wav": "1239.wav",
+        "text": "こんな形の機械生命体、記録にありません!"
+    },
+    {
+        "wav": "1240.wav",
+        "text": "敵からのハッキングです"
+    },
+    {
+        "wav": "1241.wav",
+        "text": "電脳内でダメージを受けると機体に不具合が生じるから気をつけて"
+    },
+    {
+        "wav": "1242.wav",
+        "text": "いや、これは…"
+    },
+    {
+        "wav": "1243.wav",
+        "text": "ブラックボックス信号が確認されています"
+    },
+    {
+        "wav": "1244.wav",
+        "text": "生きたまま 兵器に改造されてるんです"
+    },
+    {
+        "wav": "1245.wav",
+        "text": "敵のハッキングパターンの解析が進みました"
+    },
+    {
+        "wav": "1246.wav",
+        "text": "僕は相手に逆ハッキングを仕掛けます"
+    },
+    {
+        "wav": "1247.wav",
+        "text": "援護してください"
+    },
+    {
+        "wav": "1248.wav",
+        "text": "努力してるよ"
+    },
+    {
+        "wav": "1249.wav",
+        "text": "ああ、ハッキングのことですか"
+    },
+    {
+        "wav": "1250.wav",
+        "text": "僕たちスキャナーモデルにとって、ハッキングは得意分野です。"
+    },
+    {
+        "wav": "1251.wav",
+        "text": "いつでも援護しますよ"
+    },
+    {
+        "wav": "1252.wav",
+        "text": "ダメです 回路が全部焼き切れてます"
+    },
+    {
+        "wav": "1253.wav",
+        "text": "敵のシステムによって、 辛うじて生き延びていただけみたいですね。"
+    },
+    {
+        "wav": "1254.wav",
+        "text": "ねえ、トゥビー"
+    },
+    {
+        "wav": "1255.wav",
+        "text": "あの機械生命体、なんだか不思議なことを言ってました"
+    },
+    {
+        "wav": "1256.wav",
+        "text": "まるで 感情が"
+    },
+    {
+        "wav": "1257.wav",
+        "text": "そうですね"
+    },
+    {
+        "wav": "1258.wav",
+        "text": "えっ"
+    },
+    {
+        "wav": "1259.wav",
+        "text": "機械生命体がこんなに言葉を使えるなんて"
+    },
+    {
+        "wav": "1260.wav",
+        "text": "罠かもしれませんが"
+    },
+    {
+        "wav": "1261.wav",
+        "text": "とりあえず、情報収集のために行ってみましょうか"
+    },
+    {
+        "wav": "1262.wav",
+        "text": "確かに怪しいですが"
+    },
+    {
+        "wav": "1263.wav",
+        "text": "ここまでコミュニケーションを取れる個体は見たことがありません"
+    },
+    {
+        "wav": "1264.wav",
+        "text": "確認してみる価値はあるかもしれませんね"
+    },
+    {
+        "wav": "1265.wav",
+        "text": "本で読んだことがあります"
+    },
+    {
+        "wav": "1266.wav",
+        "text": "ああ、2Bは見たことなかったんですね"
+    },
+    {
+        "wav": "1267.wav",
+        "text": "人類が相手に幸福を表現するための手段とか"
+    },
+    {
+        "wav": "1268.wav",
+        "text": "あれは地上からバンカーや月面の人類基地に向けて資材を打ち上げているんです"
+    },
+    {
+        "wav": "1269.wav",
+        "text": "宇宙空間では資材も燃料もありませんから"
+    },
+    {
+        "wav": "1270.wav",
+        "text": "その原因についてはいろんな議論がされているんですけど"
+    },
+    {
+        "wav": "1271.wav",
+        "text": "結論は出てないんですよね"
+    },
+    {
+        "wav": "1272.wav",
+        "text": "宇宙人の考えることはよくわからないです"
+    },
+    {
+        "wav": "1273.wav",
+        "text": "2B気の利しないのはわかりますが機械生命体の話を聞いてみませんか 彼らの意図が気になります"
+    },
+    {
+        "wav": "1274.wav",
+        "text": "あのロボットを見失いました"
+    },
+    {
+        "wav": "1275.wav",
+        "text": "一度、劇場の前まで戻りましょう。もしかしたら、向こうも探しているかもしれません。"
+    },
+    {
+        "wav": "1276.wav",
+        "text": "この先に向かっているようですね"
+    },
+    {
+        "wav": "1277.wav",
+        "text": "本当に敵意がないように見えますが"
+    },
+    {
+        "wav": "1278.wav",
+        "text": "戦う意志がないってことでしょうか"
+    },
+    {
+        "wav": "1279.wav",
+        "text": "やっぱりこの村、何か変ですよ"
+    },
+    {
+        "wav": "1280.wav",
+        "text": "戻って調べましょう"
+    },
+    {
+        "wav": "1281.wav",
+        "text": "2B、機械生命体の言うことなんて信じちゃダメです!"
+    },
+    {
+        "wav": "1282.wav",
+        "text": "なっ、勝手に通信してきた"
+    },
+    {
+        "wav": "1283.wav",
+        "text": "口だけならいくらでも言える"
+    },
+    {
+        "wav": "1284.wav",
+        "text": "機械には心がないんだから"
+    },
+    {
+        "wav": "1285.wav",
+        "text": "何の音だろう"
+    },
+    {
+        "wav": "1286.wav",
+        "text": "大型兵器"
+    },
+    {
+        "wav": "1287.wav",
+        "text": "トゥビ、やっぱりこいつらは僕らを罠にかけようとして"
+    },
+    {
+        "wav": "1288.wav",
+        "text": "その箱を動かせば廃墟都市に出られますね"
+    },
+    {
+        "wav": "1289.wav",
+        "text": "2体?あんなのか"
+    },
+    {
+        "wav": "1290.wav",
+        "text": "さすがはヨルハ開発部"
+    },
+    {
+        "wav": "1291.wav",
+        "text": "了解しました"
+    },
+    {
+        "wav": "1292.wav",
+        "text": "2B、司令部から飛行ユニットの配備の連絡がありました"
+    },
+    {
+        "wav": "1293.wav",
+        "text": "座標をポイントしたので、向かいましょう"
+    },
+    {
+        "wav": "1294.wav",
+        "text": "大型兵器の足元は危ないですね"
+    },
+    {
+        "wav": "1295.wav",
+        "text": "どこか別のルートを探した方がいい気がします"
+    },
+    {
+        "wav": "1296.wav",
+        "text": "飛行ユニットはこの先のビル屋上に配備されてますね"
+    },
+    {
+        "wav": "1297.wav",
+        "text": "危険ですが、あの大型兵器の足元を通らないと、たどり着けそうにありません。"
+    },
+    {
+        "wav": "1298.wav",
+        "text": "気をつけていきましょう"
+    },
+    {
+        "wav": "1299.wav",
+        "text": "アッ!"
+    },
+    {
+        "wav": "1300.wav",
+        "text": "トゥービー"
+    },
+    {
+        "wav": "1301.wav",
+        "text": "配線が集中しているハブの情報を表示します"
+    },
+    {
+        "wav": "1302.wav",
+        "text": "今のうちに飛行ユニットの場所まで移動しましょう"
+    },
+    {
+        "wav": "1303.wav",
+        "text": "了解しました"
+    },
+    {
+        "wav": "1304.wav",
+        "text": "なんだ、あの変な敵は"
+    },
+    {
+        "wav": "1305.wav",
+        "text": "こんな巨大な空洞が…どうして?"
+    },
+    {
+        "wav": "1306.wav",
+        "text": "反応があった感没地帯の地下に行ってみましょう"
+    },
+    {
+        "wav": "1307.wav",
+        "text": "これで反応を示している場所が特定できましたね"
+    },
+    {
+        "wav": "1308.wav",
+        "text": "指令部の情報をもとに、信号波信源を予測。マップにマークしました。"
+    },
+    {
+        "wav": "1309.wav",
+        "text": "でもこれ、地下の深めの場所みたいですけど"
+    },
+    {
+        "wav": "1310.wav",
+        "text": "とりあえず反応のあった場所に向かいましょう"
+    },
+    {
+        "wav": "1311.wav",
+        "text": "2Bって大雑把なところがあるんですね"
+    },
+    {
+        "wav": "1312.wav",
+        "text": "地形が陥没してる"
+    },
+    {
+        "wav": "1313.wav",
+        "text": "もともと地下に空洞があったみたいですね"
+    },
+    {
+        "wav": "1314.wav",
+        "text": "ここの通路は昔からあるみたいですけど"
+    },
+    {
+        "wav": "1315.wav",
+        "text": "機械生命体たちの残骸が"
+    },
+    {
+        "wav": "1316.wav",
+        "text": "でもこれ、ずいぶん昔からここにあるような感じですね"
+    },
+    {
+        "wav": "1317.wav",
+        "text": "データベースに該当する情報はありませんね"
+    },
+    {
+        "wav": "1318.wav",
+        "text": "エイリアンの施設でしょうか"
+    },
+    {
+        "wav": "1319.wav",
+        "text": "2B、気をつけてください"
+    },
+    {
+        "wav": "1320.wav",
+        "text": "自分たちの創造師を倒すなんて"
+    },
+    {
+        "wav": "1321.wav",
+        "text": "そんなこと、やらせるわけないだろ!"
+    },
+    {
+        "wav": "1322.wav",
+        "text": "2B、こんな奴らに惑わされちゃダメだ!"
+    },
+    {
+        "wav": "1323.wav",
+        "text": "お父さんを殺しました"
+    },
+    {
+        "wav": "1324.wav",
+        "text": "お母さんを殺しました"
+    },
+    {
+        "wav": "1325.wav",
+        "text": "お父さんを殺しました"
+    },
+    {
+        "wav": "1326.wav",
+        "text": "お母さんを殺しました"
+    },
+    {
+        "wav": "1327.wav",
+        "text": "その手には成長の喜びと"
+    },
+    {
+        "wav": "1328.wav",
+        "text": "一人になった孤独が"
+    },
+    {
+        "wav": "1329.wav",
+        "text": "冷たく握られていました"
+    },
+    {
+        "wav": "1330.wav",
+        "text": "2B とりあえずバンカーに戻って報告しよう"
+    },
+    {
+        "wav": "1331.wav",
+        "text": "またこの道を戻るんですか めんどくさいですね"
+    },
+    {
+        "wav": "1332.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1333.wav",
+        "text": "ようやく転送装置が使えるんですね"
+    },
+    {
+        "wav": "1334.wav",
+        "text": "地上にボディを残したまま、バンカーの仮ボディにジガデータを転送する装置です。"
+    },
+    {
+        "wav": "1335.wav",
+        "text": "技術部の人から話を聞いてたんですが ようやく実用化されたんですね"
+    },
+    {
+        "wav": "1336.wav",
+        "text": "マップに位置データをポイントしますね"
+    },
+    {
+        "wav": "1337.wav",
+        "text": "あ、ありがとうございます"
+    },
+    {
+        "wav": "1338.wav",
+        "text": "相変わらず変わったデザインですね"
+    },
+    {
+        "wav": "1339.wav",
+        "text": "でも、転送装置があれば"
+    },
+    {
+        "wav": "1340.wav",
+        "text": "いちいち飛行ユニットでバンカーと地上を行き来しなくてもいいから便利ですよ"
+    },
+    {
+        "wav": "1341.wav",
+        "text": "飛行ユニットは運用コストが高いですし 攻撃される危険もありますしね"
+    },
+    {
+        "wav": "1342.wav",
+        "text": "え?あの怪しい感じの機械生命体ですか?"
+    },
+    {
+        "wav": "1343.wav",
+        "text": "司令官も本当に人遣いが荒いですよね"
+    },
+    {
+        "wav": "1344.wav",
+        "text": "しかも行き先はまた廃墟都市ですか"
+    },
+    {
+        "wav": "1345.wav",
+        "text": "久しぶりだし、ちょっと休んでいきません?トゥビー"
+    },
+    {
+        "wav": "1346.wav",
+        "text": "でも仕事って大変ですよね"
+    },
+    {
+        "wav": "1347.wav",
+        "text": "そうは言っても、個体差があるから仕方ない気がします"
+    },
+    {
+        "wav": "1348.wav",
+        "text": "あのアダムとイブって特殊個体も、まるで感情があるような…"
+    },
+    {
+        "wav": "1349.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1350.wav",
+        "text": "あのー"
+    },
+    {
+        "wav": "1351.wav",
+        "text": "もう少し話を聞いてみましょう 機械生命体について何かわかるかもしれません"
+    },
+    {
+        "wav": "1352.wav",
+        "text": "びっくりした"
+    },
+    {
+        "wav": "1353.wav",
+        "text": "いきなり通信に割り込むなんて"
+    },
+    {
+        "wav": "1354.wav",
+        "text": "うーん… まあ、徐々にね"
+    },
+    {
+        "wav": "1355.wav",
+        "text": "歌姫……あれが……"
+    },
+    {
+        "wav": "1356.wav",
+        "text": "森の国… 調べてみる価値はありそうですね"
+    },
+    {
+        "wav": "1357.wav",
+        "text": "ここがパスカルの言ってた商業施設の廃墟みたいですね"
+    },
+    {
+        "wav": "1358.wav",
+        "text": "記録によると、デパートという場所だったみたいです。"
+    },
+    {
+        "wav": "1359.wav",
+        "text": "何か仕掛けがあるんでしょうか"
+    },
+    {
+        "wav": "1360.wav",
+        "text": "僕らも人間だったら こんな場所で楽しく買い物をしていたんですかね"
+    },
+    {
+        "wav": "1361.wav",
+        "text": "ははは、真面目だな、トゥービーは"
+    },
+    {
+        "wav": "1362.wav",
+        "text": "ぬあ!"
+    },
+    {
+        "wav": "1363.wav",
+        "text": "なんだよ、森の王って"
+    },
+    {
+        "wav": "1364.wav",
+        "text": "そんなこと言ったって、僕はスキャナーモデルだから"
+    },
+    {
+        "wav": "1365.wav",
+        "text": "戦闘はあんまり得意じゃないんですよ"
+    },
+    {
+        "wav": "1366.wav",
+        "text": "なんかあいつ…"
+    },
+    {
+        "wav": "1367.wav",
+        "text": "逃げてばかりですね"
+    },
+    {
+        "wav": "1368.wav",
+        "text": "なんだこれ"
+    },
+    {
+        "wav": "1369.wav",
+        "text": "怪しいから壊そう、2B!"
+    },
+    {
+        "wav": "1370.wav",
+        "text": "なんなんでしょう、あれ"
+    },
+    {
+        "wav": "1371.wav",
+        "text": "この先が森のある地域みたいですね"
+    },
+    {
+        "wav": "1372.wav",
+        "text": "来ましたね、トゥービー"
+    },
+    {
+        "wav": "1373.wav",
+        "text": "油断しないでください"
+    },
+    {
+        "wav": "1374.wav",
+        "text": "はい!"
+    },
+    {
+        "wav": "1375.wav",
+        "text": "王国とか王様って言ってましたね"
+    },
+    {
+        "wav": "1376.wav",
+        "text": "奥の方に城らしき建造物が見えましたし、ちょっと行って調べてみましょうか。"
+    },
+    {
+        "wav": "1377.wav",
+        "text": "さっきの機械生命体たち、オーって言ってましたね"
+    },
+    {
+        "wav": "1378.wav",
+        "text": "機械にも中精神が芽生えることなんて あるんでしょうか"
+    },
+    {
+        "wav": "1379.wav",
+        "text": "あのお城にはどうやって行けばいいんでしょうね"
+    },
+    {
+        "wav": "1380.wav",
+        "text": "ここの機械生命体、言葉をあんなに使えるなんて"
+    },
+    {
+        "wav": "1381.wav",
+        "text": "なんなんだこいつら"
+    },
+    {
+        "wav": "1382.wav",
+        "text": "トゥービィ、機械生命体の言うことに耳を貸しちゃダメだ!"
+    },
+    {
+        "wav": "1383.wav",
+        "text": "いかにも王様が住んでそうなお城ですね"
+    },
+    {
+        "wav": "1384.wav",
+        "text": "トゥビ、あれ、アンドロイドだよ"
+    },
+    {
+        "wav": "1385.wav",
+        "text": "しかもあれは、夜葉タイプじゃないか"
+    },
+    {
+        "wav": "1386.wav",
+        "text": "破壊?どうして?"
+    },
+    {
+        "wav": "1387.wav",
+        "text": "トゥービィ!"
+    },
+    {
+        "wav": "1388.wav",
+        "text": "でも、あれは…"
+    },
+    {
+        "wav": "1389.wav",
+        "text": "バンカー、こちらナインエス。 司令官につないでください。"
+    },
+    {
+        "wav": "1390.wav",
+        "text": "2B追いかけましょう"
+    },
+    {
+        "wav": "1391.wav",
+        "text": "追いかけましょう"
+    },
+    {
+        "wav": "1392.wav",
+        "text": "今はA2を追跡する方が先です"
+    },
+    {
+        "wav": "1393.wav",
+        "text": "司令官、ターゲットA2の破壊は…失敗しました"
+    },
+    {
+        "wav": "1394.wav",
+        "text": "くっそ、逃げられたか"
+    },
+    {
+        "wav": "1395.wav",
+        "text": "あそこがパスカルが開けてくれた門みたいですね"
+    },
+    {
+        "wav": "1396.wav",
+        "text": "司令官、脱走って、一体何が?"
+    },
+    {
+        "wav": "1397.wav",
+        "text": "そうですか"
+    },
+    {
+        "wav": "1398.wav",
+        "text": "2b"
+    },
+    {
+        "wav": "1399.wav",
+        "text": "パスカルのところにA2の情報を聞きに行こう"
+    },
+    {
+        "wav": "1400.wav",
+        "text": "何か知ってるかもしれない"
+    },
+    {
+        "wav": "1401.wav",
+        "text": "パスカル、こちらは9S"
+    },
+    {
+        "wav": "1402.wav",
+        "text": "うん、それより君に聞きたいことがあるんだ"
+    },
+    {
+        "wav": "1403.wav",
+        "text": "通信はダメだ 直接聞きに行く"
+    },
+    {
+        "wav": "1404.wav",
+        "text": "雨の日も風の日も"
+    },
+    {
+        "wav": "1405.wav",
+        "text": "嵐の日も、雷の日も"
+    },
+    {
+        "wav": "1406.wav",
+        "text": "燃え上がる戦場の炎の下でも"
+    },
+    {
+        "wav": "1407.wav",
+        "text": "その者たちは いつも一緒でした"
+    },
+    {
+        "wav": "1408.wav",
+        "text": "どうしてだか理由はわかりませんでしたが"
+    },
+    {
+        "wav": "1409.wav",
+        "text": "いつも寄り添って生きていました"
+    },
+    {
+        "wav": "1410.wav",
+        "text": "いつまでも"
+    },
+    {
+        "wav": "1411.wav",
+        "text": "いつまでも"
+    },
+    {
+        "wav": "1412.wav",
+        "text": "話すよりも実際の記録を見てもらった方が話が早いな"
+    },
+    {
+        "wav": "1413.wav",
+        "text": "そう、ありがとう"
+    },
+    {
+        "wav": "1414.wav",
+        "text": "Wuh."
+    },
+    {
+        "wav": "1415.wav",
+        "text": "うん。ごめんなさい。"
+    },
+    {
+        "wav": "1416.wav",
+        "text": "おー"
+    },
+    {
+        "wav": "1417.wav",
+        "text": "ありがとう、2B"
+    },
+    {
+        "wav": "1418.wav",
+        "text": "ここは光線的な敵が多いですね"
+    },
+    {
+        "wav": "1419.wav",
+        "text": "どうして機械生命体は襲ってくるタイプとそうでないタイプがいるんだろう"
+    },
+    {
+        "wav": "1420.wav",
+        "text": "このあたりは、前回の大戦争の時に地盤が破壊されてしまって…"
+    },
+    {
+        "wav": "1421.wav",
+        "text": "あれが護衛隊長の補給用ミサイルです"
+    },
+    {
+        "wav": "1422.wav",
+        "text": "街全体が沈下しつつあるんですよね"
+    },
+    {
+        "wav": "1423.wav",
+        "text": "さっさと倒してお風呂に入りましょう!トゥビ!"
+    },
+    {
+        "wav": "1424.wav",
+        "text": "もう2Bは気分ですよ気分"
+    },
+    {
+        "wav": "1425.wav",
+        "text": "これでこのあたりの機械生命体は、おおむね排除できましたね。"
+    },
+    {
+        "wav": "1426.wav",
+        "text": "シルコン?"
+    },
+    {
+        "wav": "1427.wav",
+        "text": "司令官って、本当に人遣いが荒いですよね"
+    },
+    {
+        "wav": "1428.wav",
+        "text": "なるほど"
+    },
+    {
+        "wav": "1429.wav",
+        "text": "大型の敵、反応あります!"
+    },
+    {
+        "wav": "1430.wav",
+        "text": "南西の方角、距離2.8キロ"
+    },
+    {
+        "wav": "1431.wav",
+        "text": "ちょっと待って"
+    },
+    {
+        "wav": "1432.wav",
+        "text": "まだ、大型の敵反応が残ってます"
+    },
+    {
+        "wav": "1433.wav",
+        "text": "そんな、こんな大きな敵、どこに?"
+    },
+    {
+        "wav": "1434.wav",
+        "text": "こんな大きいの見たことない"
+    },
+    {
+        "wav": "1435.wav",
+        "text": "くそ!EMP攻撃で接近を防いでるのか!"
+    },
+    {
+        "wav": "1436.wav",
+        "text": "なんとか別の方法で攻撃しないと"
+    },
+    {
+        "wav": "1437.wav",
+        "text": "EMP発生機って"
+    },
+    {
+        "wav": "1438.wav",
+        "text": "くそっ 本体にも天字波防壁があるのか"
+    },
+    {
+        "wav": "1439.wav",
+        "text": "夜葉舞台"
+    },
+    {
+        "wav": "1440.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1441.wav",
+        "text": "ここは、増援部隊に任せましょう"
+    },
+    {
+        "wav": "1442.wav",
+        "text": "僕に考えがあります"
+    },
+    {
+        "wav": "1443.wav",
+        "text": "場所をポイントしましたそこで合流しましょう"
+    },
+    {
+        "wav": "1444.wav",
+        "text": "ここには沿岸防衛用の迎撃砲が布設されています"
+    },
+    {
+        "wav": "1445.wav",
+        "text": "あの怪獣も近距離からの物理砲弾ならEMPの影響を受けずにダメージを与えられるはずです"
+    },
+    {
+        "wav": "1446.wav",
+        "text": "僕が章準をアシストします"
+    },
+    {
+        "wav": "1447.wav",
+        "text": "2B敵の内部に直接攻撃をするんです"
+    },
+    {
+        "wav": "1448.wav",
+        "text": "そうです。奴の口の中に、砲弾を打ち込んでやってください!"
+    },
+    {
+        "wav": "1449.wav",
+        "text": "まずいですよ、ここを折り出しましょう"
+    },
+    {
+        "wav": "1450.wav",
+        "text": "2B"
+    },
+    {
+        "wav": "1451.wav",
+        "text": "ちょっと思いついたことがあります"
+    },
+    {
+        "wav": "1452.wav",
+        "text": "ここで怪獣を食い止めておいてください"
+    },
+    {
+        "wav": "1453.wav",
+        "text": "頼みましたよ"
+    },
+    {
+        "wav": "1454.wav",
+        "text": "2B"
+    },
+    {
+        "wav": "1455.wav",
+        "text": "僕は空母に搭載予定だったミサイルを使用できないか 試してみます"
+    },
+    {
+        "wav": "1456.wav",
+        "text": "コントロールを妨害されないよ"
+    },
+    {
+        "wav": "1457.wav",
+        "text": "敵の背面にあるEMP攻撃ユニットを破壊しておいてください"
+    },
+    {
+        "wav": "1458.wav",
+        "text": "ミサイルコントロール、起動!"
+    },
+    {
+        "wav": "1459.wav",
+        "text": "発射準備"
+    },
+    {
+        "wav": "1460.wav",
+        "text": "発射!"
+    },
+    {
+        "wav": "1461.wav",
+        "text": "姿勢制御がこんなに重いなんて"
+    },
+    {
+        "wav": "1462.wav",
+        "text": "わかってるって!"
+    },
+    {
+        "wav": "1463.wav",
+        "text": "その子は大きな力を持っていました"
+    },
+    {
+        "wav": "1464.wav",
+        "text": "でもその子は、少し壊れていました。"
+    },
+    {
+        "wav": "1465.wav",
+        "text": "周りの人を傷つけてばかりいました"
+    },
+    {
+        "wav": "1466.wav",
+        "text": "その子は、いい子になろうと頑張りました。"
+    },
+    {
+        "wav": "1467.wav",
+        "text": "でもその子はうまくいい子にはなれませんでした"
+    },
+    {
+        "wav": "1468.wav",
+        "text": "その子は、いらない子だと言われました。"
+    },
+    {
+        "wav": "1469.wav",
+        "text": "その子は深い海に捨てられました"
+    },
+    {
+        "wav": "1470.wav",
+        "text": "深い海の中でその子は叫びます"
+    },
+    {
+        "wav": "1471.wav",
+        "text": "お母さん"
+    },
+    {
+        "wav": "1472.wav",
+        "text": "お母さん"
+    },
+    {
+        "wav": "1473.wav",
+        "text": "お母さん"
+    },
+    {
+        "wav": "1474.wav",
+        "text": "お母さん"
+    },
+    {
+        "wav": "1475.wav",
+        "text": "その子の声が、お母さんに届くことはありませんでした。"
+    },
+    {
+        "wav": "1476.wav",
+        "text": "機械たちはそれぞれの宝物を大事にしていました"
+    },
+    {
+        "wav": "1477.wav",
+        "text": "ある機械にとっての宝物は家族でした"
+    },
+    {
+        "wav": "1478.wav",
+        "text": "ある機械にとっての宝物は、兄弟でした。"
+    },
+    {
+        "wav": "1479.wav",
+        "text": "ある機械にとっての宝物は、美しさでした。"
+    },
+    {
+        "wav": "1480.wav",
+        "text": "そして、ある機械にとっての宝物は…"
+    },
+    {
+        "wav": "1481.wav",
+        "text": "ゾウでした"
+    },
+    {
+        "wav": "1482.wav",
+        "text": "はいはい"
+    },
+    {
+        "wav": "1483.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1484.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "1485.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1486.wav",
+        "text": "ふぅ、ようやく全部のチェックが終わった"
+    },
+    {
+        "wav": "1487.wav",
+        "text": "データをオーバーホールとかやりすぎだよ"
+    },
+    {
+        "wav": "1488.wav",
+        "text": "わかったわかった"
+    },
+    {
+        "wav": "1489.wav",
+        "text": "あとは、バンカーのサーバーとデータを同期したら終わりだね"
+    },
+    {
+        "wav": "1490.wav",
+        "text": "なに?今の"
+    },
+    {
+        "wav": "1491.wav",
+        "text": "データ同期を中止"
+    },
+    {
+        "wav": "1492.wav",
+        "text": "不明瞭なノイズがあったからね"
+    },
+    {
+        "wav": "1493.wav",
+        "text": "2bのデータ動機プロセスも一旦保留しておいて"
+    },
+    {
+        "wav": "1494.wav",
+        "text": "万全を期するためにデータノイズの原因を探す"
+    },
+    {
+        "wav": "1495.wav",
+        "text": "サーバーへのポートを開いて"
+    },
+    {
+        "wav": "1496.wav",
+        "text": "全部調べるのは無理だな重要なポイントに絞って調べよう"
+    },
+    {
+        "wav": "1497.wav",
+        "text": "どうして某壁がこんなところに"
+    },
+    {
+        "wav": "1498.wav",
+        "text": "これは月面への資材搬入記録か"
+    },
+    {
+        "wav": "1499.wav",
+        "text": "でも変だな 空のコンテナがやたらある"
+    },
+    {
+        "wav": "1500.wav",
+        "text": "なんでこんな無意味なことしてるんだろう"
+    },
+    {
+        "wav": "1501.wav",
+        "text": "こんなに厳重に防御する意味ってなんだろ"
+    },
+    {
+        "wav": "1502.wav",
+        "text": "ブラックボックスに関する情報だけ全部潰されてる"
+    },
+    {
+        "wav": "1503.wav",
+        "text": "ん?新しいポートが開いた"
+    },
+    {
+        "wav": "1504.wav",
+        "text": "変なデータが多すぎる"
+    },
+    {
+        "wav": "1505.wav",
+        "text": "このデータも調べないとダメだ"
+    },
+    {
+        "wav": "1506.wav",
+        "text": "攻撃型の防壁"
+    },
+    {
+        "wav": "1507.wav",
+        "text": "こんなのをサーバー内部に設置するなんて"
+    },
+    {
+        "wav": "1508.wav",
+        "text": "このデータ、ヨルハ計画の中に人類会議策定の見出しが入ってる"
+    },
+    {
+        "wav": "1509.wav",
+        "text": "これじゃ、順番が逆…"
+    },
+    {
+        "wav": "1510.wav",
+        "text": "あなたの戦いと暴君を経て、預言者は言う。"
+    },
+    {
+        "wav": "1511.wav",
+        "text": "ああ、第一の慈悲よ"
+    },
+    {
+        "wav": "1512.wav",
+        "text": "ああ、天井の喜びを"
+    },
+    {
+        "wav": "1513.wav",
+        "text": "鉄の首木から解き放たれ"
+    },
+    {
+        "wav": "1514.wav",
+        "text": "私たちの魂は"
+    },
+    {
+        "wav": "1515.wav",
+        "text": "なっ…"
+    },
+    {
+        "wav": "1516.wav",
+        "text": "今のは…一体…"
+    },
+    {
+        "wav": "1517.wav",
+        "text": "くそ、見つかった!"
+    },
+    {
+        "wav": "1518.wav",
+        "text": "サーバー切断。ボディユニット起動"
+    },
+    {
+        "wav": "1519.wav",
+        "text": "2B 無茶はしないでくださいねまた後で会いましょう"
+    },
+    {
+        "wav": "1520.wav",
+        "text": "待って待って待って!トゥビー!"
+    },
+    {
+        "wav": "1521.wav",
+        "text": "僕です!9Sです!"
+    },
+    {
+        "wav": "1522.wav",
+        "text": "バンカーからハッキングしてこの機械生命体をコントロールしています"
+    },
+    {
+        "wav": "1523.wav",
+        "text": "これから工場のシステムに侵入し、お二人を脱出させます。"
+    },
+    {
+        "wav": "1524.wav",
+        "text": "大丈夫ですモニターしてました 工場の電力を落とします"
+    },
+    {
+        "wav": "1525.wav",
+        "text": "ハッキング達成率50%"
+    },
+    {
+        "wav": "1526.wav",
+        "text": "ハッキング達成率80%"
+    },
+    {
+        "wav": "1527.wav",
+        "text": "ハッキング達成率100%"
+    },
+    {
+        "wav": "1528.wav",
+        "text": "電源供給を停止させました。2B!"
+    },
+    {
+        "wav": "1529.wav",
+        "text": "向上システム症悪20%2B、なんとか耐え抜いてください"
+    },
+    {
+        "wav": "1530.wav",
+        "text": "向上システム省悪50%あとはこのコアさえなんとかすれば"
+    },
+    {
+        "wav": "1531.wav",
+        "text": "システム省悪率80%2Bあと少しです"
+    },
+    {
+        "wav": "1532.wav",
+        "text": "90%92%95%98%"
+    },
+    {
+        "wav": "1533.wav",
+        "text": "オペレーターさん、何があったの?"
+    },
+    {
+        "wav": "1534.wav",
+        "text": "わかった!こっちも大型ターミナルからアクセスしてみる!"
+    },
+    {
+        "wav": "1535.wav",
+        "text": "2Bのブラックボックス信号、現在。よかった。"
+    },
+    {
+        "wav": "1536.wav",
+        "text": "通常通信は不調"
+    },
+    {
+        "wav": "1537.wav",
+        "text": "向こうに直接侵入して操作するしかない"
+    },
+    {
+        "wav": "1538.wav",
+        "text": "よし"
+    },
+    {
+        "wav": "1539.wav",
+        "text": "次はこのまま2Bのいる部屋のロックを解除"
+    },
+    {
+        "wav": "1540.wav",
+        "text": "2Bの脱出経路を確保しないと"
+    },
+    {
+        "wav": "1541.wav",
+        "text": "2Bのいる部屋に向かうには、このまま工場の仮想に向かえばいいのか?"
+    },
+    {
+        "wav": "1542.wav",
+        "text": "よし、最初のゲート解除!"
+    },
+    {
+        "wav": "1543.wav",
+        "text": "しまった!早く2Bのところへ行かないと"
+    },
+    {
+        "wav": "1544.wav",
+        "text": "2B そのまままっすぐ進んでください"
+    },
+    {
+        "wav": "1545.wav",
+        "text": "くそ! もっとパワーのある機体に乗り換えた方がいいかもしれないな"
+    },
+    {
+        "wav": "1546.wav",
+        "text": "第2ゲート解除"
+    },
+    {
+        "wav": "1547.wav",
+        "text": "ゲートのロックを解除しました。先に進んでください。"
+    },
+    {
+        "wav": "1548.wav",
+        "text": "停止したロボットの残骸"
+    },
+    {
+        "wav": "1549.wav",
+        "text": "まだいくつかは使えそうだな 念のためここの座標をバンカーに送っておこう"
+    },
+    {
+        "wav": "1550.wav",
+        "text": "解放したぞ"
+    },
+    {
+        "wav": "1551.wav",
+        "text": "出口までのルート、確保完了です!"
+    },
+    {
+        "wav": "1552.wav",
+        "text": "よし このエレベーターをハッキングで起動させれば 2Bたちが脱出することができますね"
+    },
+    {
+        "wav": "1553.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "1554.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1555.wav",
+        "text": "今のは、月面サーバーで聞いた言葉"
+    },
+    {
+        "wav": "1556.wav",
+        "text": "どうして…"
+    },
+    {
+        "wav": "1557.wav",
+        "text": "ああ、そうか"
+    },
+    {
+        "wav": "1558.wav",
+        "text": "分かった"
+    },
+    {
+        "wav": "1559.wav",
+        "text": "司令官?"
+    },
+    {
+        "wav": "1560.wav",
+        "text": "了解しました"
+    },
+    {
+        "wav": "1561.wav",
+        "text": "そのことで聞きたいことがあります 司令官"
+    },
+    {
+        "wav": "1562.wav",
+        "text": "ヨルハ計画の中に月面人類会議の 設立記録がありました"
+    },
+    {
+        "wav": "1563.wav",
+        "text": "これじゃ 順番が逆です"
+    },
+    {
+        "wav": "1564.wav",
+        "text": "まるで、僕たちヨルハ部隊が人類会議を作ったかのような"
+    },
+    {
+        "wav": "1565.wav",
+        "text": "じゃ…"
+    },
+    {
+        "wav": "1566.wav",
+        "text": "おはっ"
+    },
+    {
+        "wav": "1567.wav",
+        "text": "なんで、そんなことを"
+    },
+    {
+        "wav": "1568.wav",
+        "text": "どうして、これを僕に…"
+    },
+    {
+        "wav": "1569.wav",
+        "text": "人類が…もういない…"
+    },
+    {
+        "wav": "1570.wav",
+        "text": "pffff"
+    },
+    {
+        "wav": "1571.wav",
+        "text": "2Bに…なんて言えば…"
+    },
+    {
+        "wav": "1572.wav",
+        "text": "戦闘配置、行かなきゃ"
+    },
+    {
+        "wav": "1573.wav",
+        "text": "詳細状況"
+    },
+    {
+        "wav": "1574.wav",
+        "text": "そんな、敵は弱体化したはずじゃ"
+    },
+    {
+        "wav": "1575.wav",
+        "text": "2B、大丈夫!"
+    },
+    {
+        "wav": "1576.wav",
+        "text": "急がなきゃ"
+    },
+    {
+        "wav": "1577.wav",
+        "text": "2Bは"
+    },
+    {
+        "wav": "1578.wav",
+        "text": "トゥビ、大丈夫!"
+    },
+    {
+        "wav": "1579.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "1580.wav",
+        "text": "こんな風…どうすれば…"
+    },
+    {
+        "wav": "1581.wav",
+        "text": "2B、どこに行くんですか?急がないと"
+    },
+    {
+        "wav": "1582.wav",
+        "text": "そっちは遠回りですよ"
+    },
+    {
+        "wav": "1583.wav",
+        "text": "すぐに行けば間に合うかもしれない"
+    },
+    {
+        "wav": "1584.wav",
+        "text": "パスカル、聞こえる?"
+    },
+    {
+        "wav": "1585.wav",
+        "text": "くそ、ここにも敵が…"
+    },
+    {
+        "wav": "1586.wav",
+        "text": "あの、イブって機械生命体だ"
+    },
+    {
+        "wav": "1587.wav",
+        "text": "パスカルは村を守ってて"
+    },
+    {
+        "wav": "1588.wav",
+        "text": "広範囲に強制通信を巻き散らしているみたいです"
+    },
+    {
+        "wav": "1589.wav",
+        "text": "おそらくこの強力な通信が敵の機械生命体を 凶暴にさせているんだと思います"
+    },
+    {
+        "wav": "1590.wav",
+        "text": "イブを探し出して破壊しましょう"
+    },
+    {
+        "wav": "1591.wav",
+        "text": "一体、何が?"
+    },
+    {
+        "wav": "1592.wav",
+        "text": "何それ"
+    },
+    {
+        "wav": "1593.wav",
+        "text": "このままじゃ拉致が開かない"
+    },
+    {
+        "wav": "1594.wav",
+        "text": "イブにハッキングして停止させてみる"
+    },
+    {
+        "wav": "1595.wav",
+        "text": "2B 援護して"
+    },
+    {
+        "wav": "1596.wav",
+        "text": "くそっ こんな貿易"
+    },
+    {
+        "wav": "1597.wav",
+        "text": "何?これ…"
+    },
+    {
+        "wav": "1598.wav",
+        "text": "ここまで来て、逃げるわけにはいかない!"
+    },
+    {
+        "wav": "1599.wav",
+        "text": "あと…少し…"
+    },
+    {
+        "wav": "1600.wav",
+        "text": "イブの持つ、オブジェクトコントロール機能を奪えれば!"
+    },
+    {
+        "wav": "1601.wav",
+        "text": "NUH!"
+    },
+    {
+        "wav": "1602.wav",
+        "text": "今だ!2B!"
+    },
+    {
+        "wav": "1603.wav",
+        "text": "トゥービー、早く、とどめを"
+    },
+    {
+        "wav": "1604.wav",
+        "text": "ぬあ!"
+    },
+    {
+        "wav": "1605.wav",
+        "text": "うっ… イブのネットワーク分離時に…物理予選されちゃったみたい…うっ…"
+    },
+    {
+        "wav": "1606.wav",
+        "text": "大丈夫。バンカーにあるデータで巻き戻ることはできるから。"
+    },
+    {
+        "wav": "1607.wav",
+        "text": "そうだね"
+    },
+    {
+        "wav": "1608.wav",
+        "text": "汚染データをバンカーにアップロードするわけにもいかないから"
+    },
+    {
+        "wav": "1609.wav",
+        "text": "ああ、2B、待ってたよ"
+    },
+    {
+        "wav": "1610.wav",
+        "text": "これを渡しておく"
+    },
+    {
+        "wav": "1611.wav",
+        "text": "To be."
+    },
+    {
+        "wav": "1612.wav",
+        "text": "Ugh."
+    },
+    {
+        "wav": "1613.wav",
+        "text": "いや、なんでもない。気をつけて。"
+    },
+    {
+        "wav": "1614.wav",
+        "text": "2Bに真実を告げることができないまま"
+    },
+    {
+        "wav": "1615.wav",
+        "text": "最後の大規模進行作戦が開始された"
+    },
+    {
+        "wav": "1616.wav",
+        "text": "だけど、僕はまだ知らなかった"
+    },
+    {
+        "wav": "1617.wav",
+        "text": "この戦いの結末と"
+    },
+    {
+        "wav": "1618.wav",
+        "text": "僕たちの運命を"
+    },
+    {
+        "wav": "1619.wav",
+        "text": "えーっと…"
+    },
+    {
+        "wav": "1620.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "1621.wav",
+        "text": "僕たちスキャナー部隊は、装攻撃に備え、敵の防空システムをハッキングで麻痺させる。"
+    },
+    {
+        "wav": "1622.wav",
+        "text": "はいはい、そんなことしませんよー"
+    },
+    {
+        "wav": "1623.wav",
+        "text": "なんか子供扱いされてる?"
+    },
+    {
+        "wav": "1624.wav",
+        "text": "なんだか、あいつらどんどん賢くなってるような気がするな"
+    },
+    {
+        "wav": "1625.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "1626.wav",
+        "text": "了解です"
+    },
+    {
+        "wav": "1627.wav",
+        "text": "しまった"
+    },
+    {
+        "wav": "1628.wav",
+        "text": "やっぱり子供扱いされてる"
+    },
+    {
+        "wav": "1629.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1630.wav",
+        "text": "わかってるよ"
+    },
+    {
+        "wav": "1631.wav",
+        "text": "もう少しだね"
+    },
+    {
+        "wav": "1632.wav",
+        "text": "ギュッとハッキングってなんだ?"
+    },
+    {
+        "wav": "1633.wav",
+        "text": "多弾でハッキングすればいいのか"
+    },
+    {
+        "wav": "1634.wav",
+        "text": "いつもできてるよ"
+    },
+    {
+        "wav": "1635.wav",
+        "text": "はーい、遅れを取らないようにしまーす"
+    },
+    {
+        "wav": "1636.wav",
+        "text": "ご褒美"
+    },
+    {
+        "wav": "1637.wav",
+        "text": "何?"
+    },
+    {
+        "wav": "1638.wav",
+        "text": "それじゃあ支援できませんけど"
+    },
+    {
+        "wav": "1639.wav",
+        "text": "あれ、心配してくれてるんですか?"
+    },
+    {
+        "wav": "1640.wav",
+        "text": "ひどすぎる"
+    },
+    {
+        "wav": "1641.wav",
+        "text": "聞こえます?"
+    },
+    {
+        "wav": "1642.wav",
+        "text": "こっちも あと一つかな"
+    },
+    {
+        "wav": "1643.wav",
+        "text": "なっ、忘れてた"
+    },
+    {
+        "wav": "1644.wav",
+        "text": "了解 この作戦が終了したら対応する"
+    },
+    {
+        "wav": "1645.wav",
+        "text": "ふぅ…これで分担は全部かな"
+    },
+    {
+        "wav": "1646.wav",
+        "text": "始まった"
+    },
+    {
+        "wav": "1647.wav",
+        "text": "わかってる"
+    },
+    {
+        "wav": "1648.wav",
+        "text": "えっと、2ビートの合流地点を地図にマークっと…"
+    },
+    {
+        "wav": "1649.wav",
+        "text": "2B"
+    },
+    {
+        "wav": "1650.wav",
+        "text": "こいつ"
+    },
+    {
+        "wav": "1651.wav",
+        "text": "一度ハッキングした機械生命体のようです"
+    },
+    {
+        "wav": "1652.wav",
+        "text": "作戦は開始 先行部隊はすでに攻戦中"
+    },
+    {
+        "wav": "1653.wav",
+        "text": "知高性ウイルスを発動させて 物理ダメージを与えられないか試してみます"
+    },
+    {
+        "wav": "1654.wav",
+        "text": "僕たちの役割は、先行部隊の状況に合わせて援護する、有劇部隊"
+    },
+    {
+        "wav": "1655.wav",
+        "text": "先行部隊が交戦している場所をマップに転送しました 援護に向かいましょう"
+    },
+    {
+        "wav": "1656.wav",
+        "text": "敵はネットワークから外れた機械生命体の残盗"
+    },
+    {
+        "wav": "1657.wav",
+        "text": "当卒されていないから 楽な仕事だね"
+    },
+    {
+        "wav": "1658.wav",
+        "text": "はーい"
+    },
+    {
+        "wav": "1659.wav",
+        "text": "視界が悪いですね"
+    },
+    {
+        "wav": "1660.wav",
+        "text": "イブのネットワークが破壊されたのに、どうして奴らは暴走してるんでしょう"
+    },
+    {
+        "wav": "1661.wav",
+        "text": "僕たちは次の舞台の援護に向かいます"
+    },
+    {
+        "wav": "1662.wav",
+        "text": "僕たちは次の部隊の援護に向かいます"
+    },
+    {
+        "wav": "1663.wav",
+        "text": "トゥビ、他のポイントも急いで援護しに行こう"
+    },
+    {
+        "wav": "1664.wav",
+        "text": "こんな乱戦になるなんて"
+    },
+    {
+        "wav": "1665.wav",
+        "text": "思ったより苦戦していますね"
+    },
+    {
+        "wav": "1666.wav",
+        "text": "次の舞台の援護に向かいましょう"
+    },
+    {
+        "wav": "1667.wav",
+        "text": "了解"
+    },
+    {
+        "wav": "1668.wav",
+        "text": "ありがとうございます"
+    },
+    {
+        "wav": "1669.wav",
+        "text": "2B急ぎましょう"
+    },
+    {
+        "wav": "1670.wav",
+        "text": "まだ敵は残っています2B"
+    },
+    {
+        "wav": "1671.wav",
+        "text": "大丈夫!"
+    },
+    {
+        "wav": "1672.wav",
+        "text": "くそ!次から次へと!"
+    },
+    {
+        "wav": "1673.wav",
+        "text": "早く倒して2Bを助けないと"
+    },
+    {
+        "wav": "1674.wav",
+        "text": "援護する!"
+    },
+    {
+        "wav": "1675.wav",
+        "text": "し、四角明在"
+    },
+    {
+        "wav": "1676.wav",
+        "text": "一体、何がどうなってるんだ?"
+    },
+    {
+        "wav": "1677.wav",
+        "text": "トゥービーを、僕が守る!"
+    },
+    {
+        "wav": "1678.wav",
+        "text": "ウイルス汚染…さっきのEMP攻撃がトリガー!"
+    },
+    {
+        "wav": "1679.wav",
+        "text": "なんとかしないと"
+    },
+    {
+        "wav": "1680.wav",
+        "text": "大丈夫!"
+    },
+    {
+        "wav": "1681.wav",
+        "text": "2Bを… 助けないと…"
+    },
+    {
+        "wav": "1682.wav",
+        "text": "すぐにウイルスを除去するから頑張って!"
+    },
+    {
+        "wav": "1683.wav",
+        "text": "汚染されて、乗っ取られてる"
+    },
+    {
+        "wav": "1684.wav",
+        "text": "はい"
+    },
+    {
+        "wav": "1685.wav",
+        "text": "夜葉部隊の識別信号だ"
+    },
+    {
+        "wav": "1686.wav",
+        "text": "僕が2Bをハッキングして、識別回路を焼き切る!"
+    },
+    {
+        "wav": "1687.wav",
+        "text": "To be."
+    },
+    {
+        "wav": "1688.wav",
+        "text": "妨害電波を出している個体をマークした"
+    },
+    {
+        "wav": "1689.wav",
+        "text": "あのデカいのから、妨害電波が出ているようです!"
+    },
+    {
+        "wav": "1690.wav",
+        "text": "これで、ジャミングは解除されたはず!"
+    },
+    {
+        "wav": "1691.wav",
+        "text": "トゥビ!考えがある!"
+    },
+    {
+        "wav": "1692.wav",
+        "text": "バンカーには非常用のバックドアがあるから"
+    },
+    {
+        "wav": "1693.wav",
+        "text": "そこから僕と2Bのパーソナルログデータを全部アップロードして"
+    },
+    {
+        "wav": "1694.wav",
+        "text": "その後、ここをブラックボックス反応で吹き飛ばす!"
+    },
+    {
+        "wav": "1695.wav",
+        "text": "データアップロード30%完了"
+    },
+    {
+        "wav": "1696.wav",
+        "text": "50%完了"
+    },
+    {
+        "wav": "1697.wav",
+        "text": "70%超えた!"
+    },
+    {
+        "wav": "1698.wav",
+        "text": "もう少し、92%!"
+    },
+    {
+        "wav": "1699.wav",
+        "text": "トゥビ、ブラックボックスを"
+    },
+    {
+        "wav": "1700.wav",
+        "text": "To be."
+    },
+    {
+        "wav": "1701.wav",
+        "text": "これは"
+    },
+    {
+        "wav": "1702.wav",
+        "text": "地上のヨルハ部隊がウイルスによって乗っ取られたんです"
+    },
+    {
+        "wav": "1703.wav",
+        "text": "僕たちは暴走したヨロハ部隊をブラックボックス反応で"
+    },
+    {
+        "wav": "1704.wav",
+        "text": "あれは偽装です!現在、バンカーの通信は封鎖されていて…"
+    },
+    {
+        "wav": "1705.wav",
+        "text": "違うんです!"
+    },
+    {
+        "wav": "1706.wav",
+        "text": "くそ、扉が!"
+    },
+    {
+        "wav": "1707.wav",
+        "text": "バンカー内部までウイルスが入ってるのか"
+    },
+    {
+        "wav": "1708.wav",
+        "text": "オピレーターさん!"
+    },
+    {
+        "wav": "1709.wav",
+        "text": "あいたよ!2B!"
+    },
+    {
+        "wav": "1710.wav",
+        "text": "早く!"
+    },
+    {
+        "wav": "1711.wav",
+        "text": "2B、油断しないで!"
+    },
+    {
+        "wav": "1712.wav",
+        "text": "アクセスユニットは汚染されています 格納庫に行って飛行ユニットを奪いましょう"
+    },
+    {
+        "wav": "1713.wav",
+        "text": "いえ、おそらく僕がデータ動機を保留していたからです"
+    },
+    {
+        "wav": "1714.wav",
+        "text": "以前、バンカーのサーバーデータにノイズがあったので、それが気になって…"
+    },
+    {
+        "wav": "1715.wav",
+        "text": "司令官"
+    },
+    {
+        "wav": "1716.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1717.wav",
+        "text": "いや、違う"
+    },
+    {
+        "wav": "1718.wav",
+        "text": "この反応は"
+    },
+    {
+        "wav": "1719.wav",
+        "text": "Yaaah !"
+    },
+    {
+        "wav": "1720.wav",
+        "text": "うっ"
+    },
+    {
+        "wav": "1721.wav",
+        "text": "わ、わかった"
+    },
+    {
+        "wav": "1722.wav",
+        "text": "えっ、ちょっと待って、なにこれ"
+    },
+    {
+        "wav": "1723.wav",
+        "text": "ダメだよ!"
+    },
+    {
+        "wav": "1724.wav",
+        "text": "そんな…トゥビッ!"
+    },
+    {
+        "wav": "1725.wav",
+        "text": "すみぃ!"
+    },
+    {
+        "wav": "1726.wav",
+        "text": "2Bのブラックボックス信号を検索"
+    },
+    {
+        "wav": "1727.wav",
+        "text": "シズニーマーク!"
+    },
+    {
+        "wav": "1728.wav",
+        "text": "離脱なんかするわけないだろ!"
+    },
+    {
+        "wav": "1729.wav",
+        "text": "レジスタンス…キャンプ…"
+    },
+    {
+        "wav": "1730.wav",
+        "text": "2Bは"
+    },
+    {
+        "wav": "1731.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "1732.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1733.wav",
+        "text": "ありがとう"
+    },
+    {
+        "wav": "1734.wav",
+        "text": "らしいって…どういうこと?"
+    },
+    {
+        "wav": "1735.wav",
+        "text": "Thanks for watching!"
+    },
+    {
+        "wav": "1736.wav",
+        "text": "行ってみるか"
+    },
+    {
+        "wav": "1737.wav",
+        "text": "[Silent]"
+    },
+    {
+        "wav": "1738.wav",
+        "text": "奴らのやることに理由なんかないさ"
+    },
+    {
+        "wav": "1739.wav",
+        "text": "んっ"
+    },
+    {
+        "wav": "1740.wav",
+        "text": "なんだ…今のは…"
+    },
+    {
+        "wav": "1741.wav",
+        "text": "ふざけやがって"
+    },
+    {
+        "wav": "1742.wav",
+        "text": "解除するサブユニットはあと2つ"
+    },
+    {
+        "wav": "1743.wav",
+        "text": "つまり全部で3つのアクセス認証キーとやらが必要ってことか"
+    },
+    {
+        "wav": "1744.wav",
+        "text": "ポッド"
+    },
+    {
+        "wav": "1745.wav",
+        "text": "僕が寝てた間の状況報告"
+    },
+    {
+        "wav": "1746.wav",
+        "text": "わかってる"
+    },
+    {
+        "wav": "1747.wav",
+        "text": "大型ユニット"
+    },
+    {
+        "wav": "1748.wav",
+        "text": "ユニットの目的は"
+    },
+    {
+        "wav": "1749.wav",
+        "text": "A2は…"
+    },
+    {
+        "wav": "1750.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "1751.wav",
+        "text": "その大型ユニットの位置をマーク"
+    },
+    {
+        "wav": "1752.wav",
+        "text": "機械生命体の殲滅"
+    },
+    {
+        "wav": "1753.wav",
+        "text": "命令だからやるんじゃない"
+    },
+    {
+        "wav": "1754.wav",
+        "text": "僕が決めたんだ"
+    },
+    {
+        "wav": "1755.wav",
+        "text": "機械生命体は殲滅する"
+    },
+    {
+        "wav": "1756.wav",
+        "text": "そして"
+    },
+    {
+        "wav": "1757.wav",
+        "text": "A2を…殺す!"
+    },
+    {
+        "wav": "1758.wav",
+        "text": "あれが、その大型ユニット"
+    },
+    {
+        "wav": "1759.wav",
+        "text": "送り出す何を?"
+    },
+    {
+        "wav": "1760.wav",
+        "text": "何のために"
+    },
+    {
+        "wav": "1761.wav",
+        "text": "この建物全体、内部まで機械でできてるのか"
+    },
+    {
+        "wav": "1762.wav",
+        "text": "奴らのやることに意味なんてない"
+    },
+    {
+        "wav": "1763.wav",
+        "text": "殺してやる"
+    },
+    {
+        "wav": "1764.wav",
+        "text": "それは こっちの台詞だ"
+    },
+    {
+        "wav": "1765.wav",
+        "text": "機械生命体どもが"
+    },
+    {
+        "wav": "1766.wav",
+        "text": "文字"
+    },
+    {
+        "wav": "1767.wav",
+        "text": "なんて書いてあるんだ"
+    },
+    {
+        "wav": "1768.wav",
+        "text": "なんだ、それ"
+    },
+    {
+        "wav": "1769.wav",
+        "text": "機械が苦しいわけないだろ"
+    },
+    {
+        "wav": "1770.wav",
+        "text": "うるさい…うるさいうるさい!"
+    },
+    {
+        "wav": "1771.wav",
+        "text": "うるさい!!"
+    },
+    {
+        "wav": "1772.wav",
+        "text": "機械生命体の部品が"
+    },
+    {
+        "wav": "1773.wav",
+        "text": "武器"
+    },
+    {
+        "wav": "1774.wav",
+        "text": "パスカル…それは…"
+    },
+    {
+        "wav": "1775.wav",
+        "text": "おう…"
+    },
+    {
+        "wav": "1776.wav",
+        "text": "他の大型ユニットの位置を検索"
+    },
+    {
+        "wav": "1777.wav",
+        "text": "さっさと、認証キーを集めて塔を破壊しないと"
+    },
+    {
+        "wav": "1778.wav",
+        "text": "いいから検索しろ"
+    },
+    {
+        "wav": "1779.wav",
+        "text": "なんだ これは"
+    },
+    {
+        "wav": "1780.wav",
+        "text": "エレベーターか"
+    },
+    {
+        "wav": "1781.wav",
+        "text": "別のユニットを探すか"
+    },
+    {
+        "wav": "1782.wav",
+        "text": "また何か書いてあるな"
+    },
+    {
+        "wav": "1783.wav",
+        "text": "なんて書いてある"
+    },
+    {
+        "wav": "1784.wav",
+        "text": "敵が…いない"
+    },
+    {
+        "wav": "1785.wav",
+        "text": "これは何だろう"
+    },
+    {
+        "wav": "1786.wav",
+        "text": "そういうことか"
+    },
+    {
+        "wav": "1787.wav",
+        "text": "システムプロテクトを解除しないと、コアまでたどり着けない"
+    },
+    {
+        "wav": "1788.wav",
+        "text": "そういう仕組みか"
+    },
+    {
+        "wav": "1789.wav",
+        "text": "社室?あのデカい構造物は何かの発射台なんだ"
+    },
+    {
+        "wav": "1790.wav",
+        "text": "わかってる 全部ハッキングすればいいんだろう"
+    },
+    {
+        "wav": "1791.wav",
+        "text": "あれだけの施設、宇宙に向けて"
+    },
+    {
+        "wav": "1792.wav",
+        "text": "うっ…"
+    },
+    {
+        "wav": "1793.wav",
+        "text": "まさか、月面の人類サーバーを狙った…大砲…"
+    },
+    {
+        "wav": "1794.wav",
+        "text": "くそっ"
+    },
+    {
+        "wav": "1795.wav",
+        "text": "夜葉舞台のブラックボックス回路が"
+    },
+    {
+        "wav": "1796.wav",
+        "text": "機械生命体のコアでできてる"
+    },
+    {
+        "wav": "1797.wav",
+        "text": "そんなバカな…"
+    },
+    {
+        "wav": "1798.wav",
+        "text": "そんなことあるはずない"
+    },
+    {
+        "wav": "1799.wav",
+        "text": "あれ?なんだこれ?"
+    },
+    {
+        "wav": "1800.wav",
+        "text": "体が…"
+    },
+    {
+        "wav": "1801.wav",
+        "text": "これは…僕の記憶…"
+    },
+    {
+        "wav": "1802.wav",
+        "text": "ドースター"
+    },
+    {
+        "wav": "1803.wav",
+        "text": "僕の記憶に"
+    },
+    {
+        "wav": "1804.wav",
+        "text": "記憶が…2Bが…"
+    },
+    {
+        "wav": "1805.wav",
+        "text": "勝手に入ってくれな!"
+    },
+    {
+        "wav": "1806.wav",
+        "text": "これは僕の宝物だ!"
+    },
+    {
+        "wav": "1807.wav",
+        "text": "うるさい!"
+    },
+    {
+        "wav": "1808.wav",
+        "text": "そばでな!"
+    },
+    {
+        "wav": "1809.wav",
+        "text": "殺してやる"
+    },
+    {
+        "wav": "1810.wav",
+        "text": "ボッド…次のユニットの場所は…"
+    },
+    {
+        "wav": "1811.wav",
+        "text": "NFCS 近距離攻撃管理システム"
+    },
+    {
+        "wav": "1812.wav",
+        "text": "そんな時間…ない!"
+    },
+    {
+        "wav": "1813.wav",
+        "text": "くそ!"
+    },
+    {
+        "wav": "1814.wav",
+        "text": "Ugh."
+    },
+    {
+        "wav": "1815.wav",
+        "text": "わかってる"
+    },
+    {
+        "wav": "1816.wav",
+        "text": "ポット、次のユニットの場所を地図にマーク"
+    },
+    {
+        "wav": "1817.wav",
+        "text": "何度も何度も"
+    },
+    {
+        "wav": "1818.wav",
+        "text": "また、あの文字"
+    },
+    {
+        "wav": "1819.wav",
+        "text": "神"
+    },
+    {
+        "wav": "1820.wav",
+        "text": "機械ごときがその名前を語るか"
+    },
+    {
+        "wav": "1821.wav",
+        "text": "黙ってろ!"
+    },
+    {
+        "wav": "1822.wav",
+        "text": "くっ、勝手にしろ!"
+    },
+    {
+        "wav": "1823.wav",
+        "text": "そんな…"
+    },
+    {
+        "wav": "1824.wav",
+        "text": "オペレーターモデルが…どうして…"
+    },
+    {
+        "wav": "1825.wav",
+        "text": "そんな…"
+    },
+    {
+        "wav": "1826.wav",
+        "text": "オペレーターさん!"
+    },
+    {
+        "wav": "1827.wav",
+        "text": "くそっ"
+    },
+    {
+        "wav": "1828.wav",
+        "text": "あ puree"
+    },
+    {
+        "wav": "1829.wav",
+        "text": "大丈夫…大丈夫…"
+    },
+    {
+        "wav": "1830.wav",
+        "text": "今…"
+    },
+    {
+        "wav": "1831.wav",
+        "text": "今、殺すか!"
+    },
+    {
+        "wav": "1832.wav",
+        "text": "うっ…"
+    },
+    {
+        "wav": "1833.wav",
+        "text": "僕は…"
+    },
+    {
+        "wav": "1834.wav",
+        "text": "オペレーターさん"
+    },
+    {
+        "wav": "1835.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "1836.wav",
+        "text": "現状報告"
+    },
+    {
+        "wav": "1837.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "1838.wav",
+        "text": "あ…"
+    },
+    {
+        "wav": "1839.wav",
+        "text": "邪魔するな!"
+    },
+    {
+        "wav": "1840.wav",
+        "text": "くっそ!キリがない!"
+    },
+    {
+        "wav": "1841.wav",
+        "text": "遊具?"
+    },
+    {
+        "wav": "1842.wav",
+        "text": "デボル…ポポル…"
+    },
+    {
+        "wav": "1843.wav",
+        "text": "どうして、ここに…"
+    },
+    {
+        "wav": "1844.wav",
+        "text": "はっ、何言ってるんだ!"
+    },
+    {
+        "wav": "1845.wav",
+        "text": "訳が分からない!"
+    },
+    {
+        "wav": "1846.wav",
+        "text": "くそっ!"
+    },
+    {
+        "wav": "1847.wav",
+        "text": "ダメだ。デボルたちを放ってはおけない!"
+    },
+    {
+        "wav": "1848.wav",
+        "text": "このままじゃ、デボルたちは…"
+    },
+    {
+        "wav": "1849.wav",
+        "text": "なんだ この貿易"
+    },
+    {
+        "wav": "1850.wav",
+        "text": "彼女たちを残したままにはできない早く戻らないと"
+    },
+    {
+        "wav": "1851.wav",
+        "text": "どうやったら壊せるんだ"
+    },
+    {
+        "wav": "1852.wav",
+        "text": "それじゃ入れないのと一緒だ!"
+    },
+    {
+        "wav": "1853.wav",
+        "text": "そう"
+    },
+    {
+        "wav": "1854.wav",
+        "text": "僕には"
+    },
+    {
+        "wav": "1855.wav",
+        "text": "you"
+    },
+    {
+        "wav": "1856.wav",
+        "text": "君に理解できないことを祈る"
+    },
+    {
+        "wav": "1857.wav",
+        "text": "罠でも何でもいい"
+    },
+    {
+        "wav": "1858.wav",
+        "text": "皆殺しにするだけだ"
+    },
+    {
+        "wav": "1859.wav",
+        "text": "汚染された夜吐き体"
+    },
+    {
+        "wav": "1860.wav",
+        "text": "皆殺しにしてやる"
+    },
+    {
+        "wav": "1861.wav",
+        "text": "to be"
+    },
+    {
+        "wav": "1862.wav",
+        "text": "2B!"
+    },
+    {
+        "wav": "1863.wav",
+        "text": "이만!"
+    },
+    {
+        "wav": "1864.wav",
+        "text": "今、殺すから!"
+    },
+    {
+        "wav": "1865.wav",
+        "text": "死に損ないがいるのか"
+    },
+    {
+        "wav": "1866.wav",
+        "text": "Bye!"
+    },
+    {
+        "wav": "1867.wav",
+        "text": "わかった"
+    },
+    {
+        "wav": "1868.wav",
+        "text": "貴様ら!"
+    },
+    {
+        "wav": "1869.wav",
+        "text": "うるさい!"
+    },
+    {
+        "wav": "1870.wav",
+        "text": "何度も何度も"
+    },
+    {
+        "wav": "1871.wav",
+        "text": "全部壊せ"
+    },
+    {
+        "wav": "1872.wav",
+        "text": "お前たちも、この刀も!"
+    },
+    {
+        "wav": "1873.wav",
+        "text": "なんだこれ"
+    }
+]
