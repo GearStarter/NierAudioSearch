@@ -152,7 +152,7 @@ class SearchWindow(QMainWindow):
             else:
                 # Используем QGroupBox для каждого блока
                 group_box = QGroupBox(f"File: {relative_path}")
-                group_box.mousePressEvent = lambda event, rp=relative_path, it=item: self.copy_path(event, rp, it)
+                group_box.mousePressEvent = lambda event, fp=file_path, rp=relative_path, it=item: self.copy_path(event, fp, rp, it)
                 layout = QVBoxLayout(group_box)
                 for key, value in item.items():
                     label = QLabel(f"{key}: {value}")
@@ -163,7 +163,7 @@ class SearchWindow(QMainWindow):
         # Добавляем stretch в конец для прижатия к верху
         self.results_layout.addStretch()
 
-    def copy_path(self, event, relative_path, item):
+    def copy_path(self, event, file_path, relative_path, item):
         if event.button() == Qt.MouseButton.RightButton:
             if relative_path and "wav" in item:
                 # Удаляем "nier_audio_json/" с начала
@@ -177,6 +177,12 @@ class SearchWindow(QMainWindow):
                 wav_value = item["wav"]
                 new_path = f"{relative_path}/{wav_value}"
                 QApplication.clipboard().setText(new_path)
+                event.accept()
+        elif event.button() == Qt.MouseButton.LeftButton:
+            if "text" in item:
+                # Копируем значение из поля "text" в буфер обмена
+                text_value = item["text"]
+                QApplication.clipboard().setText(text_value)
                 event.accept()
 
 if __name__ == "__main__":
