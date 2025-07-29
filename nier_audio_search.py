@@ -166,16 +166,11 @@ class SearchWindow(QMainWindow):
     def copy_path(self, event, file_path, relative_path, item):
         if event.button() == Qt.MouseButton.RightButton:
             if relative_path and "wav" in item:
-                # Удаляем "nier_audio_json/" с начала
-                if relative_path.startswith("nier_audio_json/"):
-                    relative_path = relative_path[15:]  # Удаляем первые 15 символов ("nier_audio_json/")
-                # Удаляем ".json" с конца
-                relative_path = relative_path.replace(".json", "")
-                # Убираем ведущий слэш, если он есть
-                relative_path = relative_path.lstrip('/')
-                # Берем значение из поля "wav" и добавляем в конец
+                # Извлекаем имя файла без расширения .json
+                json_filename = os.path.basename(relative_path).replace(".json", "")
+                # Берем значение из поля "wav" и формируем новый путь
                 wav_value = item["wav"]
-                new_path = f"{relative_path}/{wav_value}"
+                new_path = f"{json_filename}/{wav_value}"
                 QApplication.clipboard().setText(new_path)
                 event.accept()
         elif event.button() == Qt.MouseButton.LeftButton:
